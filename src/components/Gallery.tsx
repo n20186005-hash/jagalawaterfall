@@ -1,30 +1,20 @@
 'use client';
 
-import { useTranslations, useMessages } from 'next-intl';
+import { useTranslations } from 'next-intl';
 import { useState, useCallback } from 'react';
-
-const photos = [
-  { src: '/gallery/images (1).jpg', alt: '库皮塔公园全景' },
-  { src: '/gallery/images (2).jpg', alt: '中央林荫步道' },
-  { src: '/gallery/images (3).jpg', alt: '湖泊沿岸' },
-  { src: '/gallery/images (4).jpg', alt: '圣泉区域' },
-  { src: '/gallery/images (5).jpg', alt: '百年古树' },
-  { src: '/gallery/images (6).jpg', alt: '户外泳池' },
-  { src: '/gallery/images (7).jpg', alt: '儿童迷你城市' },
-  { src: '/gallery/images (8).jpg', alt: '草坪休闲区' },
-  { src: '/gallery/images (9).jpg', alt: '花园景观' },
-  { src: '/gallery/images (10).jpg', alt: '湖光倒影' },
-  { src: '/gallery/images (11).jpg', alt: '雕塑与纪念碑' },
-  { src: '/gallery/images (12).jpg', alt: '夜景灯光' },
-  { src: '/gallery/images (13).jpg', alt: '户外音乐会' },
-  { src: '/gallery/images (14).jpg', alt: '冬日风光' },
-];
 
 export default function Gallery() {
   const t = useTranslations('gallery');
   const [currentIndex, setCurrentIndex] = useState(0);
   const [isLightboxOpen, setIsLightboxOpen] = useState(false);
   const [showAll, setShowAll] = useState(false);
+
+  // Get captions from translations and map them to the 15 images
+  const captions = t.raw('captions') as string[];
+  const photos = Array.from({ length: 15 }).map((_, i) => ({
+    src: `/gallery/jagalawaterfall (${i + 1}).jpg`,
+    alt: captions[i] || captions[captions.length - 1] // fallback if less captions
+  }));
 
   const goToPrevious = useCallback(() => {
     setCurrentIndex((prev) => (prev === 0 ? photos.length - 1 : prev - 1));

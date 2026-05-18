@@ -1,0 +1,334 @@
+{
+  "meta": {
+    "title": "Jägala Waterfall | Estonia's Largest Natural Waterfall - Best Travel Attraction",
+    "description": "Complete guide to Jägala Waterfall in Estonia. Learn about transportation, best viewing times, photo spots and stunning photos. Estonia's largest natural waterfall with unique landscape."
+  },
+  "header": {
+    "home": "Home",
+    "gallery": "Gallery",
+    "reviews": "Reviews",
+    "map": "Map",
+    "backToHome": "Back to Home"
+  },
+  "hero": {
+    "title": "Jägala Waterfall",
+    "subtitle": "Estonia's Largest Natural Waterfall & Magnificent Natural Wonder",
+    "rating": "4.8(7,468)",
+    "reviewCount": "7,468 reviews",
+    "type": "Natural Waterfall · Tourist Attraction",
+    "openMaps": "View Location"
+  },
+  "intro": {
+    "title": "Discover Jägala Waterfall",
+    "description": "Step into Jägala Waterfall and be instantly awestruck by Estonia's most spectacular natural wonder. No urban noise, just cascading water, dense forests, rugged rocks, and winding river valleys — every corner radiates raw natural power.\n\nI visited in late spring, when melting snow fed the most abundant water flow. The white water curtain plunges 8 meters down, the roaring sound fills the air, and mist spreads everywhere, forming brilliant rainbows in the sunlight. Both riverbanks are shaded by green trees, wildflowers dot the landscape, and the natural ecosystem is perfectly preserved.\n\nThe walking trails around the waterfall are well-maintained, with wooden viewing platforms offering the best angles. Visitors take photos from various spots, have picnics by the river, and children play in the shallow water, their laughter echoing through the valley.\n\nThere are no commercial artificial traces here, only pure natural beauty. In autumn, the surrounding forests don colorful golden and crimson coats, making the waterfall even more magnificent against the backdrop of vibrant foliage. In winter, when frozen, the waterfall forms spectacular ice curtains, silver and white, like a fairy tale world.",
+    "visitGuide": {
+      "title": "Visit Tips",
+      "items": [
+        "Best time to visit is from post-snowmelt spring to early autumn when water flow is abundant and scenery most spectacular",
+        "Allow 2-3 hours to fully appreciate the waterfall panorama and surrounding natural beauty",
+        "Riverbank trails can be slippery — wear non-slip footwear",
+        "Bring your own food for picnics in designated areas and enjoy nature time"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Highlights",
+      "items": [
+        "Estonia's largest natural waterfall with ~8-meter drop",
+        "Unique limestone valley landscape with rich geological features",
+        "Scenery transforms through four seasons: rushing water in spring/summer, ice curtains in winter",
+        "Complete forest ecosystem with rich wildlife and vegetation"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "The Charm of Jägala Waterfall",
+    "sections": [
+      {
+        "id": "geology",
+        "title": "Geology & Formation",
+        "content": "Jägala Waterfall is located on the Jägala River and is Estonia's largest natural waterfall. The waterfall has a drop of approximately 8 meters and a width of about 50 meters, formed in limestone strata.\n\nThousands of years of river erosion have carved unique valley landforms in the limestone. The potholes and erosion marks below the waterfall are clearly visible, serving as a natural classroom for geological research and science education. Water cascades from high above, forming spectacular water curtains and spreading mist."
+      },
+      {
+        "id": "nature",
+        "title": "Natural Ecosystem",
+        "content": "The forest around the waterfall is dense, mainly consisting of birch, pine, and spruce trees, with well-preserved ecological environment. Wildflowers blanket the ground in spring, lush greenery in summer, colorful foliage in autumn, and snow-covered beauty in winter.\n\nThe river valley area is habitat for various wildlife and plants. Lucky visitors might observe river otters, various bird species, and insects. The riverside wetland ecosystem is unique and serves as a model area for nature conservation in Estonia."
+      },
+      {
+        "id": "seasons",
+        "title": "Four-Season Scenery",
+        "content": "Spring (April-May): Snow and ice melt, waterfall water flow reaches its annual peak, most spectacular and powerful — best season for photography.\n\nSummer (June-August): Lush greenery, pleasant temperatures, ideal for hiking and picnics. White nights phenomenon keeps evenings bright.\n\nAutumn (September-October): Forest dons golden and crimson autumn coats, waterfall appears more poetic against colorful foliage.\n\nWinter (November-March): Waterfall partially freezes, forming spectacular ice curtains, like a fairy tale world — a unique winter wonder."
+      },
+      {
+        "id": "culture",
+        "title": "Cultural Significance",
+        "content": "Jägala Waterfall is an important symbol of Estonia's natural heritage and a landmark featured in national tourism promotion. Countless poets, painters, and photographers have drawn inspiration from here.\n\nThe Jägala River, where the waterfall is located, is one of Estonia's most important rivers, nurturing rich history and culture along its banks. Nearby are ancient settlement ruins, witnessing the long history of harmonious coexistence between Estonian people and nature."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Basic Information",
+    "officialName": "Official Name",
+    "officialNameValue": "Jägala Waterfall (Jägala juga)",
+    "type": "Attraction Type",
+    "typeValue": "Natural Waterfall, Landscape, Geological Wonder, Eco-Tourism Site",
+    "country": "Country",
+    "countryValue": "Estonia",
+    "county": "County",
+    "countyValue": "Harju County",
+    "googleRating": "Google Rating",
+    "phone": "Phone",
+    "address": "Address",
+    "addressValue": "Kubja tee, Jägala-Joa, 74212 Harju maakond, Estonia"
+  },
+  "hours": {
+    "title": "Opening Hours",
+    "park": "Site Opening",
+    "parkTime": "Open year-round, 24 hours, no access restrictions",
+    "bestTime": "Best Viewing Time",
+    "bestTimeSpring": "Spring (Apr-May): Snowmelt, abundant water, most spectacular",
+    "bestTimeSummer": "Summer (Jun-Aug): Pleasant climate, ideal for hiking and picnics",
+    "bestTimeAutumn": "Autumn (Sep-Oct): Colorful foliage, picturesque scenery",
+    "bestTimeWinter": "Winter (Nov-Mar): Ice curtain wonder, silver wonderland",
+    "tip": "Visit in early morning or evening for soft lighting, ideal for photography"
+  },
+  "tickets": {
+    "title": "Ticket Prices",
+    "park": "Public Site Area",
+    "parkPrice": "Free admission, no ticket required",
+    "parking": "Parking",
+    "parkingPrice": "Free parking available",
+    "guided": "Guided Tour",
+    "guidedPrice": "Advance reservation required, price negotiable"
+  },
+  "transport": {
+    "title": "How to Get Here",
+    "fromTallinn": "From Tallinn",
+    "fromTallinnDesc": "Drive from Tallinn city center along E20 highway east for about 25 kilometers, approximately 30 minutes by car. You can also take long-distance buses from Tallinn to Narva, get off at Jägala-Joa station, then walk about 15 minutes to reach the site.",
+    "fromAirport": "From Tallinn Airport",
+    "fromAirportDesc": "Rent a car or take a taxi from Tallinn Airport, drive east along E20 highway for about 20 kilometers, approximately 25 minutes, convenient transportation.",
+    "publicTransport": "Public Transport",
+    "publicTransportDesc": "Take long-distance buses from Tallinn Bus Station to Narva or Jõgeva, get off at Jägala-Joa station, then walk to reach. Limited departures, check schedule in advance.",
+    "cycling": "Cycling",
+    "cyclingDesc": "Cycle from Tallinn about 25 kilometers, clear cycling signs along the route, suitable for outdoor sports enthusiasts.",
+    "driving": "Driving",
+    "drivingDesc": "Drive east from Tallinn along E20 highway, exit at Jägala, follow signs. Free parking available at the site."
+  },
+  "route": {
+    "title": "Recommended Route",
+    "overview": "Recommended to drive or take bus from Tallinn to Jägala Waterfall site. Walk from parking lot to main waterfall viewing platform, stroll along riverside trail to enjoy panoramic waterfall views, check in at best photo spots, visit erosion landforms below the waterfall, rest and picnic in designated areas, finally walk back along the trail to parking lot. The entire route is relaxed — approximately 2-3 hours for pure sightseeing.",
+    "steps": [
+      "Depart from Tallinn, drive or take bus to Jägala Waterfall site",
+      "Park at parking lot, walk to waterfall main viewing platform",
+      "Enjoy waterfall panorama at wooden viewing platform, feel the震撼 of spreading mist",
+      "Walk down along left riverside trail, observe erosion landforms up close below waterfall",
+      "Stop at riverside shallow area, observe river valley geological structure and wildlife",
+      "Head to right high ground viewpoint, photograph waterfall panorama and river valley scenery",
+      "Rest at designated picnic area, enjoy nature time",
+      "Stroll along trails, enjoy forest scenery that changes through seasons",
+      "Take photos at best photo spots for memorable pictures",
+      "Walk back along original route to parking lot, end wonderful waterfall trip"
+    ]
+  },
+  "photoSpots": {
+    "title": "Photo Spots",
+    "spots": [
+      {
+        "name": "Main Viewing Platform",
+        "desc": "Best position for front-angle waterfall panorama, water curtain cascading down, spectacular, ideal for wide-angle shots"
+      },
+      {
+        "name": "Riverside Shallow",
+        "desc": "With waterfall as background, close-up shots, mist spreading, fresh and natural imagery"
+      },
+      {
+        "name": "Right High Ground",
+        "desc": "Overhead shot of waterfall and river valley panorama, rich layers, suitable for panoramic photography"
+      },
+      {
+        "name": "Below the Waterfall",
+        "desc": "Low-angle shot of waterfall, showcasing drop and power,震撼 composition"
+      },
+      {
+        "name": "Riverside Trail",
+        "desc": "Forest and river as foreground, waterfall as background, rich image layers, suitable for portrait photography"
+      }
+    ]
+  },
+  "hotels": {
+    "title": "Accommodation",
+    "hotels": [
+      {
+        "name": "Tallinn Old Town Hotel",
+        "desc": "Boutique hotel in Tallinn Old Town, rich medieval atmosphere, convenient transportation, ideal base for exploring Estonia",
+        "price": "~€100-150/night"
+      },
+      {
+        "name": "Jägala Countryside B&B",
+        "desc": "Countryside B&B near the waterfall, quiet environment, experience Estonian rural life, only 10 minutes drive from scenic area",
+        "price": "~€60-80/night"
+      },
+      {
+        "name": "Tallinn Seaside Hotel",
+        "desc": "Modern hotel on Tallinn seaside, beautiful scenery, complete facilities, suitable for family trips",
+        "price": "~€120-180/night"
+      },
+      {
+        "name": "Youth Hostel",
+        "desc": "Budget accommodation in Tallinn, suitable for backpackers on limited budget, strong social atmosphere",
+        "price": "~€30-50/night"
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Photo Gallery",
+    "subtitle": "Jägala Waterfall Through the Seasons",
+    "captions": [
+      "Waterfall Panorama",
+      "Spring Abundant Flow",
+      "Summer Lush Greenery",
+      "Autumn Colorful Foliage",
+      "Winter Ice Curtain Wonder",
+      "River Valley Landform",
+      "Forest Trail",
+      "Riverside Shallow"
+    ],
+    "viewAll": "View on Google Maps",
+    "showAll": "View All Photos",
+    "showLess": "Show Less"
+  },
+  "reviews": {
+    "title": "Visitor Reviews",
+    "declaration": "Visitor feedback can be viewed via Google Maps (external link).",
+    "moreReviews": "View more reviews on Google Maps",
+    "items": [
+      {
+        "name": "Ming Liu",
+        "date": "May 2026",
+        "rating": 5,
+        "text": "Absolutely spectacular! Spring water flow is abundant, the scene of water cascading down is heart-shaking. Estonia's natural landscape truly lives up to its reputation."
+      },
+      {
+        "name": "Hua Chen",
+        "date": "April 2026",
+        "rating": 5,
+        "text": "Very convenient driving from Tallinn, about 30 minutes. Waterfall free admission is very generous, surrounding natural environment is perfectly preserved."
+      },
+      {
+        "name": "Fang Wang",
+        "date": "March 2026",
+        "rating": 5,
+        "text": "Autumn Jägala Waterfall is so beautiful! Golden leaves and white water curtain create stunning contrast, photos turn out amazing."
+      },
+      {
+        "name": "Wei Zhao",
+        "date": "February 2026",
+        "rating": 4,
+        "text": "Winter ice curtain landscape is unique. Although water flow decreases, silver wonderland scenery has a special charm. Worth a visit."
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "How to Get Here",
+    "subtitle": "Kubja tee, Jägala-Joa, 74212 Harju maakond, Estonia",
+    "openMaps": "View on Google Maps"
+  },
+  "footer": {
+    "rights": "© 2026 Jägala Waterfall Independent Travel Research Association · All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Settings",
+    "officialResourcesTitle": "Related Resources & Information",
+    "officialLinks": {
+      "estonia": "Estonia",
+      "harju": "Harju County Association",
+      "joelahtme": "Jõelähtme Parish",
+      "visitEstonia": "Visit Estonia",
+      "climate": "Estonian Climate"
+    },
+    "disclaimer": "This website is an independent third-party tourist information project. We are not affiliated with the local government or any other official institutions."
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last updated: May 2026",
+    "sections": [
+      {
+        "heading": "1. Information Collection",
+        "content": "We generally do not actively collect personally identifiable information from users. Any information provided by you through contact forms or emails will be kept strictly confidential."
+      },
+      {
+        "heading": "2. Use of Information",
+        "content": "The information we collect is used solely to provide, maintain, and improve our services, and to communicate with you. We do not sell or share your personal information with third parties for marketing purposes."
+      },
+      {
+        "heading": "3. Cookies and Tracking",
+        "content": "We use cookies and similar tracking technologies to track the activity on our website and hold certain information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent."
+      },
+      {
+        "heading": "4. Data Security",
+        "content": "The security of your data is important to us. We use commercially acceptable means to protect your Personal Data, though no method of transmission over the Internet is 100% secure."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "lastUpdated": "Last updated: May 2026",
+    "sections": [
+      {
+        "heading": "1. Acceptance of Terms",
+        "content": "By accessing and using this website, you agree to be bound by these terms of service. If you disagree with any part of the terms, you may not access the service."
+      },
+      {
+        "heading": "2. Use of Service",
+        "content": "This website is an independent third-party tourist information project. The information provided is for general informational purposes only. You agree to use the site responsibly and lawfully."
+      },
+      {
+        "heading": "3. Intellectual Property",
+        "content": "All content on this website, including texts, images, and logos, is the property of the website owner unless otherwise stated. Unauthorized use, reproduction, or distribution is strictly prohibited."
+      },
+      {
+        "heading": "4. Limitation of Liability",
+        "content": "We shall not be held liable for any direct, indirect, incidental, or consequential damages resulting from the use or inability to use this website or the information contained herein."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie Settings",
+    "description": "Manage your cookie preferences.",
+    "essential": {
+      "title": "Essential Cookies",
+      "description": "Required for basic website functionality.",
+      "badge": "Always active"
+    },
+    "analytics": {
+      "title": "Analytics Cookies",
+      "description": "Help us understand how visitors interact with the site."
+    },
+    "marketing": {
+      "title": "Marketing Cookies",
+      "description": "Used to track visitors across websites."
+    },
+    "save": "Save Preferences",
+    "saved": "Preferences saved!"
+  },
+  "officialManagement": {
+    "title": "About Jägala Waterfall",
+    "text": "Jägala Waterfall is one of Estonia's most important natural landscapes, co-protected and managed by the Estonian Ministry of the Environment and the State Forest Management Centre.\n\nAs Estonia's largest natural waterfall, Jägala Waterfall is not only an important tourist attraction but also a significant area for geological research and ecological conservation. The surrounding forest ecosystem is complete, serving as a precious component of Estonia's natural heritage."
+  },
+  "recommendations": {
+    "title": "Discover More",
+    "attractionsTitle": "Nearby Attractions",
+    "toursTitle": "Recommended Tours & Activities",
+    "attractions": [
+      {"name": "Tallinn Old Town", "url": "https://visitestonia.com/en"},
+      {"name": "Lahemaa National Park", "url": "https://www.rmk.ee"},
+      {"name": "Jägala Monastery Ruins", "url": "https://muis.ee"},
+      {"name": "Paldiski", "url": "https://visitestonia.com/en"}
+    ],
+    "tours": [
+      {"name": "Tallinn Nature Day Trip", "url": "https://visitestonia.com/en"},
+      {"name": "Estonia Natural Wonders Tour", "url": "https://visitestonia.com/en"},
+      {"name": "Waterfall & Forest Hiking Tour", "url": "https://visitestonia.com/en"},
+      {"name": "Estonian Eco-Tourism Experience", "url": "https://visitestonia.com/en"}
+    ]
+  }
+}

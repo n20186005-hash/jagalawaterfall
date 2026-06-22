@@ -17,7 +17,7 @@ export async function generateMetadata({
   const messages = (await import(`@/messages/${locale}.json`)).default;
   const baseUrl = 'https://jagalawaterfall.com';
 
-  const zhUrl = `${baseUrl}/`;
+  const zhUrl = `${baseUrl}/zh`;
   const enUrl = `${baseUrl}/en`;
   const selfUrl = locale === 'zh' ? zhUrl : enUrl;
 

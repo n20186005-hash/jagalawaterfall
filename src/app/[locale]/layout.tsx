@@ -31,19 +31,9 @@ function buildMeta(locale: string, messages: any) {
     zh: { og: 'zh_CN', html: 'zh-CN' },
     en: { og: 'en_US', html: 'en' },
   };
-  const title =
-    locale === 'et'
-      ? `Jägala juga (${CITY_NAME}) - Külastusjuhend ja asukoht`
-      : locale === 'zh'
-      ? `Jägala Waterfall (${CITY_NAME}) - 游览指南与地理位置`
-      : `Jägala Waterfall (${CITY_NAME}) - Visitor Guide & Location`;
-
-  const desc =
-    locale === 'et'
-      ? `Avasta ${ATTRACTION_FULL_NAME} – Eesti suurim looduslik juga ${CITY_NAME}s, ${STATE_PROVINCE}s. Vaata asukohakaarti, avamisajasti, lähedal asuvat Lahema rahvusparki ja reisi soovitusi.`
-      : locale === 'zh'
-      ? `探索${ATTRACTION_FULL_NAME}——位于${COUNTRY_NAME}${STATE_PROVINCE}${CITY_NAME}的标志性地标。查看位置地图、开放信息、周边拉赫马国家公园以及旅行小贴士。`
-      : `Discover ${ATTRACTION_FULL_NAME}, the iconic landmark in ${CITY_NAME}, ${STATE_PROVINCE}, ${COUNTRY_NAME}. View location map, opening details, nearby Lahemaa National Park, and travel tips.`;
+  const title = messages?.meta?.title || '';
+  const desc = messages?.meta?.description || '';
+  const ogImageAlt = messages?.meta?.ogImageAlt || '';
 
   return {
     title,
@@ -69,12 +59,7 @@ function buildMeta(locale: string, messages: any) {
           url: HERO_IMAGE_URL,
           width: 1200,
           height: 675,
-          alt:
-            locale === 'et'
-              ? `Jägala juga – ${CITY_NAME}, ${COUNTRY_NAME}`
-              : locale === 'zh'
-              ? `Jägala Waterfall 主景图 - ${CITY_NAME}，${COUNTRY_NAME}`
-              : `Jägala Waterfall - Main view in ${CITY_NAME}, ${COUNTRY_NAME}`,
+          alt: ogImageAlt,
         },
       ],
     },
@@ -91,15 +76,9 @@ export async function generateMetadata({
   return buildMeta(locale, messages);
 }
 
-function buildTouristAttractionJsonLd(locale: string) {
-  const name =
-    locale === 'et' ? 'Jägala juga' : ATTRACTION_FULL_NAME;
-  const desc =
-    locale === 'et'
-      ? `Üldistatud külastusjuhend ${ATTRACTION_FULL_NAME} kohta ${CITY_NAME}s, ${STATE_PROVINCE}s, ${COUNTRY_NAME}s.`
-      : locale === 'zh'
-      ? `${ATTRACTION_FULL_NAME}综合游览指南，位于${COUNTRY_NAME}${STATE_PROVINCE}${CITY_NAME}。`
-      : `Comprehensive visitor guide to ${ATTRACTION_FULL_NAME} in ${CITY_NAME}, ${STATE_PROVINCE}, ${COUNTRY_NAME}.`;
+function buildTouristAttractionJsonLd(messages: any) {
+  const name = messages?.ta?.name || ATTRACTION_FULL_NAME;
+  const desc = messages?.ta?.description || '';
 
   return {
     '@context': 'https://schema.org',
@@ -166,7 +145,7 @@ export default async function LocaleLayout({
   const htmlLang =
     locale === 'et' ? 'et-EE' : locale === 'zh' ? 'zh-CN' : 'en';
 
-  const touristAttractionLd = buildTouristAttractionJsonLd(locale);
+  const touristAttractionLd = buildTouristAttractionJsonLd(messages);
   const faqLd = buildFaqJsonLd(messages);
 
   return (
@@ -176,13 +155,7 @@ export default async function LocaleLayout({
         <meta property="og:image" content={HERO_IMAGE_URL} />
         <meta
           property="og:image:alt"
-          content={
-            locale === 'et'
-              ? `Jägala juga – ${CITY_NAME}, ${COUNTRY_NAME}`
-              : locale === 'zh'
-              ? `Jägala Waterfall 主景图 - ${CITY_NAME}，${COUNTRY_NAME}`
-              : `Jägala Waterfall - Main view in ${CITY_NAME}, ${COUNTRY_NAME}`
-          }
+          content={messages?.meta?.ogImageAlt || ''}
         />
         <script
           type="application/ld+json"

@@ -1,4 +1,5 @@
 import { useTranslations, useMessages } from 'next-intl';
+import RichInline from '@/components/RichInline';
 
 export default function Intro() {
   const t = useTranslations('intro');
@@ -6,9 +7,6 @@ export default function Intro() {
   const messages = useMessages() as any;
   const items: string[] = messages?.intro?.visitGuide?.items || [];
   const alsoKnownAsItems: string[] = messages?.intro?.alsoKnownAs?.items || [];
-
-  const equivalenceStatement = t('equivalenceStatement');
-  const equivalenceParts = equivalenceStatement.split(/(\*\*.*?\*\*)/g);
 
   return (
     <section className="section-padding">
@@ -25,17 +23,7 @@ export default function Intro() {
           className="text-lg leading-relaxed mb-6 font-medium"
           style={{ color: 'var(--text-primary)' }}
         >
-          {equivalenceParts.map((part, i) => {
-            const match = part.match(/^\*\*(.*?)\*\*$/);
-            if (match) {
-              return (
-                <strong key={i} style={{ color: 'var(--text-primary)' }}>
-                  {match[1]}
-                </strong>
-              );
-            }
-            return <span key={i}>{part}</span>;
-          })}
+          <RichInline text={t('equivalenceStatement')} />
         </p>
 
         <p
@@ -60,7 +48,9 @@ export default function Intro() {
               {items.map((item, i) => (
                 <li key={i} className="flex items-start gap-3">
                   <span className="mt-1.5 flex-shrink-0 w-1.5 h-1.5 rounded-full" style={{ background: 'var(--accent)' }} />
-                  <span style={{ color: 'var(--text-secondary)' }}>{item}</span>
+                  <span style={{ color: 'var(--text-secondary)' }}>
+                    <RichInline text={item} />
+                  </span>
                 </li>
               ))}
             </ul>
@@ -80,7 +70,9 @@ export default function Intro() {
               {alsoKnownAsItems.map((keyword, i) => (
                 <li key={i} className="flex items-start gap-3">
                   <span className="mt-1.5 flex-shrink-0 w-1.5 h-1.5 rounded-full" style={{ background: 'var(--accent)' }} />
-                  <span style={{ color: 'var(--text-secondary)' }}>{keyword}</span>
+                  <span style={{ color: 'var(--text-secondary)' }}>
+                    <RichInline text={keyword} />
+                  </span>
                 </li>
               ))}
             </ul>
@@ -92,7 +84,7 @@ export default function Intro() {
             {t('nearbyTitle')}
           </h2>
           <p className="text-base leading-relaxed" style={{ color: 'var(--text-secondary)' }}>
-            {t('nearbyText')}
+            <RichInline text={t('nearbyText')} />
           </p>
         </div>
 

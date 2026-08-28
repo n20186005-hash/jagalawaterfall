@@ -1,10 +1,30 @@
 {
   "meta": {
     "title": "Jägala Waterfall (Jägala-Joa) - 游览指南与地理位置",
-    "description": "探索 Jägala Waterfall（贾加拉瀑布，Jägala juga）——位于爱沙尼亚哈尔尤县 Jägala-Joa 的标志性地标。查看位置地图、开放信息、周边拉赫马国家公园以及旅行小贴士。"
+    "description": "探索 Jägala Waterfall（贾加拉瀑布，Jägala juga）——位于爱沙尼亚哈尔尤县 Jägala-Joa 的标志性地标。查看位置地图、开放信息、周边拉赫马国家公园以及旅行小贴士。",
+    "ogImageAlt": "Jägala Waterfall 主景图 - Jägala-Joa，爱沙尼亚"
+  },
+  "ta": {
+    "name": "Jägala Waterfall (Jägala juga)",
+    "description": "Jägala Waterfall（贾加拉瀑布，Jägala juga）综合游览指南，位于爱沙尼亚哈尔尤县 Jägala-Joa。"
+  },
+  "common": {
+    "ariaToggleTheme": "切换主题",
+    "ariaSwitchLanguage": "切换语言",
+    "gallery": {
+      "ariaPrevPhoto": "上一张照片",
+      "ariaNextPhoto": "下一张照片",
+      "ariaCloseLightbox": "关闭灯箱"
+    },
+    "googleRatingValue": "4.8/5（7,916 条）",
+    "localeNames": {
+      "et": "爱沙尼亚语",
+      "zh": "中文",
+      "en": "英语"
+    }
   },
   "header": {
-    "home": "首页",
+    "logo": "贾加拉瀑布 Jägala Waterfall",
     "gallery": "图库",
     "reviews": "评价",
     "map": "地图",
@@ -210,6 +230,23 @@
       "石灰岩侵蚀痕迹",
       "奔腾的河水",
       "大自然的鬼斧神工"
+    ],
+    "altTemplates": [
+      "Jägala Waterfall - 贾加拉瀑布全景图（爱沙尼亚 Jägala-Joa）",
+      "Jägala Waterfall - 贾加拉瀑布春汛（Jägala-Joa）",
+      "Jägala Waterfall - 贾加拉瀑布夏季绿意盎然的自然景观",
+      "Jägala Waterfall - 贾加拉瀑布秋季五彩树叶（Jagala Waterfall 周边）",
+      "Jägala Waterfall - 贾加拉瀑布冬季冰挂奇观（爱沙尼亚）",
+      "Jägala Waterfall - 贾加拉瀑布河谷地质地貌",
+      "拉赫马国家公园风格森林步道（Jagala Waterfall 周边）",
+      "Jägala Waterfall - 贾加拉瀑布背景下的河边浅滩",
+      "Jägala Waterfall - 贾加拉瀑布主景壮丽水幕",
+      "Jägala Waterfall - 贾加拉瀑布（Jägala-Joa 周边）野生动植物栖息地生态",
+      "Jägala Waterfall - 哈尔尤县木质观景台观景点",
+      "Jägala Waterfall - Jägala-Joa 阳光下的彩虹与瀑布水雾",
+      "Jägala Waterfall - 石灰岩侵蚀痕迹地质特征",
+      "Jägala Waterfall - 爱沙尼亚贾加拉河奔腾河水",
+      "Jägala Waterfall - 爱沙尼亚自然杰作自然奇观"
     ],
     "viewAll": "在 Google Maps 查看位置",
     "showAll": "查看全部照片",

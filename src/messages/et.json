@@ -1,10 +1,30 @@
 {
   "meta": {
     "title": "Jägala juga (Jägala-Joa) - Külastusjuhend ja asukoht",
-    "description": "Avasta Jägala juga – Eesti suurim looduslik juga Harju maakonnas, Jägala-Joas. Vaata asukohakaarti, avamisajasti, lähedal asuvat Lahema rahvusparki ja matkavõistluse soovitusi."
+    "description": "Avasta Jägala juga – Eesti suurim looduslik juga Harju maakonnas, Jägala-Joas. Vaata asukohakaarti, avamisajasti, lähedal asuvat Lahema rahvusparki ja matkavõistluse soovitusi.",
+    "ogImageAlt": "Jägala juga – Jägala-Joa, Eesti"
+  },
+  "ta": {
+    "name": "Jägala juga",
+    "description": "Üldistatud külastusjuhend Jägala Waterfall (Jägala juga) kohta Jägala-Joas, Harju maakonnas, Eestis."
+  },
+  "common": {
+    "ariaToggleTheme": "Lülita teemat",
+    "ariaSwitchLanguage": "Vaheta keelt",
+    "gallery": {
+      "ariaPrevPhoto": "Eelmine foto",
+      "ariaNextPhoto": "Järgmine foto",
+      "ariaCloseLightbox": "Sulge lightbox"
+    },
+    "googleRatingValue": "4.8/5 (7,916)",
+    "localeNames": {
+      "et": "Eesti",
+      "zh": "Hiina keel",
+      "en": "Inglise keel"
+    }
   },
   "header": {
-    "home": "Avaleht",
+    "logo": "Jägala juga",
     "gallery": "Galerii",
     "reviews": "Arvustused",
     "map": "Kaart",
@@ -210,6 +230,23 @@
       "Lubjakivi erosioonijäljed",
       "Kihvav jõevesi",
       "Looduse meistriteos"
+    ],
+    "altTemplates": [
+      "Jägala juga – Panoraamvaade Jägala-Joas, Eestis",
+      "Jägala juga – Kevade rikkalik vool Jägala-Joas",
+      "Jägala juga – Suvi roheline taimestikumaastik",
+      "Jägala juga – Sügis värvilised lehed lähedal Jagala Waterfall",
+      "Jägala juga – Talvine jääkate imelikkus Eestis",
+      "Jägala juga – Jõeorgu maastiku geoloogia",
+      "Lahema rahvuspargi stiili matkatee lähedal Jagala Waterfall",
+      "Jägala juga – Jõe madala juga taustal",
+      "Jägala juga – Imeline veekate peamine vaade",
+      "Jägala juga – Elustiku elupaiga ökosüsteem ümbruses Jägala-Joa",
+      "Jägala juga – Puidust vaateplatvorm Harju maakonnas",
+      "Jägala juga – Vikerkaar päikesevalguses Jägala-Joas",
+      "Jägala juga – Lubjakivi erosioonijäljed geoloogiline tunnus",
+      "Jägala juga – Kihvav jõevesi Jägala jõgi Eestis",
+      "Jägala juga – Looduse meistriteos looduseline ime Eesti"
     ],
     "viewAll": "Vaata Google Maps'is",
     "showAll": "Kuva kõik fotod",

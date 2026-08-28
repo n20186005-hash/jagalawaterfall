@@ -1,10 +1,30 @@
 {
   "meta": {
     "title": "Jägala Waterfall (Jägala-Joa) - Visitor Guide & Location",
-    "description": "Discover Jägala Waterfall (Jägala juga), the iconic landmark in Jägala-Joa, Harju maakond, Estonia. View location map, opening details, nearby Lahemaa National Park, and travel tips."
+    "description": "Discover Jägala Waterfall (Jägala juga), the iconic landmark in Jägala-Joa, Harju maakond, Estonia. View location map, opening details, nearby Lahemaa National Park, and travel tips.",
+    "ogImageAlt": "Jägala Waterfall - Main view in Jägala-Joa, Estonia"
+  },
+  "ta": {
+    "name": "Jägala Waterfall (Jägala juga)",
+    "description": "Comprehensive visitor guide to Jägala Waterfall (Jägala juga) in Jägala-Joa, Harju maakond, Estonia."
+  },
+  "common": {
+    "ariaToggleTheme": "Toggle theme",
+    "ariaSwitchLanguage": "Switch language",
+    "gallery": {
+      "ariaPrevPhoto": "Previous photo",
+      "ariaNextPhoto": "Next photo",
+      "ariaCloseLightbox": "Close lightbox"
+    },
+    "googleRatingValue": "4.8/5 (7,916)",
+    "localeNames": {
+      "et": "Estonian",
+      "zh": "Chinese",
+      "en": "English"
+    }
   },
   "header": {
-    "home": "Home",
+    "logo": "Jägala Waterfall",
     "gallery": "Gallery",
     "reviews": "Reviews",
     "map": "Map",
@@ -210,6 +230,23 @@
       "Limestone Erosion Marks",
       "Rushing River Water",
       "Nature's Masterpiece"
+    ],
+    "altTemplates": [
+      "Jägala Waterfall - Panorama view in Jägala-Joa, Estonia",
+      "Jägala Waterfall - Spring abundant flow in Jägala-Joa",
+      "Jägala Waterfall - Summer lush greenery landscape",
+      "Jägala Waterfall - Autumn colorful foliage near Jagala Waterfall",
+      "Jägala Waterfall - Winter ice curtain wonder in Estonia",
+      "Jägala Waterfall - River valley landform geology",
+      "Lahemaa National Park style forest trail near Jagala Waterfall",
+      "Jägala Waterfall - Riverside shallow with waterfall background",
+      "Jägala Waterfall - Magnificent water curtain main view",
+      "Jägala Waterfall - Wildlife habitat ecosystem around Jägala-Joa",
+      "Jägala Waterfall - Wooden viewing platform in Harju maakond",
+      "Jägala Waterfall - Rainbow in sunlight at Jägala-Joa",
+      "Jägala Waterfall - Limestone erosion marks geological feature",
+      "Jägala Waterfall - Rushing river water Jägala River Estonia",
+      "Jägala Waterfall - Nature masterpiece natural wonder Estonia"
     ],
     "viewAll": "View on Google Maps",
     "showAll": "View All Photos",

@@ -1,17 +1,14 @@
 'use client';
 
-import { useLocale } from 'next-intl';
+import { useLocale, useTranslations, useMessages } from 'next-intl';
 import { useRouter, usePathname } from '@/i18n/navigation';
 import { routing, type Locale } from '@/i18n/routing';
 import { useState, useRef, useEffect } from 'react';
 
-const labels: Record<string, string> = {
-  et: 'Eesti',
-  zh: '中文',
-  en: 'English',
-};
-
 export default function LanguageToggle() {
+  const t = useTranslations('common');
+  const messages = useMessages() as any;
+  const labels: Record<string, string> = messages?.common?.localeNames || {};
   const locale = useLocale();
   const router = useRouter();
   const pathname = usePathname();
@@ -30,8 +27,7 @@ export default function LanguageToggle() {
 
   function switchLocale(next: Locale) {
     setOpen(false);
-    
-    // 如果当前已经在目标语言，不执行任何操作
+
     if (next === locale) return;
 
     // Use next-intl's router to replace the current pathname with the new locale
@@ -47,7 +43,7 @@ export default function LanguageToggle() {
           background: 'var(--tag-bg)',
           color: 'var(--tag-text)',
         }}
-        aria-label="Switch language"
+        aria-label={t('ariaSwitchLanguage')}
       >
         <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
           <circle cx="12" cy="12" r="10"/>

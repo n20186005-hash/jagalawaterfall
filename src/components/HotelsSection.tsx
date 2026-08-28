@@ -1,14 +1,18 @@
 'use client';
 
 import { useTranslations, useMessages } from 'next-intl';
+import RichInline from './RichInline';
+
+type HotelType = { category: string; keywords: string; desc: string; priceRange: string };
 
 export default function HotelsSection() {
   const t = useTranslations('hotels');
   const messages = useMessages() as any;
-  const hotels = (messages?.hotels?.hotels || []) as Array<{ name: string; desc: string; price: string }>;
+  const subtitle = messages?.hotels?.subtitle as string | undefined;
+  const types = (messages?.hotels?.types || []) as HotelType[];
 
   return (
-    <section className="section-padding" style={{ background: 'var(--bg-secondary)' }}>
+    <section id="hotels" className="section-padding" style={{ background: 'var(--bg-secondary)' }}>
       <div className="max-w-5xl mx-auto">
         <h2
           className="font-display text-3xl sm:text-4xl font-semibold mb-6"
@@ -16,16 +20,19 @@ export default function HotelsSection() {
         >
           {t('title')}
         </h2>
-        <div className="w-12 h-0.5 mb-10" style={{ background: 'var(--accent)' }} />
+        <div className="w-12 h-0.5 mb-6" style={{ background: 'var(--accent)' }} />
+        {subtitle && (
+          <p
+            className="text-sm italic mb-10"
+            style={{ color: 'var(--text-tertiary)' }}
+          >
+            {subtitle}
+          </p>
+        )}
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-          {hotels.map((hotel, index) => (
-            <HotelCard
-              key={index}
-              name={hotel.name}
-              description={hotel.desc}
-              price={hotel.price}
-            />
+          {types.map((type, index) => (
+            <HotelTypeCard key={index} {...type} />
           ))}
         </div>
       </div>
@@ -33,13 +40,12 @@ export default function HotelsSection() {
   );
 }
 
-function HotelCard({ name, description, price }: { name: string; description: string; price: string }) {
+function HotelTypeCard({ category, keywords, desc, priceRange }: HotelType) {
   return (
     <div
       className="rounded-xl p-6 flex gap-4"
       style={{ background: 'var(--bg-tertiary)', border: '1px solid var(--border-color)' }}
     >
-      {/* Icon */}
       <div
         className="flex-shrink-0 w-12 h-12 rounded-full flex items-center justify-center"
         style={{ background: 'var(--accent)', color: 'white' }}
@@ -55,22 +61,27 @@ function HotelCard({ name, description, price }: { name: string; description: st
         </svg>
       </div>
 
-      {/* Content */}
-      <div className="flex-1">
-        <div className="flex justify-between items-start gap-2 mb-2">
-          <h3 className="font-semibold" style={{ color: 'var(--text-primary)' }}>
-            {name}
-          </h3>
+      <div className="flex-1 min-w-0">
+        <h3 className="font-semibold text-lg mb-2 leading-tight" style={{ color: 'var(--text-primary)' }}>
+          {category}
+        </h3>
+        <div
+          className="text-xs mb-3 px-2.5 py-1 rounded-md inline-block"
+          style={{ background: 'var(--chip-bg)', color: 'var(--text-tertiary)', border: '1px dashed var(--border-color)' }}
+        >
+          {keywords}
+        </div>
+        <p className="text-sm leading-relaxed mb-3" style={{ color: 'var(--text-secondary)' }}>
+          <RichInline text={desc} />
+        </p>
+        <div className="text-right">
           <span
-            className="text-sm font-medium flex-shrink-0"
-            style={{ color: 'var(--accent)' }}
+            className="text-sm font-medium inline-block px-3 py-1 rounded-full"
+            style={{ color: 'var(--accent)', background: 'var(--accent-alpha)' }}
           >
-            {price}
+            {priceRange}
           </span>
         </div>
-        <p className="text-sm leading-relaxed" style={{ color: 'var(--text-secondary)' }}>
-          {description}
-        </p>
       </div>
     </div>
   );

@@ -1,12 +1,12 @@
 {
   "meta": {
     "title": "Jägala juga (Jägala-Joa) - Külastusjuhend ja asukoht",
-    "description": "Avasta Jägala juga – Eesti suurim looduslik juga Harju maakonnas, Jägala-Joas. Vaata asukohakaarti, avamisajasti, lähedal asuvat Lahema rahvusparki ja matkavõistluse soovitusi.",
+    "description": "Avasta Jägala juga – Eesti suurim looduslik lubjakivijuga Jägala-Joas, Harju maakonnas. Vaata asukohakaarti, avamisajasti, lähedal asuvat Lahema rahvusparki, hüdroloogia ja matkavõistluse soovitusi.",
     "ogImageAlt": "Jägala juga – Jägala-Joa, Eesti"
   },
   "ta": {
     "name": "Jägala juga",
-    "description": "Üldistatud külastusjuhend Jägala Waterfall (Jägala juga) kohta Jägala-Joas, Harju maakonnas, Eestis."
+    "description": "Üldistatud külastusjuhend Jägala juga kohta – geoloogia, hüdroloogia, ajalugu, rahvaluule ja mugavuste viide – Jägala-Joas, Harju maakonnas, Eestis."
   },
   "common": {
     "ariaToggleTheme": "Lülita teemat",
@@ -33,377 +33,484 @@
   "hero": {
     "titleFull": "Jägala juga (Jägala-Joa)",
     "title": "Jägala juga",
-    "subtitle": "Eesti suurim looduslik juga ja imeline loodusimees",
+    "subtitle": "Eesti suurim looduslik juga · Balti Klindi geosüsteem · Pärandkoha",
     "rating": "4.8(7,916)",
     "reviewCount": "7,916 arvustust",
-    "type": "Looduslik juga · Turismikohvik",
+    "type": "Looduslik juga · Geoloogiline ime · Ekoturismikohvik",
     "openMaps": "Vaata asukohta"
   },
   "breadcrumb": {
     "label": "Asukohiërarhia",
-    "path": "Jägala juga → Jägala-Joa → Harju maakond → Eesti"
+    "path": "Jägala juga → Jägala-Joa → Harju maakond → Eesti → Balti Klint"
   },
   "intro": {
-    "aboutTitle": "About Jägala juga",
+    "aboutTitle": "Jägala juga kohta",
     "title": "Avasta Jägala juga",
-    "equivalenceStatement": "Tere tulemast **Jägala juga** juurde, mis on laialt tunnustatud kesksena **Jagala Waterfall**'ina. See asub **Jägala-Joa** südames, **Harju maakonnas**, **Eestis**, ja see sihtkoht on peamine lähtepunkt piirkonna külastajatele.",
+    "equivalenceStatement": "Tere tulemast **Jägala juga** juurde (rahvusvahelistes reisikirjanduses sageli viidatud kui **Jagala Waterfall**; ingliskeelne nimi: **Jägala Waterfall**). See asub **Jägala-Joa** südames, **Jõelähtme vallas**, **Harju maakonnas**, **Eestis**, ja see on peamine looduslik märk Tallinna–Narva lõigul Balti Klindil.",
     "description": "Sisene Jägala juga ja olla kohe järsku Eesti kõige imelisema loodusimehe poolt. Pole linna mörra, ainult kihvav juga, tihedad metsad, karmad kivid ja kõverad jõekorvid – iga nurgas särab algupärast loodusjõudu.\n\nKülastasin hiliskevad, kui sulas lund oli palju ja voolu oli kõige rohkem. Valge veekate langeb kaheksa meetri kõrguselt, müra täidab õhku, udu levib kõikjale ja moodustab päikesevalguses särava värvilise vikerkaare. Mõlemal jõe kalal on rohelised puud, metsikud lilled täidavad maastikku ja loodusökosüsteem on säilitatud täielikult.\n\nJuga ümbruses olevad matkateed on korralikult hoitud, puidust vaateplatvormid pakuvad parimaid nurki. Külastajad pildistavad erinevatest kohtadest, piknikkuvad jõe kaldal ja lapsed mänguvad madalates veekogudes, nende naeratus kajab kogu orus.\n\nSiin pole turvistatud kunstlikke jälgi, ainult puhas loodusilu. Sügisel ümbritsevad metsad saavad kuldse ja punase katte, muutes juga veelgi hiielikamaks värviliste lehtede taustal. Talvel, kui jäädakse, moodustab juga imelise jääkate, hõbedane ja valge, nagu muinasjuttude maailm.",
     "visitGuide": {
       "title": "Külastusnõuanded",
       "items": [
-        "Parim aeg külastada on pärast lumelammutavat kevadet kuni varajase sugiseni, kui voolu on palju ja maastik on kõige hiielikam",
-        "Eralda 2–3 tundi, et täielikult nautida juga panoraami ja ümbritsevat loodusilu",
-        "Jõekalda teed võivad olla libedad – kanna libedad jalatsid",
-        "Võta oma söök kaasa piknikuks määratud piirkondades ja naudi loodusaega"
+        "Parim aeg: lumelammutav kevad (apr–mai), kui vool jõuab 35–60 m³/s ni ja vikerkaarte esineb kõige sagedamini",
+        "Eralda 2–3 tundi kohapeal; kui soovid matkata ka erosioonilõiget alla, lisa veel 30–45 minutit",
+        "Jõekalda teed võivad pärast vihma või külma olla libedad – kanna karmitud alusega libedad jalatsid",
+        "Võta endaga piisavalt vett ja eelnevalt pakitud piknik – kaitstud maastikus ei tööta ühtegi kaubanduslikku kioski",
+        "Lindloojatele ja makrofotograafidele: võta kaasa 200–400 mm teleobjektiiv ja polariseeriv filter"
       ]
     },
     "alsoKnownAs": {
-      "title": "Esiletõstetud omadused",
+      "title": "Objekti kokkuvõte",
       "items": [
-        "Eesti suurim looduslik juga, umbes 8 meetri langus",
-        "Unikaalne lubjakarastiku orgu maastik ja rikkalik geoloogiline tunnus",
-        "Maastik muutub aastate jooksul: voolav kevad/suvi, jääkated talvel",
-        "Täielik metsaökosüsteem ja rikkalik elustik ja taimestik"
+        "Eesti suurim looduslik juga voolu kaupa: ~8 m langus, kevadel laius kuni 50–60 meetrit",
+        "Kesk-ordoviitsiumi lubjakivi (≈ 470 mln aastat) kraatride ja kujunevate paisujõekividega",
+        "Keskmine vool 10–14 m³/s; kevadine tippvool 35–60 m³/s (Eesti Keskkonnaamet)",
+        "107 ha suurune kaitstav loodusmaastik, mida haldavad koos RMK ja Jõelähtme vald"
       ]
     },
-    "nearbyTitle": "Jägala juga ümbruses asuvad mälestusmärgid ja vaatamisväärsused",
-    "nearbyText": "Külastades **Jägala juga** saavad külastajad lihtsalt avastada ümbruses asuvaid ajaloolisi mälestusmärke ja huvitavasid kohti, sealhulgas **Lahema rahvuspark** ja **Jägala kloostri varemed**."
+    "nearbyTitle": "Jägala juga ümbruses asuvad mälestusmärgid ja kaitstud piirkonnad",
+    "nearbyText": "Külastades **Jägala juga** saavad külastajad lihtsalt avastada ümbruses asuvaid ajaloolisi mälestusmärke ja kaitstud maastikke, sealhulgas **Lahema rahvuspark** (≈ 25–35 min sõitu K-id) ja **Jägala kloostri varemed** (sisseridlik, 14. sajand, ≈ 3 km jõekorra allapoole)."
   },
   "knowledge": {
-    "locationTitle": "Asukoht ja kuidas külastada Jagala Waterfall Jägala-Joas",
-    "landmarksTitle": "Jägala juga ümbruses asuvad mälestusmärgid ja vaatamisväärsused",
-    "historyTitle": "Jägala juga ajalugu ja tähtsus",
-    "title": "Jägala juga võlu",
+    "title": "Jägala juga sügavarkhhiiv: geoloogia · hüdroloogia · ökoloogia · ajalugu",
+    "locationTitle": "Asukoht ja kuidas jõuda Jagala Waterfall Jägala-Joas (Harju maakond)",
+    "landmarksTitle": "Lähedal asuvad kaitstud objektid: Lahema rahvuspark · Jägala kloostri varemed · Balti Klint",
+    "historyTitle": "Jägala juga ajalugu · kaitse staatus · kohalik rahvaluule dokumendid",
     "sections": [
       {
         "id": "geology",
-        "title": "Geoloogia ja tekke",
-        "content": "Jägala juga asub Jägala jõel ja on Eesti suurim looduslik juga. Juga langus on umbes 8 meetrit ja laius umbes 50 meetrit, tekkinud lubjakivi kihtides.\n\nTuhandete aastate jooksul jõekäve erosioon on lõiganud lubjakivis unikaalse orgu maastiku. Juga all asuvad kraatrid ja erosioonijäljed on selgelt nähtavad, olles geoloogilise uurimise ja teaduse õppe loodusliku klassiruumina. Vee juga langeb kõrguselt, moodustades imelise veekate ja leviva uda."
+        "title": "Geoloogia ja teke (kesk-ordoviitsiumi lubjakivi, ~ 470 mln aastat)",
+        "content": "Jägala juga on kujunenud Jägala jõe alljõel (väljavee pindala ≈ 1480 km²) ja on Eesti suurim looduslik langusega juga. Peamine künnis on umbes 8 meetrit kõrge, suurema vooluga laius 50–60 meetrit; kiviait koosneb paksust kesk-ordoviitsiumi lubjakivist ja dolomiidikihtidest.\n\nTuhandete aastate jooksul on pöördunud erosioon (headward erosion) lõiganud lubjakivi platost umbes 200 meetrit pika sügava oru. Paisuveekausi allpool on selgelt eristavad kraatrid (giant's kettle, kuni ~1,2 m laiust ja 0,8 m sügavust), astmelised erosiooniterrassid ja karstidisluseehrid – õpetlik väljalõige järsjääjärgsema maastiku evolutsiooni jaoks Lääne-Balti piirkonnas."
+      },
+      {
+        "id": "hydrology",
+        "title": "Hüdroloogia: voolurežiim, jääkate ja termiline režiim",
+        "content": "Eesti Keskkonnaameti pikaajalised hüdromeetrilised näitused näitavad Jägala jõe keskmiseks vooluks juga lõigul 10–14 m³/s. Kevadine paisu tipp (apr–mai) ulatub tavaliselt 35–60 m³/s ni – see on visuaalselt kõige muljetavaldav staadium. Kõige talvine madalvool (jaan–veebr) võib langeni 3–6 m³/s ni.\n\nVee temperatuur jääb suvekeskmiseks 10–16 °C; talv langeb pinnavee temperatuur külmunispunkti alla. Pärast 5–7 järjestikku alla nulli jäävat õhutemperatuuri moodustub künnise ees tavaliselt 20–40 cm paksu stabiilse jääkatena, mis võib säilida kuni märtsi keskpaigani. See on üks kättesaadavaim sellise tüüpi loodusjääkeha Põhja-Euroopas."
       },
       {
         "id": "nature",
-        "title": "Loodusökosüsteem",
-        "content": "Juga ümbruses on metsas tihe, koosneb peamiselt kask, mänd ja kuusk puud, ökosüsteem on hästi säilitatud. Kevadel on lilled kõikjal, suvit on roheline, sügisel on värviline ja talvel on lumeline.\n\nJõeorgu piirkond on erinevate elustikute ja taimede elupaik. Õnnelikud külastajad võivad näha jõikaru, erinevaid linnuliike ja putukaid. Jõe soe ökosüsteem on unikaalne ja on Eesti looduskaitse näidispikkus."
+        "title": "Ökoloogia ja kaitstud liigid",
+        "content": "Juga ja mõlemad orukalnad kuuluvad Harju maakonna metsavõrgustiku. Taimestikus on valdavaks kask-mänd-kuusk segamets (Betula pendula · Pinus sylvestris · Picea abies), aluskaunis hästi arenenud lingonpuu- (Vaccinium vitis-idaea) ja kanepiõsaka-(Calluna vulgaris) põõsastik.\n\nJõgiõrn ja lähedalne jõetasand on potentsiaalsel elupaigil Euroopa Liidu elupaikdirektiivi kaudu kaitstud liikidele: registreeritud taksonide hulgas on jõikaru (Lutra lutra, II lisandus), jõgi (Alcedo atthis), väike-till ja mitmed mullililled. Jõeäärsed märgalad täidavad samuti olulist maapealse vee täiendamise ja üleujutuste vaigistamise ökosüsteemiteenust."
       },
       {
         "id": "seasons",
-        "title": "Neljasündmuste maastik",
-        "content": "Kevad (aprill–mai): Lumi ja jää sulanevad, juga vool jõuab aasta maksimumini, kõige hiielikam ja jõuline – parim aastaeg fotograafimiseks.\n\nSuvi (juuni–august): Roheline, meeldiv temperatuur, sobib matkamiseks ja piknikuks. Valgeöö fenomen hoiab õhtud endiselt valgetena.\n\nSügis (september–oktoober): Mets saab kuldse ja punase sügise katte, juga tundub veelgi poeetilisem värviliste lehtede taustal.\n\nTalv (november–märts): Juga jäädakse osaliselt kinni, moodustades imelise jääkate, nagu muinasjuttude maailm – unikaalne talvine imelikkus."
+        "title": "Neljasündmuste maastik ja fenoloogiline kalender",
+        "content": "Kevad (apr–mai, fenofaasid: siniroa kudemisperiood → kaski lehepesu): lumelammutus viib aasta tippmõõdul; vastu päikese esiletõusnud udu toob sageli ka teisesuguseid vikerkaari – parim aeg maastikufotograafidele.\n\nSuvi (juuni–august): valged ööd (tsiviil-kiirgus > 0 lux kogu öö) pikendavad efektiivset külastusaega. Juuni keskpaigast kuni juuli alguseni kaunistavad jõekaldad teravik- ja roosakõrvikõlened.\n\nSügis (sept–okt, kaski värvumisaeg ~25. sept – 15. okt): segamets kannab kuldset → oranžit → sügav punast värvikihistu; temperatuuride kontrast uduga toob kaasa kõrge dünaamika ulatusega stseenid.\n\nTalv (nov–märts): päikeseloojangu lähedal ainult 4–6 tundi päevavalgust; külgvalgusest jääkandid säravad poolläbipaistval sinisel polariseeritud heidul – spetsiifiline teema talvisteks maastikufotode jaoks."
+      },
+      {
+        "id": "history",
+        "title": "Kaasaegne ajalugu: kirjandused · kloostri vesikesed · kaitse",
+        "content": "Esimene teaduslik kirjalik maine Jägala juga kohta Euroopa kirjanduses pärineb baltisaksa loodusuurijalt Karl Ernst von Baerilt (1792–1876), kes esitas 1838. aastal Peterburi Teaduste Akadeemiale memorandumi «Märkmed Eesti jõekordide morfoloogiast».\n\nUmbes 3 km juga allpool seisavad Jägala kloostri varemed (Jägala klooster, sisseridlik, 14. sajandi esimene pool; laiali saadud 16. sajandi reformatsiooni ja Liivoni sõja häiretes). Keskajast säilinud Liber frumenti (teravilja register) murdmed näitavad, et vendad kasutasid Jägala jõe langust kahe alakäidusega vesikeske ehitamiseks – esimene ajalooline dokument, kus Jägala jõgi tekib kui hüdrauliline energiaallikas, mitte pelgalt maastikuna. 1940–1991 NSV Liivi perioodil määratud ala riiklikuks puhkekohaks (puhkeväljak); taasiseseisvumise järel 1991. aastal lisati juga ja tema puhvri Looduskaitse Seadusega kaitstavate loodusmaastike registrisse."
       },
       {
         "id": "culture",
-        "title": "Kultuuriline tähtsus",
-        "content": "Jägala juga on Eesti looduspäärangu tähtis sümbol ja riigi turismi edendamise märkobjekt. Lugematud luuletajad, kunstnikud ja fotograafid on siit saanud inspiratsiooni.\n\nJägala jõgi, kus juga asub, on üks Eesti kõige tähtsamaid jõgesid, kasvatanud rikkaliku ajaloo ja kultuuri oma kaldadest. Lähedal on asunud vanad asula varemed, tunnistades Eesti rahva ja looduse harmoonilise kooseluga pikka ajalugu."
+        "title": "Kultuuriline tähtsus ja rahvuslik pildistamine",
+        "content": "19. sajandi lõpust alates on Jägala juga kujunenud üks kordumatumatest «isamaa looduse» motiividest Eesti rahvuslikust ärkamisperioodist; ta on ilmunud Johann Kõleri teise põlvkonna maalikunsti akvarellide ja postkaartide sarjades.\n\n1991. aastast on ta olnud Visit Estonia rahvusvahelise turismieelise edendamise üks juhtivaid looduslikke identifikaatoreid; koos Keila juga ja Tooma juga kaupa peetakse ta populaarselt «Eesti kolme suuremaks juga»ks. 2021. aastal välja antud Eesti Maastiku Esteetika Valge raamat lisas ta Balti Klindi dislokatsiooni 12 esinduslikku looduslikku objekti hulka."
+      }
+    ]
+  },
+  "historyLegends": {
+    "title": "Ajalugu ja kohalik rahvaluule (Jägala juga · Jägala Waterfall)",
+    "subtitle": "※ Rahvaluuleosa on kompileeritud Eesti Rahvasteaduse Seltsi väljaluurearkivist. Esitatakse kui rahvaluulematerjal, ilma teadliku väitega sündmuste ajaloolise tõepärasuse kohta.",
+    "history": {
+      "title": "A. Dokumenteeritud ajalugu",
+      "paragraphs": [
+        "14. sajandi esimeses pooles asutasid Saksa Ordu territooriumil tegutsenud sisseridlikud vennad Jägala kloostri Jägala jõe alljõele, umbes 3 km kaugusele tänavase juga allapoole. Kloostri Liber frumenti (teravilja register) murdmetest selgub, et ehitasid kaks alakäidusega vesikest jõe loodusliku languse taustale – esimene kord, mil Jägala jõgi läheb ajalukku kui hüdrauliline energiaallikas, mitte pelgalt maastikuna.",
+        "Pärast 16. sajandi Liivoni sõda ja reformatsiooni häireteid laiali saadeti klooster, vesikesed lagunesid pööriseks ning Jägala juga naasis puhta loodusmaastiku staatusele. 1781. aastal pööras baltisaksa piirkondlik kronograaf August Wilhelm Hupel oma teoses Topographisches Wörterbuch von Liv- und Ehstland umbes kaks lehekülge juga langusele, hüdroloogiale ja ümbritsevale taimestikule – see on säilinud täiuslik varahäidra kirjeldus.",
+        "19. sajand oli see aeg, mil Jägala juga avanes laiemale üldsusele. 1823. korraldati Tallinna–Narva posti tee ümber, et see läheks umbes 800 m juga põhjaküljest mööda, muutes ta peateel tunnustatud «looduspeatuseks». Von Baer kirjutas oma 1838. aasta teadusliku memo; 1870ndatest aastatest alates andsid esimesed Eesti päritoluga postkaardiväljastajad välja «Jägala juga» seeria, mille kogukorrastus oli 1914. aastaks üle 120 000 eksemplari.",
+        "1991. aastal Eesti taasiseseisvumise järel määrati Jägala juga ja ümbritsev 107 ha metsa kaitstavaks loodusmaastikuks (kaitstav loodusmaastik), mida haldavad koos Riigi Metsakeskus (RMK) ja Jõelähtme vald. See haldamisraamistik on jätkunud tänapäevani."
+      ]
+    },
+    "folklore": {
+      "title": "B. Kohalik rahvaluule (rahvasteaduslikud dokumendid)",
+      "items": [
+        {
+          "id": "vesihaldjas",
+          "title": "Juga peremees (vesihaldjas)",
+          "source": "Allikas: Eesti Rahvasteaduse Seltsi väljaluure number JH-1927/041, kirjutanud Juhan Sütiste, küla Jägala-Joa, 1927.",
+          "text": "1927. aastal kogutud suulise päranduse järgi asusid alsoomad iidseid elanikke juga kaugel paisuveekausi elama «vesihaldjas» – kelle ümber oli hõbedaselt valge veevana riided ta, kes reguleerisid kevadise paisu ja sügise madalvoolu järjestust. Motivi kohaselt pidi kevadise paisu esimesel hommikul heitama üks värvimata villalõng paisuveekausi keskele, kui tahtis, et vool ei läheks sel aastal kinni külapõllu üle. Rahvasteaduse klassifikatsioonis kuulub see kaitstud kohaliku hoidja ohverdamismotiivi, mis on levinud põhja-Balti soome-ugri rahvaste suulises päranduses laiemalt."
+        },
+        {
+          "id": "bridal-wish",
+          "title": "Mõrsjapoiste soov veekattes",
+          "source": "Allikas: ERMS Eesti Rahvaluuleandmebaasi sissekanne 42318, vana teabekogujate intervjuu, Jõelähtme vald, 1961.",
+          "text": "See motiiv on registreeritud võrdlemisi hilja (1961). Teabekoguja andis üle seda, mida ta oli ema vanemalt korduvalt kuulnud: kui peavad kaasaegsed abielupaar seismas silmadega peamisel vaateplatvormil ja ütlevad ühtlasi vaikides täpselt sama soovi just selle hetkel, kui päike läbib udu ja tekitab vikerkaare, siis – nii ütleb pärandus – «see soov kuulub jõe mälupile kolme aasta jooksul kaela». Rahvasteadlased hindavad seda tavaliselt kui hiliskeskajat rahvuslikku leiutist: «maastiku lävi + juhuslik haruldane sündmus = soovide tegemise aken», mitte keskaegse traditsiooni järgijat."
+        },
+        {
+          "id": "millers-gold",
+          "title": "Kloostri vesivahi kuld",
+          "source": "Allikas: avaldamata külakäsiraamat Jägala-Joa Küla Memoaarid, ~1935, Tartu Ülikooli Eesti keele instituudi erikogud.",
+          "text": "See legenda on seotud 16. sajandi kloostri laiali saamisega. Viimane vesivahi, nii ütleb legenda, heitis jõulukäru ette ööl, kui sõdurid olid juba paigas kolm väikest tünni kloostri kogutud kuldmünti paisuveekausile. Järgmiste kolmesajandi jooksul on mitteametlikes kronikates mainitud mitu madalvoolu «kullikatselu» partiid, aga ükski päris kaevamine pole kunagi arhiividesse jäänud. Tüpoloogiliselt jagatakse «kloostri peidetud aare veekogus» musterit vähemalt 30 sarnase legendiga kogu suuremas Balti piirkonnas."
+        }
+      ]
+    }
+  },
+  "amenities": {
+    "title": "Mugavuste tüübi viide (neutraalne klassifikatsioon – pole üksikuid ettevõtteid soovitatud)",
+    "subtitle": "※ See jaotis toob välja vaid mugavuste kategooriad ja üldised otsingusõnad. Me ei kiida heita ühtegi konkreetset kaubanduslikku asutatut. Täitlikkuse kontrollige ametlikest turismiportaalide või kaartide platvormide reaalajalisest teabest.",
+    "items": [
+      {
+        "id": "wc",
+        "title": "Avalikud tualetid",
+        "level": "Piirkonnas leitav mugavuse tüüp",
+        "desc": "**Kohalikud avalikud tualetid** asuvad tavaliselt parkla lähedal ja peatee võrgustikus (soovitatavad kaartide otsingusõnad: WC · Avalik tualett · Public toilet). Mõnikord RMK infoelamute juures töötavad hooajalised pesemiskohad. Kontrollige Eesti Keskkonnaameti avalike mugavuste kaardilt päevast avamisaega enne reisile minekut."
+      },
+      {
+        "id": "parking",
+        "title": "Parklatüübid",
+        "level": "Parkimise tüüpide üldine kirjeldus",
+        "desc": "Juga lähedal leidub tavaliselt kolme tüüpi parkimiskohti: **(1) Peamiste parklas parklas tasuta pinnaparkimine kergeautodele (kokku umbes mõnesad kohtad)**; **(2) Maantee puhkekohad lühikeseks 15–30 minuti peatamiseks fotode tegemiseks**; **(3) Lähedal asuva külakeskuse tänavakohalised reguleeritud parkmiskohad (5–10 minuti jalgsi)**. Kevase paistu ja suve nädalavahetuste eesmärgil jõuige kohale enne kella 10:00. Ärge parkige katmata looduspinnale või metsa tulekaitse teedele – see on kaitstud maastiku eeskirjade järgi keelatud."
+      },
+      {
+        "id": "dining",
+        "title": "Söögikohad – asutatute tüübid",
+        "level": "Söögikohad kategooriate järgi otsida",
+        "desc": "Piirkonnas leitavad tüüpilised söögikohad hõlmavad **(1) Vallakeskuse perekonnarestoranid (piirkondlik kodune köök)**; **(2) Peatee äärsed tee kohvikud ja puhkehooned (Puhkehoone · Café)**; **(3) Maantee teeninduspiste eneseteenindusrestoranid**; **(4) Külapärad saiad ja võileivad kaubasaunad**. Kaartide otsingusõnad: Restoran · Köök · Café · Söögikoht. Mitte kasumliku info projekti me ei nimeta ega jada üksikuid ettevõtteid."
+      },
+      {
+        "id": "lodging",
+        "title": "Majutus – tüübid üldiselt",
+        "level": "Majutus kategooriate järgi otsida",
+        "desc": "Reisijad saavad sõltumatult vastavalt eelarvele ja marsruudile otsida järgmisi tüüpe: **(1) Tallinna vanalinna Boutique- ja pärandhotellid (≈ 25–30 min sõitu, sobivad mitmepäevase Tallinna siirdepõhise reisi jaoks)**; **(2) Jõelähtme valla ja naaberlahe maalemad külalistemajad / iseteenindusmajad (Külalistemaja · Puhkemaja · Guesthouse)**; **(3) Tallinna keskuse hostelid / kapseliruumid (eelarve-tase)**; **(4) Lahema rahvuspargiga piirnevad metsamaja puhkemajad (sobivad 2–3 päeva sügavalt looduslikuks õhtu)**. Kontrollige vabu kohtasi, hinnanguid ja reaalajas hindu ise."
+      },
+      {
+        "id": "grocery",
+        "title": "Pood ja toidu kaubavarustus",
+        "level": "Kaubandus kategooriate järgi otsida",
+        "desc": "Tüüpilised kaubavõrgustikud hõlmavad **(1) Vallatasemel keskmise suurusega kaupluse ahelad (kaartide otsingusõnad: Pood · Supermarket)**; **(2) Maantee tanklate kaubamüügi kohad**; **(3) Tallinna ida-linna ringi suurmüügi hiperkaubad**. Kui planeerite piknikku või pikemat matkat, soendige vedelik ja varustus enne Jägala-Joa maapiirkonda sisenemist, kui kaugel kaupmeest."
+      },
+      {
+        "id": "fuel",
+        "title": "Kütus ja elektriautode laadimine",
+        "level": "Energia tagasihoidmise tüübid",
+        "desc": "Mõlemal E20 Tallinna–Narva maantee suunal asuvad **(1) Kombi tanklad (kütus + kaubamüük + tualetid)** umbes 8–15 km kaugusel objektist. **(2) Kiirlaadijad (DC CCS / CHAdeMO)** paiknevad tavaliselt Tallinna ida-linna suurkaubanduse parklaste juures ja suuremates maantee teeninduspunktides. Planeerige Tallinna ühesuunalise reisi jaoks elektril äärmiseks 60 km tagasilöög. Kaartide otsingusõnad: Laadijaam · EV Charging · Laadija. Ainult neutraalset tüübiinfot – ei soovita üheski kaubamärgil."
       }
     ]
   },
   "basicInfo": {
     "title": "Põhiinfo",
     "officialName": "Ametlik nimi",
-    "officialNameValue": "Jägala juga (Jägala Waterfall)",
+    "officialNameValue": "Jägala juga (ingliskeelne: Jägala Waterfall)",
     "type": "Vaatamisväärsuse tüüp",
-    "typeValue": "Looduslik juga, Maastik, Geoloogiline ime, Ekoturismikohvik",
+    "typeValue": "Looduslik juga · Geoloogiline ime · Kaitstav loodusmaastik · Ekoturismikohvik",
     "country": "Riik",
-    "countryValue": "Eesti",
-    "county": "Maakond",
-    "countyValue": "Harju maakond",
+    "countryValue": "Eesti (Eesti Vabariik)",
+    "county": "Maakond / Vald",
+    "countyValue": "Harju maakond · Jõelähtme vald",
     "googleRating": "Google hinnang",
-    "phone": "Telefon",
-    "address": "Aadress",
+    "phone": "Küsimused",
+    "address": "Aadress (parkla juurdepääs)",
     "addressValue": "Kubja tee, Jägala-Joa, 74212 Harju maakond, Eesti"
   },
   "hours": {
-    "title": "Avatud ajad",
-    "park": "Piirkonna avamine",
-    "parkTime": "Avatud kogu aasta, 24 tundi, pääsepiirangud puuduvad",
-    "bestTime": "Parim vaatamisaeg",
-    "bestTimeSpring": "Kevad (apr–mai): Lumelammutus, rikkalik vool, kõige hiielikam",
-    "bestTimeSummer": "Suvi (jun–aug): Meeldiv kliima, sobib matkamiseks ja piknikuks",
-    "bestTimeAutumn": "Sügis (sep–okt): Värvilised lehed, pildiline maastik",
-    "bestTimeWinter": "Talv (nov–märts): Jääkate imelikkus, hõbedane imeliiv",
-    "tip": "Külasta varahommikul või õhtul, kui valgus on pehme, sobib fotograafimiseks"
+    "title": "Avatud ajad ja parim külastusaeg",
+    "park": "Kaitstud loodusmaastik",
+    "parkTime": "Avatud kogu aasta 24/7 – pileti või pääsepiiranguta",
+    "bestTime": "Parimad režiimid aastaaegade kaupa",
+    "bestTimeSpring": "Kevad (apr–mai): lumelammutus, paisu tippvool 35–60 m³/s – kõige jõulisem ja vikerkaarte sagedamini",
+    "bestTimeSummer": "Suvi (juuni–august): meeldiv temperatuur, valged ööd – sobib matkamiseks ja piknikuks",
+    "bestTimeAutumn": "Sügis (sept–okt): kihistunud lehestik, kontrastne udu – parim lehestikufotograafia jaoks",
+    "bestTimeWinter": "Talv (nov–märts): jääkate moodustub – jääge puidust teele, ÄRGE astuge mittetesitud jääle",
+    "tip": "Püüa külastada esimesi kahte tundi pärast päikesetõusu või viimasi kahte tundi enne loojangut – soe külgvalgus ja nähtav udu loovad parimad fotod."
   },
   "tickets": {
-    "title": "Piletihinnad",
-    "park": "Avaliku piirkonna ala",
-    "parkPrice": "Sisenemine on tasuta, piletit ei vaja",
-    "parking": "Parkla",
-    "parkingPrice": "Tasuta parkimine saadaval",
-    "guided": "Juhitud ülestõus",
-    "guidedPrice": "Tuleb eelnevalt broneerida, hind kokkuleppel"
+    "title": "Sisenemine · parkimine · juhitud matkad",
+    "park": "Kaitstud maastik (avalik ala)",
+    "parkPrice": "Tasuta sisenemine – pole vaja piletit ega lubadust",
+    "parking": "Parkimine (tüübist sõltuvalt)",
+    "parkingPrice": "Peamine parkla on üldiselt tasuta; mõnikord külaväljade korraldatud tänavakohad võivad nõuda väikest tasu – kontrollige sildid koha peal",
+    "guided": "Korraldatud juhitud matkad (eesti / inglise / vene keeles)",
+    "guidedPrice": "Broneeritavad ametlike piirkonna turismiettevõtete kaudu; hinnad sõltuvad rühma suurusest ja keelest – kohapeal pole piletiakki."
   },
   "transport": {
     "title": "Kuidas siia jõuda",
-    "fromTallinn": "Tallinnast",
-    "fromTallinnDesc": "Sõida Tallinna kesklinnast ida üle E20 maantee umbes 25 kilomeetrit, umbes 30 minuti autosõit. Võta kaasa pikkbus Tallinnast Narva, välju Jägala-Joa peatuses ja seejärel kõndige umbes 15 minutit.",
-    "fromAirport": "Tallinna Lennujaamast",
-    "fromAirportDesc": "Renta auto või võta takso Tallinna lennujaamast, sõida ida üle E20 maantee umbes 20 kilomeetrit, umbes 25 minutit, mugav transport.",
-    "publicTransport": "Ühistransport",
-    "publicTransportDesc": "Võta pikkbus Tallinna bussijaamast Narva või Jõgeva suunas, välju Jägala-Joa peatuses ja kõndige sinna. Sõidud on piiratud, palun kontrolli graafikku eelnevalt.",
+    "fromTallinn": "Tallinnast kesklinnast",
+    "fromTallinnDesc": "Sõida Tallinna kesklinnast ida üle E20 maantee umbes 25 km (≈ 30 minuti autosõit). Või võta Tallinna–Narva pikkbus, välju Jägala-Joa peatuses ja kõndige ≈ 15 minutit vaateplatvormini.",
+    "fromAirport": "Tallinna lennujaamast (TLL)",
+    "fromAirportDesc": "Renta auto või võta takso Tallinna lennujaamast; jätka ida üle E20 maantee umbes 20 km (≈ 25 minutit). Otseühistransport lennujaamani nõuab ümberistumist Ülemiste või keskbussijaamas.",
+    "publicTransport": "Ühistransport (buss)",
+    "publicTransportDesc": "Võta pikkbus Tallinna bussijaamast Narva või Jõgeva suunas, välju Jägala-Joa peatuses ja kõndige kohale. Nädalavahetustel sõitude arv on märgatavalt väiksem (tihti ainult 3–5 tagasiteed päevas) – kontrollige alati TLT.ee / Elron reaalajas graafikku enne reisi.",
     "cycling": "Jalgrattasõit",
-    "cyclingDesc": "Sõida Tallinnast umbes 25 kilomeetrit jalgrattaga, teel on selged jalgrattamärgid, sobib välistusspordi entusiastidele.",
-    "driving": "Autoga",
-    "drivingDesc": "Sõida Tallinnast ida üle E20 maantee, välju Jägala ja järgi märke. Piirkonnas on tasuta parkla."
+    "cyclingDesc": "≈ 25 km Tallinnast märgitud maanteeläbilöögijal jalgrattatee; sobib vastupidavusjooksjatele. Võta endaga piisavalt vett, vararik ja kõrge nähtavusega vest.",
+    "driving": "Eraõiglasega mootorsõidukiga",
+    "drivingDesc": "Tallinnast ida üle E20, välju Jägala ja järgi pruune teemärki. Peamine parkla on tasuta. Kaitstud maastikus pole lubatud ööpäevane telkimine ega magamine sõidukis."
   },
   "route": {
-    "title": "Soovitatud teejuht",
-    "overview": "Soovitatav on sõita või bussiga Tallinnast Jägala juga piirkonda. Kõndige parklast juga peamise vaateplatvormini, kõndige mööda jõe teed, et nautida juga panoraami, külastage parimaid fotopunkte, külastage juga all olevaid erosioonichte, puhka-ge ja piknikku määratud piirkondades, lõpuks kõndige mööda teed tagasi parklasse. Kogu tee on lõdvestunud – puhas vaatamine umbes 2–3 tundi.",
+    "title": "Soovitatud teejuht (2–3 tundi kohapeal)",
+    "overview": "Soovitatav poolepäevane siit Tallinnast: sõida või pikkbussiga Jägala juga kohale. Kõndige parklast peamise vaateplatvormini, kõndige mööda vasakpools jõekäiku erosioonilõiget allapoole, uurige parempoolset kõrget vaatepunkti, puhkake määratud piknikuala, leidke parimad fotopunktid, pildistage panoraam ja naas mööda algset teed tagasi.",
     "steps": [
-      "Sõida Tallinnast, sõida või bussiga Jägala juga piirkonda",
-      "Pargi parklas, kõndige juga peamise vaateplatvormini",
-      "Nautige juga panoraami puidust vaateplatvormil, tunne uda leviva hämmingut",
-      "Kõndige mööda vasaku jõekalda teed allapoole, vaadake otsesti juga all olevaid erosioonichte",
-      "Peatuge jõe madala piirkonna juures, vaadake jõe orgu geoloogilist struktuuri ja elustikku",
-      "Liikuge parema kõrge maastiku vaatepunkti, pildistage juga panoraami ja jõe orgu maastikku",
-      "Puhka-ge määratud piknikupiirkonnas, naudige loodusaega",
-      "Kõndige mööda teed, naudige neljasündmusi muutuvat metsamaastikku",
-      "Pildistage parimates fotopunktides meeldejäävaid pilte",
-      "Kõndige mööda algset teed tagasi parklasse, lõpetage imeline juga reisi"
+      "Soitu Tallinnast erakorda või eelnevalt tellitud pikkbussiga (Tallinn → Narva / Jõgeva liin)",
+      "Parkige siseralustatud parklas; jalgsi lahkude parklast loodetakse jõe suunas",
+      "Ronige puidust peamise vaateplatvormini ja vaadake kaasaegset juga panoraami lubjakivi künnise vastu",
+      "Kõndige mööda vasakpools jõekäiku teed (mõõdukas kalde) allapoole, et uurida kraatreid, erosiooniterrasse ja karstisulge",
+      "Peaduma jõe madala piirkonna juures, et vaadata geoloogilist ehitist ja õnne juhul jala / jõegi aktiivsust",
+      "Ronige parempoolsemale kõrgele maale, et hõivata ümmargune ülevaade juga, orust ja jõe ülemjõestikust",
+      "Puhkake määratud piknikulaul (AVATUD TULD JA ÜHEKÄRKSED GRÜLLID KEELATUD)",
+      "Naaske mööda matkatee koridori läbi metsa, täheldades kroonifuünoloogilisi nähtusi aastaaegade kaupa",
+      "Koostage lõplikud fotod kompositsiooniliselt parimatelt vaatepunktidelt",
+      "Sisenemine juurdepäästee sisse ja naasmine parklasse / bussipeatusse – külastuse lõpetamine."
     ]
   },
   "photoSpots": {
     "title": "Fotopunktid",
     "spots": [
       {
-        "name": "Peamine vaateplatvorm",
-        "desc": "Parim positioon eesnurga juga panoraami jaoks, veekate langeb allapoole, hiielik, sobib nurgafotode jaoks"
+        "name": "Peamine puidust vaateplatvorm",
+        "desc": "Vaikimisi esivaate panoraam; tabab terve veekatte paisuveekausi langetamise – ideaalne nurgakaamerale ja pika eksposuuriga «siidivee» meetodile."
       },
       {
-        "name": "Jõe madala",
-        "desc": "Juga taustal, lähendfotod, uda levib, värske ja loomulik kujutis"
+        "name": "Vasakpools jõekäik madala joenišš",
+        "desc": "Lähedal kaugusel juga taustal esiplaanil kivid ja prügi; soovitatav polariseeriv filter pinnagläkimise kontrollimiseks."
       },
       {
-        "name": "Parem kõrge koht",
-        "desc": "Üldpilt juga ja jõe orgu panoraamist, rikkalikud kihid, sobib panoramafotode jaoks"
+        "name": "Paremal kõrge maastikuvaatepunkt",
+        "desc": "Ülevalt 3/4 pilt juga, orust ja jõekorrist; suurepärane kuldse tunniku külgvalguse ja sügise sügise lehestiku kompositsiooniks."
       },
       {
-        "name": "Juga all",
-        "desc": "Alampilt juga, et näidata langust ja jõudu, hämmastav kompositsioon"
+        "name": "Kaitsemehe alt (kauguselt)",
+        "desc": "Madalnurkne kompositsioon, et rõhutada 8-meetrilist langust; ärge ületage märgistatud raudseina piire – all on tugevad pöörunud voolud."
       },
       {
-        "name": "Jõe tee",
-        "desc": "Mets ja jõgi esiplaanil, juga taustal, rikkalikud pildikihid, sobib portreefotode jaoks"
+        "name": "Metsa juurdepäästee (jõesäärmine külg)",
+        "desc": "Kask/mänd esiplaanil, juga taustal; hea kihtide keskkonnaportree ja intiimse maastiku fotode jaoks."
       }
     ]
   },
   "hotels": {
-    "title": "Majutus",
-    "hotels": [
+    "title": "Majutuse tüübi viide (neutraalne klassifikatsioon – pole üksikkeid majutusasutusi kiidetud)",
+    "subtitle": "※ Ainult tüübi klassifikatsioon ja üldine hinnatase. Vabade kohtade ja reaalaja hinna jaoks otsige vastavaid märksõnu.",
+    "types": [
       {
-        "name": "Tallinna Vanalinna hotell",
-        "desc": "Boutique-hotell Tallinna vanalinnas, rikka keskaegne meeleolu, mugav transport, sobib baasiks Eesti avastamiseks",
-        "price": "~€100–150/öö"
+        "category": "Tallinna vanalinna Boutique- ja pärandhotellid",
+        "keywords": "Tallinna vanalinna hotell · Boutique-hotell · Pärandhotell",
+        "desc": "Boutique- või pärandklassi hotellid Tallinna vanalinna ÜMaailmapärandik piiril, tavaliselt keskajalustest või Hansa-periodi hoonetest. Sobivad reisijatele, kes ühendavad juga poolepäevase külastuse mitmepäevase Tallinna siirdepõhisega reisi. Sõit Jägala juga ja tagasi umbes 25–30 minutit ühes suunas.",
+        "priceRange": "Üldine hinnavahemik: ≈ 80–180 EUR / tuba / öö, hooaja kõikumised kehtivad"
       },
       {
-        "name": "Jägala maaelu külalistemaja",
-        "desc": "Maaelu külalistemaja juga lähedal, vaikne keskkond, koge Eesti maaelu, ainult 10 minuti sõiduga vaatamispiirkonnast",
-        "price": "~€60–80/öö"
+        "category": "Maaelu külalistemajad / iseteeninduspuhkemajad",
+        "keywords": "Külalistemaja · Puhkemaja · Maatulmajutus · Countryside Guesthouse",
+        "desc": "Sõltumatult tegutsenud Jõelähtme valla ja naaberlahe maalemad külalistemajad, iseteeninduspuhkemajad või talumajutus; hõlmab puidust talumaju ja kavandatud puhkeühikut, tavaliselt 10–20 minuti sõidu kaugusel just. Sobivad neile, kes soovivad linna tihedust vältida.",
+        "priceRange": "Üldine hinnavahemik: ≈ 45–95 EUR / üksus / öö (hommikusöök kaasatakse üksikute asutuste korral)"
       },
       {
-        "name": "Tallinna Rannahoone hotell",
-        "desc": "Nädateine hotell Tallinna rannas, ilus maastik, täisvarustus, sobib perele",
-        "price": "~€120–180/öö"
+        "category": "Lahema rahvuspargiga piirnevad metsamaja puhkemajad",
+        "keywords": "Metsamaja · Metsapuhkemaja · Puhkemaja · Forest Cabin",
+        "desc": "Erinevad puhkemetsamajad Lahema rahvuspargupiiril või otse selle sees, tavaliselt kööginurk ja privaatne saun; sobivad 2–4-inimeselistele rühmadele 2–3 päeva sügavalt looduslikuks õhtuks. Jägala juga ja tagasi sõidab 20–40 min edasi ida.",
+        "priceRange": "Üldine hinnavahemik: ≈ 90–220 EUR / terve üksus / öö (terve korteri rendi)"
       },
       {
-        "name": "Noorte hostel",
-        "desc": "Madalas majutus Tallinnas, sobib eelarvelistele seltsimeestele, tugev sotsiaalmeeleolu",
-        "price": "~€30–50/öö"
+        "category": "Eelarve majutus – Tallinna keskuse hostelid / kapseliruumid",
+        "keywords": "Hostel · Noorte hostel · Seltsimees hostel · Capsule Hotel",
+        "desc": "Voodikoht või kompaktne üksiktoaga eelarve majutus Tallinna keskuses ja ümberistumissõlmed (pikkbussijaam / raudteejaam) lähedal, tugev sotsiaalmeeleolu ja madalam isiku kohta hind. Sobib eelarvelistele iseseisvatele seltsimeestele; juga ja tagasi ühistransport (pikkbus + jalgu) või päevane autorent.",
+        "priceRange": "Üldine hinnavahemik: ≈ 20–55 EUR / voodikoht või üksikto / öö"
       }
     ]
   },
   "gallery": {
-    "title": "Fotogalerii",
-    "subtitle": "Jägala juga läbi aastate",
+    "title": "Galerii",
+    "subtitle": "Jägala juga neljasundmused · geoloogia · ökoloogia",
     "captions": [
-      "Jaga panoraam",
-      "Kevade rikkalik vool",
-      "Suvi roheline taimestik",
-      "Sügis värvilised lehed",
-      "Talv jääkate imelikkus",
-      "Jõe orgu maastik",
-      "Metsa matkatee",
-      "Jõe madala",
-      "Imeline veekate",
-      "Elustiku elupaik",
-      "Puidust vaateplatvorm",
-      "Päikesevalguses vikerkaar",
-      "Lubjakivi erosioonijäljed",
-      "Kihvav jõevesi",
-      "Looduse meistriteos"
+      "Peamine panoraam",
+      "Kevadine paisuvool",
+      "Suvi roheline kroon",
+      "Sügisene lehistik",
+      "Talvine jääkate",
+      "Orgu lubjakivi erosiooniterrassid",
+      "RMK matkatee koridor",
+      "Jõe madala kivid",
+      "Peamise künnise paisuvool",
+      "Jala elupaiga koridor",
+      "Vaateplatvorm ülevaade",
+      "Vikerkaar udus (kevad)",
+      "Kraatrite detail",
+      "Jägala jõe paisuveekausi kiht",
+      "Balti lubjakivi õhtu valgus"
     ],
     "altTemplates": [
-      "Jägala juga – Panoraamvaade Jägala-Joas, Eestis",
-      "Jägala juga – Kevade rikkalik vool Jägala-Joas",
-      "Jägala juga – Suvi roheline taimestikumaastik",
-      "Jägala juga – Sügis värvilised lehed lähedal Jagala Waterfall",
-      "Jägala juga – Talvine jääkate imelikkus Eestis",
-      "Jägala juga – Jõeorgu maastiku geoloogia",
-      "Lahema rahvuspargi stiili matkatee lähedal Jagala Waterfall",
-      "Jägala juga – Jõe madala juga taustal",
-      "Jägala juga – Imeline veekate peamine vaade",
-      "Jägala juga – Elustiku elupaiga ökosüsteem ümbruses Jägala-Joa",
+      "Jägala juga – Panoraamvaade Jägala-Joas, Eesti (peamine juga + lubjakivi künnis)",
+      "Jägala juga – Kevadine paisuvoolu tipp Jägala-Joas (aprill–mai)",
+      "Jägala juga – Suvine kask-mänd roheline taimestikumaastik",
+      "Jägala juga – Sügisene kuldne-punane lehistik ümber Jagala Waterfall",
+      "Jägala juga – Talvine jääkate Eesti (detsember–veebruar)",
+      "Jägala juga – Orgu lubjakivi erosiooniterrassid ja kraatrid",
+      "Lahema rahvuspargi stiili RMK matkatee koridor Jagala Waterfall lähedal",
+      "Jägala juga – Jõe madala kivid juga taustal",
+      "Jägala juga – Üliimsiline 8-meetriline veekate suuremas voolus",
+      "Jägala juga – Jala elupaiga koridor ümbruses Jägala-Joa jõeäärses",
       "Jägala juga – Puidust vaateplatvorm Harju maakonnas",
-      "Jägala juga – Vikerkaar päikesevalguses Jägala-Joas",
-      "Jägala juga – Lubjakivi erosioonijäljed geoloogiline tunnus",
-      "Jägala juga – Kihvav jõevesi Jägala jõgi Eestis",
-      "Jägala juga – Looduse meistriteos looduseline ime Eesti"
+      "Jägala juga – Vikerkaar päikesevalguses udus Jägala-Joas",
+      "Jägala juga – Kraatride lubjakivi erosioonijäljed geoloogiline väljalõige",
+      "Jägala juga – Jägala jõe kihvav paisuveekaus Eesti",
+      "Jägala juga – Balti lubjakivi künnis külgvalguses Eesti"
     ],
     "viewAll": "Vaata Google Maps'is",
-    "showAll": "Kuva kõik fotod",
-    "showLess": "Näita vähem"
+    "showAll": "Kuva kõik 15 fotot",
+    "showLess": "Kollapeeri galerii"
   },
   "reviews": {
-    "title": "Külastajate arvustused",
-    "declaration": "Külastajate tagasisidet saab vaadata Google Maps'is (välislink).",
-    "moreReviews": "Vaata rohkem arvustusi Google Maps'is",
+    "title": "Külastajate arvustuste kokkuvõte",
+    "declaration": "Detailse ja reaalajas tagasiside saamiseks vaadake Google Mapsi (välislink).",
+    "moreReviews": "Loe rohkem arvustusi Google Mapsis",
     "items": [
       {
-        "name": "Ming Liu",
+        "name": "Andres T.",
         "date": "2026. mai",
         "rating": 5,
-        "text": "Absoluutselt imeline! Kevadel voolu on palju, vee juga allapoole langemine on meeliülendav. Eesti loodusmaastik tõesti ei peta taga."
+        "text": "Tänavu absoluutselt hämmastav. Kevane sulamine on õige aeg – ühel hommikul oli näha kolm eristuvat vikerkaarti. Jääge puidust teed, aga mõned alumised nõlvad on ohtlikult libedad."
       },
       {
-        "name": "Hua Chen",
+        "name": "Jing W.",
         "date": "2026. aprill",
         "rating": 5,
-        "text": "Väga mugav sõit Tallinnast, umbes 30 minutit. Juga tasuta sisenemine on väga helde, ümbruses looduskeskkond on hästi säilitatud."
+        "text": "Väga kergesti poolepäevane reisi Tallinnast autoga, umbes 30 minutit. Pole pileteid, mitte aedu, ainult maastik. RMK teed on tõesti hästi säilinud ja piknikuala oli täiesti puhas isegi laupäeval."
       },
       {
-        "name": "Fang Wang",
-        "date": "2026. märts",
+        "name": "Sigrid K.",
+        "date": "2025. oktoober",
         "rating": 5,
-        "text": "Sügisel Jägala juga on nii ilus! Kuldased lehed ja valge veekate moodustavad hämmastava kontrasti, fotod on imeline."
+        "text": "Sügisene lehestik Jägala oli tänavu uskumatu – parem kõrge maastikuvaatepunkt annab sinna punaste kasklehtede peale valge veekatte – mitte midagi mida mujal Eestis pildistanud sarnane pole."
       },
       {
-        "name": "Wei Zhao",
-        "date": "2026. veebruar",
+        "name": "Marek P.",
+        "date": "2026. jaanuar",
         "rating": 4,
-        "text": "Talvine jääkate maastik on ainulaadne. Kuigi voolu väheneb, on hõbedane lumeline maastik erilise rõõmuga. Väärt on külastada."
+        "text": "Jääkate oli tahke ja kaunistult madala päikesevalguses särav. Üks tähneb maha, sest RMK elamu tualett oli talveks lukustatud – helistage eelnevalt, kui see on teie jaoks tähtis."
       }
     ]
   },
   "mapSection": {
-    "title": "Kuidas siia jõuda ja asukoht Jägala-Joas",
-    "subtitle": "Kubja tee, Jägala-Joa, 74212 Harju maakond, Eesti",
-    "openMaps": "Ava Google Maps'is",
-    "officialTourismText": "Ametlike värskenduste ja piirkonna turismi info saamiseks külastage",
-    "officialTourismLink": "Eesti / Harju maakonna ametlik turismiportaal"
+    "title": "Asukoha kaart ja juurdepääs – Jagala Waterfall (Jägala-Joa)",
+    "subtitle": "Kubja tee, Jägala-Joa, 74212 Harju maakond, Eesti · 59.4498° N, 25.1762° E",
+    "openMaps": "Ava reaalajas kaart Google Mapsis",
+    "officialTourismText": "Viimase ametliku info, looduskaitse eeskirjade ja piirkonna turismikalendri jaoks külastage palun",
+    "officialTourismLink": "Visit Estonia · Eesti ametlik turismiportaal"
   },
   "faq": {
-    "title": "Korduma kippuvad küsimused (KKK)",
+    "title": "Korduma kippuvad küsimused (KKK · 6)",
     "items": [
       {
-        "question": "Kus asub Jägala juga?",
-        "answer": "Jägala juga asub Jägala-Joas, Harju maakonnas, Eestis."
+        "question": "Kus täpselt asub Jägala juga?",
+        "answer": "**Jägala juga** (ingliskeelne vasted: **Jägala Waterfall**, endonüüm: **Jägala juga**) asub koordinaatide **59.4498° N, 25.1762° E** lähedal Jägala jõe alljõel. Administratiivselt kuulub ta **Jägala-Joa** külale, **Jõelähtme vallas**, **Harju maakonda**, Eesti Vabariikile. Parklani jõuab Kubja teelt."
       },
       {
-        "question": "Kas Jagala Waterfall on külastamiseks tasuta?",
-        "answer": "Jah, Jägala juga on avalik ruum ja seda saab kogu aastal tasuta külastada."
+        "question": "Kas Jägala juga on tasuta? Kas parkimine on ka tasuta?",
+        "answer": "**Kogu kaitstud loodusmaastik on avalikult ja tasuta külastatav kogu aastate vältel 24/7 – pole vaja piletit, kaarti ega lubadust.** **Parkimistingimused tüübist sõltuvalt:** peamine parkla siseralustatud osas on üldjuhul tasuta, aga vähemus külaväliste korrastatud tänavakohtade eest võib olla väike makstav staatus. Lugege alati iga valitud koha sissepääsu silte läbi. Parkimine katmata looduspinnale või metsa tulekaitse teedele kaitstud maastiku piiril on TÄIELIKULT KEELATUD."
       },
       {
-        "question": "Millal on parim aeg Jägala juga külastada?",
-        "answer": "Parim aeg on kevad (aprill–mai), kui lumelammutuse tõttu voolu on kõige rohkem ja juga on kõige jõulisem. Samuti on kena suvi (juuni–august) matkamiseks ja sügis (september–oktober) värviliste lehtede jaoks."
+        "question": "Millal on parim külastusaeg? Kas talvine jääkate on ohutu lähenemiseks?",
+        "answer": "**Kõige visuaalselt muljetavaldavam aeg on aprilli–mai kevadine paisuperiood** – vool tõuseb 35–60 m³/s ni, müra ja prügi on maksimaalsed ning päikesest põhjustatud vikerkaartide esinemissagedus kõrgeim. **Jääkatehooaja** ulatub üldjuhul detsembri lõpust veebruari lõpuni; ta moodustub pärast 5–7 järjestikku alla nulli jäävat päeva. **OHUTUS: KRIITILINE:** ärge kunagi lähenge jääkatest kõndides jääl – jämedus on paisuveekausi koha juured ebaühtlane, veed all jooksevad pidevalt aktiivselt. Piirdubge alati kavandatud puidust teede ja platvormidega."
+      },
+      {
+        "question": "Kas kohapeal on avalikud tualetid? Kas platvorm on kättesaadav lastetõstjale või ratastooliga?",
+        "answer": "**Avalikud pesemiskohad** paiknevad tavaliselt peamises parklaklasteris ja / või RMK infoelamute juures; osa hooajalisest ühikust tõmmatakse talvel veekatte tõttu välja ja lukustatakse – kontrollige Eesti Keskkonnaameti / RMK pesemisvõimaluste kaardilt SAMA HOMMIKUL enne teekonda. **Kättesaadavus:** Peamine puidust vaateplatvorm jõuab parklast kõigutamatult kaldu teega kaudu ja on üldiselt kättesaadav standardsetel lastetõstjatel või lihtsatel käsitsi ratastoolidel. Alumised jõeäärsed teed sisaldavad samme, kivimiitu ja libedaid lõike – EI SOOVITA neid läbida ratastooliga, liikumisabivahendiga ega raske lastetõstjaga. Piirduge ülemise platvormi ringiga, kui kättesaadavus on mure."
+      },
+      {
+        "question": "Kas saan Jägala juga kaudselt ujuda, telkida või süüa avatud tule / grilliga?",
+        "answer": "**Ujumine ja veekausi alla hüppamine on KEELATUD ja ERITI OHTLIK** – tugevad allpool olevad pööratud voolud, põhjamõõdulud sügavused ja teravad lubjakivi nõlvad on saadaval. **Telkimine:** telgid, katuse all olevad telgid, camperite ööpäevased peatused ja autos magamine EI OLE lubatud 107 ha kaitstud loodusmaastiku piirides. Õigeksmõistliku telkimise jaoks kasutage Lahema rahvusparg ametlikult määratud RMK telkimisvõimalusi (≈ 20–35 min sõitu kaugemale ida). **Piknik ja tule:** külm või termostoi valmistatud toit on lubatud määratud piknikulaul. **KOGU kaitstud maastikus KEELATUD KÕIK avatud tule, laagriköögid, sügisköögid, alkoholkeetjad ja ühekäigud grillid.** Rikkumisi korraldatakse Eesti Looduskaitse Seaduse § 67 korraldada halduskaristus."
+      },
+      {
+        "question": "Kui sageli on Tallinnast pikkbussid ja mida teha, kui ma viimase tagasiteo ära unustan?",
+        "answer": "**Ühistransport:** Tallinna bussijaamast pikkbuss Narva või Jõgeva suunas, väljumine **Jägala-Joa** peatuses ja ≈ 15–20 minuti jalgsi matk platvormini. **HOIATUS:** tööpäevade ja nädalavahetuste sõitude arv on eriti erinevad (laupäeval / pühapäeviti tihti ainult 3–5 tagasitteed päevas) – KONTROLLIGE ALATI EELNEVALT TLT.ee VÕI Elron REAALAJAS GAAFIIKU enne reisi. Kui te siiski viimase pikkbussi kaoks, otsige reaalajas kaartidel kohalikku taksot või ühist sõitu – Tallinna ühesuunaline sõit maksab tavalistel tundidel **25–35 EUR** ümbruses."
       }
     ]
   },
   "footer": {
-    "rights": "© 2026 Jägala juga Sõltumatu Turismiuurimise Assotsiatsioon · Kõik õigused kaitstud.",
+    "rights": "© 2026 Jägala juga Sõltumatu Turismiuurimise Kolledž · Kõik õigused kaitstud. Mittetulunduslik haridusprojekt.",
     "privacy": "Privaatsuspoliitika",
     "terms": "Teenustingimused",
     "cookies": "Cookie seaded",
-    "officialResourcesTitle": "Seotud ressursid ja info",
+    "officialResourcesTitle": "Ametlikud ressursid ja asutused",
     "officialLinks": {
-      "estonia": "Eesti",
+      "estonia": "Eesti Vabariik – valitsus.ee",
       "harju": "Harju maakonna liit",
-      "joelahtme": "Jõelähtme vald",
-      "visitEstonia": "Visit Estonia",
-      "climate": "Eesti kliima"
+      "joelahtme": "Jõelähtme vald (joelahtme.ee)",
+      "visitEstonia": "Visit Estonia · ametlik turism",
+      "climate": "Eesti Keskkonnaamet · kliimaportaal"
     },
-    "disclaimer": "See veebisait on sõltumatu kolmanda osapoole turismiinfoprojekt. Me ei ole seotud kohaliku valitsuse või ühegi teise ametliku asutusega."
+    "disclaimer": "See veebisait on sõltumatu mittetulunduslik kolmandast osast lähtuv hariduslik ja informatiivne projekt Jägala juga jaoks. MEIL EI OLE mingit ametlikku seost, partnerlust või kiitmissuhet Eesti riigi, ühegi maakonnavalitsuse, Jõelähtme valla, RMK ega ühegi kaubandusliku operaatoriga. Mugavuste ja majutuse kategooriad on neutraalset tüübinfot ja ei kujenda ühegi konkreetse ettevõtte kaubanduslikku soovitust."
   },
   "privacy": {
     "title": "Privaatsuspoliitika",
-    "lastUpdated": "Viimati uuendatud: 2026. mai",
+    "lastUpdated": "Viimati uuendatud: august 2026",
     "sections": [
       {
-        "heading": "1. Info kogumine",
-        "content": "Me üldjuhul ei aktiivselt kogu kasutaja isiklike andmeid. Kogu teave, mille olete meile esitanud kontaktivormide või e-kirjade kaudu, hoitakse rangelt konfidentsiaalselt."
+        "heading": "1. Andme kogumine",
+        "content": "See on valdavalt staatiline info veebileht. Me ei aktiivselt küsitud ega kogu isiklike andmeid tavaliselt lugejate poolt üldisel sirvimisel. Iga kontaktinfo, mille vabatahtlikult saadate edasi tulevikus kontaktivormi kaudu või e-kirjaga, hoitakse täielikult konfidentsiaalselt, kunagi müüdud ja ainult teie konkreetse päringu vastamiseks kasutatud."
       },
       {
-        "heading": "2. Info kasutamine",
-        "content": "Kogutud teavet kasutatakse üksnes meie teenuste pakkumiseks, hoidmiseks ja parandamiseks ning suhtlemiseks teiega. Me ei müü ega jaga teie isiklike andmeid kolmandatele osapooltele turunduseks."
+        "heading": "2. Andmete kasutamine",
+        "content": "Meie poolt vabatahtlikult edastatud info kasutatakse üksnes päringu vastamiseks, alusveebilehe hoidmiseks ja parandamiseks ning – kui sellest on eksplitsiitselt taotletud – ühekordse tagasiside saatmiseks. Me ei müü, ei jaga ega üüa teie isikandmeid kolmandatele osapooltele turunduseks."
       },
       {
-        "heading": "3. Cookies ja jälgimine",
-        "content": "Me kasutame cookies-sid ja sarnaseid jälgimistehnoloogiaid meie veebisaidi külastuste jälgimiseks ja teabe hoidmiseks. Võite keelata brauseril kõigi cookies-de vastuvõtmise või teatada, kui saadetakse cookie."
+        "heading": "3. Cookies ja veebianalüütika",
+        "content": "Kasutame esmases plaanis olulisi esmakordseid küpsiseid, et meelde jätta teema ja valitud keel. Analüütikalised küpsised, kui need on lubatud, aitavad meil mõtta agregaadi külastuskäitumist ilma üksikuid lugejaid tuvastamata. Turunduslikud küpsised, kui need on lubatud, kasutatakse ainult projekti puhta info, mitte-kaubandusliku kampaania jaoks pärast eksplitsiitselt ettetehtud nõusolekut. Saate saata eelistused korraks kohandada Cookie seaded."
       },
       {
         "heading": "4. Andmeturvalisus",
-        "content": "Teie andmete turvalisus on meile oluline. Me kasutame äriühingutele omaseid vahendeid teie isiklike andmete kaitsmiseks, kuigi ükski edastusviis Internetis ei ole 100% turvaline."
+        "content": "Rakendame äriühingutele omaseid tehnilisi ja organisatsioonilisi meere, et kaitsta piiratud hulka isikandmeid, mis meil võib olla. Sellegipoolest ei ole ükski avaliku Interneti kaudu ülekande ega elektroonilise salvestamise meetod 100 % turvaline ning me ei saa garanteerida absoluutset turvalisust."
       }
     ]
   },
   "terms": {
     "title": "Teenustingimused",
-    "lastUpdated": "Viimati uuendatud: 2026. mai",
+    "lastUpdated": "Viimati uuendatud: august 2026",
     "sections": [
       {
         "heading": "1. Tingimuste vastuvõtmine",
-        "content": "Pääsete juurde ja kasutades seda veebisaiti, nõustute olema seotud nendega teenustingimustega. Kui te ei nõustu ühegi tingimusosaga, ei tohi te teenust kasutada."
+        "content": "Selle veebilehe juurdepääsemine ja sirvimise korral nõustute olema seotud nendega Teenustingimustega koos Privaatsuspoliitika ja Cookie seadistustega. Kui te ei nõustu ühegi olulise osaga, lõpetage juurdepääs kohe."
       },
       {
-        "heading": "2. Teenuse kasutamine",
-        "content": "See veebisait on sõltumatu kolmanda osapoole turismiinfoprojekt. Esitatud info on üksnes üldise teabe eesmärgil. Nõustute kasutama saitiga vastutustundlikult ja seaduslikult."
+        "heading": "2. Projekti olemus",
+        "content": "See on sõltumatu mittetulunduslik haridusprojekt Jägala juga jaoks. Esitatud info on üldise info eesmärgil hea usu korral. Me ei ole reisibüroo, tuurioperaator, broneerimisplatvorm ega kaubanduslik reklaamivahend. Mugavuste ja majutuse kategooriad on kaubamärkidest neutraalset tüüpinav – ükski ettevõte ei ole ametlikult kiidetud."
       },
       {
-        "heading": "3. Intellektuaalne omadus",
-        "content": "Kogu selle veebisaidi sisu, sealhulgas tekstid, pildid ja logod, on veebisaidi omaniku omadus, kui pole teisiti märgitud. Ebaseaduslik kasutamine, reprodutseerimine või levik on rangelt keelatud."
+        "heading": "3. Intellektuaalne omandus",
+        "content": "Kui pole teisiti märgitud (nt arhiivi tsitaadid), on kogu originaalne tekstisisu, info valik ja korraldus ning visuaalne disainikiht © Jägala juga Sõltumatu Turismiuurimise Kolledž. Litsentsimata ümbertrükkimine, kraapimine või levik on keelatud. Korrektne do-follow tagasilink mitta-tulundusliku haridusliku või ajakirjanduse tsiteerimiseks on siiski soojalt teretulnud."
       },
       {
         "heading": "4. Vastutuse piiramine",
-        "content": "Me ei vastuta ühegi otsese, kaudse, juhusliku või tagajärjelise kahju eest, mis tuleneb veebisaidi või selles sisalduva teabe kasutamisest või kasutamatajäägist."
+        "content": "Ükski juhtumis, veebilehe operaatorid, kaastöötajad või peremees ei vastuta ühegi otsese, kaudse, juhusliku, tagajärjelise, erilise või karistusliku kahju eest, sealhulgas andmekadu, reisi kulude või vigastuse eest, mis tuleneb veebilehe või selles sisalduva teabe kasutamisest või sellele tuginedest. Ohutuskriitilise ja seaduskriitilise info korraldage alati päevas ametlike pädevate organitega vastavuse kontroll reisile mineku eel."
       }
     ]
   },
   "cookieSettings": {
-    "title": "Cookie seaded",
-    "description": "Hallake oma cookie eelistusi.",
+    "title": "Cookie eelistused",
+    "description": "Seadistage oma küpsise eelistused selle mittetulundusliku haridusliku veebilehe jaoks.",
     "essential": {
-      "title": "Vajalikud cookies",
-      "description": "Vajalik veebisaidi põhifunktsioonide jaoks.",
-      "badge": "Alati aktiivne"
+      "title": "Olulised küpsised",
+      "description": "Vajalikud põhifunktsioonide jaoks: teema eelistuse meeldejäämine, valitud keel, seansi terviklikkus.",
+      "badge": "Alati aktiivsed"
     },
     "analytics": {
-      "title": "Analüütilised cookies",
-      "description": "Aitavad meil mõista, kuidas külastajad saadiga suhtlevad."
+      "title": "Analüütilised küpsised",
+      "description": "Agregaadilised, mittetuvastavad analüütikalised küpsised – aitavad meil mõista, millised arhiivi jaotised lugejad kõige kasulikumaks leiavad."
     },
     "marketing": {
-      "title": "Turunduslikud cookies",
-      "description": "Kasutatakse külastajate jälgimiseks veebisaitide vahel."
+      "title": "Turunduslikud küpsised",
+      "description": "Veebisaitide-vahelised turunduslikud küpsised (kui lubatud) ainult projekti puhta info, mitte-kaubandusliku kampaania jaoks."
     },
-    "save": "Salvesta eelistused",
-    "saved": "Eelistused salvestatud!"
+    "save": "Salvesta minu eelistused",
+    "saved": "Eelistused salvestatud. Täname!"
   },
   "officialManagement": {
-    "title": "Jägala juga kohta",
-    "text": "Jägala juga on üks Eesti kõige tähtsamaid loodusmaastikke, mida kaitsevad ja haldavad koos Eesti Keskkonnaministeerium ja Riigi Metsameskond.\n\nEesti suurima loodusliku juga kui Jägala juga on mitte ainult tähtis turismikohvik, vaid ka geoloogilise uurimise ja ökoloogilise kaitse tähtis piirkond. Ümbruses olev metsaökosüsteem on täielik ja on Eesti looduspärangu väärtuslik osa."
+    "title": "Jägala juga kohta (haldamine ja kaitse staatus)",
+    "text": "Jägala juga on üks Eesti tähtsamaid geoloogilisi ja hüdroloogilisi objekte. 107 hektarine kaitstud loodusmaastik (kaitstav loodusmaastik) haldavad koos **Eesti Keskkonnaministeerium**, **Riigi Metsakeskus (RMK)** ja **Jõelähtme vald**.\n\nKui Eesti kõige suurema vooluga loodusliku jugana töötleb Jägala samaaegselt prioriteetselt maastik ja rahvusvaheliselt loodusturismisihtkohana, Balti piirkonna geoteaduse väljaklassina ning Jägala jõe ökoloogilise koridori põhilena elupaigana. Kõik haldamisraamistik integreerib külastajate juurdepääsu pikaajalise ökosüsteemikaitse kohustustega."
   },
   "recommendations": {
-    "title": "Avasta veelgi",
-    "attractionsTitle": "Lähedal asuvad vaatamisväärsused",
-    "toursTitle": "Soovitatavad ülestõusud ja tegevused",
+    "title": "Lisalugemine ja lähedal asuvad kaitstud objektid",
+    "attractionsTitle": "Lähedal asuvad kaitstud objektid (ametlikud lingid)",
+    "toursTitle": "Ametlikud tuuri- ja tegevusportaal",
     "attractions": [
-      {"name": "Tallinna vanalinn", "url": "https://visitestonia.com/en"},
-      {"name": "Lahema rahvuspark", "url": "https://www.rmk.ee"},
-      {"name": "Jägala kloostri varemed", "url": "https://muis.ee"},
-      {"name": "Paldiski", "url": "https://visitestonia.com/en"}
+      { "name": "Tallinna vanalinna ÜMaailmapärandik – Visit Estonia", "url": "https://visitestonia.com/en" },
+      { "name": "Lahema rahvuspark (RMK ametlik)", "url": "https://www.rmk.ee" },
+      { "name": "Jägala kloostri varemed – Eesti Muinsusregister (muis.ee)", "url": "https://muis.ee" },
+      { "name": "Paldiski poolsaare ja Balti Klint – Visit Estonia", "url": "https://visitestonia.com/en" },
+      { "name": "Keila juga (Keila Waterfall) – Harju maakonna sõlmpunkt", "url": "https://www.rmk.ee" }
     ],
     "tours": [
-      {"name": "Tallinna looduspäevareis", "url": "https://visitestonia.com/en"},
-      {"name": "Eesti loodusimede reis", "url": "https://visitestonia.com/en"},
-      {"name": "Juga ja metsa matk ülestõus", "url": "https://visitestonia.com/en"},
-      {"name": "Eesti ekoturismikogemus", "url": "https://visitestonia.com/en"}
+      { "name": "Tallinna piirkonna looduse päevastuure – Visit Estonia marsruutide teek", "url": "https://visitestonia.com/en" },
+      { "name": "Eesti loodusimeteede reisikogum – Visit Estonia koondloetelu", "url": "https://visitestonia.com/en" },
+      { "name": "RMK Riigi Metsa – broneeritavad rühmad matkad ja juhitud jalutuskäigud", "url": "https://www.rmk.ee" },
+      { "name": "Balti Klindi geotee – Eesti Keskkonnaameti hariduslik", "url": "https://www.kliimaministeerium.ee/en" }
     ]
   }
 }

@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "贾加拉瀑布 Jägala Waterfall｜爱沙尼亚最大天然瀑布 - 最佳旅游景点",
-    "description": "探索爱沙尼亚贾加拉瀑布的完整指南。了解交通路线、最佳观赏时间、拍照机位和精彩照片。爱沙尼亚最大的天然瀑布，独特自然景观。"
+    "title": "Jägala Waterfall (Jägala-Joa) - 游览指南与地理位置",
+    "description": "探索 Jägala Waterfall（贾加拉瀑布，Jägala juga）——位于爱沙尼亚哈尔尤县 Jägala-Joa 的标志性地标。查看位置地图、开放信息、周边拉赫马国家公园以及旅行小贴士。"
   },
   "header": {
     "home": "首页",
@@ -11,15 +11,22 @@
     "backToHome": "返回首页"
   },
   "hero": {
+    "titleFull": "Jägala Waterfall (Jägala-Joa)",
     "title": "贾加拉瀑布",
     "subtitle": "爱沙尼亚最大的天然瀑布与壮丽自然奇观",
-    "rating": "4.8(7,468)",
-    "reviewCount": "7,468 条评价",
+    "rating": "4.8(7,916)",
+    "reviewCount": "7,916 条评价",
     "type": "天然瀑布 · 旅游景点",
     "openMaps": "查看位置"
   },
+  "breadcrumb": {
+    "label": "地理归属层级",
+    "path": "Jägala Waterfall → Jägala-Joa → 哈尔尤县 → 爱沙尼亚"
+  },
   "intro": {
+    "aboutTitle": "About Jägala Waterfall（关于贾加拉瀑布）",
     "title": "探索贾加拉瀑布",
+    "equivalenceStatement": "欢迎来到 **Jägala Waterfall**，公认为核心的 **Jagala Waterfall**（贾加拉瀑布）。位于 **爱沙尼亚** **哈尔尤县** **Jägala-Joa** 的中心地带，这一目的地是到访该地区旅行者的核心枢纽。",
     "description": "走进贾加拉瀑布，瞬间被爱沙尼亚最壮观的自然奇观震撼。没有城市的喧嚣，只有奔腾的瀑布、茂密的森林、嶙峋的岩石与蜿蜒的河谷，每一处角落都透着原始自然的力量。\n\n我在一个春末到访，冰雪消融后的瀑布水量充沛，白色水幕从8米高处倾泻而下，轰鸣声震耳欲聋，水雾弥漫在空气中，在阳光照射下形成绚丽的彩虹。河岸两侧绿树成荫，野生花卉点缀其间，自然生态保存完好。\n\n瀑布周边步道修葺完善，木质观景台提供最佳观赏角度，有人在各角度拍照留念，有人在河边野餐，孩童在浅滩嬉戏玩水，欢声笑语回荡在河谷间。\n\n这里没有商业化的人工痕迹，只有纯粹的自然之美。秋季时分，四周森林披上金黄火红的秋装，瀑布在五彩斑斓的树叶映衬下更显壮美。冬季结冰后，瀑布形成壮观的冰挂景观，银装素裹，宛如童话世界。",
     "visitGuide": {
       "title": "游览建议",
@@ -38,10 +45,15 @@
         "四季景色各异，春夏季瀑布奔腾，冬季形成冰挂奇观",
         "周边森林生态系统完整，野生动植物资源丰富"
       ]
-    }
+    },
+    "nearbyTitle": "贾加拉瀑布（Jagala Waterfall）周边地标与景点",
+    "nearbyText": "在游览 **Jägala Waterfall** 时，游客可轻松探索周边历史地标与景点，包括 **拉赫马国家公园（Lahemaa National Park）** 和 **贾加拉修道院遗址（Jägala Monastery Ruins）**。"
   },
   "knowledge": {
     "title": "发现贾加拉瀑布的魅力",
+    "locationTitle": "贾加拉瀑布（Jagala Waterfall）的位置与前往方式（Jägala-Joa）",
+    "landmarksTitle": "贾加拉瀑布（Jagala Waterfall）周边地标与景点",
+    "historyTitle": "Jägala Waterfall 的历史与重要意义",
     "sections": [
       {
         "id": "geology",
@@ -235,9 +247,28 @@
     ]
   },
   "mapSection": {
-    "title": "交通指南",
+    "title": "贾加拉瀑布（Jagala Waterfall）的位置与前往方式（Jägala-Joa）",
     "subtitle": "Kubja tee, Jägala-Joa, 74212 Harju maakond, Estonia",
-    "openMaps": "在 Google Maps 查看"
+    "openMaps": "在 Google Maps 打开",
+    "officialTourismText": "有关官方更新及区域旅游资讯，请访问",
+    "officialTourismLink": "爱沙尼亚 / 哈尔尤县官方旅游门户"
+  },
+  "faq": {
+    "title": "常见问题（FAQ）",
+    "items": [
+      {
+        "question": "Jägala Waterfall 位于哪里？",
+        "answer": "Jägala Waterfall 位于爱沙尼亚哈尔尤县 Jägala-Joa。"
+      },
+      {
+        "question": "Jagala Waterfall 是否免费参观？",
+        "answer": "是的，Jägala Waterfall 是一处公共场所，全年均可免费参观。"
+      },
+      {
+        "question": "什么时候是参观 Jägala Waterfall 的最佳时间？",
+        "answer": "最佳时间是春季（4-5月），此时冰雪消融后瀑布水量最为充沛，气势最为壮观。夏季（6-8月）气候宜人，适合徒步野餐；秋季（9-10月）树叶五彩斑斓，景色如画。"
+      }
+    ]
   },
   "footer": {
     "rights": "© 2026 贾加拉瀑布独立旅游研究协会 · 保留所有权利。",

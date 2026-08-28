@@ -3,17 +3,35 @@
 import { useTranslations } from 'next-intl';
 import { useState, useCallback } from 'react';
 
+const ALT_TEMPLATES = [
+  'Jägala Waterfall - Panorama view in Jägala-Joa, Estonia',
+  'Jägala Waterfall - Spring abundant flow in Jägala-Joa',
+  'Jägala Waterfall - Summer lush greenery landscape',
+  'Jägala Waterfall - Autumn colorful foliage near Jagala Waterfall',
+  'Jägala Waterfall - Winter ice curtain wonder in Estonia',
+  'Jägala Waterfall - River valley landform geology',
+  'Lahemaa National Park style forest trail near Jagala Waterfall',
+  'Jägala Waterfall - Riverside shallow with waterfall background',
+  'Jägala Waterfall - Magnificent water curtain main view',
+  'Jägala Waterfall - Wildlife habitat ecosystem around Jägala-Joa',
+  'Jägala Waterfall - Wooden viewing platform in Harju maakond',
+  'Jägala Waterfall - Rainbow in sunlight at Jägala-Joa',
+  'Jägala Waterfall - Limestone erosion marks geological feature',
+  'Jägala Waterfall - Rushing river water Jägala River Estonia',
+  'Jägala Waterfall - Nature masterpiece natural wonder Estonia',
+];
+
 export default function Gallery() {
   const t = useTranslations('gallery');
   const [currentIndex, setCurrentIndex] = useState(0);
   const [isLightboxOpen, setIsLightboxOpen] = useState(false);
   const [showAll, setShowAll] = useState(false);
 
-  // Get captions from translations and map them to the 15 images
   const captions = t.raw('captions') as string[];
   const photos = Array.from({ length: 15 }).map((_, i) => ({
-    src: `/gallery/jagalawaterfall (${i + 1}).jpg`,
-    alt: captions[i] || captions[captions.length - 1] // fallback if less captions
+    src: `/gallery/jagalawaterfall-${String(i + 1).padStart(2, '0')}.jpg`,
+    caption: captions[i] || captions[captions.length - 1],
+    alt: ALT_TEMPLATES[i] || ALT_TEMPLATES[ALT_TEMPLATES.length - 1],
   }));
 
   const goToPrevious = useCallback(() => {
@@ -56,11 +74,11 @@ export default function Gallery() {
                     alt={photo.alt}
                     className="w-full h-full object-cover rounded-lg"
                     style={{ minHeight: i === 0 ? '400px' : '180px' }}
-                    loading="lazy"
+                    loading={i === 0 ? 'eager' : 'lazy'}
                   />
                   <div className="absolute inset-0 bg-black/0 group-hover:bg-black/30 transition-colors rounded-lg flex items-end">
                     <p className="text-white text-sm p-3 opacity-0 group-hover:opacity-100 transition-opacity">
-                      {photo.alt}
+                      {photo.caption}
                     </p>
                   </div>
                 </div>
@@ -136,7 +154,10 @@ export default function Gallery() {
           </button>
 
           <button
-            onClick={(e) => { e.stopPropagation(); goToPrevious(); }}
+            onClick={(e) => {
+              e.stopPropagation();
+              goToPrevious();
+            }}
             className="absolute left-4 w-12 h-12 bg-white/20 hover:bg-white/30 rounded-full flex items-center justify-center transition-colors"
             aria-label="Previous photo"
           >
@@ -153,7 +174,10 @@ export default function Gallery() {
           />
 
           <button
-            onClick={(e) => { e.stopPropagation(); goToNext(); }}
+            onClick={(e) => {
+              e.stopPropagation();
+              goToNext();
+            }}
             className="absolute right-4 w-12 h-12 bg-white/20 hover:bg-white/30 rounded-full flex items-center justify-center transition-colors"
             aria-label="Next photo"
           >

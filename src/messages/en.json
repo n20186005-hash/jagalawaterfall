@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Jägala Waterfall | Estonia's Largest Natural Waterfall - Best Travel Attraction",
-    "description": "Complete guide to Jägala Waterfall in Estonia. Learn about transportation, best viewing times, photo spots and stunning photos. Estonia's largest natural waterfall with unique landscape."
+    "title": "Jägala Waterfall (Jägala-Joa) - Visitor Guide & Location",
+    "description": "Discover Jägala Waterfall (Jägala juga), the iconic landmark in Jägala-Joa, Harju maakond, Estonia. View location map, opening details, nearby Lahemaa National Park, and travel tips."
   },
   "header": {
     "home": "Home",
@@ -11,15 +11,22 @@
     "backToHome": "Back to Home"
   },
   "hero": {
+    "titleFull": "Jägala Waterfall (Jägala-Joa)",
     "title": "Jägala Waterfall",
     "subtitle": "Estonia's Largest Natural Waterfall & Magnificent Natural Wonder",
-    "rating": "4.8(7,468)",
-    "reviewCount": "7,468 reviews",
+    "rating": "4.8(7,916)",
+    "reviewCount": "7,916 reviews",
     "type": "Natural Waterfall · Tourist Attraction",
     "openMaps": "View Location"
   },
+  "breadcrumb": {
+    "label": "Geographic hierarchy",
+    "path": "Jägala Waterfall → Jägala-Joa → Harju maakond → Estonia"
+  },
   "intro": {
+    "aboutTitle": "About Jägala Waterfall",
     "title": "Discover Jägala Waterfall",
+    "equivalenceStatement": "Welcome to **Jägala Waterfall**, widely recognized as the central **Jagala Waterfall**. Located in the heart of **Jägala-Joa**, **Harju maakond**, **Estonia**, this destination serves as a primary hub for travelers visiting the region.",
     "description": "Step into Jägala Waterfall and be instantly awestruck by Estonia's most spectacular natural wonder. No urban noise, just cascading water, dense forests, rugged rocks, and winding river valleys — every corner radiates raw natural power.\n\nI visited in late spring, when melting snow fed the most abundant water flow. The white water curtain plunges 8 meters down, the roaring sound fills the air, and mist spreads everywhere, forming brilliant rainbows in the sunlight. Both riverbanks are shaded by green trees, wildflowers dot the landscape, and the natural ecosystem is perfectly preserved.\n\nThe walking trails around the waterfall are well-maintained, with wooden viewing platforms offering the best angles. Visitors take photos from various spots, have picnics by the river, and children play in the shallow water, their laughter echoing through the valley.\n\nThere are no commercial artificial traces here, only pure natural beauty. In autumn, the surrounding forests don colorful golden and crimson coats, making the waterfall even more magnificent against the backdrop of vibrant foliage. In winter, when frozen, the waterfall forms spectacular ice curtains, silver and white, like a fairy tale world.",
     "visitGuide": {
       "title": "Visit Tips",
@@ -38,10 +45,15 @@
         "Scenery transforms through four seasons: rushing water in spring/summer, ice curtains in winter",
         "Complete forest ecosystem with rich wildlife and vegetation"
       ]
-    }
+    },
+    "nearbyTitle": "Landmarks & Attractions Around Jagala Waterfall",
+    "nearbyText": "When visiting **Jägala Waterfall**, visitors can easily explore surrounding historical landmarks and points of interest, including **Lahemaa National Park** and **Jägala Monastery Ruins**."
   },
   "knowledge": {
     "title": "The Charm of Jägala Waterfall",
+    "locationTitle": "Location & How to Visit Jagala Waterfall in Jägala-Joa",
+    "landmarksTitle": "Landmarks & Attractions Around Jagala Waterfall",
+    "historyTitle": "History & Significance of Jägala Waterfall",
     "sections": [
       {
         "id": "geology",
@@ -119,7 +131,7 @@
     "steps": [
       "Depart from Tallinn, drive or take bus to Jägala Waterfall site",
       "Park at parking lot, walk to waterfall main viewing platform",
-      "Enjoy waterfall panorama at wooden viewing platform, feel the震撼 of spreading mist",
+      "Enjoy waterfall panorama at wooden viewing platform, feel the power of spreading mist",
       "Walk down along left riverside trail, observe erosion landforms up close below waterfall",
       "Stop at riverside shallow area, observe river valley geological structure and wildlife",
       "Head to right high ground viewpoint, photograph waterfall panorama and river valley scenery",
@@ -146,7 +158,7 @@
       },
       {
         "name": "Below the Waterfall",
-        "desc": "Low-angle shot of waterfall, showcasing drop and power,震撼 composition"
+        "desc": "Low-angle shot of waterfall, showcasing drop and power, stunning composition"
       },
       {
         "name": "Riverside Trail",
@@ -235,9 +247,28 @@
     ]
   },
   "mapSection": {
-    "title": "How to Get Here",
+    "title": "Location & How to Visit Jagala Waterfall in Jägala-Joa",
     "subtitle": "Kubja tee, Jägala-Joa, 74212 Harju maakond, Estonia",
-    "openMaps": "View on Google Maps"
+    "openMaps": "Open in Google Maps",
+    "officialTourismText": "For official updates and regional tourism information, visit",
+    "officialTourismLink": "Estonia / Harju County Official Tourism Portal"
+  },
+  "faq": {
+    "title": "Frequently Asked Questions (FAQ)",
+    "items": [
+      {
+        "question": "Where is Jägala Waterfall located?",
+        "answer": "Jägala Waterfall is located in Jägala-Joa, Harju maakond, Estonia."
+      },
+      {
+        "question": "Is Jagala Waterfall free to visit?",
+        "answer": "Yes, Jägala Waterfall is a public space and is free to visit year-round."
+      },
+      {
+        "question": "When is the best time to visit Jägala Waterfall?",
+        "answer": "The best time is spring (April–May) after snowmelt when water flow is at its peak and the waterfall is most powerful. Summer (June–August) also offers pleasant weather for hiking and picnics, while autumn (September–October) brings colorful foliage."
+      }
+    ]
   },
   "footer": {
     "rights": "© 2026 Jägala Waterfall Independent Travel Research Association · All rights reserved.",

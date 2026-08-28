@@ -7,6 +7,9 @@ export default function Intro() {
   const items: string[] = messages?.intro?.visitGuide?.items || [];
   const alsoKnownAsItems: string[] = messages?.intro?.alsoKnownAs?.items || [];
 
+  const equivalenceStatement = t('equivalenceStatement');
+  const equivalenceParts = equivalenceStatement.split(/(\*\*.*?\*\*)/g);
+
   return (
     <section className="section-padding">
       <div className="max-w-4xl mx-auto">
@@ -14,9 +17,26 @@ export default function Intro() {
           className="font-display text-3xl sm:text-4xl font-semibold mb-6"
           style={{ color: 'var(--text-primary)' }}
         >
-          {t('title')}
+          {t('aboutTitle')}
         </h2>
         <div className="w-12 h-0.5 mb-8" style={{ background: 'var(--accent)' }} />
+
+        <p
+          className="text-lg leading-relaxed mb-6 font-medium"
+          style={{ color: 'var(--text-primary)' }}
+        >
+          {equivalenceParts.map((part, i) => {
+            const match = part.match(/^\*\*(.*?)\*\*$/);
+            if (match) {
+              return (
+                <strong key={i} style={{ color: 'var(--text-primary)' }}>
+                  {match[1]}
+                </strong>
+              );
+            }
+            return <span key={i}>{part}</span>;
+          })}
+        </p>
 
         <p
           className="text-lg leading-relaxed mb-12"
@@ -65,6 +85,15 @@ export default function Intro() {
               ))}
             </ul>
           </div>
+        </div>
+
+        <div className="mt-12 p-6 sm:p-8 rounded-xl border" style={{ background: 'var(--bg-tertiary)', borderColor: 'var(--border-color)' }}>
+          <h2 className="font-display text-xl font-semibold mb-3" style={{ color: 'var(--text-primary)' }}>
+            {t('nearbyTitle')}
+          </h2>
+          <p className="text-base leading-relaxed" style={{ color: 'var(--text-secondary)' }}>
+            {t('nearbyText')}
+          </p>
         </div>
 
         <div className="mt-12 p-6 sm:p-8 rounded-xl border border-[var(--accent)]" style={{ background: 'var(--bg-tertiary)' }}>

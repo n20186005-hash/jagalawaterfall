@@ -1,5 +1,8 @@
 import { useTranslations } from 'next-intl';
 
+const MAPS_EMBED_SRC =
+  'https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3607.088511197984!2d25.1761703!3d59.4498004!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4692f00112a033b1%3A0x9731a39cb8ae23f0!2sJ%C3%A4gala%20Waterfall!5e1!3m2!1szh-CN!2s!4v1787896147915!5m2!1szh-CN!2s';
+
 export default function MapEmbed() {
   const t = useTranslations('mapSection');
 
@@ -20,18 +23,14 @@ export default function MapEmbed() {
           className="map-container relative rounded-xl overflow-hidden"
           style={{ border: '1px solid var(--map-border)' }}
         >
-          {/*
-            NOTE: Google Maps attribution is hidden via CSS (.gm-style-cc, .gmnoprint).
-            This is for visual cleanliness only. Google's Terms of Service apply.
-          */}
           <iframe
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2400!2d25.1500!3d59.4167!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2sJägala+Waterfall!5e0!3m2!1sen!2see!4v1700000000000!5m2!1sen!2see"
+            src={MAPS_EMBED_SRC}
             width="100%"
             height="450"
             style={{ border: 0 }}
             allowFullScreen
             loading="lazy"
-            referrerPolicy="no-referrer-when-downgrade"
+            referrerPolicy="strict-origin-when-cross-origin"
             title="Google Maps - Jägala Waterfall"
           />
         </div>
@@ -56,6 +55,23 @@ export default function MapEmbed() {
               <line x1="10" y1="14" x2="21" y2="3" />
             </svg>
           </a>
+        </div>
+
+        {/* Official tourism link */}
+        <div className="mt-8 text-center text-sm" style={{ color: 'var(--text-muted)' }}>
+          <p>
+            {t('officialTourismText')}{' '}
+            <a
+              href="https://visitestonia.com/en"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="underline font-medium"
+              style={{ color: 'var(--accent)' }}
+            >
+              {t('officialTourismLink')}
+            </a>
+            .
+          </p>
         </div>
       </div>
     </section>

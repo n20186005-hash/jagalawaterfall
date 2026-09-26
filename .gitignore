@@ -31,3 +31,11 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# opennext / wrangler
+.open-next/
+.wrangler/
+.dev.vars
+
+# high-res image originals (kept locally, must stay < 25 MiB per asset for Workers)
+public/**/.orig-*

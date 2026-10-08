@@ -393,6 +393,7 @@
     "privacy": "Privacy Policy",
     "terms": "Terms of Service",
     "cookies": "Cookie Settings",
+    "guidesTitle": "Visitor Guides",
     "officialResourcesTitle": "Official Resources & Institutions",
     "officialLinks": {
       "estonia": "Republic of Estonia — valitsus.ee",
@@ -475,17 +476,236 @@
     "attractionsTitle": "Nearby Protected Landmarks (Official Links)",
     "toursTitle": "Official Tour & Activity Portals",
     "attractions": [
-      { "name": "Tallinn Old Town (UNESCO World Heritage Site) — Visit Estonia", "url": "https://visitestonia.com/en" },
-      { "name": "Lahemaa National Park (RMK Official)", "url": "https://www.rmk.ee" },
-      { "name": "Jägala Monastery Ruins — Estonian Heritage Register (muis.ee)", "url": "https://muis.ee" },
-      { "name": "Paldiski Peninsula & Baltic Klint — Visit Estonia", "url": "https://visitestonia.com/en" },
-      { "name": "Keila Waterfall (Keila juga) — Harju County sister site", "url": "https://www.rmk.ee" }
+      {
+        "name": "Tallinn Old Town (UNESCO World Heritage Site) — Visit Estonia",
+        "url": "https://visitestonia.com/en"
+      },
+      {
+        "name": "Lahemaa National Park (RMK Official)",
+        "url": "https://www.rmk.ee"
+      },
+      {
+        "name": "Jägala Monastery Ruins — Estonian Heritage Register (muis.ee)",
+        "url": "https://muis.ee"
+      },
+      {
+        "name": "Paldiski Peninsula & Baltic Klint — Visit Estonia",
+        "url": "https://visitestonia.com/en"
+      },
+      {
+        "name": "Keila Waterfall (Keila juga) — Harju County sister site",
+        "url": "https://www.rmk.ee"
+      }
     ],
     "tours": [
-      { "name": "Tallinn Regional Nature Day Tours — Visit Estonia itinerary library", "url": "https://visitestonia.com/en" },
-      { "name": "Estonian Natural Wonders Tour Cluster — Visit Estonia curated listing", "url": "https://visitestonia.com/en" },
-      { "name": "RMK State Forest — Bookable Group Hikes & Guided Walks", "url": "https://www.rmk.ee" },
-      { "name": "Baltic Klint Geotrail — Estonia Environmental Agency educational", "url": "https://www.kliimaministeerium.ee/en" }
+      {
+        "name": "Tallinn Regional Nature Day Tours — Visit Estonia itinerary library",
+        "url": "https://visitestonia.com/en"
+      },
+      {
+        "name": "Estonian Natural Wonders Tour Cluster — Visit Estonia curated listing",
+        "url": "https://visitestonia.com/en"
+      },
+      {
+        "name": "RMK State Forest — Bookable Group Hikes & Guided Walks",
+        "url": "https://www.rmk.ee"
+      },
+      {
+        "name": "Baltic Klint Geotrail — Estonia Environmental Agency educational",
+        "url": "https://www.kliimaministeerium.ee/en"
+      }
     ]
+  },
+  "fromTallinn": {
+    "title": "How to Get to Jägala Waterfall from Tallinn",
+    "intro": "Jägala Waterfall sits roughly 25 km east of central Tallinn, making it one of the easiest half-day nature trips from the Estonian capital. Whether you drive, take the bus, cycle or arrive by taxi, the route is straightforward and well signposted from the E20 highway.",
+    "sections": [
+      {
+        "heading": "By Car via the E20 Highway",
+        "content": "Drive east from Tallinn on the **E20 (Tallinn–Narva) highway** for about 25 km — roughly a **30-minute** drive. Exit at Jägala and follow the brown tourist signs to Jägala-Joa; the site-adjacent car park access road is **Kubja tee**. The principal car park is generally free. **Overnight camping, roof-top tents, camper-vans and sleeping in vehicles inside the 107-hectare protected landscape are NOT permitted.**"
+      },
+      {
+        "heading": "By Intercity Bus",
+        "content": "From **Tallinn Bus Station (Tallinna bussijaam)** board a coach on the Tallinn → Narva or Tallinn → Jõgeva corridor, alight at the **Jägala-Joa** stop, then walk about **15–20 minutes** to the main viewing platform. **Weekend frequency is markedly lower** (often only 3–5 return trips per day) — always cross-check the live timetable on TLT.ee or Elron before travelling."
+      },
+      {
+        "heading": "From Tallinn Airport (TLL)",
+        "content": "Rent a car or take a taxi from the airport and continue east on the E20 for roughly 20 km (about a **25-minute** drive). Direct public transport to the airport requires an interchange at **Ülemiste** or the central bus station, so a rental car or taxi is the practical choice for most fly-in visitors."
+      },
+      {
+        "heading": "Taxi, Ride-hailing & Bicycle",
+        "content": "A taxi or ride-hailing trip from central Tallinn typically costs **25–35 EUR** in normal hours. Cyclists can follow waymarked rural routes for about **25 km** from Tallinn; carry water, a spare inner tube and a high-visibility vest. The route is flat and suitable for endurance cyclists."
+      }
+    ],
+    "faq": {
+      "title": "Getting Here — FAQ",
+      "items": [
+        {
+          "question": "How far is Jägala Waterfall from Tallinn?",
+          "answer": "About **25 km** east of central Tallinn — a **30-minute** drive on the E20 highway, or a 15–20 minute walk after the Jägala-Joa bus stop."
+        },
+        {
+          "question": "Is there a direct bus from Tallinn?",
+          "answer": "Yes. Tallinn → Narva / Jõgeva intercity coaches stop at **Jägala-Joa**; from there it is a 15–20 minute walk to the viewing platform. Weekend services are limited (3–5 return trips/day), so verify the timetable on TLT.ee or Elron."
+        },
+        {
+          "question": "How much does a taxi from Tallinn cost?",
+          "answer": "A one-way taxi or ride-hailing trip from central Tallinn is typically **25–35 EUR** in normal hours; expect higher fares at night or in poor weather."
+        },
+        {
+          "question": "Can I visit without a car?",
+          "answer": "Absolutely — by intercity bus plus a short walk, by taxi / ride-hailing, or as part of an organised regional tour. The site itself requires no booking."
+        },
+        {
+          "question": "Do I need to book anything in advance?",
+          "answer": "No booking is needed to enter the protected landscape. Only **guided walks** (Estonian / English / Russian) must be booked in advance through official regional tourism operators."
+        }
+      ]
+    },
+    "relatedTitle": "More visitor guides"
+  },
+  "parking": {
+    "title": "Parking at Jägala Waterfall — Free Car Park & Tips",
+    "intro": "Parking at Jägala Waterfall is generally free and convenient. The principal site-adjacent surface car park sits a short walk from the main viewing platform, with a few regulated village bays nearby. Here is what to expect and how to avoid a fine.",
+    "sections": [
+      {
+        "heading": "Main Site-Adjacent Car Park",
+        "content": "A **free surface car park for light vehicles** with several dozen bays sits off **Kubja tee**, just a few minutes' walk from the main viewing platform. On spring-flood and summer weekends the bays fill up quickly — **aim to arrive before 10:00 local time** to secure a space."
+      },
+      {
+        "heading": "Village & Roadside Bays",
+        "content": "A minority of village-managed roadside bays may carry a **small paid-parking fee**; always read the signage on arrival. Highway laybys are suitable only for a short 15–30 minute stop-and-photograph stop, not for leaving the vehicle for the day."
+      },
+      {
+        "heading": "Where NOT to Park",
+        "content": "Parking on **unpaved natural ground or forest firebreaks** inside the protected landscape is strictly prohibited and may trigger administrative fines under Estonian nature-conservation rules. Use the designated bays only."
+      },
+      {
+        "heading": "EV Charging & Overnight Rules",
+        "content": "**DC fast-chargers (CCS / CHAdeMO)** are found at major suburban hypermarkets and larger highway service stations within roughly **8–15 km** of the site. **Overnight camping, roof-top tents, camper-vans and car-sleeping are NOT permitted** anywhere inside the 107-hectare protected area."
+      }
+    ],
+    "faq": {
+      "title": "Parking — FAQ",
+      "items": [
+        {
+          "question": "Is parking free at Jägala Waterfall?",
+          "answer": "The main site-adjacent car park is **generally free**. A minority of village-managed roadside bays may charge a small fee — check the signage on arrival."
+        },
+        {
+          "question": "How big is the car park?",
+          "answer": "It offers **several dozen bays** for light vehicles and can fill up on peak spring and summer weekends; arriving before 10:00 local time is recommended."
+        },
+        {
+          "question": "Can I park overnight?",
+          "answer": "**No.** Overnight stays, roof-top tents, camper-vans and sleeping in vehicles are prohibited inside the protected landscape."
+        },
+        {
+          "question": "Is there EV charging nearby?",
+          "answer": "Yes — DC fast-chargers (CCS / CHAdeMO) are typically within **8–15 km**, at suburban hypermarkets and larger highway service stations."
+        },
+        {
+          "question": "Is the car park accessible for strollers or wheelchairs?",
+          "answer": "The main car park connects to the platform via a gently graded access path, broadly reachable with standard strollers or basic manual wheelchairs. Lower riverside trails are not recommended for mobility devices."
+        }
+      ]
+    },
+    "relatedTitle": "More visitor guides"
+  },
+  "winter": {
+    "title": "Jägala Waterfall in Winter — The Ice Curtain Guide",
+    "intro": "In winter Jägala Waterfall transforms into one of Northern Europe's most accessible natural ice spectacles: after 5–7 consecutive days of sub-zero temperatures a translucent ice curtain 20–40 cm thick forms at the brink. Here is how to plan a safe winter visit.",
+    "sections": [
+      {
+        "heading": "When the Ice Curtain Forms",
+        "content": "The ice curtain typically develops from **late December to late February**, once temperatures stay below freezing for 5–7 consecutive days. Mid-winter low flow (January–February) may drop to **3–6 m³/s**, concentrating ice at the lip and along the limestone scarp."
+      },
+      {
+        "heading": "Safety — Stay on the Boardwalks",
+        "content": "**Never walk onto the frozen river surface** to approach the curtain. Ice thickness is irregular over the plunge pool and currents stay active underneath. Confine yourself to the purpose-built boardwalks and platforms at all times."
+      },
+      {
+        "heading": "What to Wear & Road Conditions",
+        "content": "Dress in **insulated, wind-proof layers**; near the polar-night boundary daylight is only **4–6 hours**. Rural roads are usually gritted but can be icy — drive cautiously and allow extra time."
+      },
+      {
+        "heading": "Winter Photography",
+        "content": "Side-illuminated ice shows a translucent **blue polarised glow**. The golden hour is short, so scout compositions in advance and keep camera batteries warm (cold drains them fast). A polarising filter helps manage glare on the ice."
+      }
+    ],
+    "faq": {
+      "title": "Winter Visit — FAQ",
+      "items": [
+        {
+          "question": "When can I see the ice curtain?",
+          "answer": "Usually **late December to late February**, after sustained sub-zero temperatures of 5–7 consecutive days. Its formation and persistence depend on the weather."
+        },
+        {
+          "question": "Is the ice curtain safe to approach?",
+          "answer": "Only from the **boardwalks and platforms**. Never step onto the frozen river surface — ice thickness over the plunge pool is irregular and currents remain active underneath."
+        },
+        {
+          "question": "What is the best time of day to photograph it?",
+          "answer": "The short **golden hour** around sunrise or sunset, when side-light makes the ice glow blue. Scout your composition beforehand."
+        },
+        {
+          "question": "Do I need special clothing or gear?",
+          "answer": "Insulated, wind-proof clothing and proper footwear are essential; keep camera batteries warm. No specialised ice equipment is required if you stay on the paths."
+        },
+        {
+          "question": "Can I visit at all in winter?",
+          "answer": "Yes — the protected landscape is **open 24/7 year-round**, including the winter months."
+        }
+      ]
+    },
+    "relatedTitle": "More visitor guides"
+  },
+  "photos": {
+    "title": "Jägala Waterfall Photography Guide — Best Vantage Points",
+    "intro": "Jägala Waterfall offers compositions for every season: spring-flood power, summer white nights, autumn foliage and the winter ice curtain. This guide covers the best vantage points, light and gear.",
+    "sections": [
+      {
+        "heading": "Main Wooden Viewing Platform",
+        "content": "The default frontal panorama position captures the **full curtain plunging onto the plunge pool** — ideal for wide-angle framing and long-exposure silky-water renderings. Arrive early to avoid the crowds."
+      },
+      {
+        "heading": "Left-bank Shallow Reach & Right High-ground Viewpoint",
+        "content": "The left-bank shallow reach gives close-range compositions with foreground boulders and spray; a **polarising filter** controls surface glare. The right high-ground viewpoint offers a 3/4 overhead of the waterfall, gorge and river corridor — excellent for golden-hour side-light."
+      },
+      {
+        "heading": "Seasonal Light & Timing",
+        "content": "The **first two hours after sunrise and the last two before sunset** give warm side-light and visible mist. Spring mornings produce frequent rainbows; autumn brings high-contrast mist; winter shows blue ice glow."
+      },
+      {
+        "heading": "Gear & Drone Rules",
+        "content": "A **200–400 mm telephoto** and polariser help isolate detail; a tripod is essential for long exposures. **Recreational drones are restricted within the protected landscape** — check current RMK / Jõelähtme Parish rules before flying, as flights may be prohibited."
+      }
+    ],
+    "faq": {
+      "title": "Photography — FAQ",
+      "items": [
+        {
+          "question": "When is the best time for photos?",
+          "answer": "**Spring flood (April–May)** for power and frequent rainbows, and the **golden hours** year-round for warm side-light and mist."
+        },
+        {
+          "question": "What is the best vantage point?",
+          "answer": "The **main platform** for the frontal panorama; the **right high-ground viewpoint** for an overhead 3/4 composition of the waterfall and gorge."
+        },
+        {
+          "question": "Can I fly a drone?",
+          "answer": "Recreational drones are **restricted within the protected landscape**. Verify current RMK / Jõelähtme Parish rules before flying, as flights may be prohibited."
+        },
+        {
+          "question": "What gear should I bring?",
+          "answer": "A telephoto lens (200–400 mm), a polarising filter and a tripod for long exposures, plus rain protection for your camera in spray zones."
+        },
+        {
+          "question": "Are there rainbows?",
+          "answer": "Yes — **frequent in spring mornings** when backlight and mist align, especially during the April–May snowmelt peak."
+        }
+      ]
+    },
+    "relatedTitle": "More visitor guides"
   }
 }

@@ -1,8 +1,21 @@
-import { useTranslations } from 'next-intl';
+import { useTranslations, useMessages } from 'next-intl';
 import { Link } from '@/i18n/navigation';
+import { TOPIC_SLUGS } from '@/lib/seo';
+
+const SLUG_TO_NS: Record<string, string> = {
+  '/from-tallinn': 'fromTallinn',
+  '/parking': 'parking',
+  '/winter': 'winter',
+  '/photos': 'photos',
+};
 
 export default function Footer() {
   const t = useTranslations('footer');
+  const messages = useMessages() as any;
+  const guides = TOPIC_SLUGS.map((slug) => ({
+    slug,
+    title: messages?.[SLUG_TO_NS[slug]]?.title || slug,
+  }));
 
   return (
     <footer
@@ -36,6 +49,17 @@ export default function Footer() {
               </a>
             </div>
           </div>
+          <div className="flex flex-col gap-2">
+            <h3 className="font-display text-sm font-semibold mb-1" style={{ color: 'var(--text-primary)' }}>
+              {t('guidesTitle')}
+            </h3>
+            {guides.map((g) => (
+              <Link key={g.slug} href={g.slug} style={{ color: 'var(--text-secondary)' }} className="hover:underline">
+                {g.title}
+              </Link>
+            ))}
+          </div>
+
           <div className="flex flex-wrap gap-4 text-sm mt-4 sm:mt-0">
             <Link href="/privacy-policy" style={{ color: 'var(--text-secondary)' }} className="hover:underline">
               {t('privacy')}

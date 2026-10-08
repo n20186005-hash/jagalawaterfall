@@ -393,6 +393,7 @@
     "privacy": "Privaatsuspoliitika",
     "terms": "Teenustingimused",
     "cookies": "Cookie seaded",
+    "guidesTitle": "Külastusjuhised",
     "officialResourcesTitle": "Ametlikud ressursid ja asutused",
     "officialLinks": {
       "estonia": "Eesti Vabariik – valitsus.ee",
@@ -475,17 +476,236 @@
     "attractionsTitle": "Lähedal asuvad kaitstud objektid (ametlikud lingid)",
     "toursTitle": "Ametlikud tuuri- ja tegevusportaal",
     "attractions": [
-      { "name": "Tallinna vanalinna ÜMaailmapärandik – Visit Estonia", "url": "https://visitestonia.com/en" },
-      { "name": "Lahema rahvuspark (RMK ametlik)", "url": "https://www.rmk.ee" },
-      { "name": "Jägala kloostri varemed – Eesti Muinsusregister (muis.ee)", "url": "https://muis.ee" },
-      { "name": "Paldiski poolsaare ja Balti Klint – Visit Estonia", "url": "https://visitestonia.com/en" },
-      { "name": "Keila juga (Keila Waterfall) – Harju maakonna sõlmpunkt", "url": "https://www.rmk.ee" }
+      {
+        "name": "Tallinna vanalinna ÜMaailmapärandik – Visit Estonia",
+        "url": "https://visitestonia.com/en"
+      },
+      {
+        "name": "Lahema rahvuspark (RMK ametlik)",
+        "url": "https://www.rmk.ee"
+      },
+      {
+        "name": "Jägala kloostri varemed – Eesti Muinsusregister (muis.ee)",
+        "url": "https://muis.ee"
+      },
+      {
+        "name": "Paldiski poolsaare ja Balti Klint – Visit Estonia",
+        "url": "https://visitestonia.com/en"
+      },
+      {
+        "name": "Keila juga (Keila Waterfall) – Harju maakonna sõlmpunkt",
+        "url": "https://www.rmk.ee"
+      }
     ],
     "tours": [
-      { "name": "Tallinna piirkonna looduse päevastuure – Visit Estonia marsruutide teek", "url": "https://visitestonia.com/en" },
-      { "name": "Eesti loodusimeteede reisikogum – Visit Estonia koondloetelu", "url": "https://visitestonia.com/en" },
-      { "name": "RMK Riigi Metsa – broneeritavad rühmad matkad ja juhitud jalutuskäigud", "url": "https://www.rmk.ee" },
-      { "name": "Balti Klindi geotee – Eesti Keskkonnaameti hariduslik", "url": "https://www.kliimaministeerium.ee/en" }
+      {
+        "name": "Tallinna piirkonna looduse päevastuure – Visit Estonia marsruutide teek",
+        "url": "https://visitestonia.com/en"
+      },
+      {
+        "name": "Eesti loodusimeteede reisikogum – Visit Estonia koondloetelu",
+        "url": "https://visitestonia.com/en"
+      },
+      {
+        "name": "RMK Riigi Metsa – broneeritavad rühmad matkad ja juhitud jalutuskäigud",
+        "url": "https://www.rmk.ee"
+      },
+      {
+        "name": "Balti Klindi geotee – Eesti Keskkonnaameti hariduslik",
+        "url": "https://www.kliimaministeerium.ee/en"
+      }
     ]
+  },
+  "fromTallinn": {
+    "title": "Kuidas Jägala joale Tallinnast jõuda",
+    "intro": "Jägala juga asub umbes 25 km ida poolt Tallinna kesklinnast, muutes selle üheks kõige lihtsamaks poolpäevaseks loodusretkeks pealinnast. Olenemata sellest, kas sõidad autoga, võtad bussi, rattad või tuled taksoga, on tee otsekohene ja hästi märgistatud E20 maantee ääres.",
+    "sections": [
+      {
+        "heading": "Autoga E20 maantee kaudu",
+        "content": "Sõida Tallinnast ida üle **E20 (Tallinn–Narva) maantee** umbes 25 km – umbes **30 minuti** autosõit. Välju Jägala juures ja järgi pruune teemärke Jägala-Joasse; parkla juurdepääsutee on **Kubja tee**. Peamine parkla on üldiselt tasuta. **Ööpäevane telkimine, katuse all olevad telgid, camperid ja magamine sõidukis 107 hektari suuruses kaitstud maastikus EI OLE lubatud.**"
+      },
+      {
+        "heading": "Pikkbussiga",
+        "content": "**Tallinna bussijaamast** võta pikkbuss Narva või Jõgeva suunal, välju **Jägala-Joa** peatuses ja kõnni umbes **15–20 minutit** peamise vaateplatvormini. **Nädalavahetustel on sõitude arv märgatavalt väiksem** (tihti ainult 3–5 tagasiteed päevas) – kontrolli alati reaalajas graafikku TLT.ee või Elron kaudu enne reisi."
+      },
+      {
+        "heading": "Tallinna lennujaamast (TLL)",
+        "content": "Renta auto või võta takso lennujaamast ja jätka ida üle E20 maantee umbes 20 km (umbes **25 minuti** sõit). Otseühendus lennujaamani nõuab ümberistumist **Ülemiste** või keskbussijaamas, seega on autorent või takso enamikule lendavatele külastajatele praktiline valik."
+      },
+      {
+        "heading": "Takso, ühissõit ja jalgratas",
+        "content": "Takso või ühissõidu sõit Tallinna kesklinnast maksab tavalistel tundidel tavaliselt **25–35 EUR**. Jalgratturid saavad järgida märgitud maapiirkonna teid umbes **25 km** kaugusel Tallinnast; võta kaasa vesi, varuratta ja kõrge nähtavusega vest. Tee on lame ja sobib vastupidavusjooksjatele."
+      }
+    ],
+    "faq": {
+      "title": "Kohalejõudmine – KKK",
+      "items": [
+        {
+          "question": "Kui kaugel asub Jägala juga Tallinnast?",
+          "answer": "Umbes **25 km** ida poolt Tallinna kesklinnast – **30 minuti** autosõit E20 maanteel või 15–20 minuti jalgsi pärast Jägala-Joa bussipeatust."
+        },
+        {
+          "question": "Kas Tallinnast on otsene buss?",
+          "answer": "Jah. Tallinna → Narva / Jõgeva pikkbussid peatuvad **Jägala-Joa** peatuses; sealt on 15–20 minuti jalgsi vaateplatvormini. Nädalavahetustel on sõiteid piiratud (3–5 tagasiteed/päev), seega kontrolli graafikut TLT.ee või Elron kaudu."
+        },
+        {
+          "question": "Kui palju maksab takso Tallinnast?",
+          "answer": "Üksik takso või ühissõidu sõit Tallinna kesklinnast maksab tavalistel tundidel tavaliselt **25–35 EUR**; oota kõrgemaid hindu öösel või halva ilmaga."
+        },
+        {
+          "question": "Kas saan külastada ilma autota?",
+          "answer": "Absoluutselt – pikkbussi ja lühikese jalgsiga, taksoga / ühissõiduga või korraldatud piirkondliku tuuri raames. Sisenemine kaitstud maastikule ei vaja broneeringut."
+        },
+        {
+          "question": "Kas ma pean midagi eelnevalt broneerima?",
+          "answer": "Sisenemine kaitstud maastikule ei vaja broneeringut. Ainult **juhitud matkad** (eesti / inglise / vene keeles) tuleb broneerida ette ametlike piirkonna turismiettevõtete kaudu."
+        }
+      ]
+    },
+    "relatedTitle": "Rohkem külastusjuhiseid"
+  },
+  "parking": {
+    "title": "Parkimine Jägala joal – tasuta parkla ja nõuanded",
+    "intro": "Parkimine Jägala joal on üldiselt tasuta ja mugav. Peamine parkla asub lühikese jalgsi kaugusel peamisest vaateplatvormist, lähedal on mõni reguleeritud külaväljak. Siin on kirjeldatud, mida oodata ja kuidas trahvi vältida.",
+    "sections": [
+      {
+        "heading": "Peamine parkla",
+        "content": "**Tasuta pinnaparkla kergeautodele** mitmesaja kohaga asub **Kubja tee** ääres, vaid mõne minuti jalgsi peamisest vaateplatvormist. Kevadise suurvee ja suve nädalavahetustel täituvad kohad kiiresti – **jõuagi kohale enne kella 10:00**."
+      },
+      {
+        "heading": "Küla- ja maantee väljakud",
+        "content": "Vähemus külaväljade korrastatud tänavakohtadest võib olla **väikese tasuga**; alati loe saabumisel sildid läbi. Maantee puhkekohad sobivad ainult lühikeseks 15–30 minuti fotostopiks, mitte sõiduki päevaseks seismajätmiseks."
+      },
+      {
+        "heading": "Kus MITTE parkida",
+        "content": "Parkimine **katmata looduspinnale või metsa tulekaitse teedele** kaitstud maastikus on rangelt keelatud ja võib tuua kaasa halduskaristuse Eesti looduskaitse reeglite järgi. Kasuta ainult määratud väljakuid."
+      },
+      {
+        "heading": "EV laadimine ja ööpäevased reeglid",
+        "content": "**DC kiirlaadijad (CCS / CHAdeMO)** asuvad suuremate linnaäärsete hüperkaubanduse parklaten ja suuremate maantee teeninduspunktide juures umbes **8–15 km** kaugusel objektist. **Ööpäevane telkimine, katuse all olevad telgid, camperid ja magamine sõidukis EI OLE lubatud** üheski kohas 107 hektari suuruses kaitstud alas."
+      }
+    ],
+    "faq": {
+      "title": "Parkimine – KKK",
+      "items": [
+        {
+          "question": "Kas parkimine Jägala joal on tasuta?",
+          "answer": "Peamine parkla on **üldiselt tasuta**. Vähemus külaväljade korrastatud tänavakohti võib olla väikese tasuga – kontrolli sildimärki saabumisel."
+        },
+        {
+          "question": "Kui suur on parkla?",
+          "answer": "See pakub **mitmesada kohta** kergeautodele ja võib täituda kõrge hooaja kevad- ja suve nädalavahetustel; soovitatav on saabuda enne kella 10:00."
+        },
+        {
+          "question": "Kas ma saan parkida ööpäevaks?",
+          "answer": "**Ei.** Ööpäevased peatused, katuse all olevad telgid, camperid ja magamine sõidukis on kaitstud maastikus keelatud."
+        },
+        {
+          "question": "Kas lähedal on EV laadimist?",
+          "answer": "Jah – DC kiirlaadijad (CCS / CHAdeMO) on tavaliselt **8–15 km** kaugusel, linnaäärsete hüperkaubanduse parklaten ja suuremate maantee teeninduspunktide juures."
+        },
+        {
+          "question": "Kas parkla on kättesaadav lastetõstjatele või ratastoolidele?",
+          "answer": "Peamine parkla ühendub platvormiga kõigutamatult kaldu teega, üldiselt kättesaadav standardsetel lastetõstjatel või lihtsatel käsitsi ratastoolidel. Alumised jõeäärsed rajad ei ole liikumisabivahenditele soovitatavad."
+        }
+      ]
+    },
+    "relatedTitle": "Rohkem külastusjuhiseid"
+  },
+  "winter": {
+    "title": "Jägala juga talvel – jääkate juhend",
+    "intro": "Talvel muutub Jägala juga üheks Põhja-Euroopa kättesaadavamaks looduslikuks jääspektaakliks: pärast 5–7 järjestikku alla nulli jäävat päeva moodustub künnise ees 20–40 cm paksune läbipaistev jääkate. Siin on kirjeldatud, kuidas planeerida ohutu talvine külastus.",
+    "sections": [
+      {
+        "heading": "Millal jääkate moodustub",
+        "content": "Jääkate tekib tavaliselt **detsembri lõpust veebruari lõpuni**, kui temperatuurid püsivad alla nulli 5–7 järjestikku päeva. Talvise madalvoolu ajal (jaanuar–veebruar) võib vool langeni **3–6 m³/s**, koondades jääd künnise ja lubjakivi kalju äärde."
+      },
+      {
+        "heading": "Ohutus – jääge puidust teele",
+        "content": "**Ärge kunagi astuge jääl** lähenemaks jääkatele. Jää paksus on paisuveekausi koha juures ebaühtlane ja veed all jooksevad pidevalt aktiivselt. Piirdubge alati ehitatud puidust teede ja platvormidega."
+      },
+      {
+        "heading": "Mida kanda ja teetolmused",
+        "content": "Kandke **soojenatud, tuulekindlaid kihte**; lähedal poolööpiirile on päevavalgust ainult **4–6 tundi**. Maapiirkonna teed on tavaliselt hõlmatud, kuid võivad olla jäised – sõida ettevaatlikult ja jäta lisaks."
+      },
+      {
+        "heading": "Talvine fotograafia",
+        "content": "Külgvalgustatud jää näitab läbipaistvat **sinist polariseeritud helki**. Kuldse tunniku aeg on lühike, seega uuri koosseise ette ja hoia kaameraakusid soojas (külm tühjendab neid kiiresti). Polariseeriv filter aitab jää peegeldust hallata."
+      }
+    ],
+    "faq": {
+      "title": "Talvine külastus – KKK",
+      "items": [
+        {
+          "question": "Millal ma saan näha jääkatet?",
+          "answer": "Tavaliselt **detsembri lõpust veebruari lõpuni**, pärast 5–7 järjestikku alla nulli jäävat päeva. Selle moodustumine ja püsimine sõltuvad ilmast."
+        },
+        {
+          "question": "Kas jääkate on ohutu lähenemiseks?",
+          "answer": "Ainult **puidust teede ja platvormide** alt. Ärge astuge kunagi külmutatud jõe pinnale – jää paksus paisuveekausi kohal on ebaühtlane ja veed all on aktiivsed."
+        },
+        {
+          "question": "Mis on parim aeg päevast selle pildistamiseks?",
+          "answer": "Lühike **kuldse tunniku** aeg päikesetõusu või loojangu ümber, kui külgvalgus muudab jää siniseks. Uuri koosseist ette."
+        },
+        {
+          "question": "Kas ma vajan erilist riietust või varustust?",
+          "answer": "Soojenatud, tuulekindlad riided ja korralikud jalatsid on hädavajalikud; hoia kaameraakusid soojas. Erilist jäävarustust ei vaja, kui jääte radadele."
+        },
+        {
+          "question": "Kas ma saan üldse talvel külastada?",
+          "answer": "Jah – kaitstud maastik on **avatud 24/7 aastaringselt**, sealhulgas talvisel ajal."
+        }
+      ]
+    },
+    "relatedTitle": "Rohkem külastusjuhiseid"
+  },
+  "photos": {
+    "title": "Jägala juga fotograafia juhend – parimad vaatepunktid",
+    "intro": "Jägala juga pakub kompositsioone igaks aastaajaks: kevadise suurvee jõudu, suviseid valgeid öid, sügises lehestikku ja talvist jääkatet. See juhend katab parimad vaatepunktid, valguse ja varustuse.",
+    "sections": [
+      {
+        "heading": "Peamine puidust vaateplatvorm",
+        "content": "Vaikimisi esivaate panoraam, mis tabab **terve veekatte paisuveekausi langetamise** – ideaalne nurgakaamerale ja pika eksposuuriga «siidivee» meetodile. Saagu varakult, et vältida rahvast."
+      },
+      {
+        "heading": "Vasakpools jõekäik ja parem kõrge vaatepunkt",
+        "content": "Vasakpools jõekäik annab lähedalasel kompositsioonil esiplaanil kivid ja prügi; **polariseeriv filter** kontrollib pinnagläkimist. Parem kõrge vaatepunkt pakub 3/4 ülevaadet juga, orust ja jõekorrist – suurepärane kuldse tunniku külgvalguse jaoks."
+      },
+      {
+        "heading": "Aastaringne valgus ja ajastus",
+        "content": "**Esimesed kaks tundi pärast päikesetõusu ja viimased kaks enne loojangut** annavad sooja külgvalguse ja nähtava udu. Kevadised hommikud toovad sageli vikerkaari; sügis toob kõrge kontrasti udu; talv näitab sinist jäähelki."
+      },
+      {
+        "heading": "Varustus ja droonireeglid",
+        "content": "**200–400 mm teleobjektiiv** ja polariseeriv filter aitavad eraldada detaili; statiiv on hädavajalik pikkadeks eksposituurideks. **Meelelahutuslikud droonid on kaitstud maastikus piiratud** – kontrolli praegusi RMK / Jõelähtme valla reegleid enne lendamist, kuna lennud võivad olla keelatud."
+      }
+    ],
+    "faq": {
+      "title": "Fotograafia – KKK",
+      "items": [
+        {
+          "question": "Mis on parim aeg fotode tegemiseks?",
+          "answer": "**Kevadine suurvesi (aprill–mai)** jõu ja sagedaste vikerkaarte jaoks ning **kuldse tunniku** aeg aastaringselt sooja külgvalguse ja udu jaoks."
+        },
+        {
+          "question": "Mis on parim vaatepunkt?",
+          "answer": "**Peamine platvorm** esivaate panoraami jaoks; **parem kõrge vaatepunkt** ülevaate 3/4 kompositsiooni jaoks juga ja oru üle."
+        },
+        {
+          "question": "Kas ma saan lennata drooniga?",
+          "answer": "Meelelahutuslikud droonid on **kaitstud maastikus piiratud**. Kontrolli praegusi RMK / Jõelähtme valla reegleid enne lendamist, kuna lennud võivad olla keelatud."
+        },
+        {
+          "question": "Millist varustust ma peaksin kaasa võtma?",
+          "answer": "Teleobjektiiv (200–400 mm), polariseeriv filter ja statiiv pikkadeks eksposituurideks, samuti vihmakaitse kaamerale prügivööndites."
+        },
+        {
+          "question": "Kas on vikerkaari?",
+          "answer": "Jah – **sagedasti kevadistel hommikutel**, kui tagavalgus ja udu koos langevad, eriti aprill–mai lumelammutus tippu."
+        }
+      ]
+    },
+    "relatedTitle": "Rohkem külastusjuhiseid"
   }
 }

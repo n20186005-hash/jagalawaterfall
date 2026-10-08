@@ -60,12 +60,28 @@ export const PATH_HOME = '';
 export const PATH_PRIVACY = '/privacy-policy';
 export const PATH_TERMS = '/terms-of-service';
 export const PATH_COOKIES = '/cookie-settings';
+export const PATH_FROM_TALLINN = '/from-tallinn';
+export const PATH_PARKING = '/parking';
+export const PATH_WINTER = '/winter';
+export const PATH_PHOTOS = '/photos';
+
+/** Long-tail visitor-guide slugs (locale-independent). */
+export const TOPIC_SLUGS = [
+  PATH_FROM_TALLINN,
+  PATH_PARKING,
+  PATH_WINTER,
+  PATH_PHOTOS,
+] as const;
 
 export const PUBLIC_PATHS = [
   PATH_HOME,
   PATH_PRIVACY,
   PATH_TERMS,
   PATH_COOKIES,
+  PATH_FROM_TALLINN,
+  PATH_PARKING,
+  PATH_WINTER,
+  PATH_PHOTOS,
 ] as const;
 
 export function localizedPath(locale: string, path: string = ''): string {

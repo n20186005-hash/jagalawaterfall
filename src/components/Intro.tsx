@@ -93,7 +93,7 @@ export default function Intro() {
             {tOff('title')}
           </h2>
           <div className="text-base leading-relaxed whitespace-pre-wrap" style={{ color: 'var(--text-secondary)' }}>
-            {tOff('text')}
+            <RichInline text={tOff('text')} />
           </div>
         </div>
       </div>

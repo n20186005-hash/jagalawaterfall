@@ -3,56 +3,52 @@ import { getMessages, setRequestLocale } from 'next-intl/server';
 import { notFound } from 'next/navigation';
 import { routing } from '@/i18n/routing';
 import type { Metadata } from 'next';
+import {
+  ATTRACTION_FULL_NAME,
+  ATTRACTION_SHORT_NAME,
+  CITY_NAME,
+  COUNTRY_CODE_2LETTER,
+  GOOGLE_RATING,
+  HERO_IMAGE_URL,
+  LATITUDE,
+  LONGITUDE,
+  MAPS_SHARE_URL,
+  OFFICIAL_TOURISM_URL,
+  OG_LOCALES,
+  POSTAL_CODE,
+  REGIONAL_TOURISM_URL,
+  SITE_URL,
+  STATE_PROVINCE,
+  absoluteUrl,
+  buildAlternates,
+} from '@/lib/seo';
 
 export function generateStaticParams() {
   return routing.locales.map((locale) => ({ locale }));
 }
 
-const BASE_URL = 'https://jagalawaterfall.com';
-const ATTRACTION_FULL_NAME = 'Jägala Waterfall (Jägala juga)';
-const ATTRACTION_SHORT_NAME = 'Jagala Waterfall';
-const CITY_NAME = 'Jägala-Joa';
-const STATE_PROVINCE = 'Harju maakond';
-const COUNTRY_NAME = 'Estonia';
-const COUNTRY_CODE_2LETTER = 'EE';
-const POSTAL_CODE = '74212';
-const LATITUDE = 59.4498004;
-const LONGITUDE = 25.1761703;
-const MAPS_SHARE_URL = 'https://maps.app.goo.gl/xJkCSWytaQ98iHhY6';
-const MAPS_EMBED_SRC =
-  'https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3607.088511197984!2d25.1761703!3d59.4498004!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4692f00112a033b1%3A0x9731a39cb8ae23f0!2sJ%C3%A4gala%20Waterfall!5e1!3m2!1szh-CN!2s!4v1787896147915!5m2!1szh-CN!2s';
-const GOVT_TOURISM_URL = 'https://visitestonia.com/en';
-const HERO_IMAGE_URL = `${BASE_URL}/images/hero.jpg`;
-
 function buildMeta(locale: string, messages: any) {
-  const selfUrl = `${BASE_URL}/${locale}`;
-  const localeMap: Record<string, { og: string; html: string }> = {
-    et: { og: 'et_EE', html: 'et-EE' },
-    zh: { og: 'zh_CN', html: 'zh-CN' },
-    en: { og: 'en_US', html: 'en' },
-  };
+  const selfUrl = absoluteUrl(locale);
   const title = messages?.meta?.title || '';
   const desc = messages?.meta?.description || '';
   const ogImageAlt = messages?.meta?.ogImageAlt || '';
 
   return {
+    metadataBase: new URL(SITE_URL),
     title,
     description: desc,
-    alternates: {
-      canonical: selfUrl,
-      languages: {
-        et: `${BASE_URL}/et`,
-        zh: `${BASE_URL}/zh`,
-        en: `${BASE_URL}/en`,
-        'x-default': `${BASE_URL}/et`,
-      },
+    alternates: buildAlternates(locale),
+    robots: {
+      index: true,
+      follow: true,
+      googleBot: { index: true, follow: true, 'max-image-preview': 'large' as const },
     },
     openGraph: {
       title,
       description: desc,
       url: selfUrl,
       siteName: ATTRACTION_FULL_NAME,
-      locale: localeMap[locale]?.og || 'en_US',
+      locale: OG_LOCALES[locale] ?? OG_LOCALES.en,
       type: 'website',
       images: [
         {
@@ -62,6 +58,12 @@ function buildMeta(locale: string, messages: any) {
           alt: ogImageAlt,
         },
       ],
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title,
+      description: desc,
+      images: [{ url: HERO_IMAGE_URL, alt: ogImageAlt }],
     },
   };
 }
@@ -82,14 +84,31 @@ function buildTouristAttractionJsonLd(messages: any) {
 
   return {
     '@context': 'https://schema.org',
-    '@type': 'TouristAttraction',
-    '@id': `${BASE_URL}/#attraction`,
+    '@type': ['TouristAttraction', 'Place'],
+    '@id': `${SITE_URL}/#attraction`,
     name,
     alternateName: [ATTRACTION_SHORT_NAME, `${CITY_NAME} ${ATTRACTION_FULL_NAME}`, 'Jägala juga'],
     description: desc,
-    url: BASE_URL,
+    url: SITE_URL,
     image: [HERO_IMAGE_URL],
     isAccessibleForFree: true,
+    publicAccess: true,
+    openingHoursSpecification: [
+      {
+        '@type': 'OpeningHoursSpecification',
+        opens: '00:00',
+        closes: '23:59',
+        dayOfWeek: [
+          'Monday',
+          'Tuesday',
+          'Wednesday',
+          'Thursday',
+          'Friday',
+          'Saturday',
+          'Sunday',
+        ],
+      },
+    ],
     address: {
       '@type': 'PostalAddress',
       streetAddress: 'Kubja tee',
@@ -103,12 +122,24 @@ function buildTouristAttractionJsonLd(messages: any) {
       latitude: LATITUDE,
       longitude: LONGITUDE,
     },
+    aggregateRating: {
+      '@type': 'AggregateRating',
+      ratingValue: GOOGLE_RATING.value,
+      reviewCount: GOOGLE_RATING.reviewCount,
+      bestRating: GOOGLE_RATING.bestRating,
+      worstRating: GOOGLE_RATING.worstRating,
+    },
     hasMap: MAPS_SHARE_URL,
-    sameAs: [MAPS_SHARE_URL, GOVT_TOURISM_URL],
+    sameAs: [MAPS_SHARE_URL, REGIONAL_TOURISM_URL, OFFICIAL_TOURISM_URL],
   };
 }
 
 type FaqItem = { question: string; answer: string };
+
+/** Markdown emphasis is rendered in the UI; structured data must be plain text. */
+function toPlainText(value: string = ''): string {
+  return value.replace(/\*\*/g, '').trim();
+}
 
 function buildFaqJsonLd(messages: any) {
   const items: FaqItem[] = messages?.faq?.items || [];
@@ -117,10 +148,10 @@ function buildFaqJsonLd(messages: any) {
     '@type': 'FAQPage',
     mainEntity: items.map((item) => ({
       '@type': 'Question',
-      name: item.question,
+      name: toPlainText(item.question),
       acceptedAnswer: {
         '@type': 'Answer',
-        text: item.answer,
+        text: toPlainText(item.answer),
       },
     })),
   };
@@ -151,12 +182,6 @@ export default async function LocaleLayout({
   return (
     <html lang={htmlLang} suppressHydrationWarning>
       <head>
-        <link rel="canonical" href={`${BASE_URL}/${locale}`} />
-        <meta property="og:image" content={HERO_IMAGE_URL} />
-        <meta
-          property="og:image:alt"
-          content={messages?.meta?.ogImageAlt || ''}
-        />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{
@@ -169,12 +194,6 @@ export default async function LocaleLayout({
             __html: JSON.stringify(faqLd),
           }}
         />
-        <script
-          async
-          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXX"
-          crossOrigin="anonymous"
-        />
-        <meta name="google-adsense-account" content="ca-pub-XXXXXXXXXX" />
         <script
           dangerouslySetInnerHTML={{
             __html: `

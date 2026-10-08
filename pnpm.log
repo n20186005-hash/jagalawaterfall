@@ -1,0 +1,94 @@
+
+   ╭────────────────────────────────────────────────────────────────────────╮
+   │                                                                        │
+   │                  Update available! 11.25.0 → 12.10.1.                  │
+   │                  Changelog: https://pnpm.io/v/12.10.1                  │
+   │   To update, run: Invoke-WebRequest https://get.pnpm.io/install.ps1    │
+   │                 -UseBasicParsing | Invoke-Expression                   │
+   │                                                                        │
+   ╰────────────────────────────────────────────────────────────────────────╯
+
+Progress: resolved 1, reused 0, downloaded 0, added 0
+Progress: resolved 6, reused 0, downloaded 0, added 0
+Progress: resolved 7, reused 0, downloaded 0, added 0
+Progress: resolved 9, reused 0, downloaded 0, added 0
+Progress: resolved 15, reused 0, downloaded 0, added 0
+Progress: resolved 33, reused 0, downloaded 0, added 0
+Progress: resolved 34, reused 0, downloaded 0, added 0
+Progress: resolved 83, reused 0, downloaded 0, added 0
+Progress: resolved 117, reused 0, downloaded 0, added 0
+Progress: resolved 149, reused 0, downloaded 0, added 0
+
+Packages: +73
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Progress: resolved 149, reused 1, downloaded 0, added 0
+Progress: resolved 149, reused 2, downloaded 0, added 0
+Progress: resolved 149, reused 3, downloaded 0, added 0
+Progress: resolved 149, reused 7, downloaded 0, added 0
+Progress: resolved 149, reused 8, downloaded 0, added 0
+Progress: resolved 149, reused 10, downloaded 0, added 0
+Progress: resolved 149, reused 11, downloaded 0, added 0
+Progress: resolved 149, reused 12, downloaded 0, added 0
+Progress: resolved 149, reused 13, downloaded 0, added 0
+Progress: resolved 149, reused 15, downloaded 0, added 0
+Progress: resolved 149, reused 16, downloaded 0, added 0
+Progress: resolved 149, reused 17, downloaded 0, added 0
+Progress: resolved 149, reused 18, downloaded 0, added 0
+Progress: resolved 149, reused 19, downloaded 0, added 0
+Progress: resolved 149, reused 20, downloaded 0, added 0
+Progress: resolved 149, reused 21, downloaded 0, added 0
+Progress: resolved 149, reused 22, downloaded 0, added 0
+Progress: resolved 149, reused 23, downloaded 0, added 0
+Progress: resolved 149, reused 24, downloaded 0, added 0
+Progress: resolved 149, reused 25, downloaded 0, added 0
+Progress: resolved 149, reused 26, downloaded 0, added 0
+Progress: resolved 149, reused 27, downloaded 0, added 0
+Progress: resolved 149, reused 27, downloaded 1, added 0
+Progress: resolved 149, reused 29, downloaded 2, added 0
+Progress: resolved 149, reused 30, downloaded 2, added 0
+Progress: resolved 149, reused 30, downloaded 3, added 0
+Progress: resolved 149, reused 31, downloaded 3, added 0
+Progress: resolved 149, reused 31, downloaded 4, added 0
+Progress: resolved 149, reused 31, downloaded 5, added 0
+Progress: resolved 149, reused 31, downloaded 6, added 0
+Progress: resolved 149, reused 32, downloaded 6, added 0
+Progress: resolved 149, reused 33, downloaded 6, added 0
+Progress: resolved 149, reused 34, downloaded 6, added 0
+Progress: resolved 149, reused 34, downloaded 6, added 1
+Packages are hard linked from the content-addressable store to the virtual store.
+  Content-addressable store is at: H:\.pnpm-store\v11
+  Virtual store is at:             node_modules/.pnpm
+Progress: resolved 149, reused 34, downloaded 6, added 2
+Progress: resolved 149, reused 36, downloaded 6, added 2
+Progress: resolved 149, reused 37, downloaded 7, added 2
+Progress: resolved 149, reused 38, downloaded 7, added 2
+Progress: resolved 149, reused 41, downloaded 7, added 3
+Progress: resolved 149, reused 41, downloaded 7, added 4
+Progress: resolved 149, reused 42, downloaded 7, added 4
+Progress: resolved 149, reused 42, downloaded 7, added 5
+Progress: resolved 149, reused 42, downloaded 7, added 6
+Progress: resolved 149, reused 43, downloaded 7, added 6
+Progress: resolved 149, reused 43, downloaded 7, added 7
+Progress: resolved 149, reused 43, downloaded 7, added 8
+Progress: resolved 149, reused 43, downloaded 8, added 8
+Progress: resolved 149, reused 43, downloaded 8, added 9
+Progress: resolved 149, reused 43, downloaded 9, added 9
+Progress: resolved 149, reused 43, downloaded 9, added 10
+Progress: resolved 149, reused 44, downloaded 9, added 10
+Progress: resolved 149, reused 44, downloaded 9, added 11
+Progress: resolved 149, reused 45, downloaded 9, added 11
+Progress: resolved 149, reused 45, downloaded 9, added 12
+Progress: resolved 149, reused 45, downloaded 9, added 13
+Progress: resolved 149, reused 46, downloaded 9, added 13
+Progress: resolved 149, reused 46, downloaded 9, added 14
+Progress: resolved 149, reused 47, downloaded 9, added 14
+Progress: resolved 149, reused 47, downloaded 9, added 15
+Progress: resolved 149, reused 47, downloaded 10, added 15
+Progress: resolved 149, reused 48, downloaded 10, added 15
+Progress: resolved 149, reused 48, downloaded 10, added 16
+Progress: resolved 149, reused 48, downloaded 10, added 17
+Progress: resolved 149, reused 48, downloaded 10, added 18
+Progress: resolved 149, reused 49, downloaded 10, added 18
+Progress: resolved 149, reused 49, downloaded 11, added 19
+Progress: resolved 149, reused 49, downloaded 11, added 20
+Progress: resolved 149, reused 50, downloaded 11, added 20

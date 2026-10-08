@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Jägala Waterfall (Jägala-Joa) - Visitor Guide & Location",
-    "description": "Discover Jägala Waterfall (Jägala juga), Estonia's largest natural waterfall in Jägala-Joa, Harju maakond. View location map, opening details, nearby Lahemaa National Park, hydrology and travel tips.",
+    "title": "Jägala Waterfall Estonia – Parking, Directions & Visitor Guide",
+    "description": "Plan your visit to Jägala Waterfall (Jägala juga), Estonia. Find free parking, directions from Tallinn, the best seasons, winter ice views and visitor tips.",
     "ogImageAlt": "Jägala Waterfall - Main view in Jägala-Joa, Estonia"
   },
   "ta": {
@@ -16,7 +16,7 @@
       "ariaNextPhoto": "Next photo",
       "ariaCloseLightbox": "Close lightbox"
     },
-    "googleRatingValue": "4.8/5 (7,916)",
+    "googleRatingValue": "{value}/5 · {count} Google reviews",
     "localeNames": {
       "et": "Estonian",
       "zh": "Chinese",
@@ -31,11 +31,11 @@
     "backToHome": "Back to Home"
   },
   "hero": {
-    "titleFull": "Jägala Waterfall (Jägala-Joa)",
+    "titleFull": "Jägala Waterfall – Visitor Guide to Estonia's Widest Natural Waterfall",
     "title": "Jägala Waterfall",
-    "subtitle": "Estonia's Largest Natural Waterfall · Baltic Klint Geosystem · Heritage Site",
-    "rating": "4.8(7,916)",
-    "reviewCount": "7,916 reviews",
+    "subtitle": "Free Parking · 30 Minutes from Tallinn · Open 24 Hours · Winter Ice Curtain",
+    "rating": "{value}/5",
+    "reviewCount": "{count} Google reviews",
     "type": "Natural Waterfall · Geological Wonder · Eco-Tourism Site",
     "openMaps": "View Location"
   },
@@ -61,7 +61,7 @@
     "alsoKnownAs": {
       "title": "Landmark At A Glance",
       "items": [
-        "Estonia's largest natural waterfall by discharge — ~8 m drop, width up to 50–60 m in spring flood",
+        "Estonia's widest natural waterfall — ~8 m drop, up to ~50 m wide during spring flood",
         "Middle Ordovician limestone section (≈ 470 Ma) with potholes and sculpted plunge pools",
         "Recorded average flow 10–14 m³/s; spring peak 35–60 m³/s (Estonian Environment Agency)",
         "Protected landscape unit (107 ha) co-managed by RMK State Forest Management Centre and Jõelähtme Parish"
@@ -348,34 +348,9 @@
   },
   "reviews": {
     "title": "Visitor Reviews Summary",
-    "declaration": "Granular and live visitor feedback may be consulted directly on Google Maps (external link).",
-    "moreReviews": "Read more reviews on Google Maps",
-    "items": [
-      {
-        "name": "Andres T.",
-        "date": "May 2026",
-        "rating": 5,
-        "text": "Absolutely spectacular this year. Spring melt is the real window — I counted three distinct rainbows across the mist in a single morning. Stay on the boardwalks, though; some of the lower ledges are dangerously slick."
-      },
-      {
-        "name": "Jing W.",
-        "date": "April 2026",
-        "rating": 5,
-        "text": "Very easy half-day from Tallinn by car, about 30 minutes. No tickets, no fences, just the landscape. RMK trails are really well kept and the picnic area was perfectly clean even on a Saturday."
-      },
-      {
-        "name": "Sigrid K.",
-        "date": "October 2025",
-        "rating": 5,
-        "text": "Autumn foliage at Jägala was unreal this year — the right high-ground viewpoint gives you red birch canopy on top of the white curtain, nothing I've shot elsewhere in Estonia looks the same."
-      },
-      {
-        "name": "Marek P.",
-        "date": "January 2026",
-        "rating": 4,
-        "text": "Ice curtain was solid and beautifully lit by the low sun. One star off because the RMK hut toilet was locked for the winter — call ahead if that matters for your group."
-      }
-    ]
+    "declaration": "Individual traveller comments change daily, so we publish no quotes of our own. Please consult the live reviews on Google Maps.",
+    "sourceNote": "Rating snapshot: {value}/5 from {count} reviews on Google Maps — checked 8 October 2026.",
+    "moreReviews": "Read more reviews on Google Maps"
   },
   "mapSection": {
     "title": "Location & Access Map — Jagala Waterfall (Jägala-Joa)",

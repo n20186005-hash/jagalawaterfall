@@ -1,8 +1,8 @@
 {
   "meta": {
-    "title": "Jägala Waterfall (Jägala-Joa) - 游览指南与地理位置",
-    "description": "探索 Jägala Waterfall（贾加拉瀑布，Jägala juga）——位于爱沙尼亚哈尔尤县 Jägala-Joa 的标志性地标。查看位置地图、开放信息、周边拉赫马国家公园以及旅行小贴士。",
-    "ogImageAlt": "Jägala Waterfall 主景图 - Jägala-Joa，爱沙尼亚"
+    "title": "贾加拉瀑布 Jägala Waterfall｜停车场、塔林出发交通与游览指南",
+    "description": "贾加拉瀑布（Jägala juga）游览指南：免费停车场、塔林出发约 30 分钟车程的路线与公交方式、最佳季节、冬季冰瀑景观与实用贴士。",
+    "ogImageAlt": "贾加拉瀑布 Jägala Waterfall - Jägala-Joa，爱沙尼亚"
   },
   "ta": {
     "name": "Jägala Waterfall (Jägala juga)",
@@ -16,7 +16,7 @@
       "ariaNextPhoto": "下一张照片",
       "ariaCloseLightbox": "关闭灯箱"
     },
-    "googleRatingValue": "4.8/5（7,916 条）",
+    "googleRatingValue": "{value}/5 · {count} 条 Google 评价",
     "localeNames": {
       "et": "爱沙尼亚语",
       "zh": "中文",
@@ -31,11 +31,11 @@
     "backToHome": "返回首页"
   },
   "hero": {
-    "titleFull": "Jägala Waterfall (Jägala-Joa)",
+    "titleFull": "贾加拉瀑布 Jägala Waterfall — 爱沙尼亚最宽的天然瀑布",
     "title": "贾加拉瀑布",
-    "subtitle": "爱沙尼亚最大的天然瀑布与壮丽自然奇观",
-    "rating": "4.8(7,916)",
-    "reviewCount": "7,916 条评价",
+    "subtitle": "免费停车场 · 距塔林约 30 分钟车程 · 全年开放 · 冬季冰瀑",
+    "rating": "{value}/5",
+    "reviewCount": "{count} 条 Google 评价",
     "type": "天然瀑布 · 旅游景点",
     "openMaps": "查看位置"
   },
@@ -346,35 +346,10 @@
     "showLess": "收起照片"
   },
   "reviews": {
-    "title": "游客评价",
-    "declaration": "评价信息可透过 Google Maps 查看（外部链接）。",
-    "moreReviews": "在 Google Maps 查看更多评价",
-    "items": [
-      {
-        "name": "刘明",
-        "date": "2026年5月",
-        "rating": 5,
-        "text": "太壮观了！春季水量充沛，瀑布倾泻而下的场面震撼人心。爱沙尼亚的自然景观果然名不虚传。"
-      },
-      {
-        "name": "陈华",
-        "date": "2026年4月",
-        "rating": 5,
-        "text": "从塔林开车过来很方便，大约半小时车程。瀑布免费开放很良心，周边自然环境保存得非常好。"
-      },
-      {
-        "name": "王芳",
-        "date": "2026年3月",
-        "rating": 5,
-        "text": "秋天的贾加拉瀑布太美了！金黄的树叶和白色的水幕形成绝美对比，拍照超出片。"
-      },
-      {
-        "name": "赵伟",
-        "date": "2026年2月",
-        "rating": 4,
-        "text": "冬季的冰挂景观很独特，虽然瀑布水量减少，但银装素裹的景象别有一番风味。值得一来。"
-      }
-    ]
+    "title": "游客评价概况",
+    "declaration": "本站不转载个别游客留言（内容每天都在变化），最新评价请直接查阅 Google 地图。",
+    "sourceNote": "评分快照：Google 地图 {count} 条评价平均 {value}/5，核对日期 2026 年 10 月 8 日。",
+    "moreReviews": "在 Google 地图查看更多评价"
   },
   "mapSection": {
     "title": "贾加拉瀑布（Jagala Waterfall）的位置与前往方式（Jägala-Joa）",

@@ -1,6 +1,7 @@
 'use client';
 
 import { useTranslations } from 'next-intl';
+import { GOOGLE_RATING } from '@/lib/seo';
 
 export default function BasicInfo() {
   const t = useTranslations('basicInfo');
@@ -22,7 +23,13 @@ export default function BasicInfo() {
           <InfoCard title={t('type')} value={t('typeValue')} />
           <InfoCard title={t('country')} value={t('countryValue')} />
           <InfoCard title={t('county')} value={t('countyValue')} />
-          <InfoCard title={t('googleRating')} value={tCommon('googleRatingValue')} />
+          <InfoCard
+            title={t('googleRating')}
+            value={tCommon('googleRatingValue', {
+              value: GOOGLE_RATING.value,
+              count: GOOGLE_RATING.reviewCount,
+            })}
+          />
           <div className="md:col-span-2">
             <InfoCard title={t('address')} value={t('addressValue')} />
           </div>

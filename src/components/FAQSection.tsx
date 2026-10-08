@@ -2,6 +2,7 @@
 
 import { useTranslations, useMessages } from 'next-intl';
 import { useState } from 'react';
+import RichInline from '@/components/RichInline';
 
 type FaqItem = { question: string; answer: string };
 
@@ -77,7 +78,7 @@ export default function FAQSection() {
                       className="px-5 sm:px-6 pb-6 text-base leading-relaxed"
                       style={{ color: 'var(--text-secondary)' }}
                     >
-                      {item.answer}
+                      <RichInline text={item.answer} />
                     </div>
                   </div>
                 </div>

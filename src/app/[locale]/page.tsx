@@ -10,6 +10,7 @@ import InfoSection from '@/components/InfoSection';
 import HistoryLegendsSection from '@/components/HistoryLegendsSection';
 import RouteSection from '@/components/RouteSection';
 import PhotoSpotsSection from '@/components/PhotoSpotsSection';
+import TopicLinks from '@/components/TopicLinks';
 import AmenitiesSection from '@/components/AmenitiesSection';
 import HotelsSection from '@/components/HotelsSection';
 import Gallery from '@/components/Gallery';
@@ -41,6 +42,7 @@ export default async function HomePage({
         <HistoryLegendsSection />
         <div id="route"><RouteSection /></div>
         <div id="photos"><PhotoSpotsSection /></div>
+        <TopicLinks />
         <AmenitiesSection />
         <HotelsSection />
         <Gallery />

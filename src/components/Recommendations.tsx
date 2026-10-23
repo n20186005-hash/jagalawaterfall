@@ -3,8 +3,12 @@ import { useTranslations, useMessages } from 'next-intl';
 export default function Recommendations() {
   const t = useTranslations('recommendations');
   const messages = useMessages() as any;
-  const attractions = (messages?.recommendations?.attractions || []) as Array<{ name: string; url: string }>;
-  const tours = (messages?.recommendations?.tours || []) as Array<{ name: string; url: string }>;
+  const recommendations = messages?.recommendations || {};
+  const attractions = (recommendations.attractions || []) as Array<{ name: string; url: string }>;
+  const tours = (recommendations.tours || []) as Array<{ name: string; url: string }>;
+  const sources = (recommendations.sources || []) as Array<{ name: string; url: string }>;
+  const sourcesTitle = recommendations.sourcesTitle as string | undefined;
+  const verifiedNote = recommendations.verifiedNote as string | undefined;
 
   if (attractions.length === 0 && tours.length === 0) return null;
 
@@ -72,6 +76,37 @@ export default function Recommendations() {
           </div>
         </div>
       </div>
+
+      {(sources.length > 0 || verifiedNote) && (
+        <div
+          className="mx-auto max-w-6xl px-4 sm:px-6 mt-12 pt-8 text-sm"
+          style={{ borderTop: '1px solid var(--border-color)', color: 'var(--text-muted)' }}
+        >
+          {sourcesTitle && (
+            <h3 className="font-display text-base font-semibold mb-3" style={{ color: 'var(--text-secondary)' }}>
+              {sourcesTitle}
+            </h3>
+          )}
+          {sources.length > 0 && (
+            <ul className="grid grid-cols-1 sm:grid-cols-2 gap-x-6 gap-y-2 mb-4">
+              {sources.map((s: { name: string; url: string }, i: number) => (
+                <li key={i}>
+                  <a
+                    href={s.url}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="hover:underline"
+                    style={{ color: 'var(--accent)' }}
+                  >
+                    {s.name}
+                  </a>
+                </li>
+              ))}
+            </ul>
+          )}
+          {verifiedNote && <p className="leading-relaxed">{verifiedNote}</p>}
+        </div>
+      )}
     </section>
   );
 }

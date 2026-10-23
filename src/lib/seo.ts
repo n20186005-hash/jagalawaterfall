@@ -48,11 +48,11 @@ export const OG_LOCALES: Record<string, string> = {
  */
 export const GOOGLE_RATING = {
   value: 4.8,
-  reviewCount: 7998,
+  reviewCount: 8019,
   bestRating: 5,
   worstRating: 1,
   sourceUrl: MAPS_SHARE_URL,
-  checkedAt: '2026-10-08',
+  checkedAt: '2026-10-23',
 } as const;
 
 /** Every publicly indexable route (before the locale prefix). */
@@ -61,16 +61,38 @@ export const PATH_PRIVACY = '/privacy-policy';
 export const PATH_TERMS = '/terms-of-service';
 export const PATH_COOKIES = '/cookie-settings';
 export const PATH_FROM_TALLINN = '/from-tallinn';
+export const PATH_BY_BUS = '/by-bus';
 export const PATH_PARKING = '/parking';
+export const PATH_TICKETS = '/tickets-opening-hours';
+export const PATH_FACILITIES = '/facilities';
+export const PATH_SAFETY = '/safety';
+export const PATH_BEST_TIME = '/best-time-to-visit';
 export const PATH_WINTER = '/winter';
+export const PATH_WATER_LEVELS = '/water-levels';
+export const PATH_PHOTOGRAPHY = '/photography';
 export const PATH_PHOTOS = '/photos';
+export const PATH_JAGALA_RIVER = '/jagala-river';
+export const PATH_HALF_DAY = '/half-day-trip';
+export const PATH_VS_KEILA = '/jagala-vs-keila';
+export const PATH_NEAR_TALLINN = '/waterfalls-near-tallinn';
 
 /** Long-tail visitor-guide slugs (locale-independent). */
 export const TOPIC_SLUGS = [
   PATH_FROM_TALLINN,
+  PATH_BY_BUS,
   PATH_PARKING,
+  PATH_TICKETS,
+  PATH_FACILITIES,
+  PATH_SAFETY,
+  PATH_BEST_TIME,
   PATH_WINTER,
+  PATH_WATER_LEVELS,
+  PATH_PHOTOGRAPHY,
   PATH_PHOTOS,
+  PATH_JAGALA_RIVER,
+  PATH_HALF_DAY,
+  PATH_VS_KEILA,
+  PATH_NEAR_TALLINN,
 ] as const;
 
 export const PUBLIC_PATHS = [
@@ -78,10 +100,7 @@ export const PUBLIC_PATHS = [
   PATH_PRIVACY,
   PATH_TERMS,
   PATH_COOKIES,
-  PATH_FROM_TALLINN,
-  PATH_PARKING,
-  PATH_WINTER,
-  PATH_PHOTOS,
+  ...TOPIC_SLUGS,
 ] as const;
 
 export function localizedPath(locale: string, path: string = ''): string {

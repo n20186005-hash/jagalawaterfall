@@ -3,7 +3,7 @@ import { routing } from '@/i18n/routing';
 import { HREFLANG_CODES, PUBLIC_PATHS, absoluteUrl } from '@/lib/seo';
 
 // Update when content changes materially.
-const LAST_MODIFIED = new Date('2026-10-08');
+const LAST_MODIFIED = new Date('2026-10-23');
 
 export default function sitemap(): MetadataRoute.Sitemap {
   return PUBLIC_PATHS.flatMap((path) =>

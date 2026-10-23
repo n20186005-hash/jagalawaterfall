@@ -33,7 +33,7 @@
   "hero": {
     "titleFull": "Jägala Waterfall – Visitor Guide to Estonia's Widest Natural Waterfall",
     "title": "Jägala Waterfall",
-    "subtitle": "Free Parking · 30 Minutes from Tallinn · Open 24 Hours · Winter Ice Curtain",
+    "subtitle": "Free Parking · About 30 Minutes from Tallinn · Open 24 Hours · Winter Ice Formations",
     "rating": "{value}/5",
     "reviewCount": "{count} Google reviews",
     "type": "Natural Waterfall · Geological Wonder · Eco-Tourism Site",
@@ -47,15 +47,30 @@
     "aboutTitle": "About Jägala Waterfall",
     "title": "Discover Jägala Waterfall",
     "equivalenceStatement": "Welcome to **Jägala Waterfall** (widely referenced as **Jagala Waterfall** in international travel literature; Estonian endonym: **Jägala juga**). Located in the heart of **Jägala-Joa**, **Jõelähtme vald**, **Harju maakond**, **Estonia**, this site is the primary natural landmark along the Tallinn–Narva segment of the Baltic Klint belt.",
-    "description": "Step into Jägala Waterfall and be instantly awestruck by Estonia's most spectacular natural wonder. No urban noise, just cascading water, dense forests, rugged rocks, and winding river valleys — every corner radiates raw natural power.\n\nI visited in late spring, when melting snow fed the most abundant water flow. The white water curtain plunges 8 meters down, the roaring sound fills the air, and mist spreads everywhere, forming brilliant rainbows in the sunlight. Both riverbanks are shaded by green trees, wildflowers dot the landscape, and the natural ecosystem is perfectly preserved.\n\nThe walking trails around the waterfall are well-maintained, with wooden viewing platforms offering the best angles. Visitors take photos from various spots, have picnics by the river, and children play in the shallow water, their laughter echoing through the valley.\n\nThere are no commercial artificial traces here, only pure natural beauty. In autumn, the surrounding forests don colorful golden and crimson coats, making the waterfall even more magnificent against the backdrop of vibrant foliage. In winter, when frozen, the waterfall forms spectacular ice curtains, silver and white, like a fairy tale world.",
+    "description": "Jägala Waterfall (Estonian: Jägala juga) is the **widest natural waterfall in Estonia**, about 8 metres high and more than 50 metres wide, where the Jägala River drops over the Baltic Klint. It sits near the village of Jägala-Joa, roughly 30 km east of Tallinn, and is open to visitors all year, around the clock. Below you will find practical, source-backed details for planning a real visit; deeper guides on transport, seasons, photography and nearby sights are linked from this page.",
     "visitGuide": {
       "title": "Visit Tips",
       "items": [
-        "Best window: post-snowmelt spring (Apr–May) for peak discharge (~35–60 m³/s) and highest rainbow frequency",
-        "Allow 2–3 hours on-site; add 30–45 minutes if hiking the downstream erosion section",
-        "Riverbank trails can be slippery after rain or frost — wear lug-sole non-slip footwear",
-        "Bring water and pre-packed picnic food — no commercial kiosks operate within the protected landscape",
-        "For birders and macro photographers, carry 200–400 mm telephoto and polarizing filter"
+        {
+          "icon": "🚗",
+          "text": "**By car:** about 25–30 km / 30–40 minutes east of Tallinn via the E20 (Tallinn–Narva); free parking is listed at the site."
+        },
+        {
+          "icon": "🚌",
+          "text": "**By bus:** intercity coaches on the Tallinn–Narva / Tallinn–Jõgeva lines stop at Jägala-Joa; check live times on peatus.ee before you set out."
+        },
+        {
+          "icon": "🆓",
+          "text": "**Entry & hours:** free, open 24 hours, year-round — no ticket office."
+        },
+        {
+          "icon": "🌊",
+          "text": "**Flow:** strongest in spring after the snowmelt; in cold spells a thick ice curtain can form."
+        },
+        {
+          "icon": "📸",
+          "text": "**Best light:** soft morning and evening sun; the falls face roughly south."
+        }
       ]
     },
     "alsoKnownAs": {
@@ -77,34 +92,24 @@
     "historyTitle": "History, Protection Status & Oral Tradition of Jägala Waterfall",
     "sections": [
       {
-        "id": "geology",
-        "title": "Geology & Formation (Middle Ordovician Limestone, ~ 470 Ma)",
-        "content": "Jägala Waterfall is carved into the lower reach of the Jägala River (drainage basin ≈ 1,480 km²) and is the largest natural knickpoint waterfall inside Estonia's mainland. The main scarp has a drop of approximately 8 meters with a maximum width of 50–60 meters during high flow, developed on thick Middle Ordovician limestone interbedded with dolostone.\n\nOver millennia, headward erosion along the bedding planes has incised a 200-meter-long gorge into the limestone plateau. Giant's kettles (potholes) up to ~1.2 m across and 0.8 m deep, stepped erosion terraces and karstic solution flutes are clearly exposed below the plunge pool — a textbook field outcrop for post-glacial landscape evolution in the western Baltic region."
+        "heading": "Geology — the Baltic Klint",
+        "content": "The waterfall sits on the **Baltic Klint**, a long limestone escarpment that runs along the southern shore of the Gulf of Finland. Here the Jägala River crosses the edge of the klint: hard **Ordovician limestone** forms the cap, and softer rock beneath has been eroded away, leaving the roughly 8-metre drop. It is the reason the falls are wide rather than tall, and why the river has cut a short gorge below the lip."
       },
       {
-        "id": "hydrology",
-        "title": "Hydrology: Discharge Regime, Ice Curtain & Thermal Regime",
-        "content": "Long-term hydrometric records by the Estonian Environment Agency indicate a mean discharge of 10–14 m³/s on the Jägala River at the waterfall reach. The spring flood peak (Apr–May) routinely reaches 35–60 m³/s — this is the most visually impressive stage. Mid-winter low flow (Jan–Feb) may fall to 3–6 m³/s.\n\nWater temperature ranges from 10–16 °C (summer mean) down to the freezing point in winter. After 5–7 consecutive days of sub-zero air temperature, a stable ice curtain 20–40 cm thick commonly develops at the brink, persisting through mid-to-late March. This is one of the more accessible natural ice bodies of its type in Northern Europe."
+        "heading": "Hydrology — a river that changes with the season",
+        "content": "The Jägala is a genuine river rather than a mountain stream, so its volume varies through the year. **Flow is highest in spring** after the snowmelt, and after periods of heavy rain; it is typically lower in late summer and can be reduced further during hard winter freezes. We deliberately avoid publishing a single discharge figure because readings change daily — check current weather and water conditions on the Estonian Environment Agency portal before you travel if the flow matters to your plans."
       },
       {
-        "id": "nature",
-        "title": "Ecology & Protected Species",
-        "content": "The waterfall and both banks of the gorge belong to the Harju County woodland network. Plant communities are dominated by a mixed birch–pine–spruce forest (Betula pendula · Pinus sylvestris · Picea abies) with a well-developed dwarf-shrub understorey of lingonberry (Vaccinium vitis-idaea) and heather.\n\nThe gorge and adjacent floodplain form potential habitat for species protected under the EU Habitats Directive: recorded taxa include Lutra lutra (Eurasian otter, Annex II), Alcedo atthis (Common Kingfisher), Little Tern colonies, and a number of terrestrial orchids. The riparian wetlands also perform key groundwater recharge and flood-mitigation ecosystem services."
+        "heading": "Nature & riparian habitat",
+        "content": "The gorge and its wooded banks are part of a protected natural landscape. The corridor supports typical Estonian riverside wildlife — birds, small mammals and riverine vegetation — and the surrounding forest is mixed spruce and deciduous woodland. Observe animals from a distance and stay on the marked paths so the habitat is not disturbed."
       },
       {
-        "id": "seasons",
-        "title": "Four-Season Phenology & Landscape Calendar",
-        "content": "Spring (Apr–May, phenology: Common frog spawning → birch leaf burst): Snowmelt drives the annual discharge maximum; backlit morning mist frequently produces secondary rainbows — the gold window for landscape photography.\n\nSummer (Jun–August): White nights (civil twilight > 0 lux all night) extend usable sightseeing hours. Mid-June to early July the river margins are coloured by Ranunculaceae and Rosaceae in flower.\n\nAutumn (Sep–Oct, birch colour transition ≈ 25 Sep – 15 Oct): The mixed canopy turns gold → orange → deep crimson in layered bands; temperature contrast against mist produces high-dynamic-range scenes.\n\nWinter (Nov–Mar): Near the polar-night boundary with only 4–6 hours of daylight, side-illuminated ice curtains show translucent blue polarised glow — a specialist subject for winter landscape photographers."
+        "heading": "Seasons & phenology",
+        "content": "The falls look different every season: a powerful, brown flood in spring; long, bright days and lower water in summer; amber and red foliage reflected in the pool in autumn; and, in cold spells, a frozen ice curtain in winter. Snow usually arrives in Estonia between late November and December and lingers into March, though the exact timing varies year to year."
       },
       {
-        "id": "history",
-        "title": "Modern History: Written Records · Monastic Mills · Protection",
-        "content": "The first scholarly written mention of Jägala Waterfall in European literature is attributed to the Baltic-German naturalist Karl Ernst von Baer (1792–1876), who submitted a memorandum — Notes on Estonian River Valley Morphology — to the Imperial Academy of Sciences in Saint Petersburg in 1838.\n\nApproximately 3 km downstream from the waterfall stand the ruins of Jägala Monastery (Jägala klooster, Cistercian, first half 14th century, dissolved in the Reformation / Livonian War upheavals of the 16th century). Surviving Liber frumenti fragments indicate the monks operated two undershot watermills on the Jägala River's fall — the first historical record of the river being used for hydraulic power. During the 1940–1991 Soviet period the site was designated a state recreation area (puhkeväljak); after the restoration of Estonian independence in 1991 the waterfall and its buffer were formally inscribed on the protected landscapes register under the Nature Conservation Act."
-      },
-      {
-        "id": "culture",
-        "title": "Cultural Significance & National Iconography",
-        "content": "Since the late 19th century Jägala Waterfall has figured as one of the recurrent 'Fatherland Nature' motifs of the Estonian National Awakening, appearing in watercolour sketches and postcards by the second generation of the Johann Köler school of painters.\n\nAfter 1991 it was adopted as a leading visual identifier for natural Estonia in the Visit Estonia international tourism promotion roster; together with Keila juga and Tooma juga it is popularly grouped as 'Estonia's Three Great Waterfalls'. The 2021 Estonian Landscape Aesthetics White Paper lists it among 12 representative natural landmarks of the Baltic Klint discontinuity."
+        "heading": "Nearby landmarks",
+        "content": "A short distance downstream once stood **Jägala Monastery**, a Cistercian foundation of the 14th century that was dissolved after the Reformation. The **Jägala River suspension bridge** at the river mouth is a separate, well-known spot about 4 km away and is described on its own in our nearby-attractions guides. The Jõelähtme area also holds heritage and nature sites worth combining with a waterfall visit."
       }
     ]
   },
@@ -142,47 +147,41 @@
           "text": "This legend attaches itself to the 16th century dissolution of the monastery. The last miller, the tale runs, on the night before troops were quartered in the monastery, took three small kegs of the chapter's accumulated gold coins and threw them into the waterfall's plunge pool. Over the following three centuries low-water 'gold-probing' parties appear in several unofficial chronicles, though no actual recovery is ever attested in archival documents. Typologically, the 'hidden monastic treasure in a body of water' template is shared by at least 30 comparable legends across the wider Baltic region."
         }
       ]
-    }
+    },
+    "sections": [
+      {
+        "heading": "Documented history",
+        "content": "The lower Jägala River has been settled and travelled for centuries. A **Cistercian monastery was founded here in the 14th century** under the Teutonic Order and was dissolved after the Livonian War and the Reformation in the 16th century; its ruins lie a few kilometres downstream and are registered in Estonia’s national heritage records. Later, the Tallinn–Narva road passed close by, and the falls became a noted stop for travellers. The German-speaking Estophile **August Wilhelm Hupel** described Jägala Falls in his Topographisches Wörterbuch (1781), and the naturalist **Karl Ernst von Baer** mentioned the site in a memorandum of 1838. From the 19th century onward the falls appeared on early postcards and photographs, spreading its image well beyond Estonia."
+      },
+      {
+        "heading": "Folklore",
+        "content": "Like many Northern European waterfalls, Jägala has gathered local water-spirit tales over the generations. We publish only material we can verify; specific archival references for individual legends are still being checked and will be cited here once confirmed. If you hold a verifiable source, please send it via the contact link in the footer."
+      }
+    ]
   },
   "amenities": {
     "title": "Amenity Type Reference (Neutral Classification — No Individual Businesses Recommended)",
     "subtitle": "※ This section lists amenity categories only, plus generic search keywords. No specific commercial venue is endorsed. Verify current availability via official tourism portals or live mapping platforms.",
     "items": [
       {
-        "id": "wc",
-        "title": "Public Toilets",
-        "level": "Amenity type retrievable in the area",
-        "desc": "**Municipal public toilets** are commonly available near the car park area and along the main road network (suggested live-map keywords: WC · Public toilet · Avalik tualett). A number of State Forest Management Centre (RMK) information huts also operate seasonal washroom facilities. Confirm the daily open/closed status via the Estonian Ministry of Environment public-facilities map before departure."
+        "icon": "🅿️",
+        "title": "Free parking",
+        "text": "Visit Harju lists a free car park at the site, off Kubja tee. See the Parking guide for location and walking directions."
       },
       {
-        "id": "parking",
-        "title": "Parking Typologies",
-        "level": "General description of parking types",
-        "desc": "Three generic categories of parking are usually found near the waterfall: **(1) Site-adjacent free surface car park for light vehicles (≈ several dozens of bays)**; **(2) Highway laybys for short 15–30 minute stop-and-photograph stops**; **(3) On-street regulated bays in the nearby village centre (5–10 minute walk)**. For spring flood and summer weekends, aim to arrive before 10:00 local time. Do not park on unpaved natural ground or forest firebreaks — this is prohibited under the protected-landscape regulations."
+        "icon": "🚻",
+        "title": "Toilets",
+        "text": "A basic dry (pit) toilet is listed at the site by Visit Harju. Facilities are simple and seasonal units may be locked in winter — confirm on arrival and do not rely on them for large groups."
       },
       {
-        "id": "dining",
-        "title": "Food & Beverage — Establishment Types",
-        "level": "Search guidance for dining categories",
-        "desc": "Typical dining categories retrievable around the area include **(1) Parish-centre family-style restaurants (regional home cooking)**; **(2) High-road roadside cafés and rest houses (Puhkehoone · Café)**; **(3) Motorway service-area self-service restaurants**; **(4) Village bakeries with take-away sandwiches**. Use live-map keywords: Restoran · Köök · Café / Restaurant. As a non-profit information project we do not name or rank individual businesses."
+        "icon": "🍽️",
+        "title": "Food & drink",
+        "text": "There is **no café, kiosk or restaurant at the falls**. Bring your own water and snacks; the nearest shops and services are in Jägala-Joa village and along the E20 corridor."
       },
       {
-        "id": "lodging",
-        "title": "Lodging — Category Overview",
-        "level": "Search guidance for lodging categories",
-        "desc": "Travellers may independently search the following typologies depending on budget and itinerary: **(1) Tallinn Old Town boutique / heritage hotels (≈ 25–30 min drive, suited for a multi-day Tallinn-centred trip)**; **(2) Country guesthouses / self-catering cottages in Jõelähtme Parish or surrounding parishes (Külalistemaja · Puhkemaja · Guesthouse)**; **(3) Central Tallinn hostels / capsule rooms (budget tier)**; **(4) Forest log-cabin holiday rentals in the Lahemaa National Park orbit (2–3 day deep-nature trip friendly)**. Verify availability, reviews and real-time pricing yourself."
-      },
-      {
-        "id": "grocery",
-        "title": "Grocery & Food Resupply",
-        "level": "Search guidance for grocery categories",
-        "desc": "Typical food-resupply channels are **(1) Mid-sized supermarket chains at parish level (keywords: Pood · Supermarket)**; **(2) Convenience stores co-located with highway filling stations**; **(3) Large-format hypermarkets in Tallinn's eastern suburban ring**. For picnics or longer hikes, stock up on water and provisions before entering the Jägala-Joa rural zone rather than relying on on-site retail."
-      },
-      {
-        "id": "fuel",
-        "title": "Fuel & Electric Vehicle Charging",
-        "level": "Energy resupply type overview",
-        "desc": "Both directions of the E20 Tallinn–Narva highway host **(1) Combined filling stations (fuel + convenience store + washrooms)** within a roughly 8–15 km radius of the site. **(2) DC fast-chargers (CCS / CHAdeMO)** are typically deployed at the major suburban hypermarket car parks and at the larger highway service stations. Plan a 60 km round-trip state-of-charge buffer for EV day trips from Tallinn. Live keywords: Laadijaam · EV Charging · Charging station. Brand-neutral information only."
+        "icon": "♻️",
+        "title": "Waste",
+        "text": "Pack out what you bring. Leave no litter so the protected landscape stays clean for everyone."
       }
     ]
   },
@@ -206,10 +205,10 @@
     "park": "Protected Landscape",
     "parkTime": "Open year-round, 24 hours — no ticket gates, no access-control barriers",
     "bestTime": "Peak Conditions by Season",
-    "bestTimeSpring": "Spring (Apr–May): snowmelt discharge peak (35–60 m³/s) — maximum power and rainbow frequency",
-    "bestTimeSummer": "Summer (Jun–August): mild temperatures, white nights — ideal for hiking and picnics",
-    "bestTimeAutumn": "Autumn (Sep–Oct): layered canopy colours, high-contrast mist — best for foliage photography",
-    "bestTimeWinter": "Winter (Nov–Mar): ice-curtain formation — stay on boardwalks, DO NOT step onto untested ice",
+    "bestTimeSpring": "Spring (roughly April–May) brings the **highest water** of the year as snowmelt swells the river — the falls are at their most powerful, though the water is cold, brown and fast.",
+    "bestTimeSummer": "Summer offers the **longest daylight** and the easiest, warmest conditions, with lower, clearer water and green surroundings. Weekends are the busiest time to visit.",
+    "bestTimeAutumn": "Autumn colours frame the gorge and the light is soft for photography, while crowds thin after the summer peak.",
+    "bestTimeWinter": "In cold spells a **frozen ice curtain** forms — a rare sight — but daylight is short and surfaces are icy. Stay on marked paths and never step onto the ice.",
     "tip": "Aim for the first two hours after sunrise or the last two before sunset — warm side-light and visible mist create the strongest images."
   },
   "tickets": {
@@ -224,11 +223,11 @@
   "transport": {
     "title": "How to Get Here",
     "fromTallinn": "From Tallinn City Centre",
-    "fromTallinnDesc": "Drive east from Tallinn along the E20 highway for approximately 25 km (≈ 30 minutes). Alternatively, take a Tallinn–Narva intercity bus, alight at Jägala-Joa stop and walk ≈ 15 minutes to the viewing platform.",
+    "fromTallinnDesc": "Jägala Waterfall is about 25–30 km east of central Tallinn. By car, follow the E20 (Tallinn–Narva) and turn off at the signs for Jägala-Joa; the free car park is a short distance from the falls. By public transport, intercity coaches on the Tallinn–Narva and Tallinn–Jõgeva lines stop at **Jägala-Joa**; from the stop, follow the road towards the river and the signed walking route to the viewpoint. Always check the live timetable at peatus.ee before you rely on a bus.",
     "fromAirport": "From Tallinn Airport (TLL)",
     "fromAirportDesc": "Rent a car or take a taxi from Tallinn Airport; continue east on E20 for roughly 20 km (≈ 25 minutes). Direct public transport to the airport requires an interchange at Ülemiste or the central bus station.",
     "publicTransport": "Public Transport (Bus)",
-    "publicTransportDesc": "Board intercity coaches towards Narva or Jõgeva from Tallinn Bus Station (Tallinna bussijaam), alight at Jägala-Joa, then walk. Service frequency is markedly lower on weekends (often only 3–5 return trips per day) — always cross-check the TLT.ee / Elron live timetable before departure.",
+    "publicTransportDesc": "Intercity coaches stop at Jägala-Joa on the Tallinn–Narva / Tallinn–Jõgeva corridors. Services are **more frequent on weekdays** and lighter at weekends and holidays — exact times change, so look them up on peatus.ee for your actual travel date. From the stop it is a walk of several minutes to the falls along the signed route; allow extra time if you are travelling with children, luggage or limited mobility.",
     "cycling": "By Bicycle",
     "cyclingDesc": "≈ 25 km from Tallinn along waymarked rural cycling routes; suitable for endurance cyclists. Carry water, spare inner tube and high-visibility vest.",
     "driving": "By Private Motor Vehicle",
@@ -309,38 +308,38 @@
     "title": "Photo Gallery",
     "subtitle": "Jägala Waterfall Through the Seasons · Geology · Ecology",
     "captions": [
-      "Panoramic main view",
-      "Spring flood discharge",
-      "Summer lush canopy",
-      "Autumn foliage layers",
-      "Winter ice curtain detail",
-      "Gorge limestone erosion terraces",
-      "RMK forest trail corridor",
-      "Riverside shallow reach boulders",
-      "Main curtain high-flow exposure",
-      "Kingfisher habitat corridor",
-      "Wooden viewing platform overview",
-      "Rainbow through mist (spring)",
-      "Pothole (giant's kettle) detail",
-      "Jägala River plunge pool rush",
-      "Baltic limestone in evening light"
+      "The full curtain across the limestone scarp",
+      "Visitors on the shore by the falls on a summer day",
+      "Sun over the falls on a clear summer afternoon",
+      "Autumn colours over the Jägala valley",
+      "Low winter sun and a warning sign by the river bend",
+      "Spruce glade and picnic lawn near the falls",
+      "Road bridge over the lower Jägala River",
+      "Suspension footbridge over the Jägala River",
+      "Wooden steps down to the falls in autumn",
+      "The curtain with late-winter ice",
+      "The river above the falls in early spring",
+      "Jõelähtme Parish information board at the site",
+      "The river downstream in late autumn",
+      "Winter ice formations on the scarp",
+      "The wide curtain from the right bank in late summer"
     ],
     "altTemplates": [
-      "Jägala Waterfall - Panorama view in Jägala-Joa, Estonia (main curtain + limestone scarp)",
-      "Jägala Waterfall - Spring flood discharge peak at Jägala-Joa (April–May)",
-      "Jägala Waterfall - Summer lush birch-pine canopy landscape",
-      "Jägala Waterfall - Autumn golden-crimson foliage around Jagala Waterfall",
-      "Jägala Waterfall - Winter ice curtain formation Estonia (December–February)",
-      "Jägala Waterfall - Gorge limestone erosion terraces and giant kettles",
-      "Lahemaa National Park style RMK forest trail corridor near Jagala Waterfall",
-      "Jägala Waterfall - Riverside shallow reach with waterfall backdrop",
-      "Jägala Waterfall - Magnificent 8-metre water curtain at high flow",
-      "Jägala Waterfall - Kingfisher habitat corridor around Jägala-Joa riparian zone",
-      "Jägala Waterfall - Wooden viewing platform in Harju maakond",
-      "Jägala Waterfall - Rainbow piercing sunlight mist at Jägala-Joa",
-      "Jägala Waterfall - Pothole limestone erosion marks geological outcrop",
-      "Jägala Waterfall - Jägala River rushing water plunge pool Estonia",
-      "Jägala Waterfall - Baltic limestone scarp in evening side-light Estonia"
+      "Wide view of Jägala Waterfall’s full curtain under a dramatic sky",
+      "People standing on the rocky shore in front of the falls in summer",
+      "Sunlit Jägala Waterfall on a clear summer day",
+      "Aerial-style view of the Jägala valley in autumn colours",
+      "Golden low light over the river bend with a warning sign",
+      "Open spruce glade used as a picnic lawn near the waterfall",
+      "Concrete road bridge spanning the lower Jägala River",
+      "Wooden suspension footbridge across the Jägala River",
+      "Wooden staircase leading down to the falls among autumn leaves",
+      "The waterfall curtain with ice formations in late winter",
+      "The Jägala River running through bare trees in early spring",
+      "Jõelähtme Parish tourist information board",
+      "The Jägala River downstream under an overcast late-autumn sky",
+      "Frozen ice curtain and icicles on the waterfall scarp in winter",
+      "The wide curtain photographed from the rocky right bank in late summer"
     ],
     "viewAll": "View Location on Google Maps",
     "showAll": "Show All 15 Photos",
@@ -349,7 +348,7 @@
   "reviews": {
     "title": "Visitor Reviews Summary",
     "declaration": "Individual traveller comments change daily, so we publish no quotes of our own. Please consult the live reviews on Google Maps.",
-    "sourceNote": "Rating snapshot: {value}/5 from {count} reviews on Google Maps — checked 8 October 2026.",
+    "sourceNote": "Aggregated public rating shown for orientation; checked 23 October 2026. The operator of this site did not create these reviews. Source: Google Maps.",
     "moreReviews": "Read more reviews on Google Maps"
   },
   "mapSection": {
@@ -363,28 +362,28 @@
     "title": "Frequently Asked Questions (FAQ · 6)",
     "items": [
       {
-        "question": "Where exactly is Jägala Waterfall located?",
-        "answer": "Jägala Waterfall (Estonian endonym: **Jägala juga**) is situated at approximately **59.4498° N, 25.1762° E**, on the lower reach of the Jägala River. Administratively it falls in the village of **Jägala-Joa**, **Jõelähtme Parish (Jõelähtme vald)**, **Harju County (Harju maakond)**, Republic of Estonia. The car park access road is Kubja tee."
+        "question": "How tall and wide is Jägala Waterfall?",
+        "answer": "It is about **8 metres high and more than 50 metres wide**, which makes it the widest natural waterfall in Estonia. The width comes from the river running along the limestone edge of the Baltic Klint."
       },
       {
-        "question": "Is Jägala Waterfall free? Do I pay for parking?",
-        "answer": "**The entire protected landscape is open to the public free of charge, 24 hours a day — no ticket or pass is required.** **Parking conditions vary by location type:** the principal site-adjacent surface car park is generally free, while a minority of village-managed roadside bays may carry a small fee. Always consult the signage at the entrance of any bay you choose. Parking on unpaved natural ground or on forest firebreaks inside the protected area is strictly prohibited."
+        "question": "Is there an entrance fee or ticket?",
+        "answer": "No. Entry is **free and the site is open around the clock, all year**. There is no ticket office. Commercial guided tours that include the falls are priced separately by their operators."
       },
       {
-        "question": "When is the best time to visit? Is the winter ice curtain safe to approach?",
-        "answer": "**Peak visual impact window: April–May spring flood**, when discharge rises to 35–60 m³/s, roar and spray are maximal, and sun-induced rainbow frequency is highest. **Ice curtain season** typically runs from roughly late December to late February, forming after 5–7 days of persistent sub-zero temperatures. **SAFETY CRITICAL:** never approach the ice curtain by walking on the frozen river surface — ice thickness is irregular over the plunge pool, currents remain active underneath. Confine yourself to the purpose-built boardwalks and platforms."
+        "question": "Does the waterfall ever freeze?",
+        "answer": "Yes — in sustained cold spells a thick **ice curtain** can build up over the falls, usually in the depth of winter. It is a natural, weather-dependent phenomenon rather than a guaranteed date, so check recent visitor reports or webcams before making a special trip."
       },
       {
-        "question": "Are there public toilets on site? Is the site accessible with a stroller or wheelchair?",
-        "answer": "**Public washroom facilities** are usually provided at the main car park cluster and / or adjacent RMK information huts; a minority of seasonal units are drained and locked in winter to prevent frost damage — always cross-check the Estonian Ministry of the Environment / RMK facilities map the same morning of your visit. **Accessibility:** the main wooden viewing platform can be reached from the car park via a gently graded access path and is broadly reachable with standard strollers or basic manual wheelchairs. However, the lower riverside trails include steps, cobbles and potentially slippery sections — we do not recommend them for strollers, mobility scooters or wheelchairs. Stick to the top platform circuit if accessibility is a concern."
+        "question": "Is the site accessible with a wheelchair or stroller?",
+        "answer": "The waterfall is a **natural riverside landscape** with uneven ground, slopes, steps and surfaces that become slippery when wet or icy. We cannot guarantee step-free or wheelchair access, and conditions change with the weather. If accessibility is essential, contact Jõelähtme Parish or check recent visitor reports before you travel."
       },
       {
-        "question": "Can I swim, camp or light an open fire / BBQ at Jägala Waterfall?",
-        "answer": "**Swimming or wading in the plunge pool and the immediate downstream rapid stretch is FORBIDDEN and HIGHLY DANGEROUS** — strong submerged re-circulation currents, scoured plunge-pool depressions and sharp limestone ledges are present. **Camping:** tents, roof-top tents, camper-van overnight stays and car-sleeping are NOT permitted inside the 107-hectare protected landscape boundary. For legitimate camping use the official RMK-designated sites inside Lahemaa National Park (≈ 20–35 minutes further east by road). **Picnicking and fires:** cold or insulated ready-to-eat food may be consumed on the designated picnic lawn. **ANY open flame, campfire, charcoal BBQ, alcohol stove or disposable BBQ is PROHIBITED** throughout the protected landscape; violations may trigger administrative fines under § 67 of the Estonian Nature Conservation Act."
+        "question": "Can you swim at the waterfall?",
+        "answer": "Swimming is not advised. The plunge pool is cold, the currents near the base are strong, and the rocks are slippery. There is no lifeguard on site."
       },
       {
-        "question": "How frequent is the intercity bus from Tallinn, and what if I miss the last one back?",
-        "answer": "**Public transport:** from Tallinn Bus Station (Tallinna bussijaam) board a coach on the Tallinn → Narva or Tallinn → Jõgeva corridor, alight at **Jägala-Joa** stop and walk ≈ 15–20 minutes to the viewing platform. **WARNING: service frequencies differ sharply between weekdays and weekends** (Saturdays/Sundays often only 3–5 return services a day). ALWAYS verify the next-day live timetable on TLT.ee or Elron before travelling. If you miss the final return coach, live-map search for taxis or ride-hailing services locally — a one-way trip back to Tallinn is typically on the order of **25–35 EUR** in normal hours."
+        "question": "Are dogs allowed?",
+        "answer": "The area is generally open to leashed dogs, but it lies within a protected natural landscape, so keep pets under control, on marked paths, and clean up after them. Specific rules can change, so observe posted signage on site."
       }
     ]
   },
@@ -469,10 +468,11 @@
   },
   "officialManagement": {
     "title": "About Jägala Waterfall (Governance & Protection Status)",
-    "text": "Jägala Waterfall is one of Estonia's most significant geological and hydrological landmarks. The 107-hectare protected landscape unit (kaitstav loodusmaastik) is co-managed by the **Estonian Ministry of the Environment**, the **State Forest Management Centre (RMK — Riigi Metsakeskus)** and **Jõelähtme Parish**.\n\nAs Estonia's highest-discharge natural waterfall, Jägala Waterfall simultaneously functions as a priority destination for domestic and international nature tourism, a field classroom for Baltic-region geoscience, and a core habitat node along the Jägala River ecological corridor. The co-management framework integrates visitor access with long-term ecosystem protection obligations."
+    "text": "Jägala Waterfall is one of Estonia's most significant geological and hydrological landmarks. The 107-hectare protected landscape unit (kaitstav loodusmaastik) is co-managed by the **Estonian Ministry of the Environment**, the **State Forest Management Centre (RMK — Riigi Metsakeskus)** and **Jõelähtme Parish**.\n\nAs Estonia's highest-discharge natural waterfall, Jägala Waterfall simultaneously functions as a priority destination for domestic and international nature tourism, a field classroom for Baltic-region geoscience, and a core habitat node along the Jägala River ecological corridor. The co-management framework integrates visitor access with long-term ecosystem protection obligations.",
+    "description": "Jägala Waterfall and its surroundings lie within a **protected natural landscape** under Estonian nature-conservation rules. Visitor access is free, and the land is managed with the aim of protecting the gorge, the river and the surrounding forest while keeping the site open to the public. For regulations and official information, see the Estonian Ministry of the Environment / RMK and Jõelähtme Parish."
   },
   "recommendations": {
-    "title": "Further Reading & Nearby Protected Landmarks",
+    "title": "Further reading & sources",
     "attractionsTitle": "Nearby Protected Landmarks (Official Links)",
     "toursTitle": "Official Tour & Activity Portals",
     "attractions": [
@@ -514,27 +514,47 @@
         "name": "Baltic Klint Geotrail — Estonia Environmental Agency educational",
         "url": "https://www.kliimaministeerium.ee/en"
       }
-    ]
+    ],
+    "sourcesTitle": "Sources & verification",
+    "sources": [
+      {
+        "name": "Visit Estonia — Jägala Waterfall",
+        "url": "https://visitestonia.com/en/jagala-waterfall"
+      },
+      {
+        "name": "Visit Harju — Jägala-Joa",
+        "url": "https://visitharju.ee"
+      },
+      {
+        "name": "Jõelähtme Parish",
+        "url": "https://joelahtme.ee"
+      },
+      {
+        "name": "Estonian Environment Agency (weather & water)",
+        "url": "https://www.ilm.ee"
+      }
+    ],
+    "verifiedNote": "Content last verified against the official tourism sources above on 23 October 2026. Local facilities, services and transport timetables change — please confirm before travel and report any error through the contact link in the footer."
   },
   "fromTallinn": {
     "title": "How to Get to Jägala Waterfall from Tallinn",
     "intro": "Jägala Waterfall sits roughly 25 km east of central Tallinn, making it one of the easiest half-day nature trips from the Estonian capital. Whether you drive, take the bus, cycle or arrive by taxi, the route is straightforward and well signposted from the E20 highway.",
     "sections": [
       {
-        "heading": "By Car via the E20 Highway",
-        "content": "Drive east from Tallinn on the **E20 (Tallinn–Narva) highway** for about 25 km — roughly a **30-minute** drive. Exit at Jägala and follow the brown tourist signs to Jägala-Joa; the site-adjacent car park access road is **Kubja tee**. The principal car park is generally free. **Overnight camping, roof-top tents, camper-vans and sleeping in vehicles inside the 107-hectare protected landscape are NOT permitted.**"
+        "heading": "By car (fastest, most flexible)",
+        "content": "From central Tallinn take the E20 (Tallinn–Narva) east for about 25–30 km and turn off at the signs for Jägala-Joa. The drive is typically **30–40 minutes** depending on traffic. Free parking is listed at the site. This is the best option if you want to combine the falls with other stops such as the suspension bridge or Rebala."
       },
       {
-        "heading": "By Intercity Bus",
-        "content": "From **Tallinn Bus Station (Tallinna bussijaam)** board a coach on the Tallinn → Narva or Tallinn → Jõgeva corridor, alight at the **Jägala-Joa** stop, then walk about **15–20 minutes** to the main viewing platform. **Weekend frequency is markedly lower** (often only 3–5 return trips per day) — always cross-check the live timetable on TLT.ee or Elron before travelling."
+        "heading": "By public transport",
+        "content": "Intercity coaches on the Tallinn–Narva and Tallinn–Jõgeva lines stop at **Jägala-Joa**. From there it is a walk of a few minutes to the falls along the signed route. Services are more frequent on weekdays; at weekends and holidays they thin out, so check peatus.ee for your actual date and plan your return before you leave."
       },
       {
-        "heading": "From Tallinn Airport (TLL)",
-        "content": "Rent a car or take a taxi from the airport and continue east on the E20 for roughly 20 km (about a **25-minute** drive). Direct public transport to the airport requires an interchange at **Ülemiste** or the central bus station, so a rental car or taxi is the practical choice for most fly-in visitors."
+        "heading": "By taxi or ride-hailing",
+        "content": "A taxi from Tallinn is straightforward and gives you door-to-door flexibility for a half-day trip. Fares are metered and vary by operator and time; ride-hailing apps show an estimate before you book. Agree the return arrangement in advance, as hailing a cab at the falls can be slow."
       },
       {
-        "heading": "Taxi, Ride-hailing & Bicycle",
-        "content": "A taxi or ride-hailing trip from central Tallinn typically costs **25–35 EUR** in normal hours. Cyclists can follow waymarked rural routes for about **25 km** from Tallinn; carry water, a spare inner tube and a high-visibility vest. The route is flat and suitable for endurance cyclists."
+        "heading": "On a guided tour",
+        "content": "Several Tallinn-based operators include Jägala Waterfall on half-day or nature tours. Tours cost money but handle transport and timing for you; compare operators and check what is included before booking."
       }
     ],
     "faq": {
@@ -562,27 +582,49 @@
         }
       ]
     },
-    "relatedTitle": "More visitor guides"
+    "relatedTitle": "Related guides",
+    "related": [
+      "/by-bus",
+      "/parking",
+      "/half-day-trip",
+      "/tickets-opening-hours"
+    ],
+    "sourcesTitle": "Sources & verification",
+    "sources": [
+      {
+        "name": "Peatus — Estonian journey planner",
+        "url": "https://peatus.ee/?locale=en"
+      },
+      {
+        "name": "Visit Estonia",
+        "url": "https://visitestonia.com/en/jagala-waterfall"
+      },
+      {
+        "name": "Visit Harju",
+        "url": "https://visitharju.ee"
+      }
+    ],
+    "verifiedNote": "Content last verified against the official tourism sources above on 23 October 2026. Local facilities, services and transport timetables change — please confirm before travel and report any error through the contact link in the footer."
   },
   "parking": {
     "title": "Parking at Jägala Waterfall — Free Car Park & Tips",
     "intro": "Parking at Jägala Waterfall is generally free and convenient. The principal site-adjacent surface car park sits a short walk from the main viewing platform, with a few regulated village bays nearby. Here is what to expect and how to avoid a fine.",
     "sections": [
       {
-        "heading": "Main Site-Adjacent Car Park",
-        "content": "A **free surface car park for light vehicles** with several dozen bays sits off **Kubja tee**, just a few minutes' walk from the main viewing platform. On spring-flood and summer weekends the bays fill up quickly — **aim to arrive before 10:00 local time** to secure a space."
+        "heading": "Where to park",
+        "content": "Visit Harju lists a **free car park** at Jägala-Joa, reached by turning off the E20 (Tallinn–Narva road) and following the signs for the waterfall. From the car park it is a short walk to the viewing area along the signed path. We do not quote an exact number of bays because it changes with seasonal layout; arrive earlier on summer weekends when the site is busiest."
       },
       {
-        "heading": "Village & Roadside Bays",
-        "content": "A minority of village-managed roadside bays may carry a **small paid-parking fee**; always read the signage on arrival. Highway laybys are suitable only for a short 15–30 minute stop-and-photograph stop, not for leaving the vehicle for the day."
+        "heading": "Finding the entrance on foot",
+        "content": "Follow the signed walking route from the car park towards the river. The path is natural ground and may be muddy after rain or snow; in winter it can be icy. Allow a few minutes of walking rather than expecting to view the falls from the car."
       },
       {
-        "heading": "Where NOT to Park",
-        "content": "Parking on **unpaved natural ground or forest firebreaks** inside the protected landscape is strictly prohibited and may trigger administrative fines under Estonian nature-conservation rules. Use the designated bays only."
+        "heading": "Electric vehicle charging",
+        "content": "There is no chargers confirmed at the site itself. The nearest charging points are in towns and highway service areas along the E20 corridor — check a live charger map for current locations and availability before you set out."
       },
       {
-        "heading": "EV Charging & Overnight Rules",
-        "content": "**DC fast-chargers (CCS / CHAdeMO)** are found at major suburban hypermarkets and larger highway service stations within roughly **8–15 km** of the site. **Overnight camping, roof-top tents, camper-vans and car-sleeping are NOT permitted** anywhere inside the 107-hectare protected area."
+        "heading": "Overnight & campers",
+        "content": "The car park is intended for daytime visiting. Overnight stays, camping and campfires are restricted in the protected surroundings — follow posted signage and Estonian everyman’s-right rules, and ask Jõelähtme Parish if you are unsure."
       }
     ],
     "faq": {
@@ -610,27 +652,41 @@
         }
       ]
     },
-    "relatedTitle": "More visitor guides"
+    "relatedTitle": "Related guides",
+    "related": [
+      "/from-tallinn",
+      "/by-bus",
+      "/facilities",
+      "/tickets-opening-hours"
+    ],
+    "sourcesTitle": "Sources & verification",
+    "sources": [
+      {
+        "name": "Visit Harju",
+        "url": "https://visitharju.ee"
+      }
+    ],
+    "verifiedNote": "Content last verified against the official tourism sources above on 23 October 2026. Local facilities, services and transport timetables change — please confirm before travel and report any error through the contact link in the footer."
   },
   "winter": {
     "title": "Jägala Waterfall in Winter — The Ice Curtain Guide",
     "intro": "In winter Jägala Waterfall transforms into one of Northern Europe's most accessible natural ice spectacles: after 5–7 consecutive days of sub-zero temperatures a translucent ice curtain 20–40 cm thick forms at the brink. Here is how to plan a safe winter visit.",
     "sections": [
       {
-        "heading": "When the Ice Curtain Forms",
-        "content": "The ice curtain typically develops from **late December to late February**, once temperatures stay below freezing for 5–7 consecutive days. Mid-winter low flow (January–February) may drop to **3–6 m³/s**, concentrating ice at the lip and along the limestone scarp."
+        "heading": "The ice curtain",
+        "content": "In a sustained cold spell the falling water freezes into a **white ice curtain** draped over the limestone, often with icicles and frozen spray around the gorge. It is one of the most photographed winter sights in Estonia. Because it depends on the weather, there is no fixed date each year — it forms only after the cold has lasted long enough."
       },
       {
-        "heading": "Safety — Stay on the Boardwalks",
-        "content": "**Never walk onto the frozen river surface** to approach the curtain. Ice thickness is irregular over the plunge pool and currents stay active underneath. Confine yourself to the purpose-built boardwalks and platforms at all times."
+        "heading": "When it tends to happen",
+        "content": "Cold weather in Estonia usually arrives between late November and December and can persist into February or March. The ice curtain is most likely in the depth of winter, but a mild spell can melt it quickly. Treat any forecast as a guide, not a guarantee."
       },
       {
-        "heading": "What to Wear & Road Conditions",
-        "content": "Dress in **insulated, wind-proof layers**; near the polar-night boundary daylight is only **4–6 hours**. Rural roads are usually gritted but can be icy — drive cautiously and allow extra time."
+        "heading": "Daylight & conditions",
+        "content": "Winter daylight around Tallinn is short — roughly **six hours near the solstice** — so plan to arrive with plenty of light. Snow and ice make every surface slippery; wear grippy footwear and take it slowly on the paths."
       },
       {
-        "heading": "Winter Photography",
-        "content": "Side-illuminated ice shows a translucent **blue polarised glow**. The golden hour is short, so scout compositions in advance and keep camera batteries warm (cold drains them fast). A polarising filter helps manage glare on the ice."
+        "heading": "Safety in winter",
+        "content": "Stay on the marked paths and viewing areas. **Never walk onto the frozen river or the ice curtain** — the ice can be thin or unstable, and falling ice and icicles can drop from above. The falls themselves are not fenced along the natural edge, so keep children and pets close."
       }
     ],
     "faq": {
@@ -658,54 +714,958 @@
         }
       ]
     },
-    "relatedTitle": "More visitor guides"
-  },
-  "photos": {
-    "title": "Jägala Waterfall Photography Guide — Best Vantage Points",
-    "intro": "Jägala Waterfall offers compositions for every season: spring-flood power, summer white nights, autumn foliage and the winter ice curtain. This guide covers the best vantage points, light and gear.",
-    "sections": [
+    "relatedTitle": "Related guides",
+    "related": [
+      "/safety",
+      "/best-time-to-visit",
+      "/water-levels",
+      "/photography"
+    ],
+    "sourcesTitle": "Sources & verification",
+    "sources": [
       {
-        "heading": "Main Wooden Viewing Platform",
-        "content": "The default frontal panorama position captures the **full curtain plunging onto the plunge pool** — ideal for wide-angle framing and long-exposure silky-water renderings. Arrive early to avoid the crowds."
-      },
-      {
-        "heading": "Left-bank Shallow Reach & Right High-ground Viewpoint",
-        "content": "The left-bank shallow reach gives close-range compositions with foreground boulders and spray; a **polarising filter** controls surface glare. The right high-ground viewpoint offers a 3/4 overhead of the waterfall, gorge and river corridor — excellent for golden-hour side-light."
-      },
-      {
-        "heading": "Seasonal Light & Timing",
-        "content": "The **first two hours after sunrise and the last two before sunset** give warm side-light and visible mist. Spring mornings produce frequent rainbows; autumn brings high-contrast mist; winter shows blue ice glow."
-      },
-      {
-        "heading": "Gear & Drone Rules",
-        "content": "A **200–400 mm telephoto** and polariser help isolate detail; a tripod is essential for long exposures. **Recreational drones are restricted within the protected landscape** — check current RMK / Jõelähtme Parish rules before flying, as flights may be prohibited."
+        "name": "Visit Estonia",
+        "url": "https://visitestonia.com/en/jagala-waterfall"
       }
     ],
+    "verifiedNote": "Content last verified against the official tourism sources above on 23 October 2026. Local facilities, services and transport timetables change — please confirm before travel and report any error through the contact link in the footer."
+  },
+  "photos": {
+    "title": "Jägala Waterfall Photos — Four Seasons at the Falls",
+    "intro": "A gallery of **real photographs taken at Jägala Waterfall (Jägala-Joa, Harju maakond)** and its immediate surroundings. Unlike our photography guide, this page simply shows the place across the seasons so you can see what to expect before you go.",
+    "sections": [
+      {
+        "heading": "What the photos show",
+        "content": "The set moves through the year: the full curtain in high summer flow, autumn colour over the valley, the late-winter ice on the scarp, the early-spring river, and the winter ice formations. A few images show the access bridge, the riverside suspension bridge and the on-site information board so you can recognise the place on arrival."
+      },
+      {
+        "heading": "About the images",
+        "content": "All photographs depict Jägala Waterfall and its surroundings. Seasons are described as pictured; we have not invented capture dates. If you believe any caption is wrong, please tell us via the contact link in the footer and we will correct it."
+      }
+    ],
+    "photosTitle": "Photo gallery",
+    "photos": [
+      {
+        "file": "01",
+        "caption": "The full curtain across the limestone scarp",
+        "alt": "Wide view of Jägala Waterfall’s full curtain under a dramatic sky"
+      },
+      {
+        "file": "02",
+        "caption": "Visitors on the shore by the falls on a summer day",
+        "alt": "People standing on the rocky shore in front of the falls in summer"
+      },
+      {
+        "file": "03",
+        "caption": "Sun over the falls on a clear summer afternoon",
+        "alt": "Sunlit Jägala Waterfall on a clear summer day"
+      },
+      {
+        "file": "04",
+        "caption": "Autumn colours over the Jägala valley",
+        "alt": "Aerial-style view of the Jägala valley in autumn colours"
+      },
+      {
+        "file": "05",
+        "caption": "Low winter sun and a warning sign by the river bend",
+        "alt": "Golden low light over the river bend with a warning sign"
+      },
+      {
+        "file": "06",
+        "caption": "Spruce glade and picnic lawn near the falls",
+        "alt": "Open spruce glade used as a picnic lawn near the waterfall"
+      },
+      {
+        "file": "07",
+        "caption": "Road bridge over the lower Jägala River",
+        "alt": "Concrete road bridge spanning the lower Jägala River"
+      },
+      {
+        "file": "08",
+        "caption": "Suspension footbridge over the Jägala River",
+        "alt": "Wooden suspension footbridge across the Jägala River"
+      },
+      {
+        "file": "09",
+        "caption": "Wooden steps down to the falls in autumn",
+        "alt": "Wooden staircase leading down to the falls among autumn leaves"
+      },
+      {
+        "file": "10",
+        "caption": "The curtain with late-winter ice",
+        "alt": "The waterfall curtain with ice formations in late winter"
+      },
+      {
+        "file": "11",
+        "caption": "The river above the falls in early spring",
+        "alt": "The Jägala River running through bare trees in early spring"
+      },
+      {
+        "file": "12",
+        "caption": "Jõelähtme Parish information board at the site",
+        "alt": "Jõelähtme Parish tourist information board"
+      },
+      {
+        "file": "13",
+        "caption": "The river downstream in late autumn",
+        "alt": "The Jägala River downstream under an overcast late-autumn sky"
+      },
+      {
+        "file": "14",
+        "caption": "Winter ice formations on the scarp",
+        "alt": "Frozen ice curtain and icicles on the waterfall scarp in winter"
+      },
+      {
+        "file": "15",
+        "caption": "The wide curtain from the right bank in late summer",
+        "alt": "The wide curtain photographed from the rocky right bank in late summer"
+      }
+    ],
+    "photosNote": "All images show Jägala Waterfall (Jägala-Joa, Harju maakond) and its immediate surroundings. Seasons are described as pictured.",
     "faq": {
-      "title": "Photography — FAQ",
+      "title": "Photos FAQ",
       "items": [
         {
-          "question": "When is the best time for photos?",
-          "answer": "**Spring flood (April–May)** for power and frequent rainbows, and the **golden hours** year-round for warm side-light and mist."
+          "question": "Are these real photos of the waterfall?",
+          "answer": "Yes — all images were taken at Jägala Waterfall and its surroundings; seasons are described as pictured."
         },
         {
-          "question": "What is the best vantage point?",
-          "answer": "The **main platform** for the frontal panorama; the **right high-ground viewpoint** for an overhead 3/4 composition of the waterfall and gorge."
+          "question": "Can I use these photos?",
+          "answer": "They are published here for visitor information. For any reuse, contact the site operator via the footer link to confirm rights."
         },
         {
-          "question": "Can I fly a drone?",
-          "answer": "Recreational drones are **restricted within the protected landscape**. Verify current RMK / Jõelähtme Parish rules before flying, as flights may be prohibited."
-        },
-        {
-          "question": "What gear should I bring?",
-          "answer": "A telephoto lens (200–400 mm), a polarising filter and a tripod for long exposures, plus rain protection for your camera in spray zones."
-        },
-        {
-          "question": "Are there rainbows?",
-          "answer": "Yes — **frequent in spring mornings** when backlight and mist align, especially during the April–May snowmelt peak."
+          "question": "Where can I see how to photograph it myself?",
+          "answer": "See our separate Photography guide for vantage points, light and gear."
         }
       ]
     },
-    "relatedTitle": "More visitor guides"
+    "relatedTitle": "Related guides",
+    "related": [
+      "/photography",
+      "/best-time-to-visit",
+      "/winter"
+    ],
+    "sourcesTitle": "Sources & verification",
+    "sources": [
+      {
+        "name": "Visit Estonia — Jägala Waterfall",
+        "url": "https://visitestonia.com/en/jagala-waterfall"
+      },
+      {
+        "name": "Visit Harju — Jägala-Joa",
+        "url": "https://visitharju.ee"
+      },
+      {
+        "name": "Jõelähtme Parish",
+        "url": "https://joelahtme.ee"
+      }
+    ],
+    "verifiedNote": "Content last verified against the official tourism sources above on 23 October 2026. Local facilities, services and transport timetables change — please confirm before travel and report any error through the contact link in the footer."
+  },
+  "byBus": {
+    "title": "Getting to Jägala Waterfall by Bus",
+    "intro": "**Yes — you can reach Jägala Waterfall by bus.** Intercity coaches on the Tallinn–Narva and Tallinn–Jõgeva lines stop at **Jägala-Joa**, a short walk from the falls. Timings change by season and day, so the one tool you need is the live Estonian journey planner, peatus.ee.",
+    "sections": [
+      {
+        "heading": "Which bus to take",
+        "content": "From **Tallinn Bus Station (Tallinna bussijaam)**, look for coaches heading towards **Narva** or **Jõgeva** — both corridors pass the Jägala-Joa stop. These are regional/long-distance coaches, not city buses, and they run several times a day on weekdays. Always confirm the stop name and time on peatus.ee for your travel date."
+      },
+      {
+        "heading": "Getting off and walking in",
+        "content": "Alight at **Jägala-Joa**. From the road, follow the signed route towards the river; the walking path to the viewing area is a few minutes on natural ground. In winter the path can be snowy or icy, so allow extra time and wear grippy shoes. There is no separate shuttle, so the walk is part of the trip."
+      },
+      {
+        "heading": "Planning the return",
+        "content": "Services are **lighter at weekends and holidays**, and the last buses back to Tallinn leave earlier than midday departures. Check the return time on peatus.ee before you set out, and have a backup (taxi/rideshare) in mind in case you miss the last coach. Build the round trip around the timetable rather than hoping for a bus."
+      },
+      {
+        "heading": "Combining bus + taxi",
+        "content": "A practical option is to take the bus out and a taxi back, or vice versa, if the return coach does not fit your plan. Taxis can be booked by app or phone from Tallinn; agree the fare or check the estimate before the ride."
+      },
+      {
+        "heading": "Why we do not publish a fixed timetable",
+        "content": "Coach schedules on this corridor shift with the season, holidays and operator changes. Publishing a fixed “3–5 buses a day” figure would go stale and mislead travellers. The live planner at peatus.ee is the authoritative source for your exact date."
+      }
+    ],
+    "faq": {
+      "title": "Bus FAQ",
+      "items": [
+        {
+          "question": "Can I get to Jägala Waterfall by public transport?",
+          "answer": "Yes — intercity coaches stop at Jägala-Joa, a short walk from the falls. Check live times on peatus.ee."
+        },
+        {
+          "question": "How long is the walk from the bus stop?",
+          "answer": "A few minutes along the signed path to the river; allow more in snow or ice. The walk is on natural ground, not a paved plaza."
+        },
+        {
+          "question": "Is the bus reliable at weekends?",
+          "answer": "Services are more frequent on weekdays and lighter at weekends and holidays. Always check peatus.ee and plan your return before leaving Tallinn."
+        },
+        {
+          "question": "Where do I catch the bus in Tallinn?",
+          "answer": "From Tallinn Bus Station, on coaches towards Narva or Jõgeva. Confirm the stop and time on the live planner."
+        }
+      ]
+    },
+    "relatedTitle": "Related guides",
+    "related": [
+      "/from-tallinn",
+      "/parking",
+      "/safety",
+      "/tickets-opening-hours"
+    ],
+    "sourcesTitle": "Sources & verification",
+    "sources": [
+      {
+        "name": "Peatus — Estonian journey planner",
+        "url": "https://peatus.ee/?locale=en"
+      },
+      {
+        "name": "Visit Estonia — Jägala Waterfall",
+        "url": "https://visitestonia.com/en/jagala-waterfall"
+      },
+      {
+        "name": "Visit Harju — Jägala-Joa",
+        "url": "https://visitharju.ee"
+      }
+    ],
+    "verifiedNote": "Content last verified against the official tourism sources above on 23 October 2026. Local facilities, services and transport timetables change — please confirm before travel and report any error through the contact link in the footer."
+  },
+  "ticketsOpeningHours": {
+    "title": "Jägala Waterfall: Entrance Fee & Opening Hours",
+    "intro": "**Entry is free and the site is open 24 hours a day, all year round** — there is no ticket, no gate and no ticket office. You only pay if you book a commercial guided tour or buy something from a third-party operator.",
+    "sections": [
+      {
+        "heading": "Is there an entrance fee?",
+        "content": "No. Visiting the waterfall itself costs nothing. The site is managed as a public natural area, and access is free. Anyone offering to “sell” you entry to the falls is not official."
+      },
+      {
+        "heading": "Opening hours",
+        "content": "The falls are **open around the clock and in every season**. There are no gates, so you can arrive at any time. In practice, plan around daylight — winter days are short (roughly six hours near the solstice) and the paths are unlit, so a daytime visit is far easier and safer."
+      },
+      {
+        "heading": "Parking cost",
+        "content": "Parking at the site is listed as **free** by Visit Harju. There is no barrier or charge. (Private bays in the village are separate and may differ — the official site car park is free.)"
+      },
+      {
+        "heading": "Guided tours",
+        "content": "Commercial tours that include Jägala Waterfall are priced by their operators and are separate from site entry. Compare what each tour includes (transport, guide, stops) before booking; the free, self-guided visit needs no reservation."
+      },
+      {
+        "heading": "What you do not pay for",
+        "content": "Viewing the falls, the walking paths, the picnic lawn and the viewpoints are all free. The only paid items are optional third-party services such as tours, transport or food you bring from elsewhere."
+      }
+    ],
+    "faq": {
+      "title": "Tickets & hours FAQ",
+      "items": [
+        {
+          "question": "Do I need a ticket for Jägala Waterfall?",
+          "answer": "No ticket and no fee — entry is free and open 24/7, year-round."
+        },
+        {
+          "question": "What are the opening hours?",
+          "answer": "Always open. There are no gates. Plan your visit in daylight, especially in winter."
+        },
+        {
+          "question": "Is parking free?",
+          "answer": "The site car park is listed as free by Visit Harju. Always check on arrival, as layouts can change."
+        },
+        {
+          "question": "Do guided tours cost extra?",
+          "answer": "Yes, commercial tours are priced by operators and are separate from free site entry."
+        }
+      ]
+    },
+    "relatedTitle": "Related guides",
+    "related": [
+      "/parking",
+      "/facilities",
+      "/safety",
+      "/best-time-to-visit"
+    ],
+    "sourcesTitle": "Sources & verification",
+    "sources": [
+      {
+        "name": "Visit Estonia — Jägala Waterfall",
+        "url": "https://visitestonia.com/en/jagala-waterfall"
+      },
+      {
+        "name": "Visit Harju — Jägala-Joa",
+        "url": "https://visitharju.ee"
+      }
+    ],
+    "verifiedNote": "Content last verified against the official tourism sources above on 23 October 2026. Local facilities, services and transport timetables change — please confirm before travel and report any error through the contact link in the footer."
+  },
+  "facilities": {
+    "title": "Toilets & Facilities at Jägala Waterfall",
+    "intro": "**Facilities at Jägala Waterfall are minimal.** Visit Harju lists a basic dry (pit) toilet and free parking at the site. There is no café, kiosk, shop or visitor centre — bring what you need and plan accordingly.",
+    "sections": [
+      {
+        "heading": "Toilets",
+        "content": "A basic **dry (pit) toilet** is listed at the site by Visit Harju. It is simple and may be locked or unavailable in winter; do not rely on it for a large group, and confirm on arrival. There are no flush toilets or baby-changing facilities at the falls."
+      },
+      {
+        "heading": "Parking",
+        "content": "Free parking is listed at the site, off Kubja tee. See the Parking guide for the exact approach and the short walk-in. The car park is for daytime visiting."
+      },
+      {
+        "heading": "Food, drink & supplies",
+        "content": "There is **nothing to buy at the falls** — no café, kiosk or water refill. Bring your own water and snacks. The nearest shops, cafés and services are in Jägala-Joa village and along the E20 corridor; Tallinn is about 30 minutes away by car."
+      },
+      {
+        "heading": "Accessibility of facilities",
+        "content": "The site is a natural landscape: uneven ground, slopes and steps. The toilet is a basic unit, not an accessible restroom. If you need specific facilities, contact Jõelähtme Parish before travelling."
+      },
+      {
+        "heading": "Waste & mobile coverage",
+        "content": "There are no bins guaranteed at the site — **pack out what you bring**. Mobile coverage is generally available but can dip in the gorge; do not assume a signal for emergencies and save the 112 emergency number."
+      },
+      {
+        "heading": "Picnic areas",
+        "content": "There is an open, grassy area near the forest that visitors use for picnics. Leave it clean, keep fires to designated rules (generally none here), and respect the protected landscape."
+      }
+    ],
+    "faq": {
+      "title": "Facilities FAQ",
+      "items": [
+        {
+          "question": "Are there toilets at Jägala Waterfall?",
+          "answer": "A basic dry toilet is listed by Visit Harju; it may be locked in winter. No flush toilets or baby-changing on site."
+        },
+        {
+          "question": "Is there a café or shop?",
+          "answer": "No. Bring your own food and water; the nearest services are in the village and along the E20."
+        },
+        {
+          "question": "Is parking free and is it the facility?",
+          "answer": "Free parking is listed at the site; the car park itself is the main developed facility besides the toilet."
+        },
+        {
+          "question": "Can I picnic there?",
+          "answer": "Yes, on the open grassy area, but pack out all waste and follow the protected-area rules."
+        }
+      ]
+    },
+    "relatedTitle": "Related guides",
+    "related": [
+      "/tickets-opening-hours",
+      "/safety",
+      "/parking"
+    ],
+    "sourcesTitle": "Sources & verification",
+    "sources": [
+      {
+        "name": "Visit Harju — Jägala-Joa",
+        "url": "https://visitharju.ee"
+      }
+    ],
+    "verifiedNote": "Content last verified against the official tourism sources above on 23 October 2026. Local facilities, services and transport timetables change — please confirm before travel and report any error through the contact link in the footer."
+  },
+  "safety": {
+    "title": "Jägala Waterfall Safety Guide",
+    "intro": "Jägala Waterfall is a natural riverside site with **no lifeguards, fences along the natural edge, or barriers at the water**. The main risks are slippery limestone, cold fast water, winter ice and falling ice. Stay on marked paths and use common sense.",
+    "sections": [
+      {
+        "heading": "Slippery rocks & edges",
+        "content": "The limestone and wet rocks are **extremely slippery**, especially after rain or when spray settles. Wear grippy footwear, keep to the marked paths and viewing areas, and do not climb over railings or stand at the unguarded river edge. The drop and plunge pool are hazardous."
+      },
+      {
+        "heading": "Water & currents",
+        "content": "The Jägala is a real river. The plunge pool is **cold and the currents near the base are strong**. Swimming is not advised and there is no lifeguard. Keep children and pets under close control near the water."
+      },
+      {
+        "heading": "Winter ice & falling ice",
+        "content": "In cold spells the falls freeze into an ice curtain, but **never walk onto the frozen river or the ice**. Ice and icicles can fall from above without warning. Stay on the marked paths and keep your distance from the scarp."
+      },
+      {
+        "heading": "Summer sun, ticks & terrain",
+        "content": "In summer the open areas are exposed — bring water and sun protection. Ticks live in the grass and vegetation, so check yourself after walks in the brush. The paths are natural ground and can be uneven."
+      },
+      {
+        "heading": "Emergency",
+        "content": "The Estonian emergency number is **112** (call or text). Mobile coverage is usually available but can drop in the gorge; do not rely on it. Tell someone your plan if you visit in winter or off-peak."
+      }
+    ],
+    "faq": {
+      "title": "Safety FAQ",
+      "items": [
+        {
+          "question": "Can you swim at the waterfall?",
+          "answer": "Not advised — cold water, strong currents near the base, slippery rocks and no lifeguard."
+        },
+        {
+          "question": "Is it safe to visit in winter?",
+          "answer": "Yes with care: stay on marked paths, never go onto the ice, and watch for falling ice. Daylight is short."
+        },
+        {
+          "question": "Are there railings or fences?",
+          "answer": "Some viewing spots have low rails, but the natural river edge is not fenced. Supervise children and pets closely."
+        },
+        {
+          "question": "What is the emergency number?",
+          "answer": "112 in Estonia, for police, ambulance and rescue."
+        }
+      ]
+    },
+    "relatedTitle": "Related guides",
+    "related": [
+      "/winter",
+      "/facilities",
+      "/tickets-opening-hours",
+      "/best-time-to-visit"
+    ],
+    "sourcesTitle": "Sources & verification",
+    "sources": [
+      {
+        "name": "Visit Estonia — Jägala Waterfall",
+        "url": "https://visitestonia.com/en/jagala-waterfall"
+      },
+      {
+        "name": "Estonian Rescue Board (112)",
+        "url": "https://www.112.ee"
+      }
+    ],
+    "verifiedNote": "Content last verified against the official tourism sources above on 23 October 2026. Local facilities, services and transport timetables change — please confirm before travel and report any error through the contact link in the footer."
+  },
+  "bestTimeToVisit": {
+    "title": "Best Time to Visit Jägala Waterfall",
+    "intro": "**There is no bad month** — Jägala is open all year and each season looks different. Choose by what you want to see: the powerful spring flood, long summer days, autumn colour, or the winter ice curtain. Below is a season-by-season comparison.",
+    "sections": [
+      {
+        "heading": "Spring (Apr–May) — most powerful",
+        "content": "Snowmelt swells the river to its **highest, most dramatic flow**. The water is cold and brown, and the spray is heavy. Best for feeling the raw power of the falls; less so for clear reflections."
+      },
+      {
+        "heading": "Summer (Jun–Aug) — easiest & brightest",
+        "content": "The **longest daylight**, warmest weather and green surroundings make summer the easiest visit. Water is lower and clearer. It is also the busiest time, especially weekend afternoons — arrive before 10:00 or after 17:00 for space and softer light."
+      },
+      {
+        "heading": "Autumn (Sep–Oct) — colour & calm",
+        "content": "Autumn foliage frames the gorge and the light is soft and photogenic. Crowds thin after the summer peak. Expect changeable, cooler weather and the first frosts later in the season."
+      },
+      {
+        "heading": "Winter (Nov–Mar) — the ice curtain",
+        "content": "In sustained cold a **frozen ice curtain** forms — a rare sight. But daylight is short (about six hours near the solstice) and everything is icy. Plan a daylight visit and dress for the cold. The ice is weather-dependent, not guaranteed."
+      },
+      {
+        "heading": "Time of day & crowds",
+        "content": "The falls face roughly south, so **morning and evening light** is softest and best for photos. Summer weekends are busiest; a weekday or an early/late arrival gives you the place more to yourself."
+      }
+    ],
+    "faq": {
+      "title": "Best time FAQ",
+      "items": [
+        {
+          "question": "What is the best month to visit?",
+          "answer": "It depends: spring for power, summer for ease, autumn for colour, winter for ice. All are valid."
+        },
+        {
+          "question": "When is it least crowded?",
+          "answer": "Weekdays and early morning or evening; avoid summer weekend afternoons."
+        },
+        {
+          "question": "When is the ice curtain likely?",
+          "answer": "In a sustained cold spell, typically deep winter — but it is weather-dependent, not a fixed date."
+        },
+        {
+          "question": "Is it open in winter?",
+          "answer": "Yes, 24/7 year-round; just plan around short daylight and icy paths."
+        }
+      ]
+    },
+    "relatedTitle": "Related guides",
+    "related": [
+      "/winter",
+      "/water-levels",
+      "/photography",
+      "/safety"
+    ],
+    "sourcesTitle": "Sources & verification",
+    "sources": [
+      {
+        "name": "Visit Estonia — Jägala Waterfall",
+        "url": "https://visitestonia.com/en/jagala-waterfall"
+      },
+      {
+        "name": "Visit Harju — Jägala-Joa",
+        "url": "https://visitharju.ee"
+      },
+      {
+        "name": "Jõelähtme Parish",
+        "url": "https://joelahtme.ee"
+      }
+    ],
+    "verifiedNote": "Content last verified against the official tourism sources above on 23 October 2026. Local facilities, services and transport timetables change — please confirm before travel and report any error through the contact link in the footer."
+  },
+  "waterLevels": {
+    "title": "Jägala Waterfall Water Levels & Flow",
+    "intro": "Jägala is a true river, so its **flow changes through the year** — strongest in spring and after heavy rain, lower in late summer, and altered again when winter freezes the surface. Knowing the pattern helps you pick the visit that matches the photo you want.",
+    "sections": [
+      {
+        "heading": "Seasonal pattern",
+        "content": "**Spring (snowmelt):** the highest, most powerful flow of the year. **Summer:** lower and clearer as rainfall drops. **Autumn:** variable — rain can swell it again. **Winter:** a hard freeze can reduce the open flow and eventually build the ice curtain."
+      },
+      {
+        "heading": "What changes visually",
+        "content": "At high flow the curtain is a continuous wall of brown, churning water with heavy spray and sometimes rainbows in the mist. At low flow you see more of the limestone ledge and the individual channels. After rain the pool rises and the spray increases."
+      },
+      {
+        "heading": "Heavy rain & floods",
+        "content": "Sustained rain raises the river quickly. The falls become more dramatic but the paths get muddy and the edges more slippery. If you are after the powerful look, a day or two after heavy rain is often ideal."
+      },
+      {
+        "heading": "Where to check current conditions",
+        "content": "For weather, rain and water information, use the Estonian Environment Agency’s portal (ilm.ee) and general weather forecasts before you travel. We avoid publishing a single discharge number because readings change daily and would mislead if stated as fixed."
+      }
+    ],
+    "faq": {
+      "title": "Water levels FAQ",
+      "items": [
+        {
+          "question": "When is the waterfall most full?",
+          "answer": "In spring after the snowmelt, and after periods of heavy rain — that is when the flow peaks."
+        },
+        {
+          "question": "When is the water lowest?",
+          "answer": "Typically late summer, between rain events, when the river runs clearer and lower."
+        },
+        {
+          "question": "Can I check the flow live?",
+          "answer": "Use the Estonian Environment Agency weather/water portal (ilm.ee) and weather forecasts; we do not publish a fixed figure."
+        },
+        {
+          "question": "Does it freeze solid?",
+          "answer": "In hard winter the surface and spray can freeze into an ice curtain, but the river keeps flowing underneath."
+        }
+      ]
+    },
+    "relatedTitle": "Related guides",
+    "related": [
+      "/best-time-to-visit",
+      "/winter",
+      "/photography"
+    ],
+    "sourcesTitle": "Sources & verification",
+    "sources": [
+      {
+        "name": "Estonian Environment Agency (weather & water)",
+        "url": "https://www.ilm.ee"
+      },
+      {
+        "name": "Visit Estonia — Jägala Waterfall",
+        "url": "https://visitestonia.com/en/jagala-waterfall"
+      }
+    ],
+    "verifiedNote": "Content last verified against the official tourism sources above on 23 October 2026. Local facilities, services and transport timetables change — please confirm before travel and report any error through the contact link in the footer."
+  },
+  "photography": {
+    "title": "Photographing Jägala Waterfall",
+    "intro": "Jägala is one of the easiest major waterfalls in Estonia to photograph: free access, open all year, and a wide curtain that reads well from several angles. This guide covers **vantage points, light, gear and the rules** — distinct from our photo gallery, which simply shows the real images.",
+    "sections": [
+      {
+        "heading": "Vantage points",
+        "content": "The **main viewing area** above the falls gives the classic wide, frontal panorama. From the **rocky shore in front** (reachable via the path and steps) you get a lower, more immersive angle — take care, the rocks are slippery. The **right-bank path and steps** frame the falls through trees and give a ¾ view. Higher ground on the approach offers an overview of the gorge."
+      },
+      {
+        "heading": "Light & timing",
+        "content": "The falls face roughly **south**, so the light is softest and warmest at **early morning and late afternoon/evening**. Midday is harsher and more contrasty. Overcast days are excellent for silky long exposures because the light is even; sunny days give sparkle and possible rainbows in the spray."
+      },
+      {
+        "heading": "Seasons for photography",
+        "content": "**Spring** for raw power and brown flood; **summer** for green, long-day ease; **autumn** for colour and mist; **winter** for the ice curtain (check it has formed, and dress warmly — tripods ice up). See our Best time and Water levels guides for planning."
+      },
+      {
+        "heading": "Gear",
+        "content": "A **wide lens** captures the full curtain; a **telephoto** isolates textures and ice detail. A **polariser** cuts glare on wet rock and can deepen the sky. A **tripod** lets you use slow shutter speeds for that smooth-water look; a ND filter helps in bright light. Bring a cloth for spray on the front element."
+      },
+      {
+        "heading": "Drones & permits",
+        "content": "The area is a **protected natural landscape**, and drone flights are restricted there and prohibited over people. Do not assume you can fly — check the current rules with RMK / Jõelähtme Parish and the national aviation authority before bringing a drone, and never launch over other visitors."
+      },
+      {
+        "heading": "Etiquette",
+        "content": "Stay on the marked paths and behind any rails; do not climb over barriers or onto the unstable edge for a shot. Keep the site clean and respect other visitors’ sightlines."
+      }
+    ],
+    "faq": {
+      "title": "Photography FAQ",
+      "items": [
+        {
+          "question": "Where is the best photo spot?",
+          "answer": "The main viewing area for the wide frontal shot; the front shore and right-bank steps for lower and framed angles. All are on marked paths."
+        },
+        {
+          "question": "What time is best for light?",
+          "answer": "Early morning and late afternoon/evening; overcast days suit long exposures."
+        },
+        {
+          "question": "Can I fly a drone?",
+          "answer": "Restricted in the protected area and over people — check current rules with RMK / Jõelähtme Parish before flying."
+        },
+        {
+          "question": "What gear should I bring?",
+          "answer": "Wide + telephoto lenses, polariser, tripod (ND filter in bright light), and a cloth for spray."
+        }
+      ]
+    },
+    "relatedTitle": "Related guides",
+    "related": [
+      "/photos",
+      "/best-time-to-visit",
+      "/water-levels",
+      "/safety"
+    ],
+    "sourcesTitle": "Sources & verification",
+    "sources": [
+      {
+        "name": "RMK (Estonian State Forest)",
+        "url": "https://www.rmk.ee"
+      },
+      {
+        "name": "Jõelähtme Parish",
+        "url": "https://joelahtme.ee"
+      },
+      {
+        "name": "Visit Estonia — Jägala Waterfall",
+        "url": "https://visitestonia.com/en/jagala-waterfall"
+      }
+    ],
+    "verifiedNote": "Content last verified against the official tourism sources above on 23 October 2026. Local facilities, services and transport timetables change — please confirm before travel and report any error through the contact link in the footer."
+  },
+  "jagalaRiver": {
+    "title": "The Jägala River",
+    "intro": "The **Jägala River (Jägala jõgi)** is one of the larger rivers of Harju County, flowing from its upland sources to the Gulf of Finland. The waterfall is the dramatic moment where the river meets the Baltic Klint near Jägala-Joa — and the river’s story continues to the sea, about 4 km away at its mouth.",
+    "sections": [
+      {
+        "heading": "The river in brief",
+        "content": "The Jägala drains a sizeable part of northern Estonia and reaches the Baltic at **Ihasalu / the river mouth** east of Tallinn. It is a real, fish-bearing river rather than a mountain stream, which is why its flow varies so clearly with the seasons (see our Water levels guide)."
+      },
+      {
+        "heading": "The waterfall’s place on the river",
+        "content": "The falls sit on the **lower reach**, where the river crosses the limestone edge of the Baltic Klint. The hard cap-rock and softer rock beneath created the ~8 m drop and the wide curtain. Downstream, the river cuts a short gorge before opening out toward the coast."
+      },
+      {
+        "heading": "The mouth & suspension bridge",
+        "content": "At its mouth the Jägala is crossed by a well-known **suspension bridge**, a separate viewpoint about **4 km from the waterfall** according to official tourism material. It is a different location, not a walkable 4 km trail from the falls — treat it as its own stop if you want both. The river-mouth and bridge are described on Visit Estonia."
+      },
+      {
+        "heading": "Nature along the corridor",
+        "content": "The river corridor holds mixed forest, meadows and riparian habitat supporting typical Estonian wildlife, including birds and small mammals. Fishing and other uses are regulated, so check current rules before any activity. Observe nature from a distance and stay on marked paths."
+      }
+    ],
+    "faq": {
+      "title": "Jägala River FAQ",
+      "items": [
+        {
+          "question": "Where does the Jägala River flow?",
+          "answer": "Through Harju County to the Gulf of Finland, reaching the sea near Ihasalu, east of Tallinn."
+        },
+        {
+          "question": "How far is the mouth from the waterfall?",
+          "answer": "Official tourism material lists the suspension bridge at the mouth as about 4 km from the falls — a separate spot, not a signed 4 km trail."
+        },
+        {
+          "question": "Why does the flow change so much?",
+          "answer": "It is a real river fed by snowmelt and rain, so volume peaks in spring and after storms and drops in late summer."
+        },
+        {
+          "question": "Can you fish or swim?",
+          "answer": "Uses are regulated; check current rules. Swimming at the falls is not advised (cold, strong currents, no lifeguard)."
+        }
+      ]
+    },
+    "relatedTitle": "Related guides",
+    "related": [
+      "/photos",
+      "/waterfalls-near-tallinn",
+      "/jagala-vs-keila"
+    ],
+    "sourcesTitle": "Sources & verification",
+    "sources": [
+      {
+        "name": "Visit Estonia — River Jägala & suspension bridge",
+        "url": "https://visitestonia.com/en/river-jagala-and-suspension-bridge"
+      },
+      {
+        "name": "Visit Estonia — Jägala Waterfall",
+        "url": "https://visitestonia.com/en/jagala-waterfall"
+      }
+    ],
+    "verifiedNote": "Content last verified against the official tourism sources above on 23 October 2026. Local facilities, services and transport timetables change — please confirm before travel and report any error through the contact link in the footer."
+  },
+  "halfDayTrip": {
+    "title": "Jägala Waterfall Half-Day Trip from Tallinn",
+    "intro": "A half-day trip to Jägala Waterfall from Tallinn is easy: roughly **30–40 minutes each way by car** plus 1.5–2 hours at the site gives you a relaxed 3–5 hour round trip. Here is a sample timetable you can adapt.",
+    "sections": [
+      {
+        "heading": "Sample timetable (by car)",
+        "content": "**08:30** depart central Tallinn → **09:05–09:15** arrive and park (free) → **09:15–10:45** walk the paths, view the falls from the main area and the shore, picnic if you like → **10:45** depart → **11:15–11:30** back in Tallinn. Shift the times later for evening light in summer."
+      },
+      {
+        "heading": "Without a car",
+        "content": "Take an intercity coach from Tallinn Bus Station to **Jägala-Joa** (see our By bus guide), walk a few minutes to the falls, and plan the return around the live timetable on peatus.ee. A taxi or rideshare is the flexible alternative if the coach times do not fit."
+      },
+      {
+        "heading": "What to bring",
+        "content": "Water and snacks (nothing is sold at the site), grippy footwear, weather layers, and a camera if you want photos. In winter add warm clothing and ice grip; in summer add sun protection and water."
+      },
+      {
+        "heading": "Combine with nearby stops",
+        "content": "If you have the time, add the **Jägala River suspension bridge** at the mouth (~4 km away, a separate spot), or heritage and nature sites around Jõelähtme and Rebala. Keep the half-day plan realistic — the falls themselves need 1.5–2 hours, not a full day."
+      },
+      {
+        "heading": "Rough costs",
+        "content": "By car: fuel only (parking is free). By coach: a few euros each way — check the fare on peatus.ee. A taxi costs more but is door-to-door. The waterfall entry itself is free."
+      }
+    ],
+    "faq": {
+      "title": "Half-day trip FAQ",
+      "items": [
+        {
+          "question": "How long is a half-day trip?",
+          "answer": "About 3–5 hours total: 30–40 min each way by car plus 1.5–2 hours at the falls."
+        },
+        {
+          "question": "Can I do it without a car?",
+          "answer": "Yes — coach to Jägala-Joa plus a short walk, or a taxi/rideshare. Check peatus.ee for times."
+        },
+        {
+          "question": "What should I bring?",
+          "answer": "Water, snacks, grippy shoes and weather layers; nothing is sold on site."
+        },
+        {
+          "question": "What can I combine with it?",
+          "answer": "The river-mouth suspension bridge or Jõelähtme/Rebala heritage and nature stops, time permitting."
+        }
+      ]
+    },
+    "relatedTitle": "Related guides",
+    "related": [
+      "/from-tallinn",
+      "/by-bus",
+      "/jagala-vs-keila",
+      "/waterfalls-near-tallinn"
+    ],
+    "sourcesTitle": "Sources & verification",
+    "sources": [
+      {
+        "name": "Peatus — Estonian journey planner",
+        "url": "https://peatus.ee/?locale=en"
+      },
+      {
+        "name": "Visit Harju — Jägala-Joa",
+        "url": "https://visitharju.ee"
+      }
+    ],
+    "verifiedNote": "Content last verified against the official tourism sources above on 23 October 2026. Local facilities, services and transport timetables change — please confirm before travel and report any error through the contact link in the footer."
+  },
+  "jagalaVsKeila": {
+    "title": "Jägala vs Keila Waterfall",
+    "intro": "**Both are famous Estonian waterfalls within about half an hour of Tallinn**, but they are in different directions and feel different. Jägala is the wider natural curtain in the east; Keila is a compact curtain waterfall to the west. Use the comparison below to choose.",
+    "sections": [
+      {
+        "heading": "At a glance",
+        "content": "**Jägala:** east of Tallinn, on the way toward Narva/Lahemaa; widest natural waterfall in Estonia (~8 m high, 50 m+ wide); free, open 24/7; minimal facilities. **Keila:** west/southwest of Tallinn on the Keila River; a smaller curtain waterfall in a landscaped park setting near Keila-Joa manor; also a popular, well-signed visit."
+      },
+      {
+        "heading": "Which direction are you heading?",
+        "content": "If you are going **east** (Narva, Lahemaa, the coast road toward Narva-Jõesuu), Jägala is directly on the way. If you are heading **west** (the Baltic coast, Keila-Joa, Lohusalu, Paldiski), Keila is the natural add-on. Both are roughly 30 minutes from the capital, so pick by route rather than by distance alone."
+      },
+      {
+        "heading": "Facilities & setting",
+        "content": "Jägala is a wilder, protected natural site with free parking and a basic toilet, but no café. Keila sits in a more developed manor-park setting with walking paths and a different character. Check current facilities on the official tourism pages for each."
+      },
+      {
+        "heading": "Best for",
+        "content": "**Jägala** suits travellers who want the widest waterfall, easy free access and a raw natural gorge. **Keila** suits those combining a waterfall with a manor-park stroll on the western coast. Photographers will find both worthwhile on different days."
+      }
+    ],
+    "faq": {
+      "title": "Jägala vs Keila FAQ",
+      "items": [
+        {
+          "question": "Which is bigger?",
+          "answer": "Jägala is the wider natural waterfall; Keila is a more compact curtain in a park setting."
+        },
+        {
+          "question": "Which is closer to Tallinn?",
+          "answer": "Both are roughly 30 minutes away — Jägala east, Keila west/southwest. Choose by your route."
+        },
+        {
+          "question": "Which has more facilities?",
+          "answer": "Keila is in a developed manor-park setting; Jägala is a protected natural site with minimal facilities."
+        },
+        {
+          "question": "Can I visit both in one day?",
+          "answer": "Possible but it is a long loop across the capital; most visitors pick one by direction."
+        }
+      ]
+    },
+    "relatedTitle": "Related guides",
+    "related": [
+      "/waterfalls-near-tallinn",
+      "/half-day-trip",
+      "/from-tallinn"
+    ],
+    "sourcesTitle": "Sources & verification",
+    "sources": [
+      {
+        "name": "Visit Estonia — Jägala Waterfall",
+        "url": "https://visitestonia.com/en/jagala-waterfall"
+      },
+      {
+        "name": "Visit Estonia — Keila Waterfall",
+        "url": "https://visitestonia.com/en/keila-waterfall"
+      }
+    ],
+    "verifiedNote": "Content last verified against the official tourism sources above on 23 October 2026. Local facilities, services and transport timetables change — please confirm before travel and report any error through the contact link in the footer."
+  },
+  "waterfallsNearTallinn": {
+    "title": "Waterfalls Near Tallinn",
+    "intro": "Within day-trip range of Tallinn there are three well-known Estonian waterfalls worth knowing: **Jägala** (east), **Keila** (west) and **Valaste** (further east on the north coast). Here is how they compare so you can pick or combine them.",
+    "sections": [
+      {
+        "heading": "The three to know",
+        "content": "**Jägala** — widest natural waterfall in Estonia, ~8 m high and 50 m+ wide, free and open all year, east of Tallinn near the Narva road. **Keila** — a compact curtain waterfall in a manor-park setting, west/southwest of Tallinn. **Valaste** — the highest of Estonia’s well-known waterfalls (about 30 m), on the northern cliff coast, further east (roughly 1.5–2 hours from Tallinn)."
+      },
+      {
+        "heading": "Choose by direction",
+        "content": "Heading **east** (Narva, Lahemaa, the north coast toward Narva-Jõesuu): Jägala is first and Valaste is the reward further along. Heading **west** (Keila-Joa, Lohusalu, Paldiski): Keila is the natural stop. See our Jägala vs Keila guide for the east/west choice."
+      },
+      {
+        "heading": "Combining stops",
+        "content": "Jägala pairs naturally with the Jägala River suspension bridge and Jõelähtme/Rebala sights. Valaste is best combined with a longer north-coast or Lahemaa day. Keila combines with the western coastal manors. Keep drive times realistic — Valaste is a full half-day each way from the capital."
+      },
+      {
+        "heading": "Why not more?",
+        "content": "Estonia’s other notable falls are smaller or far away. These three are the ones most visitors actually reach from Tallinn, so we focus the comparison on them rather than listing minor streams."
+      }
+    ],
+    "faq": {
+      "title": "Near Tallinn FAQ",
+      "items": [
+        {
+          "question": "What waterfalls are near Tallinn?",
+          "answer": "Jägala (east), Keila (west) and Valaste (north coast, further) are the well-known ones."
+        },
+        {
+          "question": "Which is easiest from Tallinn?",
+          "answer": "Jägala and Keila are both about 30 minutes; Valaste is 1.5–2 hours away."
+        },
+        {
+          "question": "Which is the tallest?",
+          "answer": "Valaste, at about 30 m, is the highest of the well-known Estonian waterfalls."
+        },
+        {
+          "question": "Which is the widest?",
+          "answer": "Jägala — the widest natural waterfall in Estonia."
+        }
+      ]
+    },
+    "relatedTitle": "Related guides",
+    "related": [
+      "/jagala-vs-keila",
+      "/half-day-trip",
+      "/jagala-river"
+    ],
+    "sourcesTitle": "Sources & verification",
+    "sources": [
+      {
+        "name": "Visit Estonia — Jägala Waterfall",
+        "url": "https://visitestonia.com/en/jagala-waterfall"
+      },
+      {
+        "name": "Visit Estonia — Keila Waterfall",
+        "url": "https://visitestonia.com/en/keila-waterfall"
+      },
+      {
+        "name": "Visit Estonia — Valaste Waterfall",
+        "url": "https://visitestonia.com/en/valaste-waterfall"
+      }
+    ],
+    "verifiedNote": "Content last verified against the official tourism sources above on 23 October 2026. Local facilities, services and transport timetables change — please confirm before travel and report any error through the contact link in the footer."
+  },
+  "topicLinks": {
+    "title": "Plan your visit",
+    "subtitle": "Practical guides for getting there, seasons, photography and nearby sights.",
+    "items": [
+      {
+        "title": "From Tallinn",
+        "desc": "Driving, bus and taxi options and how long it takes.",
+        "href": "/from-tallinn"
+      },
+      {
+        "title": "By bus",
+        "desc": "Which coach, where to alight and the walk in.",
+        "href": "/by-bus"
+      },
+      {
+        "title": "Parking",
+        "desc": "Free car park location and the walk to the falls.",
+        "href": "/parking"
+      },
+      {
+        "title": "Tickets & hours",
+        "desc": "Free, open 24/7, year-round — what costs money.",
+        "href": "/tickets-opening-hours"
+      },
+      {
+        "title": "Facilities",
+        "desc": "Toilets, food, waste and what to bring.",
+        "href": "/facilities"
+      },
+      {
+        "title": "Safety",
+        "desc": "Slippery rock, cold water and winter ice.",
+        "href": "/safety"
+      },
+      {
+        "title": "Best time to visit",
+        "desc": "Season-by-season comparison.",
+        "href": "/best-time-to-visit"
+      },
+      {
+        "title": "Winter & ice",
+        "desc": "The ice curtain and how to visit safely.",
+        "href": "/winter"
+      },
+      {
+        "title": "Water levels",
+        "desc": "How the flow changes through the year.",
+        "href": "/water-levels"
+      },
+      {
+        "title": "Photography",
+        "desc": "Vantage points, light and gear.",
+        "href": "/photography"
+      },
+      {
+        "title": "Photo gallery",
+        "desc": "Real images across the four seasons.",
+        "href": "/photos"
+      },
+      {
+        "title": "The Jägala River",
+        "desc": "The river, its mouth and the suspension bridge.",
+        "href": "/jagala-river"
+      },
+      {
+        "title": "Half-day trip",
+        "desc": "A sample timetable from Tallinn.",
+        "href": "/half-day-trip"
+      },
+      {
+        "title": "Jägala vs Keila",
+        "desc": "Two famous waterfalls compared.",
+        "href": "/jagala-vs-keila"
+      },
+      {
+        "title": "Waterfalls near Tallinn",
+        "desc": "Jägala, Keila and Valaste compared.",
+        "href": "/waterfalls-near-tallinn"
+      }
+    ]
   }
 }

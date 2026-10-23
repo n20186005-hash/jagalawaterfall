@@ -9,14 +9,43 @@ import {
   absoluteUrl,
 } from '@/lib/seo';
 
-export type TopicKey = 'fromTallinn' | 'parking' | 'winter' | 'photos';
+export type TopicKey =
+  | 'fromTallinn'
+  | 'byBus'
+  | 'parking'
+  | 'ticketsOpeningHours'
+  | 'facilities'
+  | 'safety'
+  | 'bestTimeToVisit'
+  | 'winter'
+  | 'waterLevels'
+  | 'photography'
+  | 'photos'
+  | 'jagalaRiver'
+  | 'halfDayTrip'
+  | 'jagalaVsKeila'
+  | 'waterfallsNearTallinn';
 
 const TOPIC_MAP: { slug: string; ns: TopicKey }[] = [
   { slug: '/from-tallinn', ns: 'fromTallinn' },
+  { slug: '/by-bus', ns: 'byBus' },
   { slug: '/parking', ns: 'parking' },
+  { slug: '/tickets-opening-hours', ns: 'ticketsOpeningHours' },
+  { slug: '/facilities', ns: 'facilities' },
+  { slug: '/safety', ns: 'safety' },
+  { slug: '/best-time-to-visit', ns: 'bestTimeToVisit' },
   { slug: '/winter', ns: 'winter' },
+  { slug: '/water-levels', ns: 'waterLevels' },
+  { slug: '/photography', ns: 'photography' },
   { slug: '/photos', ns: 'photos' },
+  { slug: '/jagala-river', ns: 'jagalaRiver' },
+  { slug: '/half-day-trip', ns: 'halfDayTrip' },
+  { slug: '/jagala-vs-keila', ns: 'jagalaVsKeila' },
+  { slug: '/waterfalls-near-tallinn', ns: 'waterfallsNearTallinn' },
 ];
+
+type SourceLink = { name: string; url: string };
+type TopicPhoto = { file: string; caption: string; alt: string };
 
 export default function TopicPage({ topic, slug }: { topic: TopicKey; slug: string }) {
   const locale = useLocale();
@@ -29,8 +58,15 @@ export default function TopicPage({ topic, slug }: { topic: TopicKey; slug: stri
   const intro: string = ns.intro || '';
   const sections: { heading: string; content: string }[] = ns.sections || [];
   const faq = ns.faq || { title: 'FAQ', items: [] };
+  const sources: SourceLink[] = ns.sources || [];
+  const photos: TopicPhoto[] = ns.photos || [];
 
-  const related = TOPIC_MAP.filter((t) => t.ns !== topic);
+  // Curated cross-links when provided, otherwise every other guide.
+  const relatedSlugs: string[] =
+    Array.isArray(ns.related) && ns.related.length > 0
+      ? ns.related
+      : TOPIC_MAP.filter((t) => t.ns !== topic).map((t) => t.slug);
+  const related = TOPIC_MAP.filter((t) => t.slug !== slug && relatedSlugs.includes(t.slug));
 
   const breadcrumbLd = {
     '@context': 'https://schema.org',
@@ -118,6 +154,62 @@ export default function TopicPage({ topic, slug }: { topic: TopicKey; slug: stri
           </div>
 
           <TopicFaq title={faq.title} items={faq.items} />
+
+          {photos.length > 0 && (
+            <section className="mt-16">
+              <h2 className="font-display text-xl sm:text-2xl font-semibold mb-6" style={{ color: 'var(--text-primary)' }}>
+                {ns.photosTitle || 'Photo gallery'}
+              </h2>
+              <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 sm:gap-5">
+                {photos.map((photo, i) => (
+                  <figure key={i} className="rounded-lg overflow-hidden" style={{ border: '1px solid var(--border-color)' }}>
+                    <img
+                      src={`/gallery/jagalawaterfall-${photo.file}.jpg`}
+                      alt={photo.alt}
+                      className="w-full h-auto object-cover"
+                      loading={i < 2 ? 'eager' : 'lazy'}
+                    />
+                    <figcaption className="px-3 py-2 text-sm" style={{ color: 'var(--text-secondary)' }}>
+                      {photo.caption}
+                    </figcaption>
+                  </figure>
+                ))}
+              </div>
+              {ns.photosNote && (
+                <p className="mt-4 text-sm leading-relaxed" style={{ color: 'var(--text-muted)' }}>
+                  <RichInline text={ns.photosNote} />
+                </p>
+              )}
+            </section>
+          )}
+
+          {sources.length > 0 && (
+            <section className="mt-16 pt-10" style={{ borderTop: '1px solid var(--border-color)' }}>
+              <h2 className="font-display text-xl font-semibold mb-4" style={{ color: 'var(--text-primary)' }}>
+                {ns.sourcesTitle || 'Sources & verification'}
+              </h2>
+              <ul className="space-y-2">
+                {sources.map((s, i) => (
+                  <li key={i}>
+                    <a
+                      href={s.url}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="text-sm hover:underline"
+                      style={{ color: 'var(--accent)' }}
+                    >
+                      {s.name}
+                    </a>
+                  </li>
+                ))}
+              </ul>
+              {ns.verifiedNote && (
+                <p className="mt-4 text-sm leading-relaxed" style={{ color: 'var(--text-muted)' }}>
+                  {ns.verifiedNote}
+                </p>
+              )}
+            </section>
+          )}
 
           {related.length > 0 && (
             <section className="mt-16 pt-10" style={{ borderTop: '1px solid var(--border-color)' }}>

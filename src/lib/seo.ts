@@ -76,6 +76,32 @@ export const PATH_HALF_DAY = '/half-day-trip';
 export const PATH_VS_KEILA = '/jagala-vs-keila';
 export const PATH_NEAR_TALLINN = '/waterfalls-near-tallinn';
 
+export const PATH_FROM_AIRPORT = '/from-airport';
+export const PATH_SPRING = '/spring';
+export const PATH_SUMMER = '/summer';
+export const PATH_AUTUMN = '/autumn';
+export const PATH_WITH_LAHEMAA = '/with-lahemaa';
+export const PATH_WITH_TALLINN = '/with-tallinn';
+export const PATH_WATERFALL_ROUTE = '/waterfall-route';
+export const PATH_WITH_VIRU_BOG = '/with-viru-bog';
+export const PATH_WITH_KIDS = '/with-kids';
+export const PATH_WITH_DOGS = '/with-dogs';
+export const PATH_ACCESSIBILITY = '/accessibility';
+export const PATH_SCHOOL_TRIP = '/school-trip';
+export const PATH_SWIMMING = '/swimming';
+export const PATH_KAYAKING = '/kayaking';
+export const PATH_PICNICKING = '/picnicking';
+export const PATH_HIKING_TRAILS = '/hiking-trails';
+export const PATH_CYCLING = '/cycling';
+export const PATH_CAMPING_NEARBY = '/camping-nearby';
+export const PATH_HEIGHT_FACTS = '/height-facts';
+export const PATH_HISTORY = '/history';
+export const PATH_GEOLOGY = '/geology';
+export const PATH_FREE_ENTRY = '/free-entry';
+export const PATH_RESTAURANTS_NEARBY = '/restaurants-nearby';
+export const PATH_WHERE_TO_STAY = '/where-to-stay';
+export const PATH_BEST_VIEWPOINTS = '/best-viewpoints';
+
 /** Long-tail visitor-guide slugs (locale-independent). */
 export const TOPIC_SLUGS = [
   PATH_FROM_TALLINN,
@@ -93,6 +119,31 @@ export const TOPIC_SLUGS = [
   PATH_HALF_DAY,
   PATH_VS_KEILA,
   PATH_NEAR_TALLINN,
+  PATH_FROM_AIRPORT,
+  PATH_SPRING,
+  PATH_SUMMER,
+  PATH_AUTUMN,
+  PATH_WITH_LAHEMAA,
+  PATH_WITH_TALLINN,
+  PATH_WATERFALL_ROUTE,
+  PATH_WITH_VIRU_BOG,
+  PATH_WITH_KIDS,
+  PATH_WITH_DOGS,
+  PATH_ACCESSIBILITY,
+  PATH_SCHOOL_TRIP,
+  PATH_SWIMMING,
+  PATH_KAYAKING,
+  PATH_PICNICKING,
+  PATH_HIKING_TRAILS,
+  PATH_CYCLING,
+  PATH_CAMPING_NEARBY,
+  PATH_HEIGHT_FACTS,
+  PATH_HISTORY,
+  PATH_GEOLOGY,
+  PATH_FREE_ENTRY,
+  PATH_RESTAURANTS_NEARBY,
+  PATH_WHERE_TO_STAY,
+  PATH_BEST_VIEWPOINTS,
 ] as const;
 
 export const PUBLIC_PATHS = [

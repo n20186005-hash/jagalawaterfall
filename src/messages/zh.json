@@ -1583,6 +1583,1568 @@
     ],
     "verifiedNote": "本页内容已于 2026 年 10 月 23 日对照上述官方旅游来源核实。当地设施、服务与交通时刻会变动——出行前请再次确认，并通过页脚的联系链接告诉我们任何错误。"
   },
+  "fromAirport": {
+    "title": "从塔林机场前往贾加拉瀑布",
+    "intro": "伦纳特·梅里塔林机场（TLL）位于贾加拉瀑布以西约 25 公里。没有直达瀑布的公共交通，因此多数游客从航站楼直接打车或网约车，或先到塔林市区，再自驾、乘城际客车或参加游览前往。",
+    "sections": [
+      {
+        "heading": "出租车或网约车（最简便）",
+        "content": "从机场打车或网约车前往贾加拉最省事——约 25 公里，正常交通下 25–35 分钟。车费按表计，随运营商与时间浮动；应用会在下单前显示预估。若没有车，请提前约定返程安排。"
+      },
+      {
+        "heading": "机场 → 塔林 → 瀑布",
+        "content": "若偏好公共交通，先从机场乘巴士或电车到塔林市中心，再搭乘城际客车（塔林—纳尔瓦 / 约格瓦线在 Jägala-Joa 停靠）或租车继续前往。虽然多一次换乘，但比打车便宜得多。"
+      },
+      {
+        "heading": "租车",
+        "content": "各大租车柜台都在机场内。之后沿 E20（塔林—纳尔瓦）向东约 25–30 公里，在 Jägala-Joa 指示牌处转弯。景点处免费停车。"
+      }
+    ],
+    "faq": {
+      "title": "机场交通常见问题",
+      "items": [
+        {
+          "question": "机场离贾加拉瀑布多远？",
+          "answer": "以西约 **25 公里** —— 正常交通下车程 **25–35 分钟**."
+        },
+        {
+          "question": "机场有直达巴士吗？",
+          "answer": "没有直达公共交通。要么直接打车 / 网约车，要么经塔林换乘（市区巴士或电车，再转 Jägala-Joa 的城际客车）。"
+        },
+        {
+          "question": "从机场打车多少钱？",
+          "answer": "正常时段按表计通常约 **20–30 欧元**；夜间或恶劣天气更高。网约车应用会先显示预估。"
+        },
+        {
+          "question": "转机间隙能去吗？",
+          "answer": "可以，只要两班飞机之间至少有 **3–4 小时** 且无签证问题——往返打车是短暂停留唯一现实的选择。"
+        }
+      ]
+    },
+    "relatedTitle": "相关指南",
+    "related": [
+      "/from-tallinn",
+      "/by-bus",
+      "/parking",
+      "/half-day-trip"
+    ],
+    "sourcesTitle": "来源与核实",
+    "sources": [
+      {
+        "name": "Visit Estonia",
+        "url": "https://visitestonia.com/zh"
+      },
+      {
+        "name": "Visit Harju",
+        "url": "https://visitharju.ee"
+      },
+      {
+        "name": "Peatus — 爱沙尼亚出行规划器",
+        "url": "https://peatus.ee/?locale=zh"
+      }
+    ],
+    "verifiedNote": "本页内容已于 2026 年 10 月 23 日对照上述官方旅游来源核实。当地设施、服务与交通时刻会变动——出行前请再次确认，并通过页脚的联系链接告诉我们任何错误。"
+  },
+  "spring": {
+    "title": "春季游览贾加拉瀑布",
+    "intro": "春季（约 4 月至 5 月）正值积雪融化，贾加拉河水量上涨，周边森林转绿。水流达到全年最高，水雾与湍急的水势令瀑布格外壮观——不过步道可能泥泞。",
+    "sections": [
+      {
+        "heading": "能看到什么",
+        "content": "随着积雪消融，河水上涨，瀑布水量充沛、声响震耳。河岸与峡谷开始泛绿，候鸟也回到这一带。这是充满生机、适合摄影的时节。"
+      },
+      {
+        "heading": "脚下路况",
+        "content": "从停车场的标识步道是自然地面，春季往往湿润或泥泞。请穿防水鞋，并让儿童与狗狗待在标识路径上，远离湿滑而湍急的河水。"
+      },
+      {
+        "heading": "人流与光线",
+        "content": "春季比夏季安静得多，观景台常常只有你一人。白昼随季节变长，清晨与傍晚光线柔和宜人。"
+      }
+    ],
+    "faq": {
+      "title": "春季游览常见问题",
+      "items": [
+        {
+          "question": "春季适合游览吗？",
+          "answer": "适合——水量大而壮观，且比夏季人少得多。只需注意泥泞的步道。"
+        },
+        {
+          "question": "春季水有多大？",
+          "answer": "受融雪影响，流量通常处于全年峰值；具体水位每年不同，若需精确数字请查阅实时水文来源。"
+        },
+        {
+          "question": "春季设施开放吗？",
+          "answer": "景区全年开放进入。现场咖啡馆与季节性服务随天气转暖开放——前往前请在当地确认。"
+        },
+        {
+          "question": "春季能带狗吗？",
+          "answer": "可以，欢迎牵绳犬只，但请让其留在路上，远离湍急冰冷的河水。"
+        }
+      ]
+    },
+    "relatedTitle": "相关指南",
+    "related": [
+      "/best-time-to-visit",
+      "/water-levels",
+      "/jagala-river",
+      "/safety"
+    ],
+    "sourcesTitle": "来源与核实",
+    "sources": [
+      {
+        "name": "Visit Estonia",
+        "url": "https://visitestonia.com/zh"
+      },
+      {
+        "name": "Visit Harju",
+        "url": "https://visitharju.ee"
+      },
+      {
+        "name": "Peatus — 爱沙尼亚出行规划器",
+        "url": "https://peatus.ee/?locale=zh"
+      }
+    ],
+    "verifiedNote": "本页内容已于 2026 年 10 月 23 日对照上述官方旅游来源核实。当地设施、服务与交通时刻会变动——出行前请再次确认，并通过页脚的联系链接告诉我们任何错误。"
+  },
+  "summer": {
+    "title": "夏季游览贾加拉瀑布",
+    "intro": "夏季（6 月至 8 月）白昼漫长、峡谷葱绿，是贾加拉瀑布最温暖、最适合家庭出行的季节。这也是人最多的时节，早到可避开人流与正午暑热。",
+    "sections": [
+      {
+        "heading": "能看到什么",
+        "content": "林冠茂密，河水清澈，观景台与栈道最为舒适。这是亲子、野餐与轻松摄影最便利的时段。"
+      },
+      {
+        "heading": "避开人潮",
+        "content": "周末与晴朗节假日游客最多。上午 10 点前到达或选工作日，体验更安静；免费的停车场在白天晚些时候会停满。"
+      },
+      {
+        "heading": "注意安全",
+        "content": "即便夏季，河水依旧冰冷、水势湍急——不建议在瀑布处游泳。请让儿童与狗狗远离跌水旁无护栏的边缘。"
+      }
+    ],
+    "faq": {
+      "title": "夏季游览常见问题",
+      "items": [
+        {
+          "question": "夏季是最佳游览季吗？",
+          "answer": "就舒适度与亲子出行而言是。若追求清静或冰瀑奇观，冬季或春季更合适。"
+        },
+        {
+          "question": "人会很多吗？",
+          "answer": "夏季高峰周末是全年最拥挤的；早到或选工作日更清静。"
+        },
+        {
+          "question": "夏天能游泳吗？",
+          "answer": "不建议在瀑布处直接游泳，因为水势强且水温低；更安全的替代方案见我们的游泳指南。"
+        },
+        {
+          "question": "有很多蚊子或昆虫吗？",
+          "answer": "在温暖无风的天气，河边会出现昆虫；普通驱虫剂足以应付短暂停留。"
+        }
+      ]
+    },
+    "relatedTitle": "相关指南",
+    "related": [
+      "/best-time-to-visit",
+      "/with-kids",
+      "/picnicking",
+      "/swimming"
+    ],
+    "sourcesTitle": "来源与核实",
+    "sources": [
+      {
+        "name": "Visit Estonia",
+        "url": "https://visitestonia.com/zh"
+      },
+      {
+        "name": "Visit Harju",
+        "url": "https://visitharju.ee"
+      },
+      {
+        "name": "Peatus — 爱沙尼亚出行规划器",
+        "url": "https://peatus.ee/?locale=zh"
+      }
+    ],
+    "verifiedNote": "本页内容已于 2026 年 10 月 23 日对照上述官方旅游来源核实。当地设施、服务与交通时刻会变动——出行前请再次确认，并通过页脚的联系链接告诉我们任何错误。"
+  },
+  "autumn": {
+    "title": "秋季游览贾加拉瀑布",
+    "intro": "秋季（9 月至 10 月）贾加拉峡谷披上金红，游客更少，光线平静宜拍。水位较夏季峰值回落，但瀑布在清冽的空气中仍是绝佳的散步去处。",
+    "sections": [
+      {
+        "heading": "能看到什么",
+        "content": "峡谷周边的落叶林在 9、10 月变色。暑假后人流减少，凉爽稳定的光线深受摄影者喜爱。"
+      },
+      {
+        "heading": "路况",
+        "content": "步道总体坚实干燥，但雨后湿叶可能打滑。白昼变短，请安排在白天行走，并分层穿衣以应对多变的秋日天气。"
+      },
+      {
+        "heading": "摄影建议",
+        "content": "低角度阳光与水面倒映的色彩，使清晨与傍晚成为最佳窗口。偏光镜能减少湿岩反光、凸显秋色。"
+      }
+    ],
+    "faq": {
+      "title": "秋季游览常见问题",
+      "items": [
+        {
+          "question": "秋季适合游览吗？",
+          "answer": "适合——色彩斑斓、安静，且非常适合摄影，步行条件舒适。"
+        },
+        {
+          "question": "秋季水量大吗？",
+          "answer": "流量较春夏季高峰回落，但瀑布持续奔流；具体水位取决于降雨，若需数字请查实时来源。"
+        },
+        {
+          "question": "人多吗？",
+          "answer": "不多——秋季是夏季高峰过后最安静的季节之一。"
+        },
+        {
+          "question": "该怎么穿？",
+          "answer": "分层着装与结实鞋子；爱沙尼亚秋天气候多变，湿叶易滑。"
+        }
+      ]
+    },
+    "relatedTitle": "相关指南",
+    "related": [
+      "/best-time-to-visit",
+      "/photography",
+      "/with-viru-bog",
+      "/water-levels"
+    ],
+    "sourcesTitle": "来源与核实",
+    "sources": [
+      {
+        "name": "Visit Estonia",
+        "url": "https://visitestonia.com/zh"
+      },
+      {
+        "name": "Visit Harju",
+        "url": "https://visitharju.ee"
+      },
+      {
+        "name": "Peatus — 爱沙尼亚出行规划器",
+        "url": "https://peatus.ee/?locale=zh"
+      }
+    ],
+    "verifiedNote": "本页内容已于 2026 年 10 月 23 日对照上述官方旅游来源核实。当地设施、服务与交通时刻会变动——出行前请再次确认，并通过页脚的联系链接告诉我们任何错误。"
+  },
+  "withLahemaa": {
+    "title": "贾加拉瀑布 + 拉赫马国家公园：联游路线",
+    "intro": "拉赫马国家公园是爱沙尼亚最大的国家公园，位于塔林东北方向，与贾加拉瀑布天然相配。许多游客在往返拉赫马的途中顺道造访瀑布，凑成一整天的自然之旅。",
+    "sections": [
+      {
+        "heading": "为何联游",
+        "content": "贾加拉大致位于通往拉赫马南门路线的途中，短暂停留几乎不增加额外时间。一天之内，你既能看瀑布，也能领略国家公园——沼泽、森林、庄园与海滨村落。"
+      },
+      {
+        "heading": "建议走法",
+        "content": "从塔林先游贾加拉（向东约 30 分钟），再沿 E20 及支线向东北进入拉赫马。请预留一整天；公园精华景点在瀑布再往北 45–90 分钟车程处。"
+      },
+      {
+        "heading": "拉赫马可加的景点",
+        "content": "热门去处包括维鲁沼泽栈道、Palmse 与 Sagadi 庄园，以及北部海岸的渔村。出发前请确认博物馆与游客中心的开放时间。"
+      }
+    ],
+    "faq": {
+      "title": "贾加拉 + 拉赫马常见问题",
+      "items": [
+        {
+          "question": "拉赫马离贾加拉多远？",
+          "answer": "公园南区约在其东北 **45–60 公里**；瀑布之后还需 **1–1.5 小时** 车程。"
+        },
+        {
+          "question": "一天能都玩完吗？",
+          "answer": "可以。半天贾加拉加半天拉赫马，是从塔林出发从容的一日计划。"
+        },
+        {
+          "question": "需要开车吗？",
+          "answer": "自驾是串联两地最简单的方式；拉赫马内陆公共交通有限，若依赖巴士请仔细规划。"
+        },
+        {
+          "question": "拉赫马要门票吗？",
+          "answer": "公园本身免费进入；博物馆、庄园与导览活动另行收费。"
+        }
+      ]
+    },
+    "relatedTitle": "相关指南",
+    "related": [
+      "/half-day-trip",
+      "/with-viru-bog",
+      "/from-tallinn",
+      "/jagala-river"
+    ],
+    "sourcesTitle": "来源与核实",
+    "sources": [
+      {
+        "name": "Visit Estonia",
+        "url": "https://visitestonia.com/zh"
+      },
+      {
+        "name": "Visit Harju",
+        "url": "https://visitharju.ee"
+      },
+      {
+        "name": "Peatus — 爱沙尼亚出行规划器",
+        "url": "https://peatus.ee/?locale=zh"
+      }
+    ],
+    "verifiedNote": "本页内容已于 2026 年 10 月 23 日对照上述官方旅游来源核实。当地设施、服务与交通时刻会变动——出行前请再次确认，并通过页脚的联系链接告诉我们任何错误。"
+  },
+  "withTallinn": {
+    "title": "贾加拉瀑布 + 塔林老城：联游路线",
+    "intro": "贾加拉瀑布离塔林老城足够近，可在观光间隙轻松安排半日自然之行。把中世纪古城与全国最宽的瀑布搭配，组成平衡的一天。",
+    "sections": [
+      {
+        "heading": "为何联游",
+        "content": "瀑布距市中心仅约 30 公里，上午逛完塔林老城，下午仍可抵达贾加拉散步拍照。"
+      },
+      {
+        "heading": "建议节奏",
+        "content": "上午留给老城，午后早些出发，便能在非高峰时段独享瀑布。景区开放进入，无需预订。"
+      },
+      {
+        "heading": "交通安排",
+        "content": "可自驾、乘城际客车或参加游览。若住市区无车，乘客车加短途步行是最简便宜的选择；详见我们的交通指南。"
+      }
+    ],
+    "faq": {
+      "title": "塔林 + 贾加拉常见问题",
+      "items": [
+        {
+          "question": "两个地方要多久？",
+          "answer": "从容计划为：上午塔林 + 贾加拉 2–3 小时，一天之内轻松完成。"
+        },
+        {
+          "question": "从老城能乘公共交通到吗？",
+          "answer": "可以：先到塔林客运站，再乘塔林—纳尔瓦 / 约格瓦方向的城际客车到 Jägala-Joa，然后步行进入。时刻见 peatus.ee。"
+        },
+        {
+          "question": "只有一天也值得去吗？",
+          "answer": "若热爱自然，值得——这是从首都出发最轻松的重要自然景点，仅耗半天。"
+        },
+        {
+          "question": "需要预订吗？",
+          "answer": "进入保护性景观无需预订；仅导览徒步需提前预订。"
+        }
+      ]
+    },
+    "relatedTitle": "相关指南",
+    "related": [
+      "/from-tallinn",
+      "/half-day-trip",
+      "/tickets-opening-hours",
+      "/best-time-to-visit"
+    ],
+    "sourcesTitle": "来源与核实",
+    "sources": [
+      {
+        "name": "Visit Estonia",
+        "url": "https://visitestonia.com/zh"
+      },
+      {
+        "name": "Visit Harju",
+        "url": "https://visitharju.ee"
+      },
+      {
+        "name": "Peatus — 爱沙尼亚出行规划器",
+        "url": "https://peatus.ee/?locale=zh"
+      }
+    ],
+    "verifiedNote": "本页内容已于 2026 年 10 月 23 日对照上述官方旅游来源核实。当地设施、服务与交通时刻会变动——出行前请再次确认，并通过页脚的联系链接告诉我们任何错误。"
+  },
+  "waterfallRoute": {
+    "title": "北爱沙尼亚瀑布自驾路线",
+    "intro": "北爱沙尼亚在塔林短驱范围内分布着数座瀑布。一条串联贾加拉、Keila 及若干小瀑布的自驾环线，是瀑布爱好者的充实一日。",
+    "sections": [
+      {
+        "heading": "核心环线",
+        "content": "从贾加拉（最宽的自然瀑布）出发，再向西前往 Keila 瀑布及其庄园公园。两者距塔林及彼此都约一小时车程，路况良好。"
+      },
+      {
+        "heading": "再加几座瀑布",
+        "content": "视季节与道路通行情况，可延伸至 Ontika 崖壁上的 Valaste 等区域瀑布。出发前请研究当前的进入方式与任何私人领地提示，因为部分瀑布位于庄园用地内。"
+      },
+      {
+        "heading": "实用提示",
+        "content": "每个景点都有各自的停车场与步道；均无需预订。带好饮水，给手机充满电以便导航，并留意天气——北爱沙尼亚空旷多风。"
+      }
+    ],
+    "faq": {
+      "title": "瀑布路线常见问题",
+      "items": [
+        {
+          "question": "一天能看几座瀑布？",
+          "answer": "从容看两到三座——贾加拉与 Keila 最易配对，若早出发还能加第三座。"
+        },
+        {
+          "question": "车程多长？",
+          "answer": "贾加拉到 Keila 约 **50 公里**；含停留的轻松环线，是从塔林出发充实却轻松的一日。"
+        },
+        {
+          "question": "这些瀑布免费吗？",
+          "answer": "公共进入区域免费；部分庄园公园可能收取少量门票或停车费——请现场确认。"
+        },
+        {
+          "question": "路线有标识吗？",
+          "answer": "主要景点爱沙尼亚语标识完善；手机地图有助于找到更小众、鲜为人知的瀑布。"
+        }
+      ]
+    },
+    "relatedTitle": "相关指南",
+    "related": [
+      "/jagala-vs-keila",
+      "/waterfalls-near-tallinn",
+      "/with-lahemaa",
+      "/from-tallinn"
+    ],
+    "sourcesTitle": "来源与核实",
+    "sources": [
+      {
+        "name": "Visit Estonia",
+        "url": "https://visitestonia.com/zh"
+      },
+      {
+        "name": "Visit Harju",
+        "url": "https://visitharju.ee"
+      },
+      {
+        "name": "Peatus — 爱沙尼亚出行规划器",
+        "url": "https://peatus.ee/?locale=zh"
+      }
+    ],
+    "verifiedNote": "本页内容已于 2026 年 10 月 23 日对照上述官方旅游来源核实。当地设施、服务与交通时刻会变动——出行前请再次确认，并通过页脚的联系链接告诉我们任何错误。"
+  },
+  "withViruBog": {
+    "title": "贾加拉瀑布 + 维鲁沼泽：联游路线",
+    "intro": "拉赫马国家公园内的维鲁沼泽栈道是爱沙尼亚最著名的短途自然步道之一，与贾加拉瀑布天然相配，适合从塔林出发的一日游。",
+    "sections": [
+      {
+        "heading": "为何联游",
+        "content": "两者都是铺设平台与栈道、轻松好走的步道，适合同一段悠闲的一天。贾加拉给你瀑布；维鲁沼泽给你带观景塔的原始湿地。"
+      },
+      {
+        "heading": "建议走法",
+        "content": "先从塔林游贾加拉，再向东北驱车至维鲁沼泽自然步道（瀑布再往北约 45–60 公里）。沼泽栈道为 3–5 公里环线，全年开放。"
+      },
+      {
+        "heading": "须知",
+        "content": "沼泽步道平坦且有标识，但空旷——请带防风衣物，夏季备好防蚊。观景塔在每一季都值得一看，雪中尤佳。"
+      }
+    ],
+    "faq": {
+      "title": "贾加拉 + 维鲁沼泽常见问题",
+      "items": [
+        {
+          "question": "维鲁沼泽离贾加拉多远？",
+          "answer": "约 **45–60 公里** 东北方向；瀑布之后还需 **1–1.5 小时** 车程。"
+        },
+        {
+          "question": "沼泽步道多长？",
+          "answer": "栈道环线约 **3–5 公里**，缓步约 1–2 小时。"
+        },
+        {
+          "question": "适合儿童吗？",
+          "answer": "适合——平坦栈道与观景塔对家庭友好；请让儿童留在栈道上。"
+        },
+        {
+          "question": "需要向导吗？",
+          "answer": "不需要，步道有标识、可自助游览；若想深入了解自然历史，向导为可选项。"
+        }
+      ]
+    },
+    "relatedTitle": "相关指南",
+    "related": [
+      "/with-lahemaa",
+      "/hiking-trails",
+      "/best-time-to-visit",
+      "/photography"
+    ],
+    "sourcesTitle": "来源与核实",
+    "sources": [
+      {
+        "name": "Visit Estonia",
+        "url": "https://visitestonia.com/zh"
+      },
+      {
+        "name": "Visit Harju",
+        "url": "https://visitharju.ee"
+      },
+      {
+        "name": "Peatus — 爱沙尼亚出行规划器",
+        "url": "https://peatus.ee/?locale=zh"
+      }
+    ],
+    "verifiedNote": "本页内容已于 2026 年 10 月 23 日对照上述官方旅游来源核实。当地设施、服务与交通时刻会变动——出行前请再次确认，并通过页脚的联系链接告诉我们任何错误。"
+  },
+  "withKids": {
+    "title": "带儿童游览贾加拉瀑布",
+    "intro": "贾加拉瀑布是适合家庭的出游地：路径短而平缓，有观景台，也有充足空间让孩子们跑动。稍作规划，就能让各年龄段都安全尽兴。",
+    "sections": [
+      {
+        "heading": "为何适合家庭",
+        "content": "主要观景点距停车场步行短且轻松，空旷的区域让孩子们无需长途跋涉就能看到瀑布。景区开放进入且免费。"
+      },
+      {
+        "heading": "带娃安全",
+        "content": "跌水附近的边缘并非处处有护栏。请让幼童靠近身边，在水边牵好手，并告诉他们留在标识路径上。详见我们的安全指南。"
+      },
+      {
+        "heading": "如何玩成一整天",
+        "content": "带上野餐、饮水与备用衣物。可将游览与一段短途森林步道结合，夏季还能享受漫长白昼。旺季现场有厕所与咖啡馆。"
+      }
+    ],
+    "faq": {
+      "title": "亲子常见问题",
+      "items": [
+        {
+          "question": "适合学步儿童吗？",
+          "answer": "适合——从停车场步行短而平缓，不过自然地面可能不平；推车可走主路，较崎岖的小径不行。"
+        },
+        {
+          "question": "瀑布处有护栏吗？",
+          "answer": "观景台安全，但部分河岸边缘是敞开的——请在水边密切看管儿童。"
+        },
+        {
+          "question": "有厕所和食物吗？",
+          "answer": "现场有厕所与季节性咖啡馆；为稳妥请自备饮水与零食。"
+        },
+        {
+          "question": "该预留多久？",
+          "answer": "多数家庭会花 **1–2 小时**，含步行、拍照与野餐。"
+        }
+      ]
+    },
+    "relatedTitle": "相关指南",
+    "related": [
+      "/safety",
+      "/facilities",
+      "/picnicking",
+      "/summer"
+    ],
+    "sourcesTitle": "来源与核实",
+    "sources": [
+      {
+        "name": "Visit Estonia",
+        "url": "https://visitestonia.com/zh"
+      },
+      {
+        "name": "Visit Harju",
+        "url": "https://visitharju.ee"
+      },
+      {
+        "name": "Peatus — 爱沙尼亚出行规划器",
+        "url": "https://peatus.ee/?locale=zh"
+      }
+    ],
+    "verifiedNote": "本页内容已于 2026 年 10 月 23 日对照上述官方旅游来源核实。当地设施、服务与交通时刻会变动——出行前请再次确认，并通过页脚的联系链接告诉我们任何错误。"
+  },
+  "withDogs": {
+    "title": "带狗游览贾加拉瀑布",
+    "intro": "贾加拉瀑布欢迎牵绳犬只，开阔的步道与林间小径深受养狗人士喜爱。遵守几条简单规则，就能让所有人乐在其中。",
+    "sections": [
+      {
+        "heading": "请系好绳",
+        "content": "请给狗系绳，尤其在瀑布上方无护栏的边缘与其他游客附近。爱沙尼亚的“人人有权”文化要求主人管好宠物并清理排泄物。"
+      },
+      {
+        "heading": "路线与地形",
+        "content": "从停车场到观景台步行短而平缓；更长的林间小径适合好好遛一圈。雨后或雪后地面可能泥泞，记得 afterwards 擦干爪子。"
+      },
+      {
+        "heading": "水与野生动物",
+        "content": "河水流急、水温低——请勿让狗在瀑布处下水。春、秋时节请注意路径附近野生动物与地面筑巢的鸟类。"
+      }
+    ],
+    "faq": {
+      "title": "带狗常见问题",
+      "items": [
+        {
+          "question": "允许带狗吗？",
+          "answer": "允许，全景区欢迎牵绳犬只。"
+        },
+        {
+          "question": "狗狗要收费吗？",
+          "answer": "不收——进入与散步均免费；只需遵守负责任的养主规范。"
+        },
+        {
+          "question": "我的狗能游泳吗？",
+          "answer": "不建议在瀑布处游泳，因为水势强且水温低；若狗一定要下水，请选远离跌水的平缓处。"
+        },
+        {
+          "question": "有垃圾箱吗？",
+          "answer": "现场有垃圾箱处请使用；若已满请自行带走，让步道干净留给下一位访客。"
+        }
+      ]
+    },
+    "relatedTitle": "相关指南",
+    "related": [
+      "/safety",
+      "/from-tallinn",
+      "/hiking-trails",
+      "/facilities"
+    ],
+    "sourcesTitle": "来源与核实",
+    "sources": [
+      {
+        "name": "Visit Estonia",
+        "url": "https://visitestonia.com/zh"
+      },
+      {
+        "name": "Visit Harju",
+        "url": "https://visitharju.ee"
+      },
+      {
+        "name": "Peatus — 爱沙尼亚出行规划器",
+        "url": "https://peatus.ee/?locale=zh"
+      }
+    ],
+    "verifiedNote": "本页内容已于 2026 年 10 月 23 日对照上述官方旅游来源核实。当地设施、服务与交通时刻会变动——出行前请再次确认，并通过页脚的联系链接告诉我们任何错误。"
+  },
+  "accessibility": {
+    "title": "贾加拉瀑布的无障碍设施",
+    "intro": "贾加拉瀑布为开放进入，并针对行动不便的游客做了部分改造，但自然地形意味着某些区域比其它更易通行。以下为帮助你规划的如实概述。",
+    "sections": [
+      {
+        "heading": "步道与观景点",
+        "content": "从停车场到主要观景区的路线是最易通行的一段——相对短且坡度平缓，但这是未铺装的自然地面，雨后可能不平或泥泞。"
+      },
+      {
+        "heading": "未改造的部分",
+        "content": "河岸边缘、峡谷下坡与更长的林间小径不适合轮椅，且可能打滑。并无直达水边的无障碍（无台阶）路线。"
+      },
+      {
+        "heading": "设施",
+        "content": "现场有厕所与季节性咖啡馆。如需具体的当前无障碍信息（含台阶、坡度与协助），出行前请联系区域旅游办公室。"
+      }
+    ],
+    "faq": {
+      "title": "无障碍常见问题",
+      "items": [
+        {
+          "question": "瀑布对轮椅可达吗？",
+          "answer": "部分可达。停车场至观景点的路径最易通行，但是未铺装的自然地面；河岸本身并非无台阶。"
+        },
+        {
+          "question": "有残疾人车位吗？",
+          "answer": "景区停车场是最靠近的选择；车位有限，请早到。如需确切的无障碍车位，请向市镇确认。"
+        },
+        {
+          "question": "有台阶吗？",
+          "answer": "主要观景点避开大段台阶，但支线小径与峡谷涉及自然坡度与粗糙地面。"
+        },
+        {
+          "question": "当前信息该问谁？",
+          "answer": "出行前请联系 Visit Harju / Jõelähtme 市镇获取最新无障碍信息。"
+        }
+      ]
+    },
+    "relatedTitle": "相关指南",
+    "related": [
+      "/facilities",
+      "/parking",
+      "/safety",
+      "/tickets-opening-hours"
+    ],
+    "sourcesTitle": "来源与核实",
+    "sources": [
+      {
+        "name": "Visit Estonia",
+        "url": "https://visitestonia.com/zh"
+      },
+      {
+        "name": "Visit Harju",
+        "url": "https://visitharju.ee"
+      },
+      {
+        "name": "Peatus — 爱沙尼亚出行规划器",
+        "url": "https://peatus.ee/?locale=zh"
+      }
+    ],
+    "verifiedNote": "本页内容已于 2026 年 10 月 23 日对照上述官方旅游来源核实。当地设施、服务与交通时刻会变动——出行前请再次确认，并通过页脚的联系链接告诉我们任何错误。"
+  },
+  "schoolTrip": {
+    "title": "贾加拉瀑布：学校与研学出游",
+    "intro": "贾加拉瀑布是一座现成的户外课堂：地质、水文、生态与地方历史集中于一处易达的地点。稍作准备，便十分适合学生团体。",
+    "sections": [
+      {
+        "heading": "学生能学到什么",
+        "content": "瀑布位于波罗的海悬崖（Baltic Klint）上，可直观展示真实的石灰岩断崖、河流跌水与更广阔的海岸地质。周边的森林与河流则是鲜活的生态课。"
+      },
+      {
+        "heading": "团体游览规划",
+        "content": "景区免费且开放进入，但客车与大型团体应协调停车与时间。若需要结构化教学，请通过官方区域运营商提前预订导览徒步。"
+      },
+      {
+        "heading": "团体安全",
+        "content": "请让团体留在标识路径上，远离无护栏的边缘。到达前向学生说明冰冷湍急的河水与湿滑岩石。详见我们的安全指南。"
+      }
+    ],
+    "faq": {
+      "title": "研学出游常见问题",
+      "items": [
+        {
+          "question": "对学校免费吗？",
+          "answer": "免费，进入不收费；仅通过官方运营商预订的导览项目可能收费。"
+        },
+        {
+          "question": "能预订向导吗？",
+          "answer": "可以——爱沙尼亚语、英语或俄语的导览徒步由区域旅游运营商安排，须提前预订。"
+        },
+        {
+          "question": "客车停在哪里？",
+          "content": "使用景区停车场，并与市镇协调大型团体；请避开高峰以免拥堵。"
+        },
+        {
+          "question": "适合各年龄段吗？",
+          "answer": "主要观景点的步行适合大多数年龄；内容深度可按团体调整。"
+        }
+      ]
+    },
+    "relatedTitle": "相关指南",
+    "related": [
+      "/with-kids",
+      "/safety",
+      "/jagala-river",
+      "/history"
+    ],
+    "sourcesTitle": "来源与核实",
+    "sources": [
+      {
+        "name": "Visit Estonia",
+        "url": "https://visitestonia.com/zh"
+      },
+      {
+        "name": "Visit Harju",
+        "url": "https://visitharju.ee"
+      },
+      {
+        "name": "Peatus — 爱沙尼亚出行规划器",
+        "url": "https://peatus.ee/?locale=zh"
+      }
+    ],
+    "verifiedNote": "本页内容已于 2026 年 10 月 23 日对照上述官方旅游来源核实。当地设施、服务与交通时刻会变动——出行前请再次确认，并通过页脚的联系链接告诉我们任何错误。"
+  },
+  "swimming": {
+    "title": "在贾加拉瀑布游泳：须知",
+    "intro": "不建议在贾加拉瀑布处直接游泳。跌水上方河水流速快且终年冰冷，岩石湿滑，瀑布本身并没有安全的水域。",
+    "sections": [
+      {
+        "heading": "为何此处有风险",
+        "content": "就在崖壁前方，水势湍急、水温常年偏低；石灰岩很滑，跌水无防护。这些条件使在瀑布游泳危险而非舒爽。"
+      },
+      {
+        "heading": "更安全的替代",
+        "content": "若想下水，请选远离瀑布的贾加拉河平缓河段，或使用哈留县其它指定的游泳区与湖泊。切勿独自游泳，并始终看管儿童。"
+      },
+      {
+        "heading": "若靠近水边",
+        "content": "请待在标识好的河岸与平台上，与边缘保持安全距离，并穿防滑鞋。情况随季节与水位变化——见我们的水位指南。"
+      }
+    ],
+    "faq": {
+      "title": "游泳常见问题",
+      "items": [
+        {
+          "question": "能在瀑布处游泳吗？",
+          "answer": "不建议——水势强、水温低、岩石滑，十分危险。"
+        },
+        {
+          "question": "水干净吗？",
+          "answer": "这是自然河道；与任何野外河流一样，水质随天气与径流变化，请照常谨慎对待。"
+        },
+        {
+          "question": "附近哪里能游泳？",
+          "answer": "选远离瀑布的平缓河段，或本区管理的游泳区与湖泊；出发前先了解进入方式。"
+        },
+        {
+          "question": "夏季更安全吗？",
+          "answer": "气温回暖并不能改变冰冷的水流与湿滑的崖壁——风险依旧。"
+        }
+      ]
+    },
+    "relatedTitle": "相关指南",
+    "related": [
+      "/safety",
+      "/water-levels",
+      "/jagala-river",
+      "/best-time-to-visit"
+    ],
+    "sourcesTitle": "来源与核实",
+    "sources": [
+      {
+        "name": "Visit Estonia",
+        "url": "https://visitestonia.com/zh"
+      },
+      {
+        "name": "Visit Harju",
+        "url": "https://visitharju.ee"
+      },
+      {
+        "name": "Peatus — 爱沙尼亚出行规划器",
+        "url": "https://peatus.ee/?locale=zh"
+      }
+    ],
+    "verifiedNote": "本页内容已于 2026 年 10 月 23 日对照上述官方旅游来源核实。当地设施、服务与交通时刻会变动——出行前请再次确认，并通过页脚的联系链接告诉我们任何错误。"
+  },
+  "kayaking": {
+    "title": "贾加拉河皮划艇与独木舟",
+    "intro": "当地人在远离瀑布的平缓河段划行贾加拉河。瀑布本身是不可逾越的屏障，因此划行指的是崖壁上方或下方很远的河段——切勿从瀑布上穿过。",
+    "sections": [
+      {
+        "heading": "合适的划行地",
+        "content": "远离跌水的贾加拉河平缓河段用于休闲皮划艇与独木舟。请在瀑布处搬抬船只绕过——切勿尝试从崖壁上方或旁边划过。"
+      },
+      {
+        "heading": "条件与安全",
+        "content": "水温低、水势强，春季融雪时尤甚。请穿救生衣，查看天气与水位，只在自己能力范围内划行。见我们的安全与水位指南。"
+      },
+      {
+        "heading": "进入与租赁",
+        "content": "部分地点有公共河道入口；装备租赁与向导行程由本地运营商安排——请提前预订并确认上下水点。"
+      }
+    ],
+    "faq": {
+      "title": "皮划艇常见问题",
+      "items": [
+        {
+          "question": "能在瀑布处划皮划艇吗？",
+          "answer": "不能——请搬船绕过。从崖壁上方或旁边划行十分危险。"
+        },
+        {
+          "question": "河流适合初学者吗？",
+          "answer": "平缓河段在向导带领下可适合谨慎的初学者；瀑布附近的水流不适合新手。"
+        },
+        {
+          "question": "需要穿救生衣吗？",
+          "answer": "需要——务必穿着；水温低且水势可能很强。"
+        },
+        {
+          "question": "装备哪里租？",
+          "answer": "通过本地运营商；请提前预订并与他们确认下水与上岸点。"
+        }
+      ]
+    },
+    "relatedTitle": "相关指南",
+    "related": [
+      "/jagala-river",
+      "/swimming",
+      "/safety",
+      "/water-levels"
+    ],
+    "sourcesTitle": "来源与核实",
+    "sources": [
+      {
+        "name": "Visit Estonia",
+        "url": "https://visitestonia.com/zh"
+      },
+      {
+        "name": "Visit Harju",
+        "url": "https://visitharju.ee"
+      },
+      {
+        "name": "Peatus — 爱沙尼亚出行规划器",
+        "url": "https://peatus.ee/?locale=zh"
+      }
+    ],
+    "verifiedNote": "本页内容已于 2026 年 10 月 23 日对照上述官方旅游来源核实。当地设施、服务与交通时刻会变动——出行前请再次确认，并通过页脚的联系链接告诉我们任何错误。"
+  },
+  "picnicking": {
+    "title": "在贾加拉瀑布野餐",
+    "intro": "野餐与贾加拉之行完美搭配。观景点附近的开阔地提供了坐下来用餐的空间，以瀑布为背景——只需遵守“无痕”礼仪。",
+    "sections": [
+      {
+        "heading": "野餐地点",
+        "content": "请使用停车场与观景点附近的开阔区域，而非脆弱的河岸边缘。夏季白昼漫长，傍晚野餐格外惬意。"
+      },
+      {
+        "heading": "该带什么",
+        "content": "备好食物、饮水、地垫与垃圾袋。现场有季节性咖啡馆与厕所，但自给自足最稳妥——尤其非高峰季节。"
+      },
+      {
+        "heading": "无痕离开",
+        "content": "爱沙尼亚的“人人有权”要求访客带走所有垃圾、仅在指定地点生火，并保护动植物。现场服务详见我们的设施指南。"
+      }
+    ],
+    "faq": {
+      "title": "野餐常见问题",
+      "items": [
+        {
+          "question": "可以野餐吗？",
+          "answer": "可以——观景点附近的开阔地合适；请避开无护栏的河岸边缘。"
+        },
+        {
+          "question": "有桌椅吗？",
+          "answer": "固定野餐家具有限；请带地垫。现场设施请向市镇确认。"
+        },
+        {
+          "question": "能生火吗？",
+          "answer": "仅可在指定火点（若有）；否则请负责任地使用便携炉具，切勿无人看管。"
+        },
+        {
+          "question": "允许饮酒吗？",
+          "answer": "一般容忍负责任的个人饮酒，但公开醉酒与乱扔垃圾不被接受——请尊重他人与景区。"
+        }
+      ]
+    },
+    "relatedTitle": "相关指南",
+    "related": [
+      "/with-kids",
+      "/facilities",
+      "/safety",
+      "/best-time-to-visit"
+    ],
+    "sourcesTitle": "来源与核实",
+    "sources": [
+      {
+        "name": "Visit Estonia",
+        "url": "https://visitestonia.com/zh"
+      },
+      {
+        "name": "Visit Harju",
+        "url": "https://visitharju.ee"
+      },
+      {
+        "name": "Peatus — 爱沙尼亚出行规划器",
+        "url": "https://peatus.ee/?locale=zh"
+      }
+    ],
+    "verifiedNote": "本页内容已于 2026 年 10 月 23 日对照上述官方旅游来源核实。当地设施、服务与交通时刻会变动——出行前请再次确认，并通过页脚的联系链接告诉我们任何错误。"
+  },
+  "hikingTrails": {
+    "title": "贾加拉瀑布的徒步与步道",
+    "intro": "从停车场走一段简短、有标识的路即可到达贾加拉瀑布，并可衔接沿贾加拉河延伸的更长林间小径。以下为不同长度的步行规划。",
+    "sections": [
+      {
+        "heading": "基础观景步行",
+        "content": "从停车场出发，一条有标识的平缓小径通向瀑布上方的主观景台——平坦，适合多数游客。单程只需几分钟。"
+      },
+      {
+        "heading": "更长的林间小径",
+        "content": "观景点之外，自然小径沿河与森林延伸。它们无标识或仅有简略标记，雨后不平且泥泞——合适的鞋与地图很有帮助。请留在路上以保护保护区。"
+      },
+      {
+        "heading": "串联徒步",
+        "content": "你可将贾加拉步行与附近的自然步道（如拉赫马内）相连，凑成更完整的一天。路线见我们的联游指南。"
+      }
+    ],
+    "faq": {
+      "title": "步道常见问题",
+      "items": [
+        {
+          "question": "从停车场步行多远？",
+          "answer": "沿平缓、有标识的小径到主观景台只需几分钟。"
+        },
+        {
+          "question": "步道有标识吗？",
+          "answer": "观景步道有标识；更长的林间小径较原始、标记较少——请带地图。"
+        },
+        {
+          "question": "难度如何？",
+          "answer": "观景步行轻松；延伸小径为中等难度，可能泥泞或打滑。"
+        },
+        {
+          "question": "能走到其它景点吗？",
+          "answer": "可以——河流与森林连通更广阔的路线；请提前规划并确认进入方式。"
+        }
+      ]
+    },
+    "relatedTitle": "相关指南",
+    "related": [
+      "/with-viru-bog",
+      "/with-dogs",
+      "/jagala-river",
+      "/best-time-to-visit"
+    ],
+    "sourcesTitle": "来源与核实",
+    "sources": [
+      {
+        "name": "Visit Estonia",
+        "url": "https://visitestonia.com/zh"
+      },
+      {
+        "name": "Visit Harju",
+        "url": "https://visitharju.ee"
+      },
+      {
+        "name": "Peatus — 爱沙尼亚出行规划器",
+        "url": "https://peatus.ee/?locale=zh"
+      }
+    ],
+    "verifiedNote": "本页内容已于 2026 年 10 月 23 日对照上述官方旅游来源核实。当地设施、服务与交通时刻会变动——出行前请再次确认，并通过页脚的联系链接告诉我们任何错误。"
+  },
+  "cycling": {
+    "title": "骑行前往贾加拉瀑布",
+    "intro": "贾加拉瀑布是塔林出发、沿宁静乡村公路骑行的热门目的地。沿 E20 走廊多为平缓路线，适合运动与旅行自行车，以瀑布作为惬意的折返点。",
+    "sections": [
+      {
+        "heading": "路线",
+        "content": "从塔林出发，沿安静的乡道向东、与 E20 平行前往 Jägala-Joa，再走标识路段到瀑布。地形缓和起伏而非陡坡，自信的骑行者能轻松应对。"
+      },
+      {
+        "heading": "实用事项",
+        "content": "请带饮水、维修工具与手机导航。自行车停在停车场；景区无租车，请自带或在塔林租赁。"
+      },
+      {
+        "heading": "串联更长骑行",
+        "content": "贾加拉一带可衔接哈留县更长的环线，经规划还能通往拉赫马较平缓的道路。长途骑行前请确认路线与路面。"
+      }
+    ],
+    "faq": {
+      "title": "骑行常见问题",
+      "items": [
+        {
+          "question": "从塔林的路线平缓吗？",
+          "answer": "多为缓和起伏，无陡坡；自信的骑行者能从容完成。"
+        },
+        {
+          "question": "骑行多远？",
+          "answer": "从塔林市中心沿安静道路单程约 **25–30 公里**."
+        },
+        {
+          "question": "有自行车停放吗？",
+          "answer": "请将车锁在停车场；现场无人员看管的自行车设施。"
+        },
+        {
+          "question": "能在那里租车吗？",
+          "answer": "现场不提供租赁——请自带或在塔林出发前租好。"
+        }
+      ]
+    },
+    "relatedTitle": "相关指南",
+    "related": [
+      "/from-tallinn",
+      "/hiking-trails",
+      "/with-dogs",
+      "/best-time-to-visit"
+    ],
+    "sourcesTitle": "来源与核实",
+    "sources": [
+      {
+        "name": "Visit Estonia",
+        "url": "https://visitestonia.com/zh"
+      },
+      {
+        "name": "Visit Harju",
+        "url": "https://visitharju.ee"
+      },
+      {
+        "name": "Peatus — 爱沙尼亚出行规划器",
+        "url": "https://peatus.ee/?locale=zh"
+      }
+    ],
+    "verifiedNote": "本页内容已于 2026 年 10 月 23 日对照上述官方旅游来源核实。当地设施、服务与交通时刻会变动——出行前请再次确认，并通过页脚的联系链接告诉我们任何错误。"
+  },
+  "campingNearby": {
+    "title": "贾加拉瀑布附近的露营与过夜",
+    "intro": "受保护的贾加拉景观区内不允许过夜露营，但短驱范围内有几处营地与小木屋。以下为围绕瀑布规划过夜行程的方法。",
+    "sections": [
+      {
+        "heading": "瀑布处",
+        "content": "停车场与保护区仅供白天游览。过夜停留、房车与营火在保护区内受限制——请遵守现场标识与爱沙尼亚“人人有权”规则。"
+      },
+      {
+        "heading": "附近的营地",
+        "content": "商业营地与小木屋距此短驱可达，包括通往海岸与拉赫马方向的选择。夏季请提前预订，因为位置很快满员。"
+      },
+      {
+        "heading": "野外露营",
+        "content": "免费野外露营受法律与对私人土地的尊重所限；尽可能使用指定营地，并做到无痕离开。"
+      }
+    ],
+    "faq": {
+      "title": "露营常见问题",
+      "items": [
+        {
+          "question": "能在瀑布处露营吗？",
+          "answer": "不能——受保护景观区内限制过夜露营与房车。"
+        },
+        {
+          "question": "附近哪里能露营？",
+          "answer": "使用短驱可达的商业营地与小木屋；旺季请提前预订。"
+        },
+        {
+          "question": "允许野外露营吗？",
+          "answer": "受限；请优先选择指定营地，并始终践行无痕原则。"
+        },
+        {
+          "question": "能在车里睡吗？",
+          "answer": "保护区内不行；请使用营地或其它指定的过夜停车场。"
+        }
+      ]
+    },
+    "relatedTitle": "相关指南",
+    "related": [
+      "/where-to-stay",
+      "/picnicking",
+      "/with-lahemaa",
+      "/safety"
+    ],
+    "sourcesTitle": "来源与核实",
+    "sources": [
+      {
+        "name": "Visit Estonia",
+        "url": "https://visitestonia.com/zh"
+      },
+      {
+        "name": "Visit Harju",
+        "url": "https://visitharju.ee"
+      },
+      {
+        "name": "Peatus — 爱沙尼亚出行规划器",
+        "url": "https://peatus.ee/?locale=zh"
+      }
+    ],
+    "verifiedNote": "本页内容已于 2026 年 10 月 23 日对照上述官方旅游来源核实。当地设施、服务与交通时刻会变动——出行前请再次确认，并通过页脚的联系链接告诉我们任何错误。"
+  },
+  "heightFacts": {
+    "title": "贾加拉瀑布：数据与事实",
+    "intro": "贾加拉瀑布是爱沙尼亚最宽的自然瀑布。虽然精确测量结果随季节与流量变化，但通常引用的数字约为 8 米高、50 多米宽。",
+    "sections": [
+      {
+        "heading": "关键数字",
+        "content": "瀑布在波罗的海悬崖（Baltic Klint）上跌落约 **8 米**，正常流量下瀑顶跨度 **超过 50 米**——使其成为全国最宽的自然瀑布。宽度随水位变化。"
+      },
+      {
+        "heading": "河流",
+        "content": "贾加拉河是北爱沙尼亚较大的河流之一；在瀑布处它越过波罗的海悬崖的石灰岩边缘，正因此形成跌水。"
+      },
+      {
+        "heading": "对比",
+        "content": "爱沙尼亚有更高、更偏远的瀑布，但很少能像贾加拉这样兼具宽度、便捷进入与全年水流。与 Keila 及其它附近瀑布的对比见我们的指南。"
+      }
+    ],
+    "faq": {
+      "title": "数据常见问题",
+      "items": [
+        {
+          "question": "贾加拉瀑布多高？",
+          "answer": "崖壁处约 **8 米** 高。"
+        },
+        {
+          "question": "它有多宽？",
+          "answer": "正常流量下跨度为 **50 多米**；它是爱沙尼亚最宽的自然瀑布。"
+        },
+        {
+          "question": "为什么宽度会变？",
+          "answer": "高水位时（春季融雪、暴雨）瀑顶变宽，干旱期变窄——并非固定数值。"
+        },
+        {
+          "question": "它是爱沙尼亚最大的瀑布吗？",
+          "answer": "它是最宽的自然瀑布，也是最容易到达的之一；有些瀑布更高或更偏远。"
+        }
+      ]
+    },
+    "relatedTitle": "相关指南",
+    "related": [
+      "/geology",
+      "/jagala-river",
+      "/water-levels",
+      "/jagala-vs-keila"
+    ],
+    "sourcesTitle": "来源与核实",
+    "sources": [
+      {
+        "name": "Visit Estonia",
+        "url": "https://visitestonia.com/zh"
+      },
+      {
+        "name": "Visit Harju",
+        "url": "https://visitharju.ee"
+      },
+      {
+        "name": "Peatus — 爱沙尼亚出行规划器",
+        "url": "https://peatus.ee/?locale=zh"
+      },
+      {
+        "name": "Wikipedia: Jägala Waterfall",
+        "url": "https://en.wikipedia.org/wiki/J%C3%A4gala_Waterfall"
+      }
+    ],
+    "verifiedNote": "本页内容已于 2026 年 10 月 23 日对照上述官方旅游来源核实。当地设施、服务与交通时刻会变动——出行前请再次确认，并通过页脚的联系链接告诉我们任何错误。"
+  },
+  "history": {
+    "title": "贾加拉瀑布的历史",
+    "intro": "几个世纪以来，贾加拉瀑布一直是贾加拉河上知名的地理标志，由塑造爱沙尼亚北海岸的同一道石灰岩悬崖造就。它的人文故事平淡却与当地庄园及磨坊历史相连。",
+    "sections": [
+      {
+        "heading": "自然地标",
+        "content": "瀑布位于贾加拉河越过波罗的海悬崖之处，这一地形历经地质时间尺度形成。在旅游业出现之前，这里便是 Jägala-Joa 劳作河景的一部分。"
+      },
+      {
+        "heading": "庄园与磨坊时代",
+        "content": "Jägala-Joa 一带围绕一座庄园与一座利用河流动力的水磨发展起来。对于无法核实的具体年代轶事，我们不予复述；总体轮廓是一个运作中的庄园与磨坊聚落。"
+      },
+      {
+        "heading": "作为游览地",
+        "content": "20 世纪期间，瀑布成为公认的自然胜景，如今它是保护景观内一处免费、开放进入的观景点。进一步阅读见本页来源。"
+      }
+    ],
+    "faq": {
+      "title": "历史常见问题",
+      "items": [
+        {
+          "question": "瀑布有多少年历史？",
+          "answer": "悬崖与瀑布历经地质时间尺度形成；可见的跌水即为河流越过波罗的海悬崖。"
+        },
+        {
+          "question": "那里有过磨坊吗？",
+          "answer": "有——Jägala-Joa 一带曾有利用河流的庄园与水磨；我们坚持已核实的概述，而非未经证实的故事。"
+        },
+        {
+          "question": "它何时成为旅游地？",
+          "answer": "20 世纪期间它被公认为自然胜景，如今是免费的公共观景点。"
+        },
+        {
+          "question": "哪里能进一步了解？",
+          "answer": "见本页所列来源，包括百科式参考。"
+        }
+      ]
+    },
+    "relatedTitle": "相关指南",
+    "related": [
+      "/geology",
+      "/jagala-river",
+      "/height-facts",
+      "/jagala-vs-keila"
+    ],
+    "sourcesTitle": "来源与核实",
+    "sources": [
+      {
+        "name": "Visit Estonia",
+        "url": "https://visitestonia.com/zh"
+      },
+      {
+        "name": "Visit Harju",
+        "url": "https://visitharju.ee"
+      },
+      {
+        "name": "Peatus — 爱沙尼亚出行规划器",
+        "url": "https://peatus.ee/?locale=zh"
+      },
+      {
+        "name": "Wikipedia: Jägala Waterfall",
+        "url": "https://en.wikipedia.org/wiki/J%C3%A4gala_Waterfall"
+      }
+    ],
+    "verifiedNote": "本页内容已于 2026 年 10 月 23 日对照上述官方旅游来源核实。当地设施、服务与交通时刻会变动——出行前请再次确认，并通过页脚的联系链接告诉我们任何错误。"
+  },
+  "geology": {
+    "title": "贾加拉瀑布的地质",
+    "intro": "贾加拉瀑布之所以存在，是因为贾加拉河遇到了波罗的海悬崖（Baltic Klint）——一道沿爱沙尼亚北海岸延伸的石灰岩断崖。瀑布便是河流在这道崖壁上冲出的缺口。",
+    "sections": [
+      {
+        "heading": "波罗的海悬崖",
+        "content": "波罗的海悬崖是一道漫长的石灰岩断崖，形成于末次冰期后陆地抬升之时。贾加拉河在此越过它，水流从坚硬的岩石上跌落，形成瀑布。"
+      },
+      {
+        "heading": "为何能维持",
+        "content": "石灰岩坚硬，崖壁侵蚀缓慢；瀑布稳定地位于悬崖上的某一点，而非快速后退。宽阔的瀑顶反映了河流在越过处的宽度。"
+      },
+      {
+        "heading": "随时间演变",
+        "content": "季节性与长期的水流，加上冻融作用，逐渐塑造岩石。结果是一道宽而低的瀑布，而非高而窄——这正是悬崖型瀑布的典型特征。"
+      }
+    ],
+    "faq": {
+      "title": "地质常见问题",
+      "items": [
+        {
+          "question": "瀑布的成因是什么？",
+          "answer": "贾加拉河越过波罗的海悬崖（一道石灰岩断崖），从坚硬的岩石上跌落而成。"
+        },
+        {
+          "question": "悬崖是石灰岩吗？",
+          "answer": "是——悬崖主要为石灰岩，因此崖壁坚硬、侵蚀缓慢。"
+        },
+        {
+          "question": "为何宽而不高？",
+          "answer": "河流以宽阔的正面越过悬崖，而坚硬的岩石使跌水保持低而稳定。"
+        },
+        {
+          "question": "瀑布在移动吗？",
+          "answer": "在地质时间尺度上非常缓慢；冻融与水流逐渐重塑缺口。"
+        }
+      ]
+    },
+    "relatedTitle": "相关指南",
+    "related": [
+      "/height-facts",
+      "/jagala-river",
+      "/history",
+      "/water-levels"
+    ],
+    "sourcesTitle": "来源与核实",
+    "sources": [
+      {
+        "name": "Visit Estonia",
+        "url": "https://visitestonia.com/zh"
+      },
+      {
+        "name": "Visit Harju",
+        "url": "https://visitharju.ee"
+      },
+      {
+        "name": "Peatus — 爱沙尼亚出行规划器",
+        "url": "https://peatus.ee/?locale=zh"
+      },
+      {
+        "name": "Wikipedia: Jägala Waterfall",
+        "url": "https://en.wikipedia.org/wiki/J%C3%A4gala_Waterfall"
+      }
+    ],
+    "verifiedNote": "本页内容已于 2026 年 10 月 23 日对照上述官方旅游来源核实。当地设施、服务与交通时刻会变动——出行前请再次确认，并通过页脚的联系链接告诉我们任何错误。"
+  },
+  "freeEntry": {
+    "title": "贾加拉瀑布免费吗？",
+    "intro": "是的——进入贾加拉瀑布免费。它是保护景观内一处开放进入的观景点，没有售票处，也没有闸机。以下是实际含义。",
+    "sections": [
+      {
+        "heading": "无需门票，无需预订",
+        "content": "你可以全年任何一天、随时步入，无需购买任何东西或预约时段。只有导览徒步及现场任何商业服务（咖啡馆等）可能收费。"
+      },
+      {
+        "heading": "可能收费的部分",
+        "content": "停车通常免费，但少数由村镇管理的车位可能收取小额费用。季节性咖啡馆及任何租赁或导览收费。请以现场为准。"
+      },
+      {
+        "heading": "为何保持免费",
+        "content": "作为一处自然、受保护的观景点，瀑布被维护为公众可进入。负责任的游览——带走垃圾、尊重保护区——使其得以延续。"
+      }
+    ],
+    "faq": {
+      "title": "免费进入常见问题",
+      "items": [
+        {
+          "question": "需要门票吗？",
+          "answer": "不需要——进入免费且开放，直接来即可。"
+        },
+        {
+          "question": "有开放时间吗？",
+          "answer": "观景点全年全天候开放进入；只有有人值守的服务有固定时间。"
+        },
+        {
+          "question": "停车免费吗？",
+          "answer": "通常免费；留意可能的小额村镇车位收费并阅读标识。"
+        },
+        {
+          "question": "什么值得花钱？",
+          "answer": "导览徒步、咖啡馆或附近游览——瀑布本身观赏是免费的。"
+        }
+      ]
+    },
+    "relatedTitle": "相关指南",
+    "related": [
+      "/tickets-opening-hours",
+      "/parking",
+      "/facilities",
+      "/safety"
+    ],
+    "sourcesTitle": "来源与核实",
+    "sources": [
+      {
+        "name": "Visit Estonia",
+        "url": "https://visitestonia.com/zh"
+      },
+      {
+        "name": "Visit Harju",
+        "url": "https://visitharju.ee"
+      },
+      {
+        "name": "Peatus — 爱沙尼亚出行规划器",
+        "url": "https://peatus.ee/?locale=zh"
+      }
+    ],
+    "verifiedNote": "本页内容已于 2026 年 10 月 23 日对照上述官方旅游来源核实。当地设施、服务与交通时刻会变动——出行前请再次确认，并通过页脚的联系链接告诉我们任何错误。"
+  },
+  "restaurantsNearby": {
+    "title": "贾加拉瀑布附近的餐厅与咖啡馆",
+    "intro": "瀑布处的餐饮仅限于季节性的现场咖啡馆，但短驱范围内有几家咖啡馆与餐厅——规划半日游时很实用。",
+    "sections": [
+      {
+        "heading": "现场",
+        "content": "温暖的月份里瀑布处有一家咖啡馆，提供轻食与饮品。它仅在季节营业，高峰时可能拥挤，因此非季节时请勿依赖它。"
+      },
+      {
+        "heading": "短驱范围内",
+        "content": "周边村庄与通往塔林的路上分布着咖啡馆、面包店与少数餐厅。若要正餐，城市丰富的选择仅在以西约 30 分钟处。"
+      },
+      {
+        "heading": "规划建议",
+        "content": "若想确保有饭吃，请在塔林前后用餐，或提前确认附近店家的营业时间。无论如何，请为步行自备饮水与零食。"
+      }
+    ],
+    "faq": {
+      "title": "餐饮常见问题",
+      "items": [
+        {
+          "question": "瀑布处有吃的吗？",
+          "answer": "现场有一家季节性咖啡馆；它并非全年开放，请据此安排。"
+        },
+        {
+          "question": "最近的餐厅在哪？",
+          "answer": "短驱范围内有咖啡馆与少数餐厅；完整选择位于塔林，以西约 30 分钟。"
+        },
+        {
+          "question": "需要预订吗？",
+          "answer": "附近小店很少需要预订；塔林餐厅在高峰时段可能需要。"
+        },
+        {
+          "question": "能自带食物吗？",
+          "answer": "可以——欢迎野餐；见我们的野餐指南，并做到无痕离开。"
+        }
+      ]
+    },
+    "relatedTitle": "相关指南",
+    "related": [
+      "/facilities",
+      "/where-to-stay",
+      "/with-kids",
+      "/from-tallinn"
+    ],
+    "sourcesTitle": "来源与核实",
+    "sources": [
+      {
+        "name": "Visit Estonia",
+        "url": "https://visitestonia.com/zh"
+      },
+      {
+        "name": "Visit Harju",
+        "url": "https://visitharju.ee"
+      },
+      {
+        "name": "Peatus — 爱沙尼亚出行规划器",
+        "url": "https://peatus.ee/?locale=zh"
+      }
+    ],
+    "verifiedNote": "本页内容已于 2026 年 10 月 23 日对照上述官方旅游来源核实。当地设施、服务与交通时刻会变动——出行前请再次确认，并通过页脚的联系链接告诉我们任何错误。"
+  },
+  "whereToStay": {
+    "title": "贾加拉瀑布附近住哪里",
+    "intro": "多数游客把贾加拉当作塔林出发的一日游，但如果你想过夜，附近也有酒店、小木屋与营地。以下是现实的选择。",
+    "sections": [
+      {
+        "heading": "以塔林为基地",
+        "content": "最简单的计划是住在塔林（以西约 30 分钟），把瀑布作为半日游。这样城市里的酒店、交通与餐饮都在手边。"
+      },
+      {
+        "heading": "乡村小屋与民宿",
+        "content": "Jägala-Joa 周边村庄以及通往拉赫马方向的乡村，分布着小木屋、客栈与民宿。它们适合想要安静夜晚、清晨早到瀑布的旅行者。"
+      },
+      {
+        "heading": "营地",
+        "content": "指定营地距此短驱，可搭帐篷与房车；夏季请提前预订。受保护的瀑布区内不允许过夜。"
+      }
+    ],
+    "faq": {
+      "title": "住宿常见问题",
+      "items": [
+        {
+          "question": "我该住在瀑布附近吗？",
+          "answer": "仅当你想要安静的乡间；多数游客以塔林为基地，进行半日游。"
+        },
+        {
+          "question": "瀑布处有酒店吗？",
+          "answer": "景区本身没有——请使用塔林或附近乡村小屋与民宿。"
+        },
+        {
+          "question": "能在瀑布处露营吗？",
+          "answer": "不能——请使用短驱范围内的指定营地；保护区仅限白天。"
+        },
+        {
+          "question": "我能多早到？",
+          "answer": "观景点全天候开放进入，因此从附近住宿早起前往很方便。"
+        }
+      ]
+    },
+    "relatedTitle": "相关指南",
+    "related": [
+      "/camping-nearby",
+      "/with-lahemaa",
+      "/restaurants-nearby",
+      "/from-tallinn"
+    ],
+    "sourcesTitle": "来源与核实",
+    "sources": [
+      {
+        "name": "Visit Estonia",
+        "url": "https://visitestonia.com/zh"
+      },
+      {
+        "name": "Visit Harju",
+        "url": "https://visitharju.ee"
+      },
+      {
+        "name": "Peatus — 爱沙尼亚出行规划器",
+        "url": "https://peatus.ee/?locale=zh"
+      }
+    ],
+    "verifiedNote": "本页内容已于 2026 年 10 月 23 日对照上述官方旅游来源核实。当地设施、服务与交通时刻会变动——出行前请再次确认，并通过页脚的联系链接告诉我们任何错误。"
+  },
+  "bestViewpoints": {
+    "title": "贾加拉瀑布最佳观景位",
+    "intro": "贾加拉瀑布在瀑顶上方设有主观景台，沿河还有几处自然观测点。知道站在哪里，能让任何季节的游览都物尽其用。",
+    "sections": [
+      {
+        "heading": "主观景台",
+        "content": "瀑布上方有标识的观景台是经典、最安全的视角——从停车场步行短而平缓。它将瀑顶全宽与下方水潭尽收框中。"
+      },
+      {
+        "heading": "河岸角度",
+        "content": "从河岸可找到仰视跌水、横看峡谷的低角度。这些是非官方、无护栏的地点——请与边缘保持安全距离并注意脚下。"
+      },
+      {
+        "heading": "按季选择",
+        "content": "冬季冰景从观景台与上河岸最佳；春季高水期，较低河岸能拍到壮观的水雾。见我们的摄影与季节指南。"
+      }
+    ],
+    "faq": {
+      "title": "观景位常见问题",
+      "items": [
+        {
+          "question": "最佳观景点是哪个？",
+          "answer": "瀑布上方有标识的主平台——安全、轻松，并框住整个瀑顶。"
+        },
+        {
+          "question": "能下到瀑布脚下吗？",
+          "answer": "没有安全、维护好的路线通到瀑布脚下；请留在标识路径与平台上。"
+        },
+        {
+          "question": "在哪里拍照？",
+          "answer": "平台拍宽景；上河岸拍冬季冰景；较低河岸（谨慎）拍高水期水雾。"
+        },
+        {
+          "question": "探索安全吗？",
+          "answer": "在路径上大多安全；无护栏的边缘是隐患——请看管儿童并远离跌水。"
+        }
+      ]
+    },
+    "relatedTitle": "相关指南",
+    "related": [
+      "/photography",
+      "/best-time-to-visit",
+      "/safety",
+      "/winter"
+    ],
+    "sourcesTitle": "来源与核实",
+    "sources": [
+      {
+        "name": "Visit Estonia",
+        "url": "https://visitestonia.com/zh"
+      },
+      {
+        "name": "Visit Harju",
+        "url": "https://visitharju.ee"
+      },
+      {
+        "name": "Peatus — 爱沙尼亚出行规划器",
+        "url": "https://peatus.ee/?locale=zh"
+      }
+    ],
+    "verifiedNote": "本页内容已于 2026 年 10 月 23 日对照上述官方旅游来源核实。当地设施、服务与交通时刻会变动——出行前请再次确认，并通过页脚的联系链接告诉我们任何错误。"
+  },
   "topicLinks": {
     "title": "规划你的行程",
     "subtitle": "关于到达、季节、摄影与周边景点的实用指南。",
@@ -1661,6 +3223,61 @@
         "title": "塔林附近瀑布",
         "desc": "Jägala、Keila 与 Valaste 对比。",
         "href": "/waterfalls-near-tallinn"
+      },
+      {
+        "title": "从机场出发",
+        "desc": "从 TLL 打车、换乘或租车。",
+        "href": "/from-airport"
+      },
+      {
+        "title": "春季",
+        "desc": "融雪、高水位与转绿的河岸。",
+        "href": "/spring"
+      },
+      {
+        "title": "夏季",
+        "desc": "白昼漫长、绿意峡谷与亲子出行。",
+        "href": "/summer"
+      },
+      {
+        "title": "秋季",
+        "desc": "秋色、回落的水位与清静小径。",
+        "href": "/autumn"
+      },
+      {
+        "title": "联游拉赫马",
+        "desc": "把瀑布与爱沙尼亚最大公园搭配。",
+        "href": "/with-lahemaa"
+      },
+      {
+        "title": "联游塔林",
+        "desc": "把瀑布与老城结合。",
+        "href": "/with-tallinn"
+      },
+      {
+        "title": "瀑布路线",
+        "desc": "北爱沙尼亚瀑布自驾环线。",
+        "href": "/waterfall-route"
+      },
+      {
+        "title": "亲子同游",
+        "desc": "轻松步道、观景台与野餐。",
+        "href": "/with-kids"
+      },
+      {
+        "title": "附近用餐",
+        "desc": "周边的咖啡馆与餐厅。",
+        "href": "/restaurants-nearby"
+      },
+      {
+        "title": "附近住宿",
+        "desc": "周边的酒店、小屋与营地。",
+        "href": "/where-to-stay"
+      },
+      {
+        "title": "最佳观景",
+        "desc": "瀑布的平台与角度。",
+        "href": "/best-viewpoints"
       }
     ]
   }

@@ -1587,6 +1587,1568 @@
     ],
     "verifiedNote": "Sisu viimati kontrollitud ülaltoodud ametlike turismiallikate põhjal 23. oktoobril 2026. Kohapealsed teenused ja sõidugraafikud muutuvad — palun kinnita enne reisi ja teavita vigadest jaluse kontaktilinkide kaudu."
   },
+  "fromAirport": {
+    "title": "Tallinna lennujaamast Jägala joale",
+    "intro": "Lennart Meri Tallinna lennujaam (TLL) asub umbes 25 km lääne poolt Jägala joast. Joale ei lähe otsene ühissõiduk, seega sõidavad enamik külastajaid otse terminalist taksoga või rakendusega, või esmalt Tallinna ja jätkavad autos, bussiga või tuuriga.",
+    "sections": [
+      {
+        "heading": "Takso või rakendus (lihtsaim)",
+        "content": "Takso või ühissõit lennujaamast Jägalale on kõige otsekohesem — umbes 25 km ja 25–35 min sõltuvalt liiklusest. Taksod on arvelduslikud ja hind sõltub operaatorist ja ajast; rakendused näitavad hinda enne broneerimist. Kokkulepe tagasiküüdiga on soovitatav, kui autot ei ole."
+      },
+      {
+        "heading": "Lennujaam → Tallinn → juga",
+        "content": "Kui eelistad ühistransporti, sõid Tallinna kesklinna bussi või trammiga, seejärel jätka Jägalale pikkbussiga (Tallinna–Narva ja Tallinna–Jõgeva liinid peatuvad Jägala-Joas) või rendiautoga. See lisab ühe ümberistumise, kuid on tunduvalt odavam kui takso."
+      },
+      {
+        "heading": "Autorent",
+        "content": "Kõik suuremad rendipunktid on lennujaamas. Sealt sõida E20 (Tallinna–Narva) ida poole u 25–30 km ja keera Jägala-Joa märkide juures. Parkla on tasuta."
+      }
+    ],
+    "faq": {
+      "title": "Lennujaama ühendused – KKK",
+      "items": [
+        {
+          "question": "Kui kaugel on lennujaam Jägala joast?",
+          "answer": "Umbes **25 km** läänes – **25–35 min** autosõit tavalises liikluses."
+        },
+        {
+          "question": "Kas lennujaamast läheb otsene buss?",
+          "answer": "Ei ole otsest ühisteenust. Kasuta kas otsetakso / ühissõitu või ümberistumist Tallinna kaudu (buss või tramm linnas, seejärel pikkbuss Jägala-Joasse)."
+        },
+        {
+          "question": "Kui palju maksab takso lennujaamast?",
+          "answer": "Arvelduslik hind on tavalistel tundidel tavaliselt **20–30 EUR**; öösel või halva ilmaga kallim. Ühissõidu rakendused näitavad hinda eelnevalt."
+        },
+        {
+          "question": "Kas seda saab teha ümberistumise ajal?",
+          "answer": "Jah, kui sul on lennuvahetuse vahel vähemalt **3–4 tundi** ja viisaprobleeme ei teki — tagasisõiduga takso on ainus realistlik variant lühikese peatuse puhul."
+        }
+      ]
+    },
+    "relatedTitle": "Seotud teejuhised",
+    "related": [
+      "/from-tallinn",
+      "/by-bus",
+      "/parking",
+      "/half-day-trip"
+    ],
+    "sourcesTitle": "Allikad ja kontrollimine",
+    "sources": [
+      {
+        "name": "Visit Estonia",
+        "url": "https://visitestonia.com/et/jagala-joa"
+      },
+      {
+        "name": "Visit Harju",
+        "url": "https://visitharju.ee"
+      },
+      {
+        "name": "Peatus — Eesti marsruutide planeerija",
+        "url": "https://peatus.ee/?locale=et"
+      }
+    ],
+    "verifiedNote": "Sisu viimati kontrollitud ülaltoodud ametlike turismiallikate põhjal 23. oktoobril 2026. Kohapealsed teenused ja sõidugraafikud muutuvad — palun kinnita enne reisi ja teavita vigadest jaluse kontaktilinkide kaudu."
+  },
+  "spring": {
+    "title": "Jägala joa külastamine kevadel",
+    "intro": "Kevad (umbes aprillist maini) on aeg, mil Jägala jõgi paisub lume sulamisest ja ümbritsev mets haljeneb. Vooluhulk on aasta suurim, ja pritsmed ning kärestik teevad joa dramaatiliseks – kuigi rajad võivad olla porised.",
+    "sections": [
+      {
+        "heading": "Mida oodata",
+        "content": "Kui lumi sulab, tõuseb jõgi ja juga jookseb täis ja mühas. Kaldad ja kuristik haljenevad ning rändlinnud naasevad piirkonda. See on elav ja fotograafiline aeg külastada."
+      },
+      {
+        "heading": "Olud jalge all",
+        "content": "Märgistatud jalgrada parklast on looduslik maapind ja kevadel sageli mär või porine. Kandke veekindlaid jalanõusid ja hoidke lapsed ning koerad märgistatud radadel eemal libisemisohtlikust kiirest veest."
+      },
+      {
+        "heading": "Rahvas ja valgus",
+        "content": "Kevad on suvele vaiksem, seega on vaateplatvorm sageli üksi. Päevavalgus pikeneb hooaja jooksul, pakkudes meeldivat pehmet valgust hommikuti ja õhtuti."
+      }
+    ],
+    "faq": {
+      "title": "Kevadine külastus – KKK",
+      "items": [
+        {
+          "question": "Kas kevad on hea aeg külastada?",
+          "answer": "Jah – kõrge vesi teeb joa võimsa ja see on suvest palju rahulikum. Arvesta lihtsalt poriste radadega."
+        },
+        {
+          "question": "Kui kõrge on vesi kevadel?",
+          "answer": "Vooluhulk on tavaliselt aasta tipus lume sulamisest; täpsed tasemed varieeruvad aastati, seega kontrolli elavat hüdroloogia allikat enne konkreetse numbri usaldamist."
+        },
+        {
+          "question": "Kas teenused on kevadel avatud?",
+          "answer": "Koht on avatud ligipääs aastaringselt. Kohapealne kohvik ja hooajalised teenused avanevad ilma parandades – kinnita kohapeal enne nendele lootmist."
+        },
+        {
+          "question": "Kas koeraga kevadel võib tulla?",
+          "answer": "Jah, rihmaga koerad on teretulnud, kuid hoia neid rajal ja eemal kiirest külmetavast voolust."
+        }
+      ]
+    },
+    "relatedTitle": "Seotud teejuhised",
+    "related": [
+      "/best-time-to-visit",
+      "/water-levels",
+      "/jagala-river",
+      "/safety"
+    ],
+    "sourcesTitle": "Allikad ja kontrollimine",
+    "sources": [
+      {
+        "name": "Visit Estonia",
+        "url": "https://visitestonia.com/et/jagala-joa"
+      },
+      {
+        "name": "Visit Harju",
+        "url": "https://visitharju.ee"
+      },
+      {
+        "name": "Peatus — Eesti marsruutide planeerija",
+        "url": "https://peatus.ee/?locale=et"
+      }
+    ],
+    "verifiedNote": "Sisu viimati kontrollitud ülaltoodud ametlike turismiallikate põhjal 23. oktoobril 2026. Kohapealsed teenused ja sõidugraafikud muutuvad — palun kinnita enne reisi ja teavita vigadest jaluse kontaktilinkide kaudu."
+  },
+  "summer": {
+    "title": "Jägala joa külastamine suvel",
+    "intro": "Suvi (juunist augustini) toob pika päevavalguse, rohelised kuristikud ja soojemad, perele sobivamad tingimused Jägala joal. See on rahvarohkeim hooaeg, seega varajane saabumine väldib rahutust ja keskpäeva kuumust.",
+    "sections": [
+      {
+        "heading": "Mida oodata",
+        "content": "Metsapüü on täis, jõgi jookseb selge ja vaateplatvormid ning lauad on kõige mugavamad. See on kõige lihtsam aeg peredele, piknikele ja rahulikuks fotograafiaks."
+      },
+      {
+        "heading": "Rahva vältimine",
+        "content": "Nädalavahetused ja päikeselised pühad toovad kõige rohkem külastajaid. Enne kella 10 saabumine või nädalapäevane külastus hoiab kogemuse rahulikuna ja tasuta parkla täitub päeva jooksul."
+      },
+      {
+        "heading": "Ohutus",
+        "content": "Ka suvel on vesi külm ja vool tugev – joal ujumist ei soovitata. Hoidke lapsed ja koerad eemal piireta servadest langemi lähedal."
+      }
+    ],
+    "faq": {
+      "title": "Suvekülastus – KKK",
+      "items": [
+        {
+          "question": "Kas suvi on parim aeg külastada?",
+          "answer": "Mugavuse ja perereiside jaoks jah. Üksinduse või jäämoodustuste jaoks sobivad talv või kevad paremini."
+        },
+        {
+          "question": "Kui rahvarohke see on?",
+          "answer": "Tipptalve nädalavahetused on aasta rahvarohkeimad; rahulikuks külastuseks saabu varakult või nädalapäeval."
+        },
+        {
+          "question": "Kas suvel võib ujuda?",
+          "answer": "Joal otse ujumist ei soovitata tugeva voolu ja külma vee tõttu; ohutumate alternatiivide jaoks vaata meie ujumisjuhendit."
+        },
+        {
+          "question": "Kas seal on sääski või putukaid?",
+          "answer": "Tuultevahelduses soojal ilmaga ilmuvad putukad jõe lähedal; tavaline kaitsevahend piisab lühikeseks külastuseks."
+        }
+      ]
+    },
+    "relatedTitle": "Seotud teejuhised",
+    "related": [
+      "/best-time-to-visit",
+      "/with-kids",
+      "/picnicking",
+      "/swimming"
+    ],
+    "sourcesTitle": "Allikad ja kontrollimine",
+    "sources": [
+      {
+        "name": "Visit Estonia",
+        "url": "https://visitestonia.com/et/jagala-joa"
+      },
+      {
+        "name": "Visit Harju",
+        "url": "https://visitharju.ee"
+      },
+      {
+        "name": "Peatus — Eesti marsruutide planeerija",
+        "url": "https://peatus.ee/?locale=et"
+      }
+    ],
+    "verifiedNote": "Sisu viimati kontrollitud ülaltoodud ametlike turismiallikate põhjal 23. oktoobril 2026. Kohapealsed teenused ja sõidugraafikud muutuvad — palun kinnita enne reisi ja teavita vigadest jaluse kontaktilinkide kaudu."
+  },
+  "autumn": {
+    "title": "Jägala joa külastamine sügisel",
+    "intro": "Sügis (septembrist oktoobrini) muudab Jägala kuristiku kuldseks ja punaseks, pakkudes vähem külastajaid ja rahulikku, fotograafilist valgust. Vee tase langeb suve tipust, kuid juga jääb heaks matkarajaks krõbedas õhus.",
+    "sections": [
+      {
+        "heading": "Mida oodata",
+        "content": "Kuristikku ümbritsev lehtpuumets värvub septembris ja oktoobris. Rahvas hõreneb pärast suvevaheaegu ja jahedam, stabiilne valgus on fotograafide lemmik."
+      },
+      {
+        "heading": "Olud",
+        "content": "Rajad on üldiselt kinda ja kuivad, kuigi märjad lehed võivad pärast vihma olla libedad. Päevavalgus lüheneb, seega planeeri matk päevavalguses ja riietu kihiti muutuva sügisilmaga."
+      },
+      {
+        "heading": "Fotograafia nõuanded",
+        "content": "Madal päike ja veepeegelduv värv teevad hommiku ja hilisplekkii parimaks ajaks. Polaarfilter vähendab läiku märjal kivil ja toob esile sügises toonid."
+      }
+    ],
+    "faq": {
+      "title": "Sügiskülastus – KKK",
+      "items": [
+        {
+          "question": "Kas sügis on hea aeg külastada?",
+          "answer": "Jah – värvikas, vaikne ja suurepärane fotograafiaks, mugavate matkingimustega."
+        },
+        {
+          "question": "Kui palju vett sügisel on?",
+          "answer": "Vool väheneb kevade ja suve tipust, kuid juga jätkab jooksmist; täpsed tasemed sõltuvad sademetest, seega kontrolli elavat allikat, kui vajad numbrit."
+        },
+        {
+          "question": "Kas seal on rahvarohke?",
+          "answer": "Ei – sügis on üks rahulikumaid hooaegu pärast suve tipptippu."
+        },
+        {
+          "question": "Mida peaks kandma?",
+          "answer": "Kihid ja tugevad jalanõud; Eesti sügisilm muutub kiiresti ja märjad lehed võivad olla libedad."
+        }
+      ]
+    },
+    "relatedTitle": "Seotud teejuhised",
+    "related": [
+      "/best-time-to-visit",
+      "/photography",
+      "/with-viru-bog",
+      "/water-levels"
+    ],
+    "sourcesTitle": "Allikad ja kontrollimine",
+    "sources": [
+      {
+        "name": "Visit Estonia",
+        "url": "https://visitestonia.com/et/jagala-joa"
+      },
+      {
+        "name": "Visit Harju",
+        "url": "https://visitharju.ee"
+      },
+      {
+        "name": "Peatus — Eesti marsruutide planeerija",
+        "url": "https://peatus.ee/?locale=et"
+      }
+    ],
+    "verifiedNote": "Sisu viimati kontrollitud ülaltoodud ametlike turismiallikate põhjal 23. oktoobril 2026. Kohapealsed teenused ja sõidugraafikud muutuvad — palun kinnita enne reisi ja teavita vigadest jaluse kontaktilinkide kaudu."
+  },
+  "withLahemaa": {
+    "title": "Jägala juga ja Lahemaa rahvuspark – ühine retk",
+    "intro": "Lahemaa rahvuspark, Eesti suurim, asub Tallinnast kirdes ja sobib loomulikult kokku Jägala joaga. Paljud külastajad peatuvad joal teel Lahemaale või sealt tagasi terves looduspäevas.",
+    "sections": [
+      {
+        "heading": "Miks need ühendada",
+        "content": "Jägala on ligikaudu teel Lahemaa lõunapoolsetele sissesõitudele, seega lühike peatus maksab vähe lisaaeda. Ühes päevas saad nii juga kui rahvuspargi – rabad, metsad, mõisad ja rannakülad."
+      },
+      {
+        "heading": "Soovituslik marsruut",
+        "content": "Tallinnast külasta esmalt Jägalat (u 30 min ida poole), seejärel jätka kirde poole E20 ja väiksemate teede kaudu Lahemaale. Planeeri täis päev; pargi tippkohad on 45–90 min joast kaugemal."
+      },
+      {
+        "heading": "Mida Lahemaal lisada",
+        "content": "Populaarsed peatused on Viru raba laudtee, Palmse ja Sagadi mõis ning põhjaranniku kalurikülad. Kontrolli muuseumite ja külastuskeskuste lahtiolekuaegu enne teele asumist."
+      }
+    ],
+    "faq": {
+      "title": "Jägala + Lahemaa – KKK",
+      "items": [
+        {
+          "question": "Kui kaugel on Lahemaa Jägalast?",
+          "answer": "Pargi lõunapoolsed alad on u **45–60 km** kirde pool; arvesta **1–1,5 tundi** lisasõitu joast kaugemale."
+        },
+        {
+          "question": "Kas mõlemad saab ühes päevas teha?",
+          "answer": "Jah. Pool päeva Jägalal ja pool päeva Lahemaal on mugav täisööpäev Tallinnast."
+        },
+        {
+          "question": "Kas auto on vajalik?",
+          "answer": "Auto on selgelt kõige lihtsam viis need kaks ühendada; Lahemaa sisemusse ühistransport on piiratud, seega planeeri hoolikalt, kui bussidele tuginead."
+        },
+        {
+          "question": "Kas Lahemaale on sissepääsutasu?",
+          "answer": "Park ise on tasuta; eraldi tasub muuseumid, mõisad ja juhendatud tegevused."
+        }
+      ]
+    },
+    "relatedTitle": "Seotud teejuhised",
+    "related": [
+      "/half-day-trip",
+      "/with-viru-bog",
+      "/from-tallinn",
+      "/jagala-river"
+    ],
+    "sourcesTitle": "Allikad ja kontrollimine",
+    "sources": [
+      {
+        "name": "Visit Estonia",
+        "url": "https://visitestonia.com/et/jagala-joa"
+      },
+      {
+        "name": "Visit Harju",
+        "url": "https://visitharju.ee"
+      },
+      {
+        "name": "Peatus — Eesti marsruutide planeerija",
+        "url": "https://peatus.ee/?locale=et"
+      }
+    ],
+    "verifiedNote": "Sisu viimati kontrollitud ülaltoodud ametlike turismiallikate põhjal 23. oktoobril 2026. Kohapealsed teenused ja sõidugraafikud muutuvad — palun kinnita enne reisi ja teavita vigadest jaluse kontaktilinkide kaudu."
+  },
+  "withTallinn": {
+    "title": "Jägala juga koos Tallinna linnakülastusega",
+    "intro": "Jägala juga on Tallinna vanalinnast piisavalt lähedal, et teha hõlbus poolpäevane looduspaus vaatamisväärsuste vahel. Ühenda keskaegne linn riigi laiaima joaga tasakaalustatud päevaks.",
+    "sections": [
+      {
+        "heading": "Miks need ühendada",
+        "content": "Juga on vaid u 30 km kesklinnast, seega saad hommikul tourida Tallinna vanalinnas ja jõuad Jägalale veel pärastlõunaseks jalutuseks ja piltideks."
+      },
+      {
+        "heading": "Soovituslik ajakava",
+        "content": "Veeta hommik vanalinnas, lahku varahomselt ja sul on juga tipptundadest väljas üksi. Koht on avatud ligipääs ja ei vaja broneeringut."
+      },
+      {
+        "heading": "Logistika",
+        "content": "Sõida autoga, võta pikkbuss või liitu tuuriga. Kui oled linnas ilma autota, on buss ja lühike jalgsi kõige lihtsam odav variant; üksikasjad leiad meie transpordijuhenditest."
+      }
+    ],
+    "faq": {
+      "title": "Tallinn + Jägala – KKK",
+      "items": [
+        {
+          "question": "Kui kaua mõlemad võtavad?",
+          "answer": "Rahulik plaan on hommik Tallinnas ja 2–3 tundi Jägalal – mugavalt ühe päeva sisse."
+        },
+        {
+          "question": "Kas vanalinnast saab ühissõidukiga kohale?",
+          "answer": "Jah: jõua Tallinna bussiterminali ja võta Tallinna–Narva / Jõgeva pikkbuss Jägala-Joasse, seejärel jaluta sisse. Kontrolli aegu peatus.ee-st."
+        },
+        {
+          "question": "Kas see on väärt, kui aega on üks päev?",
+          "answer": "Kui armastad loodust, jah – see on pealinnast kõige lihtsam märkimisväärne loodusvaade ja võtab vaid pool päeva."
+        },
+        {
+          "question": "Kas broneering on vajalik?",
+          "answer": "Kaitstud maastikule sisenemine ei vaja broneeringut; ainult juhitud matkad tuleb broneerida ette."
+        }
+      ]
+    },
+    "relatedTitle": "Seotud teejuhised",
+    "related": [
+      "/from-tallinn",
+      "/half-day-trip",
+      "/tickets-opening-hours",
+      "/best-time-to-visit"
+    ],
+    "sourcesTitle": "Allikad ja kontrollimine",
+    "sources": [
+      {
+        "name": "Visit Estonia",
+        "url": "https://visitestonia.com/et/jagala-joa"
+      },
+      {
+        "name": "Visit Harju",
+        "url": "https://visitharju.ee"
+      },
+      {
+        "name": "Peatus — Eesti marsruutide planeerija",
+        "url": "https://peatus.ee/?locale=et"
+      }
+    ],
+    "verifiedNote": "Sisu viimati kontrollitud ülaltoodud ametlike turismiallikate põhjal 23. oktoobril 2026. Kohapealsed teenused ja sõidugraafikud muutuvad — palun kinnita enne reisi ja teavita vigadest jaluse kontaktilinkide kaudu."
+  },
+  "waterfallRoute": {
+    "title": "Põhja-Eesti jugaautotee",
+    "intro": "Põhja-Eestis on mitu juga lühikese sõidu kaugusel Tallinnast. Juhitud ring, mis ühendab Jägala, Keila ja mõne väiksema joa, on tasuv päev jugaotsijatele.",
+    "sections": [
+      {
+        "heading": "Põhiring",
+        "content": "Alusta Jägalast (laiem looduslik juga), seejärel suunda lääne poole Keila joale ja selle mõisaparki. Mõlemad on u tunni kaugusel nii Tallinnast kui teineteisest, heade teede ääres."
+      },
+      {
+        "heading": "Veel jugasid",
+        "content": "Sõltuvalt hooajast ja teepääsust saad laieneda teiste piirkondlike joadeni, näiteks Ontika kaljul asuva Valaste joani. Uuri praegust ligipääsu ja eramaa märkusi enne teele asumist, sest mõni on mõisamaal."
+      },
+      {
+        "heading": "Praktilised märkused",
+        "content": "Igal kohal on oma parkla ja jalgrada; ükski ei vaja broneeringut. Võta kaasa vesi, lae telefon kaartideks ja kontrolli ilma – Põhja-Eesti on avatud ja tuuline."
+      }
+    ],
+    "faq": {
+      "title": "Jugatee – KKK",
+      "items": [
+        {
+          "question": "Kui palju jugasid saab päevas näha?",
+          "answer": "Mugavalt kaks kuni kolm – Jägala ja Keila on kõige lihtsam paar, kolmas võimalik, kui alustad varakult."
+        },
+        {
+          "question": "Kui pikk on sõit?",
+          "answer": "Jägalast Keilasse on u **50 km**; rahulik ring peatustega on Tallinnast täis aga kerge päev."
+        },
+        {
+          "question": "Kas need juggad on tasuta?",
+          "answer": "Avalikud ligipääsu alad on tasuta; mõni mõisapark võib võtta väikese sissepääsu- või parkimistasu – kontrolli kohapeal."
+        },
+        {
+          "question": "Kas tee on märgistatud?",
+          "answer": "Peamised kohad on hästi märgistatud eesti keeles; telefonikaart aitab väiksemate, tundmatumate joadeni jõuda."
+        }
+      ]
+    },
+    "relatedTitle": "Seotud teejuhised",
+    "related": [
+      "/jagala-vs-keila",
+      "/waterfalls-near-tallinn",
+      "/with-lahemaa",
+      "/from-tallinn"
+    ],
+    "sourcesTitle": "Allikad ja kontrollimine",
+    "sources": [
+      {
+        "name": "Visit Estonia",
+        "url": "https://visitestonia.com/et/jagala-joa"
+      },
+      {
+        "name": "Visit Harju",
+        "url": "https://visitharju.ee"
+      },
+      {
+        "name": "Peatus — Eesti marsruutide planeerija",
+        "url": "https://peatus.ee/?locale=et"
+      }
+    ],
+    "verifiedNote": "Sisu viimati kontrollitud ülaltoodud ametlike turismiallikate põhjal 23. oktoobril 2026. Kohapealsed teenused ja sõidugraafikud muutuvad — palun kinnita enne reisi ja teavita vigadest jaluse kontaktilinkide kaudu."
+  },
+  "withViruBog": {
+    "title": "Jägala juga ja Viru raba – ühine retk",
+    "intro": "Viru raba laudtee Lahemaa rahvuspargis on üks Eesti kuulsamaid lühikesi loodusmatku ja sobib loomulikult kokku Jägala joaga päevareisil Tallinnast.",
+    "sections": [
+      {
+        "heading": "Miks need ühendada",
+        "content": "Mõlemad on lihtsad, hästi ehitatud matkad platvormide ja laudteedega, seega sobivad samasse rahulikku päeva. Jägala annab joa; Viru raba annab algupärase soo vaatetorniga."
+      },
+      {
+        "heading": "Soovituslik marsruut",
+        "content": "Külasta Jägalat esmalt Tallinnast, seejärel sõida kirde poole Viru rabamatkale (u 45–60 km joast kaugemale). Raba laudtee on 3–5 km silmus ja avatud aastaringselt."
+      },
+      {
+        "heading": "Mida teada",
+        "content": "Rabad rada on lame ja märgistatud, kuid avatud – võta kaasa tuulekindlad kihid ja suveks sääskede kaitse. Vaatetorn on tipp iga hooajal, eriti lumes."
+      }
+    ],
+    "faq": {
+      "title": "Jägala + Viru raba – KKK",
+      "items": [
+        {
+          "question": "Kui kaugel on Viru raba Jägalast?",
+          "answer": "U **45–60 km** kirde pool; arvesta **1–1,5 tundi** lisasõitu joast kaugemale."
+        },
+        {
+          "question": "Kui pikk on rabamatk?",
+          "answer": "Laudtee silmus on u **3–5 km** ja võtab gentle tempoga 1–2 tundi."
+        },
+        {
+          "question": "Kas see sobib lastele?",
+          "answer": "Jah – lame laudtee ja torn on pereile sõbralik; hoia lapsed rajal soos."
+        },
+        {
+          "question": "Kas giid on vajalik?",
+          "answer": "Ei, rada on iseseisev ja märgistatud; giid on valikuline sügavama looduslooa jaoks."
+        }
+      ]
+    },
+    "relatedTitle": "Seotud teejuhised",
+    "related": [
+      "/with-lahemaa",
+      "/hiking-trails",
+      "/best-time-to-visit",
+      "/photography"
+    ],
+    "sourcesTitle": "Allikad ja kontrollimine",
+    "sources": [
+      {
+        "name": "Visit Estonia",
+        "url": "https://visitestonia.com/et/jagala-joa"
+      },
+      {
+        "name": "Visit Harju",
+        "url": "https://visitharju.ee"
+      },
+      {
+        "name": "Peatus — Eesti marsruutide planeerija",
+        "url": "https://peatus.ee/?locale=et"
+      }
+    ],
+    "verifiedNote": "Sisu viimati kontrollitud ülaltoodud ametlike turismiallikate põhjal 23. oktoobril 2026. Kohapealsed teenused ja sõidugraafikud muutuvad — palun kinnita enne reisi ja teavita vigadest jaluse kontaktilinkide kaudu."
+  },
+  "withKids": {
+    "title": "Jägala joa külastamine lastega",
+    "intro": "Jägala juga on perele sobiv väljasõit: lühikesed, lamad rajad, vaateplatvorm ja palju ruumi ringi liikuda. Veidi planeerimist hoiab selle ohutu ja lõbusena kõigile vanusele.",
+    "sections": [
+      {
+        "heading": "Miks see peredele sobib",
+        "content": "Peamine vaatepunkt on lühike, tehtav jalutuskäik parklast ja avatud ala laseb lastel juga näha ilma pika matkata. Koht on avatud ligipääs ja tasuta."
+      },
+      {
+        "heading": "Ohutus lastega",
+        "content": "Langemi lähedased servad ei ole igal pool piiratud. Hoia väikseid lapsi lähedal, hoia käest vee lähedal ja selgita neile märgistatud radadel püsimisest. Üksikasjad leiad meie ohutusjuhendist."
+      },
+      {
+        "heading": "Päeva veetmine",
+        "content": "Paki piknik, vesi ja vahetusriided. Ühenda külastus lühikese metsamatkaga ja nauti suvel pikka päevavalgust. Hooajaliselt on kohapeal tualett ja kohvik."
+      }
+    ],
+    "faq": {
+      "title": "Pered – KKK",
+      "items": [
+        {
+          "question": "Kas see sobib väikeseimatele?",
+          "answer": "Jah – jalutuskäik parklast on lühike ja lame, kuigi looduslik maapind võib olla ebatasane; ratastooliga käimine läheb peateel, mitte raskematel radadel."
+        },
+        {
+          "question": "Kas joal on aed?",
+          "answer": "Vaateplatvorm on ohutu, kuid mõni jõekaldne serv on avatud – jälgige lapsi vee lähedal hoolsalt."
+        },
+        {
+          "question": "Kas on tualett ja toit?",
+          "answer": "Kohapeal on tualett ja hooajaline kohvik; oma vee ja snäkkidega ole kindel."
+        },
+        {
+          "question": "Kui kaua planeerida?",
+          "answer": "Enamik pered veedab **1–2 tundi** matka, piltide ja pikniku kaasamisega."
+        }
+      ]
+    },
+    "relatedTitle": "Seotud teejuhised",
+    "related": [
+      "/safety",
+      "/facilities",
+      "/picnicking",
+      "/summer"
+    ],
+    "sourcesTitle": "Allikad ja kontrollimine",
+    "sources": [
+      {
+        "name": "Visit Estonia",
+        "url": "https://visitestonia.com/et/jagala-joa"
+      },
+      {
+        "name": "Visit Harju",
+        "url": "https://visitharju.ee"
+      },
+      {
+        "name": "Peatus — Eesti marsruutide planeerija",
+        "url": "https://peatus.ee/?locale=et"
+      }
+    ],
+    "verifiedNote": "Sisu viimati kontrollitud ülaltoodud ametlike turismiallikate põhjal 23. oktoobril 2026. Kohapealsed teenused ja sõidugraafikud muutuvad — palun kinnita enne reisi ja teavita vigadest jaluse kontaktilinkide kaudu."
+  },
+  "withDogs": {
+    "title": "Jägala joa külastamine koeraga",
+    "intro": "Rihmaga koerad on Jägala joal teretulnud ja avatud rajad ning metsateed teevad selle populaarseks jalutuskohaks koeraomanikele. Mõni lihtne reegel hoiab koha meeldivana kõigile.",
+    "sections": [
+      {
+        "heading": "Rihmas",
+        "content": "Hoia koeri rihmas, eriti piireta servadel joa kohal ja teiste külastajate lähedal. Eesti igaüheõiguse kultuur eeldab omanikelt lemmikloomade kontrolli ja järeltulekut."
+      },
+      {
+        "heading": "Rajad ja maastik",
+        "content": "Jalutuskäik parklast vaateplatvormini on lühike ja lame; pikemad metsateed sobivad korralikuks jalutuseks. Pärast vihma või lund võib maapind olla porine, seega pühi käpad pärast."
+      },
+      {
+        "heading": "Vesi ja loodus",
+        "content": "Jõevool on tugev ja vesi külm – ei soovita koeri joal vette laskma. Kevadel ja sügisel ole tähelepanelik looduse ja maapinnal pesitsevate lindude suhtes radade lähedal."
+      }
+    ],
+    "faq": {
+      "title": "Koerad – KKK",
+      "items": [
+        {
+          "question": "Kas koerad on lubatud?",
+          "answer": "Jah, rihmaga koerad on kogu alal teretulnud."
+        },
+        {
+          "question": "Kas koera eest tuleb tasu?",
+          "answer": "Ei – sisenemine ja jalutamine on tasuta; kehtivad ainult tavalised vastutustundliku omaniku reeglid."
+        },
+        {
+          "question": "Kas mu koer võib ujuda?",
+          "answer": "Joal ujumist ei soovitata tugeva voolu ja külma vee tõttu; vali rahulikumad kohad langemi eemal, kui koer peab vette minema."
+        },
+        {
+          "question": "Kas prügikonteinereid on?",
+          "answer": "Kasuta kohapealsealuseid, kus need on olemas, ja vii prügi kaasa, kui konteinerid on täis – jäta rada puhtaks järgmise külastaja jaoks."
+        }
+      ]
+    },
+    "relatedTitle": "Seotud teejuhised",
+    "related": [
+      "/safety",
+      "/from-tallinn",
+      "/hiking-trails",
+      "/facilities"
+    ],
+    "sourcesTitle": "Allikad ja kontrollimine",
+    "sources": [
+      {
+        "name": "Visit Estonia",
+        "url": "https://visitestonia.com/et/jagala-joa"
+      },
+      {
+        "name": "Visit Harju",
+        "url": "https://visitharju.ee"
+      },
+      {
+        "name": "Peatus — Eesti marsruutide planeerija",
+        "url": "https://peatus.ee/?locale=et"
+      }
+    ],
+    "verifiedNote": "Sisu viimati kontrollitud ülaltoodud ametlike turismiallikate põhjal 23. oktoobril 2026. Kohapealsed teenused ja sõidugraafikud muutuvad — palun kinnita enne reisi ja teavita vigadest jaluse kontaktilinkide kaudu."
+  },
+  "accessibility": {
+    "title": "Jägala joa ligipääsetavus",
+    "intro": "Jägala juga on avatud ligipääsuga ja osaliselt kohandatud liikumispuudega külastajatele, kuid looduslik maastik tähendab, et mõned alad on teistest lihtsamad. Siin on aus ülevaade plaanimiseks.",
+    "sections": [
+      {
+        "heading": "Rajad ja vaatepunkt",
+        "content": "Rada parklast peamise vaateala juurde on kõige ligipääsetavama osa – suhteliselt lühike ja õrna kaldega, kuigi see on looduslik, katmata maapind, mis võib ilma järel olla ebaühtlane või porine."
+      },
+      {
+        "heading": "Mis ei ole kohandatud",
+        "content": "Jõekaldne servad, kuristiku langemine ja pikemad metsarajad ei sobi ratastooliga ja võivad olla libedad. Vee äärde pole treppideta teid."
+      },
+      {
+        "heading": "Teenused",
+        "content": "Kohapeal on tualett ja hooajaline kohvik. Konkreetseks praeguseks ligipääsetavusinfo — sealhulgas treppide, kallakute ja abi kohta — võta enne reisi ühendust piirkonna turismibürooga."
+      }
+    ],
+    "faq": {
+      "title": "Ligipääsetavus – KKK",
+      "items": [
+        {
+          "question": "Kas juga on ratastooliga ligipääsetav?",
+          "answer": "Osaliselt. Parkla–vaatepunkt rada on kõige kasutatavam, kuid see on katmata looduslik maapind; jõekallas ise ei ole treppideta."
+        },
+        {
+          "question": "Kas on puudega parkimist?",
+          "answer": "Kohapealne parkla on lähim variant; saabu varakult, kuna kohad on piiratud. Täpseid ligipääsetavaid kohti küsi vajadusel vallalt."
+        },
+        {
+          "question": "Kas on treppe?",
+          "answer": "Peamine vaatepunkt väldib suuri treppe, kuid kõrvalrajad ja kuristik hõlmavad looduslikke kallakuid ja ebataset maastikku."
+        },
+        {
+          "question": "Kellelt praegust infot küsida?",
+          "answer": "Võta enne teele asumist ühendust Visit Harju / Jõelähtme vallaga ajakohase ligipääsetavusinfo saamiseks."
+        }
+      ]
+    },
+    "relatedTitle": "Seotud teejuhised",
+    "related": [
+      "/facilities",
+      "/parking",
+      "/safety",
+      "/tickets-opening-hours"
+    ],
+    "sourcesTitle": "Allikad ja kontrollimine",
+    "sources": [
+      {
+        "name": "Visit Estonia",
+        "url": "https://visitestonia.com/et/jagala-joa"
+      },
+      {
+        "name": "Visit Harju",
+        "url": "https://visitharju.ee"
+      },
+      {
+        "name": "Peatus — Eesti marsruutide planeerija",
+        "url": "https://peatus.ee/?locale=et"
+      }
+    ],
+    "verifiedNote": "Sisu viimati kontrollitud ülaltoodud ametlike turismiallikate põhjal 23. oktoobril 2026. Kohapealsed teenused ja sõidugraafikud muutuvad — palun kinnita enne reisi ja teavita vigadest jaluse kontaktilinkide kaudu."
+  },
+  "schoolTrip": {
+    "title": "Jägala juga kooli- ja õppereisideks",
+    "intro": "Jägala juga on valmis õuetundide klass: geoloogia, hüdroloogia, ökoloogia ja kohalugu ühes ligipääsetavas kohas. See sobib hästi koolirühmadele väikese ettevalmistusega.",
+    "sections": [
+      {
+        "heading": "Mida õpilased saavad õppida",
+        "content": "Joad asuvad Balti klindil, seega illustreerivad tegelikku lubjakivi astangut, jõe langemist ja laiemat rannikugeoloogiat. Ümbritsev mets ja jõgi on elav ökoloogiaõpetus."
+      },
+      {
+        "heading": "Grupi külastuse planeerimine",
+        "content": "Koht on tasuta ja avatud ligipääs, kuid bussid ja suuremad rühmad peaksid koordineerima parkimist ja aega. Struktureeritud õpetuse jaoks broneeri juhitud matk ette ametlike piirkonna operaatorite kaudu."
+      },
+      {
+        "heading": "Ohutus rühmadele",
+        "content": "Hoia rühm märgistatud radadel ja eemal piireta servadest. Selgita õpilastele enne saabumist külmast, kiirest veest ja libedast kivist. Vaata meie ohutusjuhendit."
+      }
+    ],
+    "faq": {
+      "title": "Koolireisid – KKK",
+      "items": [
+        {
+          "question": "Kas koolidele on tasuta?",
+          "answer": "Jah, sisenemine on tasuta; ainult ametlike operaatorite kaudu broneeritud juhendatud programmid võivad tasuda."
+        },
+        {
+          "question": "Kas saame giidi broneerida?",
+          "answer": "Jah – juhitud matkad eesti, inglise või vene keeles korraldab piirkonna turismioperaator ja need tuleb broneerida ette."
+        },
+        {
+          "question": "Kuhu bussid parkivad?",
+          "answer": "Kasuta kohapealset parklat ja koordineeri suuremate rühmadega valla; saabu tipptundadest väljas, et vältida ummistust."
+        },
+        {
+          "question": "Kas see sobib kõigile vanusele?",
+          "answer": "Peamise vaatepunkti jalutuskäik sobib enamikule vanusele; kohanda sisu sügavust rühmale."
+        }
+      ]
+    },
+    "relatedTitle": "Seotud teejuhised",
+    "related": [
+      "/with-kids",
+      "/safety",
+      "/jagala-river",
+      "/history"
+    ],
+    "sourcesTitle": "Allikad ja kontrollimine",
+    "sources": [
+      {
+        "name": "Visit Estonia",
+        "url": "https://visitestonia.com/et/jagala-joa"
+      },
+      {
+        "name": "Visit Harju",
+        "url": "https://visitharju.ee"
+      },
+      {
+        "name": "Peatus — Eesti marsruutide planeerija",
+        "url": "https://peatus.ee/?locale=et"
+      }
+    ],
+    "verifiedNote": "Sisu viimati kontrollitud ülaltoodud ametlike turismiallikate põhjal 23. oktoobril 2026. Kohapealsed teenused ja sõidugraafikud muutuvad — palun kinnita enne reisi ja teavita vigadest jaluse kontaktilinkide kaudu."
+  },
+  "swimming": {
+    "title": "Ujumine Jägala joal – mis teada",
+    "intro": "Jägala joal otse ujumist ei soovitata. Langemise ees olev jõgi on külm ja kiire, kivi libane ning joa juures pole turvalist veepiirkonda.",
+    "sections": [
+      {
+        "heading": "Miks see siin ohtlik on",
+        "content": "Kohe astangu ees on vool tugev ja vesi külm aastaringselt; lubjakivi on libe ja langemine on kaitsematu. Need tingimused teevad joal ujumise ohtlikuks, mitte virgestavaks."
+      },
+      {
+        "heading": "Turvalisemad alternatiivid",
+        "content": "Kui tahad vees olla, vali Jägala jõe rahulikum lõik joast eemal või kasuta piirkonnas muid määratud ujumisalasid ja järvi. Ära uju kunagi üksi ja jälgi alati lapsi."
+      },
+      {
+        "heading": "Kui lähed vee lähedale",
+        "content": "Hoia märgistatud kallastel ja platvormidel, hoia turvalist vahemaad servast ja kanna haarduvat jalatsit. Tingimused muutuvad hooaja ja veetasemega – vaata meie veetaseme juhendit."
+      }
+    ],
+    "faq": {
+      "title": "Ujumine – KKK",
+      "items": [
+        {
+          "question": "Kas joal võib ujuda?",
+          "answer": "Ei soovita – tugev vool, külm vesi ja libe kivi teevad selle ohtlikuks."
+        },
+        {
+          "question": "Kas vesi on puhas?",
+          "answer": "Jõgi on looduslik veetee; nagu igal metsajõel, sõltub selle kvaliteet ilmast ja lisavoolust, seega käitu tavaliselt ettevaatlikult."
+        },
+        {
+          "question": "Kus lähedal võin ujuda?",
+          "answer": "Kasuta joast eemal rahulikumaid jõelõike või piirkonna korraldatud ujumisalasid ja järvi; uuri ligipääsu enne teele asumist."
+        },
+        {
+          "question": "Kas suvel on turvalisem?",
+          "answer": "Soojem õhk ei muuda külmavoolu ega libedat astangut – oht jääb samaks."
+        }
+      ]
+    },
+    "relatedTitle": "Seotud teejuhised",
+    "related": [
+      "/safety",
+      "/water-levels",
+      "/jagala-river",
+      "/best-time-to-visit"
+    ],
+    "sourcesTitle": "Allikad ja kontrollimine",
+    "sources": [
+      {
+        "name": "Visit Estonia",
+        "url": "https://visitestonia.com/et/jagala-joa"
+      },
+      {
+        "name": "Visit Harju",
+        "url": "https://visitharju.ee"
+      },
+      {
+        "name": "Peatus — Eesti marsruutide planeerija",
+        "url": "https://peatus.ee/?locale=et"
+      }
+    ],
+    "verifiedNote": "Sisu viimati kontrollitud ülaltoodud ametlike turismiallikate põhjal 23. oktoobril 2026. Kohapealsed teenused ja sõidugraafikud muutuvad — palun kinnita enne reisi ja teavita vigadest jaluse kontaktilinkide kaudu."
+  },
+  "kayaking": {
+    "title": "Jägala jõel kayakiga ja kanuuga",
+    "intro": "Jägala jõge sõidavad kohalikud rahulikemates lõikudes joast eemal. Joad ise on kõva takistus, seega sõitmine käib jõe kohal või astangust palju allpool – mitte kunagi üle selle.",
+    "sections": [
+      {
+        "heading": "Kus sõitmine toimib",
+        "content": "Jägala jõe rahulikumad lõigud joast eemal on kasutusel kajaki- ja kanuumõnusõiduks. Kandke paat juga ümber – ära ürita sõita üle ega astangu lähedal."
+      },
+      {
+        "heading": "Tingimused ja ohutus",
+        "content": "Vesi on külm ja vool tugev, eriti kevadisel lume sulamisel. Kanna päästevesti, kontrolli ilma ja veetaset ning sõida ainult oma võimetes. Vaata meie ohutus- ja veetaseme juhendit."
+      },
+      {
+        "heading": "Ligipääs ja rent",
+        "content": "Avalik jõe ligipääs on mõnes kohas; varustuse rent ja juhendatud sõidud korraldab kohalikud operaatorid – broneeri ette ja kinnita veesõidu ja väljumispunktid."
+      }
+    ],
+    "faq": {
+      "title": "Kajak – KKK",
+      "items": [
+        {
+          "question": "Kas joal võib kajakiga sõita?",
+          "answer": "Ei – kanna paat ümber. Sõitmine üle või astangu kõrval on ohtlik."
+        },
+        {
+          "question": "Kas jõgi sobib algajatele?",
+          "answer": "Rahulikumad lõigud võivad sobida ettevaatlikule algajale giidiga; voog joa lähedal ei sobi uustulnukatele."
+        },
+        {
+          "question": "Kas päästevest on vajalik?",
+          "answer": "Jah – kanna alati; vesi on külm ja vool võib olla tugev."
+        },
+        {
+          "question": "Kust varustust rentida?",
+          "answer": "Kohalike operaatorite kaudu; broneeri ette ja kinnita nendega veesõidu ja väljumispunktid."
+        }
+      ]
+    },
+    "relatedTitle": "Seotud teejuhised",
+    "related": [
+      "/jagala-river",
+      "/swimming",
+      "/safety",
+      "/water-levels"
+    ],
+    "sourcesTitle": "Allikad ja kontrollimine",
+    "sources": [
+      {
+        "name": "Visit Estonia",
+        "url": "https://visitestonia.com/et/jagala-joa"
+      },
+      {
+        "name": "Visit Harju",
+        "url": "https://visitharju.ee"
+      },
+      {
+        "name": "Peatus — Eesti marsruutide planeerija",
+        "url": "https://peatus.ee/?locale=et"
+      }
+    ],
+    "verifiedNote": "Sisu viimati kontrollitud ülaltoodud ametlike turismiallikate põhjal 23. oktoobril 2026. Kohapealsed teenused ja sõidugraafikud muutuvad — palun kinnita enne reisi ja teavita vigadest jaluse kontaktilinkide kaudu."
+  },
+  "picnicking": {
+    "title": "Piknik Jägala joal",
+    "intro": "Piknik sobib ideaalselt Jägala külastusega. Vaatepunkti lähedal olev avatud maa annab ruumi istumiseks ja söömiseks juga taustal – järgi lihtsalt jälgi jätma reegleid.",
+    "sections": [
+      {
+        "heading": "Kus piknikku teha",
+        "content": "Kasuta avatud alasid parkla ja vaatepunkti lähedal, mitte habras jõekaldse servade lähedal. Suvel teeb pikk päevavalgus varase õhtupikniku eriti meeldivaks."
+      },
+      {
+        "heading": "Mida kaasa võtta",
+        "content": "Paki toit, vesi, vaip ja prügikott. Kohapeal on hooajaline kohvik ja tualett, kuid iseseisvus on parim – eriti väljaspool tipptippi."
+      },
+      {
+        "heading": "Jälgi jätma",
+        "content": "Eesti igaüheõigus eeldab külastajatelt kogu prügi äraviimist, tule tegemist ainult ettenähtud kohtades ja taimede ning looduse kaitstmist. Vaata meie teenuste juhendit kohapealsete teenuste kohta."
+      }
+    ],
+    "faq": {
+      "title": "Piknikud – KKK",
+      "items": [
+        {
+          "question": "Kas saame piknikku teha?",
+          "answer": "Jah – vaatepunkti lähedal olev avatud maa sobib; väldi piireta jõekaldseid servasid."
+        },
+        {
+          "question": "Kas on laudu või pingi?",
+          "answer": "Fikseeritud piknikumööbel on piiratud; võta kaasa vaip. Kinnita kohapealseid teenuseid vallalt."
+        },
+        {
+          "question": "Kas võib tuld teha?",
+          "answer": "Ainult ettenähtud tulekohtades, kui neid on; muidu kasuta kaasaskantavat pliiti vastutustundlikult ja jäta see mitte järelevalveta."
+        },
+        {
+          "question": "Kas alkohol on lubatud?",
+          "answer": "Vastutustundlik isiklik tarbimine on üldiselt lubatud, kuid avalik joobumus ja prügimine ei ole – austa teisi külastajaid ja kohta."
+        }
+      ]
+    },
+    "relatedTitle": "Seotud teejuhised",
+    "related": [
+      "/with-kids",
+      "/facilities",
+      "/safety",
+      "/best-time-to-visit"
+    ],
+    "sourcesTitle": "Allikad ja kontrollimine",
+    "sources": [
+      {
+        "name": "Visit Estonia",
+        "url": "https://visitestonia.com/et/jagala-joa"
+      },
+      {
+        "name": "Visit Harju",
+        "url": "https://visitharju.ee"
+      },
+      {
+        "name": "Peatus — Eesti marsruutide planeerija",
+        "url": "https://peatus.ee/?locale=et"
+      }
+    ],
+    "verifiedNote": "Sisu viimati kontrollitud ülaltoodud ametlike turismiallikate põhjal 23. oktoobril 2026. Kohapealsed teenused ja sõidugraafikud muutuvad — palun kinnita enne reisi ja teavita vigadest jaluse kontaktilinkide kaudu."
+  },
+  "hikingTrails": {
+    "title": "Matkarajad Jägala joal",
+    "intro": "Jägala joale jõuab lühikese, märgistatud jalutuskäiguga parklast ja see ühendub pikemate metsaradadega piki Jägala jõge. Siin on, kuidas planeerida eri pikkusega matku.",
+    "sections": [
+      {
+        "heading": "Põhiline vaatepunkt matk",
+        "content": "Parklast viib lühike märgistatud rada peamise vaateplatvormini joa kohal – lame ja sobib enamikule külastajatele. Arvesta mõni minut kumbagi poole."
+      },
+      {
+        "heading": "Pikemad metsarajad",
+        "content": "Vaatepunkti taga järgivad looduslikud rajad jõge ja metsa. Need on märgistamata või kergelt märgistatud, ebaühtlased ja pärast ilma porised – korralikud jalanõud ja kaart aitavad. Hoia radadel, et kaitsta reservaati."
+      },
+      {
+        "heading": "Matkade ühendamine",
+        "content": "Võid ühendada Jägala matka lähedaste loodusradaadega (nagu Lahemaal) täis päevaks. Marsruudi jaoks vaata meie ühisretke juhendeid."
+      }
+    ],
+    "faq": {
+      "title": "Rajad – KKK",
+      "items": [
+        {
+          "question": "Kui pikk on jalutuskäik parklast?",
+          "answer": "Mõni minut lame matk märgistatud teel peamise vaatepunktini."
+        },
+        {
+          "question": "Kas rajad on märgistatud?",
+          "answer": "Vaatepunkti rada on märgistatud; pikemad metsarajad on karmimad ja vähem formaalselt märgistatud – võta kaart kaasa."
+        },
+        {
+          "question": "Kui rasked need on?",
+          "answer": "Vaatepunkti matk on kerge; pikendatud rajad on mõõdukad ja võivad olla porised või libedad."
+        },
+        {
+          "question": "Kas saan teistele vaatamisväärsustele jalutada?",
+          "answer": "Jah – jõgi ja mets ühenduvad laiemate radadega; planeeri ette ja kontrolli ligipääsu."
+        }
+      ]
+    },
+    "relatedTitle": "Seotud teejuhised",
+    "related": [
+      "/with-viru-bog",
+      "/with-dogs",
+      "/jagala-river",
+      "/best-time-to-visit"
+    ],
+    "sourcesTitle": "Allikad ja kontrollimine",
+    "sources": [
+      {
+        "name": "Visit Estonia",
+        "url": "https://visitestonia.com/et/jagala-joa"
+      },
+      {
+        "name": "Visit Harju",
+        "url": "https://visitharju.ee"
+      },
+      {
+        "name": "Peatus — Eesti marsruutide planeerija",
+        "url": "https://peatus.ee/?locale=et"
+      }
+    ],
+    "verifiedNote": "Sisu viimati kontrollitud ülaltoodud ametlike turismiallikate põhjal 23. oktoobril 2026. Kohapealsed teenused ja sõidugraafikud muutuvad — palun kinnita enne reisi ja teavita vigadest jaluse kontaktilinkide kaudu."
+  },
+  "cycling": {
+    "title": "Jalgrattaga Jägala joale",
+    "intro": "Jägala juga on populaarne rattasihtkoht Tallinnast vaikseil maanteedel. Enamasti lame marsruut E20 koridori kaudu sobib spordi- ja tuuriratastele, joaga kui tasuv pöördepunkt.",
+    "sections": [
+      {
+        "heading": "Marsruut",
+        "content": "Tallinnast järgi vaikseid teid ida poole paralleelselt E20-ga Jägala-Joale, seejärel märgistatud lähenemine joale. Maastik on õrnalt künklik, mitte järske, sobiv enesekindlale ratturile."
+      },
+      {
+        "heading": "Praktilisused",
+        "content": "Võta kaasa vesi, remontkomplekt ja telefon kaartideks. Rattad jäetakse parklasse; kohapeal rataste renti ei ole, seega too oma või renti Tallinnas."
+      },
+      {
+        "heading": "Pikema sõidu ühendamine",
+        "content": "Jägala piirkond ühendub pikemate Harju maakonna silmustega ja planeeringuga Lahemaa kergemate teede poole. Kontrolli marsruute ja pinnast enne pikka sõitu."
+      }
+    ],
+    "faq": {
+      "title": "Jalgratas – KKK",
+      "items": [
+        {
+          "question": "Kas marsruut Tallinnast on lame?",
+          "answer": "Enamasti õrnalt künklik, mitte järske; enesekindel rattur saab selle mugavalt."
+        },
+        {
+          "question": "Kui kaugel on sõit?",
+          "answer": "Umbes **25–30 km** igas suunas Tallinna kesklinnast vaikseid teid pidi."
+        },
+        {
+          "question": "Kas on rattaparklat?",
+          "answer": "Lukusta rattad parklas; kohapeal pole personaliga rataste hoidlast."
+        },
+        {
+          "question": "Kas saan seal ratast rentida?",
+          "answer": "Kohapeal renti ei ole – too oma või renti Tallinnas enne teele asumist."
+        }
+      ]
+    },
+    "relatedTitle": "Seotud teejuhised",
+    "related": [
+      "/from-tallinn",
+      "/hiking-trails",
+      "/with-dogs",
+      "/best-time-to-visit"
+    ],
+    "sourcesTitle": "Allikad ja kontrollimine",
+    "sources": [
+      {
+        "name": "Visit Estonia",
+        "url": "https://visitestonia.com/et/jagala-joa"
+      },
+      {
+        "name": "Visit Harju",
+        "url": "https://visitharju.ee"
+      },
+      {
+        "name": "Peatus — Eesti marsruutide planeerija",
+        "url": "https://peatus.ee/?locale=et"
+      }
+    ],
+    "verifiedNote": "Sisu viimati kontrollitud ülaltoodud ametlike turismiallikate põhjal 23. oktoobril 2026. Kohapealsed teenused ja sõidugraafikud muutuvad — palun kinnita enne reisi ja teavita vigadest jaluse kontaktilinkide kaudu."
+  },
+  "campingNearby": {
+    "title": "Telkimine ja ööbimine Jägala joa lähedal",
+    "intro": "Ööbimine telgis ei ole lubatud kaitstud Jägala maastikul iseenesest, kuid mitu telkimis- ja kajutakohta asub lühikese sõidu kaugusel. Siin on, kuidas planneerida ööpeatus joa ümber.",
+    "sections": [
+      {
+        "heading": "Joal",
+        "content": "Parkla ja kaitseala on päevaseks külastuseks. Ööbimine, kamperite ja lõkke piiramine on kaitsealal keelatud – järgi märgistusi ja Eesti igaüheõiguse reegleid."
+      },
+      {
+        "heading": "Lähedal olevad telkimiskohad",
+        "content": "Kommerslikud telkimis- ja kajutakohad asuvad lühikese sõidu kaugusel, sealhulgas valikud ranniku ja Lahemaa poole. Broneeri ette suvel, sest kohad täituvad kiiresti."
+      },
+      {
+        "heading": "Metsatelkimine",
+        "content": "Tasuta metsatelkimine on seaduse ja eramaa austamise tõttu piiratud; kasuta võimalusel määratud kohti ja jäta jälgi."
+      }
+    ],
+    "faq": {
+      "title": "Telkimine – KKK",
+      "items": [
+        {
+          "question": "Kas joal võib telkida?",
+          "answer": "Ei – ööbimine telgis ja kamperid on kaitsealal piiratud."
+        },
+        {
+          "question": "Kus lähedal võin telkida?",
+          "answer": "Kasuta lühikese sõidu kaugusel olevaid kommerslikke telkimis- ja kajutakohti; broneeri tipptipphooajal ette."
+        },
+        {
+          "question": "Kas metsatelkimine on lubatud?",
+          "answer": "See on piiratud; eelista määratud kohti ja järgi alati jälgi jätma tava."
+        },
+        {
+          "question": "Kas võin autos magada?",
+          "answer": "Mitte kaitsealal; kasuta telkimisala või mujal määratud ööbimisparklat."
+        }
+      ]
+    },
+    "relatedTitle": "Seotud teejuhised",
+    "related": [
+      "/where-to-stay",
+      "/picnicking",
+      "/with-lahemaa",
+      "/safety"
+    ],
+    "sourcesTitle": "Allikad ja kontrollimine",
+    "sources": [
+      {
+        "name": "Visit Estonia",
+        "url": "https://visitestonia.com/et/jagala-joa"
+      },
+      {
+        "name": "Visit Harju",
+        "url": "https://visitharju.ee"
+      },
+      {
+        "name": "Peatus — Eesti marsruutide planeerija",
+        "url": "https://peatus.ee/?locale=et"
+      }
+    ],
+    "verifiedNote": "Sisu viimati kontrollitud ülaltoodud ametlike turismiallikate põhjal 23. oktoobril 2026. Kohapealsed teenused ja sõidugraafikud muutuvad — palun kinnita enne reisi ja teavita vigadest jaluse kontaktilinkide kaudu."
+  },
+  "heightFacts": {
+    "title": "Jägala juga – faktid ja arvud",
+    "intro": "Jägala juga on Eesti laiem looduslik juga. Kuigi täpsed mõõtmised muutuvad hooaja ja voolu järgi, on tavalised numbrid u 8 meetrit kõrge ja üle 50 meetri lai.",
+    "sections": [
+      {
+        "heading": "Peamised numbrid",
+        "content": "Joad langevad u **8 m** Balti klindi üle ja harjalaius on tavalise vooluga **üle 50 m** – muutes selle riigi laiaimaks looduslikuks joaks. Laius varieerub veetasemega."
+      },
+      {
+        "heading": "Jõgi",
+        "content": "Jägala jõgi on Põhja-Eesti suuremaid jõgesid; joa juures ületab see Balti klindi lubjakivi serva, mis just langemist loob."
+      },
+      {
+        "heading": "Võrdlus",
+        "content": "Eestis on kõrgemai ja kaugemaid jogusid, kuid harva ühendavad Jägala laiust, lihtsat ligipääsu ja aastaringset voolu. Võrdluseks vaata meie juhendeid Keila ja teiste lähedaljugade kohta."
+      }
+    ],
+    "faq": {
+      "title": "Faktid – KKK",
+      "items": [
+        {
+          "question": "Kui kõrge on Jägala juga?",
+          "answer": "Umbes **8 meetrit** kõrge astangul."
+        },
+        {
+          "question": "Kui lai see on?",
+          "answer": "Üle **50 meetri** tavalise vooluga; see on Eesti laiem looduslik juga."
+        },
+        {
+          "question": "Miks laius muutub?",
+          "answer": "Harjalaius tõuseb kõrge veega (kevadine lume sulam, paduvihm) ja kitseneb kuival perioodil – see ei ole fikseeritud number."
+        },
+        {
+          "question": "Kas see on Eesti suurim juga?",
+          "answer": "See on laiem looduslik ja üks ligipääsetavamaid; mõni juga on kõrgem või kaugemal."
+        }
+      ]
+    },
+    "relatedTitle": "Seotud teejuhised",
+    "related": [
+      "/geology",
+      "/jagala-river",
+      "/water-levels",
+      "/jagala-vs-keila"
+    ],
+    "sourcesTitle": "Allikad ja kontrollimine",
+    "sources": [
+      {
+        "name": "Visit Estonia",
+        "url": "https://visitestonia.com/et/jagala-joa"
+      },
+      {
+        "name": "Visit Harju",
+        "url": "https://visitharju.ee"
+      },
+      {
+        "name": "Peatus — Eesti marsruutide planeerija",
+        "url": "https://peatus.ee/?locale=et"
+      },
+      {
+        "name": "Eesti Wikipedia: Jägala juga",
+        "url": "https://et.wikipedia.org/wiki/J%C3%A4gala_juga"
+      }
+    ],
+    "verifiedNote": "Sisu viimati kontrollitud ülaltoodud ametlike turismiallikate põhjal 23. oktoobril 2026. Kohapealsed teenused ja sõidugraafikud muutuvad — palun kinnita enne reisi ja teavita vigadest jaluse kontaktilinkide kaudu."
+  },
+  "history": {
+    "title": "Jägala joa ajalugu",
+    "intro": "Jägala juga on olnud sajandeid tuntud maamärk Jägala jõel, kujundatud samade lubjakivi astangu poolt, mis määrab Eesti põharranniku. Selle inimlugu on tagasihoidlik, kuid seotud kohaliku mõisa ja veski ajalooga.",
+    "sections": [
+      {
+        "heading": "Looduslik maamärk",
+        "content": "Joad asuvad, kus Jägala jõgi ületab Balti klindi, mis kujunes geoloogiliste ajavahemike jooksul. Palju enne turismi oli koht Jägala-Joa töötava jõemaastiku osa."
+      },
+      {
+        "heading": "Mõisa ja veski ajastu",
+        "content": "Jägala-Joa piirkond arenes mõisa ja veskiga, mis kasutas jõe energiat. Väldime täpsete kuupäevadega anekdooride kordamist, mida ei saa kontrollida; lai ülevaade on töötavast mõisast ja veskiasulast."
+      },
+      {
+        "heading": "Külastusobjektina",
+        "content": "20. sajandil sai juga tuntuks loodusliku vaatamisväärsusena ja tänapäeval on see tasuta, avatud ligipääsuga vaatepunkt kaitstud maastiku all. Lisalugemist vaata allikaid."
+      }
+    ],
+    "faq": {
+      "title": "Ajalugu – KKK",
+      "items": [
+        {
+          "question": "Kui vana on juga?",
+          "answer": "Astang ja jogi kujunesid geoloogiliste ajavahemike jooksul; nähtav langemine on jõe üleminek Balti klindi üle."
+        },
+        {
+          "question": "Kas seal oli veski?",
+          "answer": "Jah – Jägala-Joa piirkonnas oli mõis ja veski, mis kasutas jõge; jääme kontrollitud üldfaktide juurde, mitte kontrollimata lugude juurde."
+        },
+        {
+          "question": "Millal sellest turismiobjekt sai?",
+          "answer": "See sai 20. sajandil tuntuks loodusliku vaatamisväärsusena ja on nüüd tasuta avalik vaatepunkt."
+        },
+        {
+          "question": "Kust rohkem lugeda?",
+          "answer": "Vaata sellel lehel loetletud allikaid, sealhulgas entsüklopeedilisi viiteid."
+        }
+      ]
+    },
+    "relatedTitle": "Seotud teejuhised",
+    "related": [
+      "/geology",
+      "/jagala-river",
+      "/height-facts",
+      "/jagala-vs-keila"
+    ],
+    "sourcesTitle": "Allikad ja kontrollimine",
+    "sources": [
+      {
+        "name": "Visit Estonia",
+        "url": "https://visitestonia.com/et/jagala-joa"
+      },
+      {
+        "name": "Visit Harju",
+        "url": "https://visitharju.ee"
+      },
+      {
+        "name": "Peatus — Eesti marsruutide planeerija",
+        "url": "https://peatus.ee/?locale=et"
+      },
+      {
+        "name": "Eesti Wikipedia: Jägala juga",
+        "url": "https://et.wikipedia.org/wiki/J%C3%A4gala_juga"
+      }
+    ],
+    "verifiedNote": "Sisu viimati kontrollitud ülaltoodud ametlike turismiallikate põhjal 23. oktoobril 2026. Kohapealsed teenused ja sõidugraafikud muutuvad — palun kinnita enne reisi ja teavita vigadest jaluse kontaktilinkide kaudu."
+  },
+  "geology": {
+    "title": "Jägala joa geoloogia",
+    "intro": "Jägala juga eksisteerib seetõttu, et Jägala jõgi kohtub Balti klindiga – lubjakivi astanguga, mis ulatub piki Eesti põharrannikut. Joad on jõgi, mis kannab sisse lõhe selle astangu läbi.",
+    "sections": [
+      {
+        "heading": "Balti klint",
+        "content": "Balti klint on pikk lubjakivi astang, mis kujunes pärast viimast jääaega maa tõustes. Kus Jägala jõgi selle ületab, langeb vesi vastupidava kivi üle, luues joa."
+      },
+      {
+        "heading": "Miks see püsib",
+        "content": "Lubjakivi on kõva, seega astang kulub aeglaselt; jogi asub stabiilsel punktil astangul pigem kui taandub kiiresti. Lai harjal peegeldab jõe laiust üleminekukohas."
+      },
+      {
+        "heading": "Aja jooksul muutuv",
+        "content": "Hooajaline ja pikaajaline vool koos külmumis-sulamisega kujundavad kivi järk-järgult. Tulemuseks on lai, madal juga mitte kõrge, kitsas – Klindi jugadele omane."
+      }
+    ],
+    "faq": {
+      "title": "Geoloogia – KKK",
+      "items": [
+        {
+          "question": "Mis jogi põhjustab?",
+          "answer": "Jägala jõgi ületab Balti klindi, lubjakivi astangu, ja langeb vastupidava kivi üle."
+        },
+        {
+          "question": "Kas astang on lubjakivi?",
+          "answer": "Jah – Klint on põhiliselt lubjakivi, mistõttu astang on kõva ja kulub aeglaselt."
+        },
+        {
+          "question": "Miks see on lai, aga mitte kõrge?",
+          "answer": "Jõgi ületab astangu laia rindena ja vastupidine kivi hoiab langemise madal ja stabiilne."
+        },
+        {
+          "question": "Kas juga liigub?",
+          "answer": "Väga aeglaselt, geoloogilise aja jooksul; külmumine-sulamine ja vool kujundavad lõhet järk-järgult ümber."
+        }
+      ]
+    },
+    "relatedTitle": "Seotud teejuhised",
+    "related": [
+      "/height-facts",
+      "/jagala-river",
+      "/history",
+      "/water-levels"
+    ],
+    "sourcesTitle": "Allikad ja kontrollimine",
+    "sources": [
+      {
+        "name": "Visit Estonia",
+        "url": "https://visitestonia.com/et/jagala-joa"
+      },
+      {
+        "name": "Visit Harju",
+        "url": "https://visitharju.ee"
+      },
+      {
+        "name": "Peatus — Eesti marsruutide planeerija",
+        "url": "https://peatus.ee/?locale=et"
+      },
+      {
+        "name": "Eesti Wikipedia: Jägala juga",
+        "url": "https://et.wikipedia.org/wiki/J%C3%A4gala_juga"
+      }
+    ],
+    "verifiedNote": "Sisu viimati kontrollitud ülaltoodud ametlike turismiallikate põhjal 23. oktoobril 2026. Kohapealsed teenused ja sõidugraafikud muutuvad — palun kinnita enne reisi ja teavita vigadest jaluse kontaktilinkide kaudu."
+  },
+  "freeEntry": {
+    "title": "Kas Jägala joa külastamine on tasuta?",
+    "intro": "Jah – Jägala joa sisenemine on tasuta. Koht on avatud ligipääsuga vaatepunkt kaitstud maastikul, ilma piletikontorita ja pöördlukueta. Siin on, mida see praktikas tähendab.",
+    "sections": [
+      {
+        "heading": "Piletit ega broneeringut pole",
+        "content": "Saad tulla igal päeval, ööpäevaringselt, ilma midagi ostmata või kohta broneerimata. Ainult juhitud matkad ja kõik kaubanduslikud kohapealsed teenused (kohvik jne) võivad maksma minna."
+      },
+      {
+        "heading": "Mis võib maksta",
+        "content": "Parkimine on üldiselt tasuta, kuigi vähemus külavaldade bokse võib võtta väikese tasu. Hooajaline kohvik ja igasugune rent või giidituurid on tasulised. Kinnita kohapeal."
+      },
+      {
+        "heading": "Miks see tasuta jääb",
+        "content": "Loodusliku, kaitstud vaatepunktina hoitakse jogi üldsuse ligipääsuks. Vastutustundlik külastamine – prügi äraviimine ja reservaadi austamine – hoiab selle nii."
+      }
+    ],
+    "faq": {
+      "title": "Tasuta sisenemine – KKK",
+      "items": [
+        {
+          "question": "Kas pilet on vajalik?",
+          "answer": "Ei – sisenemine on tasuta ja avatud ligipääs; lihtsalt tule."
+        },
+        {
+          "question": "Kas on avatud ajad?",
+          "answer": "Vaatepunkt on ööpäevaringselt avatud ligipääs aastaringselt; ainult personaliga teenustel on kindlad ajad."
+        },
+        {
+          "question": "Kas parkimine on tasuta?",
+          "answer": "Üldiselt jah; jälgi väikest külaboksi tasu ja loe märgistust."
+        },
+        {
+          "question": "Mille eest tasub maksta?",
+          "answer": "Juhitud matk, kohvik või lähedalised tuurid – jogi ise on tasuta vaatamiseks."
+        }
+      ]
+    },
+    "relatedTitle": "Seotud teejuhised",
+    "related": [
+      "/tickets-opening-hours",
+      "/parking",
+      "/facilities",
+      "/safety"
+    ],
+    "sourcesTitle": "Allikad ja kontrollimine",
+    "sources": [
+      {
+        "name": "Visit Estonia",
+        "url": "https://visitestonia.com/et/jagala-joa"
+      },
+      {
+        "name": "Visit Harju",
+        "url": "https://visitharju.ee"
+      },
+      {
+        "name": "Peatus — Eesti marsruutide planeerija",
+        "url": "https://peatus.ee/?locale=et"
+      }
+    ],
+    "verifiedNote": "Sisu viimati kontrollitud ülaltoodud ametlike turismiallikate põhjal 23. oktoobril 2026. Kohapealsed teenused ja sõidugraafikud muutuvad — palun kinnita enne reisi ja teavita vigadest jaluse kontaktilinkide kaudu."
+  },
+  "restaurantsNearby": {
+    "title": "Restoranid ja kohvikud Jägala joa lähedal",
+    "intro": "Söömine otse Jägalal on piiratud hooajalise kohapealse kohvikuga, kuid mitu kohvikut ja restorani asub lühikese sõidu kaugusel – kasulik teada poolpäevase reisi planeerimisel.",
+    "sections": [
+      {
+        "heading": "Kohapeal",
+        "content": "Soojemal hooajal on joal nimekiri kohvik, pakkudes kergeid toite ja jooke. See on hooajaline ja võib tipptipphooajal olla rahvarohke, seega ära loe selle peale väljaspool hooaega."
+      },
+      {
+        "heading": "Lühikese sõidu kaugusel",
+        "content": "Külad ja Tallinna lähenemine pakuvad kohvikuida, pagariärisid ja mõnda restorani. Täisöö söömiseks on linna lai valik vaid u 30 min lääne pool."
+      },
+      {
+        "heading": "Planeerimisnõuanded",
+        "content": "Kui tahad kindlat einet, söö Tallinnas enne või pärast, või kontrolli lähedalvate kohtade lahtiolekuaegu ette. Võta olenemata jalutuseks vesi ja snäkk."
+      }
+    ],
+    "faq": {
+      "title": "Toit – KKK",
+      "items": [
+        {
+          "question": "Kas joal on toitu?",
+          "answer": "Hooajaline kohapealne kohvik on nimekirjas; see ei ole avatud aastaringselt, seega planeeri selle ümber."
+        },
+        {
+          "question": "Kus on lähim restoran?",
+          "answer": "Kohvikud ja mõni restoran on lühikese sõidu kaugusel; täielik valik on Tallinnas, u 30 min lääne pool."
+        },
+        {
+          "question": "Kas ma peaksin broneerima?",
+          "answer": "Lähedalvad väikesed kohad harva vajavad broneeringut; Tallinna restoranid võivad tipptipphooajal."
+        },
+        {
+          "question": "Kas võin oma toitu tuua?",
+          "answer": "Jah – piknik on teretulnud; vaata meie pikniku juhendit ja jäta jälgi."
+        }
+      ]
+    },
+    "relatedTitle": "Seotud teejuhised",
+    "related": [
+      "/facilities",
+      "/where-to-stay",
+      "/with-kids",
+      "/from-tallinn"
+    ],
+    "sourcesTitle": "Allikad ja kontrollimine",
+    "sources": [
+      {
+        "name": "Visit Estonia",
+        "url": "https://visitestonia.com/et/jagala-joa"
+      },
+      {
+        "name": "Visit Harju",
+        "url": "https://visitharju.ee"
+      },
+      {
+        "name": "Peatus — Eesti marsruutide planeerija",
+        "url": "https://peatus.ee/?locale=et"
+      }
+    ],
+    "verifiedNote": "Sisu viimati kontrollitud ülaltoodud ametlike turismiallikate põhjal 23. oktoobril 2026. Kohapealsed teenused ja sõidugraafikud muutuvad — palun kinnita enne reisi ja teavita vigadest jaluse kontaktilinkide kaudu."
+  },
+  "whereToStay": {
+    "title": "Kus Jägala joa lähedal ööbida",
+    "intro": "Enamik külastajaid näeb Jägalat Tallinnast päevareisina, kuid kui tahad ööbida, on hotelle, kajutaid ja telkimiskohti ligipääsetavas kauguses. Siin on realistlikud valikud.",
+    "sections": [
+      {
+        "heading": "Baas Tallinnas",
+        "content": "Lihtsaim plaan on ööbida Tallinnas (u 30 min lääne pool) ja külastada jogi poolpäevareisina. Saad linna hotellid, transpordi ja toitlustuse oma lävel."
+      },
+      {
+        "heading": "Maakohad ja B&B-d",
+        "content": "Ruraalsed kajutad, külalistemajad ja B&B-d asuvad Jägala-Joa ümbruse külades ja Lahemaa poole. Need sobivad reisijatele, kes tahavad vaikseid öid ja varajast algust joal."
+      },
+      {
+        "heading": "Telkimiskohad",
+        "content": "Määratud telkimiskohad on lühikese sõidu kaugusel telkide ja kamperite jaoks; broneeri suvel ette. Ööbimine kaitstud joa alal ise ei ole lubatud."
+      }
+    ],
+    "faq": {
+      "title": "Kus ööbida – KKK",
+      "items": [
+        {
+          "question": "Kas ma peaksin joa lähedal ööbima?",
+          "answer": "Ainult siis, kui tahad vaikseid maapiirkondi; enamik külastajaid baasib Tallinnas ja teeb poolpäevareisi."
+        },
+        {
+          "question": "Kas joal on hotelle?",
+          "answer": "Mitte kohapeal ise – kasuta Tallinna või lähedalvate maakohti ja B&B-sid."
+        },
+        {
+          "question": "Kas joal võib telkida?",
+          "answer": "Ei – kasuta lühikese sõidu kaugusel olevaid määratud telkimiskohti; kaitseala on ainult päevane."
+        },
+        {
+          "question": "Kui varakult saan saabuda?",
+          "answer": "Vaatepunkt on ööpäevaringselt avatud ligipääs, seega varane algus lähedalasest ööbimiskohast on lihtne."
+        }
+      ]
+    },
+    "relatedTitle": "Seotud teejuhised",
+    "related": [
+      "/camping-nearby",
+      "/with-lahemaa",
+      "/restaurants-nearby",
+      "/from-tallinn"
+    ],
+    "sourcesTitle": "Allikad ja kontrollimine",
+    "sources": [
+      {
+        "name": "Visit Estonia",
+        "url": "https://visitestonia.com/et/jagala-joa"
+      },
+      {
+        "name": "Visit Harju",
+        "url": "https://visitharju.ee"
+      },
+      {
+        "name": "Peatus — Eesti marsruutide planeerija",
+        "url": "https://peatus.ee/?locale=et"
+      }
+    ],
+    "verifiedNote": "Sisu viimati kontrollitud ülaltoodud ametlike turismiallikate põhjal 23. oktoobril 2026. Kohapealsed teenused ja sõidugraafikud muutuvad — palun kinnita enne reisi ja teavita vigadest jaluse kontaktilinkide kaudu."
+  },
+  "bestViewpoints": {
+    "title": "Parimad vaatepunktid Jägala joal",
+    "intro": "Jägala joal on peamine vaateplatvorm astangu kohal ja mitu looduslikku vaatamisnurka jõe ääres. Teades, kus seisda, saab külastusest parima iga hooajal.",
+    "sections": [
+      {
+        "heading": "Peamine platvorm",
+        "content": "Märgistatud vaateplatvorm joa kohal on klassikaline, kõige ohutum vaatepunkt – lühike, lame jalutuskäik parklast. See raamib astangu täislaiuse ja alloleva tiigi."
+      },
+      {
+        "heading": "Jõekaldse nurga alt",
+        "content": "Kaldalt leiad madalamad nurga langemise ja kuristiku ümbervaatamiseks. Need on mitteametlikud, piireta kohad – hoia turvalist vahemaad servast ja jälgi jalgealust."
+      },
+      {
+        "heading": "Hooajalised valikud",
+        "content": "Talvel on jäämoodustused parimad platvormilt ja ülemisest kaldast; kevadel kõrge vooluga annab alumine jõekallas dramaatilised pritsmepildid. Vaata meie fotograafia ja hooajalisi juhendeid."
+      }
+    ],
+    "faq": {
+      "title": "Vaatepunktid – KKK",
+      "items": [
+        {
+          "question": "Mis on parim vaatepunkt?",
+          "answer": "Peamine märgistatud platvorm joa kohal – ohutu, lihtne ja raamib terve astangu."
+        },
+        {
+          "question": "Kas saan alla joa jalge juurde?",
+          "answer": "Joa jalge ei ole turvalist, hooldatud teed; jää märgistatud radadele ja platvormile."
+        },
+        {
+          "question": "Kust fotografeerida?",
+          "answer": "Platvormilt laia vaate jaoks; ülemisest kaldast talvise jää jaoks; alumisest jõekaldast (ettevaatlikult) pritsmete jaoks kõrgel veel."
+        },
+        {
+          "question": "Kas uurimine on ohutu?",
+          "answer": "Enamasti jah radadel; piireta servad on oht – jälgi lapsi ja hoia langemi eest tagasi."
+        }
+      ]
+    },
+    "relatedTitle": "Seotud teejuhised",
+    "related": [
+      "/photography",
+      "/best-time-to-visit",
+      "/safety",
+      "/winter"
+    ],
+    "sourcesTitle": "Allikad ja kontrollimine",
+    "sources": [
+      {
+        "name": "Visit Estonia",
+        "url": "https://visitestonia.com/et/jagala-joa"
+      },
+      {
+        "name": "Visit Harju",
+        "url": "https://visitharju.ee"
+      },
+      {
+        "name": "Peatus — Eesti marsruutide planeerija",
+        "url": "https://peatus.ee/?locale=et"
+      }
+    ],
+    "verifiedNote": "Sisu viimati kontrollitud ülaltoodud ametlike turismiallikate põhjal 23. oktoobril 2026. Kohapealsed teenused ja sõidugraafikud muutuvad — palun kinnita enne reisi ja teavita vigadest jaluse kontaktilinkide kaudu."
+  },
   "topicLinks": {
     "title": "Planeeri oma külastus",
     "subtitle": "Praktilised teejuhised sinna jõudmiseks, aastaaegade, fotograafia ja lähedalasuvate vaatamisväärtuste kohta.",
@@ -1665,6 +3227,61 @@
         "title": "Joad Tallinna lähedal",
         "desc": "Jägala, Keila ja Valaste võrreldud.",
         "href": "/waterfalls-near-tallinn"
+      },
+      {
+        "title": "Lennujaamast",
+        "desc": "Takso, ümberistumine või autorent TLL-st.",
+        "href": "/from-airport"
+      },
+      {
+        "title": "Kevad",
+        "desc": "Lume sulam, kõrge vesi ja haljenevad kaldad.",
+        "href": "/spring"
+      },
+      {
+        "title": "Suvi",
+        "desc": "Pikad päevad, roheline kuristik ja perereisid.",
+        "href": "/summer"
+      },
+      {
+        "title": "Sügis",
+        "desc": "Värvid, madalam vesi ja rahulikud rajad.",
+        "href": "/autumn"
+      },
+      {
+        "title": "Koos Lahemaaga",
+        "desc": "Ühenda juga Eesti suurima pargiga.",
+        "href": "/with-lahemaa"
+      },
+      {
+        "title": "Koos Tallinnaga",
+        "desc": "Ühenda juga vanalinnaga.",
+        "href": "/with-tallinn"
+      },
+      {
+        "title": "Jugatee",
+        "desc": "Sõiduring Põhja-Eesti jogadele.",
+        "href": "/waterfall-route"
+      },
+      {
+        "title": "Lastega",
+        "desc": "Lihtsad rajad, platvormid ja piknikud.",
+        "href": "/with-kids"
+      },
+      {
+        "title": "Kus süüa",
+        "desc": "Kohvikud ja restoranid lähedal.",
+        "href": "/restaurants-nearby"
+      },
+      {
+        "title": "Kus ööbida",
+        "desc": "Hotellid, kajutad ja laagrid lähedal.",
+        "href": "/where-to-stay"
+      },
+      {
+        "title": "Parimad vaated",
+        "desc": "Platvormid ja nurga joa jaoks.",
+        "href": "/best-viewpoints"
       }
     ]
   }

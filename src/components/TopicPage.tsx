@@ -24,7 +24,32 @@ export type TopicKey =
   | 'jagalaRiver'
   | 'halfDayTrip'
   | 'jagalaVsKeila'
-  | 'waterfallsNearTallinn';
+  | 'waterfallsNearTallinn'
+  | 'fromAirport'
+  | 'spring'
+  | 'summer'
+  | 'autumn'
+  | 'withLahemaa'
+  | 'withTallinn'
+  | 'waterfallRoute'
+  | 'withViruBog'
+  | 'withKids'
+  | 'withDogs'
+  | 'accessibility'
+  | 'schoolTrip'
+  | 'swimming'
+  | 'kayaking'
+  | 'picnicking'
+  | 'hikingTrails'
+  | 'cycling'
+  | 'campingNearby'
+  | 'heightFacts'
+  | 'history'
+  | 'geology'
+  | 'freeEntry'
+  | 'restaurantsNearby'
+  | 'whereToStay'
+  | 'bestViewpoints';
 
 const TOPIC_MAP: { slug: string; ns: TopicKey }[] = [
   { slug: '/from-tallinn', ns: 'fromTallinn' },
@@ -42,6 +67,31 @@ const TOPIC_MAP: { slug: string; ns: TopicKey }[] = [
   { slug: '/half-day-trip', ns: 'halfDayTrip' },
   { slug: '/jagala-vs-keila', ns: 'jagalaVsKeila' },
   { slug: '/waterfalls-near-tallinn', ns: 'waterfallsNearTallinn' },
+  { slug: '/from-airport', ns: 'fromAirport' },
+  { slug: '/spring', ns: 'spring' },
+  { slug: '/summer', ns: 'summer' },
+  { slug: '/autumn', ns: 'autumn' },
+  { slug: '/with-lahemaa', ns: 'withLahemaa' },
+  { slug: '/with-tallinn', ns: 'withTallinn' },
+  { slug: '/waterfall-route', ns: 'waterfallRoute' },
+  { slug: '/with-viru-bog', ns: 'withViruBog' },
+  { slug: '/with-kids', ns: 'withKids' },
+  { slug: '/with-dogs', ns: 'withDogs' },
+  { slug: '/accessibility', ns: 'accessibility' },
+  { slug: '/school-trip', ns: 'schoolTrip' },
+  { slug: '/swimming', ns: 'swimming' },
+  { slug: '/kayaking', ns: 'kayaking' },
+  { slug: '/picnicking', ns: 'picnicking' },
+  { slug: '/hiking-trails', ns: 'hikingTrails' },
+  { slug: '/cycling', ns: 'cycling' },
+  { slug: '/camping-nearby', ns: 'campingNearby' },
+  { slug: '/height-facts', ns: 'heightFacts' },
+  { slug: '/history', ns: 'history' },
+  { slug: '/geology', ns: 'geology' },
+  { slug: '/free-entry', ns: 'freeEntry' },
+  { slug: '/restaurants-nearby', ns: 'restaurantsNearby' },
+  { slug: '/where-to-stay', ns: 'whereToStay' },
+  { slug: '/best-viewpoints', ns: 'bestViewpoints' },
 ];
 
 type SourceLink = { name: string; url: string };

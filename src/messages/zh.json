@@ -57,7 +57,7 @@
         },
         {
           "icon": "🚌",
-          "text": "**巴士：** 塔林—纳尔瓦 / 塔林—Jõgeva 线路的城际客车在 Jägala-Joa 停靠；出发前请在 peatus.ee 查询实时班次。"
+          "text": "**巴士：** 在 Peatus.ee 输入出发地、Jägala 瀑布及出行日期，核对上下车站、换乘、最后步行段与返程；不要只凭同名村庄或线路方向选车。"
         },
         {
           "icon": "🆓",
@@ -166,17 +166,17 @@
       {
         "icon": "🅿️",
         "title": "免费停车",
-        "text": "Visit Harju 列有景点处的免费停车场，位于 Kubja tee 旁。步行方向与入口见\"停车\"指南。"
+        "text": "Visit Harju 的景点页面列有免费停车；具体入口、车位与临时调整请向 Jõelähtme 乡政府确认，并遵守现场标识。"
       },
       {
         "icon": "🚻",
         "title": "厕所",
-        "text": "Visit Harju 列有景点处一间简易旱厕。设施简陋，季节性单位冬季可能上锁——到达时请确认，不要依赖其接待大团队。"
+        "text": "Visit Harju 的景点页面列有旱厕；这不保证到访当天开放，也不说明无障碍条件。若厕所对行程关键，请先向 Jõelähtme 乡政府确认。"
       },
       {
         "icon": "🍽️",
         "title": "餐饮",
-        "text": "瀑布**没有咖啡馆、小卖部或餐厅**。自备饮水与零食；最近的商店与服务在 Jägala-Joa 村及 E20 走廊沿线。"
+        "text": "Jõelähtme 乡政府 2026 年 11 月 4 日的信息提及南岸咖啡自动售货机继续设置。实际运行请现场确认，不应据此推断设有咖啡馆或正餐服务；自备饮水与零食。"
       },
       {
         "icon": "♻️",
@@ -223,11 +223,11 @@
   "transport": {
     "title": "交通方式",
     "fromTallinn": "从塔林出发",
-    "fromTallinnDesc": "Jägala 瀑布位于塔林市中心以东约 25–30 公里。自驾请沿 E20（塔林—纳尔瓦）行驶，在 Jägala-Joa 指示牌处转弯；免费停车场距瀑布不远。公共交通方面，塔林—纳尔瓦与塔林—Jõgeva 线路的城际客车在 **Jägala-Joa** 停靠；从站台沿标识步道朝河边走即到观景点。依赖巴士前，请务必在 peatus.ee 查询实时时刻。",
+    "fromTallinnDesc": "Jägala 瀑布位于塔林以东，可按导航驾车前往。公共交通请在 Peatus.ee 按实际日期查完整行程，核对具体上下车站和最后步行段。不要假定所有开往纳尔瓦或 Jõgeva 的车都会停靠合适站点。",
     "fromAirport": "从塔林机场出发",
     "fromAirportDesc": "从塔林机场租车或打车，沿E20高速公路东行约20公里，车程约25分钟，交通便捷。",
     "publicTransport": "公共交通",
-    "publicTransportDesc": "城际客车在塔林—纳尔瓦 / 塔林—Jõgeva 走廊于 Jägala-Joa 停靠。服务**工作日较密集**，周末与节假日则稀疏——确切时间会变动，请就你的实际出行日期在 peatus.ee 查询。从站台沿标识步道步行数分钟即到瀑布；若带儿童、行李或行动不便，请预留更多时间。",
+    "publicTransportDesc": "使用 Peatus.ee 按具体日期查询往返行程。确认上车点、下车点、换乘和末班车，并查看下车后到瀑布的步行路线；不保证某条线路每天运营，也不把车站与瀑布入口视为同一地点。",
     "cycling": "骑行",
     "cyclingDesc": "从塔林骑行约25公里，沿途有清晰的骑行标识，适合喜欢户外运动的游客。",
     "driving": "自驾",
@@ -235,17 +235,17 @@
   },
   "route": {
     "title": "游览路线",
-    "overview": "建议从塔林出发驾车或乘坐巴士抵达，从停车场步行至瀑布观景台，沿河岸步道漫步欣赏瀑布全景，打卡最佳拍照机位，参观瀑布下方的侵蚀地貌，在指定区域休息野餐，最后沿步道返回停车场，全程轻松休闲，纯游览约2-3小时。",
+    "overview": "先核对交通和现场开放路线，再从允许进入的干燥岸上观景。根据当日路况和同行者能力决定步行范围，不进入浅滩、水潭或瀑布下方；遇湿滑、结冰或封闭路段及时返回。",
     "steps": [
-      "从塔林出发，驾车或乘坐巴士抵达贾加拉瀑布景区",
-      "在停车场停车，步行前往瀑布主观景台",
-      "在木质观景台欣赏瀑布全景，感受水雾弥漫的震撼",
-      "沿河岸左侧步道下行，近距离观察瀑布下方的侵蚀地貌",
-      "在河边浅滩区域停留，观察河谷地质结构和野生动植物",
-      "前往右侧高地观景点，拍摄瀑布全景和河谷风光",
-      "在指定野餐区域休息，享受自然时光",
+      "出发前核对天气、交通、返程和 Jõelähtme 乡政府的现场信息",
+      "按现场指示停车或从实际下车站点沿可通行路线前往",
+      "选择远离崖缘、水边的稳固干燥位置观景，不假设一定设有木平台",
+      "从岸上观察瀑布与地貌，不为近看岩层而下行至水潭",
+      "从干燥岸上观察河谷和野生动植物，不进入浅滩或让儿童戏水",
+      "仅在当天开放、适合自己能力的路径上继续，不跨越封闭标识",
+      "在允许停留且远离水边的位置休息，自备饮水，带走垃圾；用火规则向环境局确认",
       "沿步道漫步，欣赏四季不同的森林景观",
-      "在最佳拍照机位拍摄留念照片",
+      "从安全岸上用变焦取景，不为构图接近崖缘或冰瀑",
       "沿原路返回停车场，结束愉快的瀑布之旅"
     ]
   },
@@ -253,24 +253,24 @@
     "title": "拍照机位",
     "spots": [
       {
-        "name": "主观景台",
-        "desc": "正面拍摄瀑布全景的最佳位置，水幕倾泻而下，气势磅礴，适合广角拍摄"
+        "name": "安全岸上的广角构图",
+        "desc": "在远离崖缘与水边的稳固干燥位置拍摄，不假设必有固定平台。"
       },
       {
-        "name": "河边浅滩",
-        "desc": "以瀑布为背景，近距离拍摄，水雾弥漫，画面清新自然"
+        "name": "岸上的细节取景",
+        "desc": "使用变焦观察岩层和水流，不进入浅滩或湿滑河床。"
       },
       {
-        "name": "右侧高地",
-        "desc": "俯拍瀑布和河谷全景，层次丰富，适合全景拍摄"
+        "name": "开放路线上的全景",
+        "desc": "仅从已确认开放且适合自身能力的位置取景，不为角度翻越边缘。"
       },
       {
-        "name": "瀑布下方",
-        "desc": "仰拍瀑布，展现落差和力量感，构图震撼"
+        "name": "远观瀑布落差",
+        "desc": "用镜头构图表现落差，不下到水潭、瀑布底部或坠冰范围。"
       },
       {
-        "name": "河岸步道",
-        "desc": "以森林和河流为前景，瀑布为背景，画面层次丰富，适合人像拍摄"
+        "name": "森林与河流前景",
+        "desc": "从安全干燥的岸上利用树木构图，拍人像时同样保持远离水边。"
       }
     ]
   },
@@ -375,11 +375,11 @@
       },
       {
         "question": "轮椅或婴儿车能到达吗？",
-        "answer": "瀑布是**天然河谷地貌**，地面不平、有坡度和台阶，湿滑或结冰时更甚。我们无法保证无障碍通行，且路况随天气变化。若无障碍需求关键，出行前请联系 Jõelähtme 乡政府。"
+        "answer": "具体路线能否供轮椅或婴儿车通行，需要另行核实。请向 Jõelähtme 乡政府问清入口、坡度、台阶、路面及厕所条件；Eesti Puuetega Inimeste Koda 可提供一般无障碍咨询，但不等于对现场路线作出认证。"
       },
       {
         "question": "可以在瀑布游泳吗？",
-        "answer": "不建议。水潭冰冷、基部水流湍急、岩石湿滑，且现场无救生员。"
+        "answer": "作为安全建议，请不要在瀑布及其附近水潭游泳或涉水，也不要让儿童在浅水中玩耍。水流、湿滑岩石和落差都有风险；这不是已核实的全面法律禁令，具体限制请查看现场标识或咨询 Keskkonnaamet。"
       },
       {
         "question": "可以带狗吗？",
@@ -534,7 +534,7 @@
   },
   "fromTallinn": {
     "title": "从塔林前往贾加拉瀑布的交通方式",
-    "intro": "贾加拉瀑布位于塔林市中心以东约 25 公里，是从爱沙尼亚首都出发最轻松的半日自然行程之一。无论是自驾、乘巴士、骑行还是打车，沿 E20 高速公路的路线都十分清晰、标识完善。",
+    "intro": "贾加拉瀑布位于塔林以东，可考虑安排半日自然行程。交通与最后步行段须按实际出发地点、日期和个人行动能力规划，不应把观景点默认视为平坦或无障碍。",
     "sections": [
       {
         "heading": "自驾（最快、最灵活）",
@@ -542,7 +542,7 @@
       },
       {
         "heading": "公共交通",
-        "content": "塔林—纳尔瓦与塔林—Jõgeva 线路的城际客车在 **Jägala-Joa** 停靠。从那里沿标识步道步行数分钟即到瀑布。工作日班次较密；周末与节假日稀疏，请就实际日期在 peatus.ee 查询并规划返程。"
+        "content": "在 Peatus.ee 按出发地和实际日期查询完整往返方案，核对上下车站、换乘和最后步行段，不预设某条长途线路会停靠。"
       },
       {
         "heading": "出租车或网约车",
@@ -558,11 +558,11 @@
       "items": [
         {
           "question": "贾加拉瀑布离塔林有多远？",
-          "answer": "位于塔林市中心以东约 **25 公里** —— 沿 E20 高速公路车程 **30 分钟**，或在 Jägala-Joa 巴士站下车后步行 15–20 分钟。"
+          "answer": "瀑布位于塔林以东，距离与耗时取决于出发地和路线；自驾请查导航，公交请在 Peatus.ee 查看换乘及最后步行段。"
         },
         {
           "question": "塔林有直达巴士吗？",
-          "answer": "有。塔林—纳尔瓦 / 约格瓦方向的城际巴士在 **Jägala-Joa** 站停靠；下车后步行 15–20 分钟即到观景台。周末班次有限（每日 3–5 班往返），请通过 TLT.ee 或 Elron 核实时刻表。"
+          "answer": "请在 Peatus.ee 按实际出发地和日期查询，不预设有直达车。核对具体上下车站、换乘、最后步行段和返程。"
         },
         {
           "question": "从塔林打车多少钱？",
@@ -570,7 +570,7 @@
         },
         {
           "question": "不租车可以前往吗？",
-          "answer": "完全可以 —— 可乘坐城际巴士加短途步行、打车 / 网约车，或参加当地有组织的区域游览。进入景区本身无需预订。"
+          "answer": "可比较 Peatus.ee 的公共交通方案、出租车或已确认的当地游览服务。是否适合取决于日期、返程和步行条件。"
         },
         {
           "question": "我需要提前预订什么吗？",
@@ -598,17 +598,45 @@
       {
         "name": "Visit Harju",
         "url": "https://visitharju.ee"
+      },
+      {
+        "name": "Visit Harju — Jägala Waterfall（停车、旱厕、信息牌目录）",
+        "url": "https://visitharju.ee/en/jagala-waterfall/"
+      },
+      {
+        "name": "Jõelähtme 乡政府 — 现场路径与设施咨询",
+        "url": "https://www.joelahtme.ee/kontakt"
+      },
+      {
+        "name": "Keskkonnaamet — 自然保护与限制咨询",
+        "url": "https://keskkonnaamet.ee/keskkonnaamet-uudised-kontakt/uldkontaktid-meie-kontorid"
+      },
+      {
+        "name": "Peatus.ee — 按日期查询完整行程",
+        "url": "https://peatus.ee/"
+      },
+      {
+        "name": "Eesti Puuetega Inimeste Koda — 一般无障碍咨询",
+        "url": "https://epikoda.ee/"
+      },
+      {
+        "name": "Jõelähtme 乡政府 2026-11-04 信息（南岸咖啡自动售货机）",
+        "url": "https://www.joelahtme.ee/uudised/joelahtme-vallavalitsuse-infokiri-0810-03112026"
+      },
+      {
+        "name": "爱沙尼亚救援局（112）",
+        "url": "https://www.112.ee"
       }
     ],
-    "verifiedNote": "本页内容已于 2026 年 10 月 23 日对照上述官方旅游来源核实。当地设施、服务与交通时刻会变动——出行前请再次确认，并通过页脚的联系链接告诉我们任何错误。"
+    "verifiedNote": "资料与修订建议由 Visit Harju 的 Liis Kurm（Harju Ettevõtlus- ja Arenduskeskus；Harju-, Rapla-, Läänemaa DMO）于 2026-11-03 来信提供。编辑资料核对日期：2026-11-09；并非现场勘察日期，也不代表对全站内容的认可。具体路线、设施可用性及交通仍需按出行日期确认。"
   },
   "parking": {
     "title": "贾加拉瀑布停车指南 —— 免费停车场与实用贴士",
-    "intro": "贾加拉瀑布的停车通常免费且便利。景区附属地面停车场距离主观景台仅几步之遥，附近还有少量受管理的乡镇停车位。以下为注意事项与如何避免罚款。",
+    "intro": "Visit Harju 的景点页面列有免费停车。入口、容量与临时变化请向 Jõelähtme 乡政府确认；停车场至观景位置的路线不应默认平坦或无障碍。",
     "sections": [
       {
         "heading": "停在哪里",
-        "content": "Visit Harju 列有 Jägala-Joa 一处**免费停车场**，从 E20（塔林—纳尔瓦）岔出、沿瀑布指示牌即可到达。从停车场沿标识步道步行数分钟即到观景处。我们不给出确切车位数量，因为它随季节布局变化；夏季周末最繁忙时请早到。"
+        "content": "Visit Harju 的景点页面列有免费停车。按当前导航及现场标识寻找合法车位；如需大车、无障碍车位或最新入口信息，请事先向 Jõelähtme 乡政府确认。"
       },
       {
         "heading": "步行找到入口",
@@ -628,15 +656,15 @@
       "items": [
         {
           "question": "贾加拉瀑布停车免费吗？",
-          "answer": "景区附属主停车场 **通常免费**。少数乡镇管理的路边停车位可能收取小额费用 —— 请以现场标识为准。"
+          "answer": "Visit Harju 的景点页面列有免费停车；请以实际停车位置的现场标识和临时通知为准。"
         },
         {
           "question": "停车场有多大？",
-          "answer": "设 **数十个** 小型车车位；春夏季高峰周末可能停满，建议当地时间 10:00 前抵达。"
+          "answer": "本次资料核对未确认车位数量。若有团队或大型车辆，请提前向 Jõelähtme 乡政府了解容量和停靠条件。"
         },
         {
           "question": "可以过夜停车吗？",
-          "answer": "**不可以。** 保护区范围内禁止过夜停留、车顶帐篷、房车过夜及车内过夜。"
+          "answer": "不要把日间停车许可理解为允许过夜或露营。请向 Jõelähtme 乡政府及 Keskkonnaamet 确认具体位置的规则，并遵守现场标识。"
         },
         {
           "question": "附近有电动车充电吗？",
@@ -644,7 +672,7 @@
         },
         {
           "question": "停车场适合婴儿车或轮椅吗？",
-          "answer": "主停车场经缓坡步道连接观景台，标准婴儿车或普通手动轮椅一般可抵达；下方河边步道不建议使用移动辅助设备。"
+          "answer": "停车不代表路线无障碍。出发前请确认停车位、步道路面、坡度、台阶和观景位置是否适合所用设备。"
         }
       ]
     },
@@ -660,9 +688,33 @@
       {
         "name": "Visit Harju",
         "url": "https://visitharju.ee"
+      },
+      {
+        "name": "Visit Harju — Jägala Waterfall（停车、旱厕、信息牌目录）",
+        "url": "https://visitharju.ee/en/jagala-waterfall/"
+      },
+      {
+        "name": "Jõelähtme 乡政府 — 现场路径与设施咨询",
+        "url": "https://www.joelahtme.ee/kontakt"
+      },
+      {
+        "name": "Keskkonnaamet — 自然保护与限制咨询",
+        "url": "https://keskkonnaamet.ee/keskkonnaamet-uudised-kontakt/uldkontaktid-meie-kontorid"
+      },
+      {
+        "name": "Peatus.ee — 按日期查询完整行程",
+        "url": "https://peatus.ee/"
+      },
+      {
+        "name": "Eesti Puuetega Inimeste Koda — 一般无障碍咨询",
+        "url": "https://epikoda.ee/"
+      },
+      {
+        "name": "Jõelähtme 乡政府 2026-11-04 信息（南岸咖啡自动售货机）",
+        "url": "https://www.joelahtme.ee/uudised/joelahtme-vallavalitsuse-infokiri-0810-03112026"
       }
     ],
-    "verifiedNote": "本页内容已于 2026 年 10 月 23 日对照上述官方旅游来源核实。当地设施、服务与交通时刻会变动——出行前请再次确认，并通过页脚的联系链接告诉我们任何错误。"
+    "verifiedNote": "资料与修订建议由 Visit Harju 的 Liis Kurm（Harju Ettevõtlus- ja Arenduskeskus；Harju-, Rapla-, Läänemaa DMO）于 2026-11-03 来信提供。编辑资料核对日期：2026-11-09；并非现场勘察日期，也不代表对全站内容的认可。具体路线、设施可用性及交通仍需按出行日期确认。"
   },
   "winter": {
     "title": "贾加拉瀑布冬季指南 —— 冰瀑奇观",
@@ -694,7 +746,7 @@
         },
         {
           "question": "冰挂靠近观看来安全吗？",
-          "answer": "仅可从 **木栈道与观景台** 安全观赏。切勿踏上封冻河面 —— 水潭上方冰层厚度不均，下方水流仍活跃。"
+          "answer": "从远离水边和坠冰范围的稳固干燥岸上远观。切勿踏上封冻河面或靠近冰瀑；如路面结冰或路线封闭，应折返，不假定现场必有木栈道或观景平台。"
         },
         {
           "question": "一天中什么时间拍摄最好？",
@@ -722,9 +774,33 @@
       {
         "name": "Visit Estonia",
         "url": "https://visitestonia.com/zh"
+      },
+      {
+        "name": "Visit Harju — Jägala Waterfall（停车、旱厕、信息牌目录）",
+        "url": "https://visitharju.ee/en/jagala-waterfall/"
+      },
+      {
+        "name": "Jõelähtme 乡政府 — 现场路径与设施咨询",
+        "url": "https://www.joelahtme.ee/kontakt"
+      },
+      {
+        "name": "Keskkonnaamet — 自然保护与限制咨询",
+        "url": "https://keskkonnaamet.ee/keskkonnaamet-uudised-kontakt/uldkontaktid-meie-kontorid"
+      },
+      {
+        "name": "Peatus.ee — 按日期查询完整行程",
+        "url": "https://peatus.ee/"
+      },
+      {
+        "name": "Eesti Puuetega Inimeste Koda — 一般无障碍咨询",
+        "url": "https://epikoda.ee/"
+      },
+      {
+        "name": "Jõelähtme 乡政府 2026-11-04 信息（南岸咖啡自动售货机）",
+        "url": "https://www.joelahtme.ee/uudised/joelahtme-vallavalitsuse-infokiri-0810-03112026"
       }
     ],
-    "verifiedNote": "本页内容已于 2026 年 10 月 23 日对照上述官方旅游来源核实。当地设施、服务与交通时刻会变动——出行前请再次确认，并通过页脚的联系链接告诉我们任何错误。"
+    "verifiedNote": "资料与修订建议由 Visit Harju 的 Liis Kurm（Harju Ettevõtlus- ja Arenduskeskus；Harju-, Rapla-, Läänemaa DMO）于 2026-11-03 来信提供。编辑资料核对日期：2026-11-09；并非现场勘察日期，也不代表对全站内容的认可。具体路线、设施可用性及交通仍需按出行日期确认。"
   },
   "photos": {
     "title": "Jägala 瀑布照片——四季实景",
@@ -860,19 +936,19 @@
   },
   "byBus": {
     "title": "乘巴士前往 Jägala 瀑布",
-    "intro": "**可以——乘巴士能到 Jägala 瀑布。** 塔林—纳尔瓦与塔林—Jõgeva 线路的城际客车在 **Jägala-Joa** 停靠，距瀑布步行不远。时刻随季节与日期变动，你唯一需要的工具是爱沙尼亚实时出行规划器 peatus.ee。",
+    "intro": "用 **Peatus.ee** 按实际出发地、目的地和日期查往返行程。Jägala-Joa 有公交站点记录，但同名站点不等于瀑布入口，也不保证与你的出发地有直达连接。",
     "sections": [
       {
         "heading": "坐哪班车",
-        "content": "从**塔林汽车站（Tallinna bussijaam）**乘坐前往**纳尔瓦**或 **Jõgeva** 的客车——两条走廊都经过 Jägala-Joa 站。这些是区域 / 长途客车，非市内公交，工作日每天多班。请就你的出行日期在 peatus.ee 上确认站名与时刻。"
+        "content": "在 Peatus.ee 输入实际出发地和目的地，查看具体日期的线路与换乘。不凭“开往纳尔瓦或 Jõgeva”判断车辆会停靠，也不预设从塔林汽车站出发。"
       },
       {
         "heading": "下车与步行进入",
-        "content": "在 **Jägala-Joa** 下车。从公路沿标识步道朝河边走，到观景处步行数分钟，路面为自然地面。冬季可能有积雪或结冰，请预留更多时间并穿防滑鞋。"
+        "content": "在出行规划器中打开下车站点位置，核对到瀑布的完整步行段、道路和可通行入口。步行距离视所选站点而异；雨雪或结冰时预留更多时间。"
       },
       {
         "heading": "规划返程",
-        "content": "周末与节假日班次**更少**，返回塔林的最末班车也比日间发车更早。出发前在 peatus.ee 查好返程时刻，并备好备选（出租车 / 网约车），以防错过末班车。"
+        "content": "出发前查好同一天的返程与末班车，注意日期和节假日选项。若拟用出租车作备用，请事先确认可接单范围与费用，不假定现场随时能叫到车。"
       },
       {
         "heading": "巴士 + 出租车组合",
@@ -888,19 +964,19 @@
       "items": [
         {
           "question": "公共交通能到 Jägala 瀑布吗？",
-          "answer": "可以——城际客车在 Jägala-Joa 停靠，距瀑布步行不远。实时班次见 peatus.ee。"
+          "answer": "请用 Peatus.ee 检查你具体日期的可行行程；确认换乘和最后步行段后再决定，不保证每天或每个出发地均有便利连接。"
         },
         {
           "question": "从车站步行多久？",
-          "answer": "沿标识步道步行几分钟；雪天或结冰时请预留更多时间。路面为自然地面，非铺装广场。"
+          "answer": "取决于实际下车站点与可通行入口，请查看规划器的步行段；这里不提供未经确认的固定分钟数。"
         },
         {
           "question": "周末坐巴士可靠吗？",
-          "answer": "工作日较密，周末与节假日稀疏。请查 peatus.ee，并在离开塔林前规划好返程。"
+          "answer": "请查询拟出行周末的往返时刻，不用工作日结果推断周末服务。"
         },
         {
           "question": "在塔林哪里乘车？",
-          "answer": "塔林汽车站，乘坐前往纳尔瓦或 Jõgeva 的客车。请用实时规划器确认站点与时刻。"
+          "answer": "以 Peatus.ee 为你所选行程显示的具体上车站点为准；不要预设一定从塔林汽车站出发。"
         }
       ]
     },
@@ -924,9 +1000,33 @@
       {
         "name": "Visit Harju — Jägala-Joa",
         "url": "https://visitharju.ee"
+      },
+      {
+        "name": "Visit Harju — Jägala Waterfall（停车、旱厕、信息牌目录）",
+        "url": "https://visitharju.ee/en/jagala-waterfall/"
+      },
+      {
+        "name": "Jõelähtme 乡政府 — 现场路径与设施咨询",
+        "url": "https://www.joelahtme.ee/kontakt"
+      },
+      {
+        "name": "Keskkonnaamet — 自然保护与限制咨询",
+        "url": "https://keskkonnaamet.ee/keskkonnaamet-uudised-kontakt/uldkontaktid-meie-kontorid"
+      },
+      {
+        "name": "Peatus.ee — 按日期查询完整行程",
+        "url": "https://peatus.ee/"
+      },
+      {
+        "name": "Eesti Puuetega Inimeste Koda — 一般无障碍咨询",
+        "url": "https://epikoda.ee/"
+      },
+      {
+        "name": "Jõelähtme 乡政府 2026-11-04 信息（南岸咖啡自动售货机）",
+        "url": "https://www.joelahtme.ee/uudised/joelahtme-vallavalitsuse-infokiri-0810-03112026"
       }
     ],
-    "verifiedNote": "本页内容已于 2026 年 10 月 23 日对照上述官方旅游来源核实。当地设施、服务与交通时刻会变动——出行前请再次确认，并通过页脚的联系链接告诉我们任何错误。"
+    "verifiedNote": "资料与修订建议由 Visit Harju 的 Liis Kurm（Harju Ettevõtlus- ja Arenduskeskus；Harju-, Rapla-, Läänemaa DMO）于 2026-11-03 来信提供。编辑资料核对日期：2026-11-09；并非现场勘察日期，也不代表对全站内容的认可。具体路线、设施可用性及交通仍需按出行日期确认。"
   },
   "ticketsOpeningHours": {
     "title": "Jägala 瀑布：门票与开放时间",
@@ -950,7 +1050,7 @@
       },
       {
         "heading": "哪些不收费",
-        "content": "观赏瀑布、步行道、野餐草地与观景台全部免费。唯一收费的是可选的第三方服务，如导览、交通或你自带以外的餐饮。"
+        "content": "Visit Harju 将瀑布列为免费景点。交通或导览等可选服务可能另行收费；这不保证特定平台、步道或野餐设施存在或可用。"
       }
     ],
     "faq": {
@@ -990,29 +1090,57 @@
       {
         "name": "Visit Harju — Jägala-Joa",
         "url": "https://visitharju.ee"
+      },
+      {
+        "name": "爱沙尼亚救援局（112）",
+        "url": "https://www.112.ee"
+      },
+      {
+        "name": "Visit Harju — Jägala Waterfall（停车、旱厕、信息牌目录）",
+        "url": "https://visitharju.ee/en/jagala-waterfall/"
+      },
+      {
+        "name": "Jõelähtme 乡政府 — 现场路径与设施咨询",
+        "url": "https://www.joelahtme.ee/kontakt"
+      },
+      {
+        "name": "Keskkonnaamet — 自然保护与限制咨询",
+        "url": "https://keskkonnaamet.ee/keskkonnaamet-uudised-kontakt/uldkontaktid-meie-kontorid"
+      },
+      {
+        "name": "Peatus.ee — 按日期查询完整行程",
+        "url": "https://peatus.ee/"
+      },
+      {
+        "name": "Eesti Puuetega Inimeste Koda — 一般无障碍咨询",
+        "url": "https://epikoda.ee/"
+      },
+      {
+        "name": "Jõelähtme 乡政府 2026-11-04 信息（南岸咖啡自动售货机）",
+        "url": "https://www.joelahtme.ee/uudised/joelahtme-vallavalitsuse-infokiri-0810-03112026"
       }
     ],
-    "verifiedNote": "本页内容已于 2026 年 10 月 23 日对照上述官方旅游来源核实。当地设施、服务与交通时刻会变动——出行前请再次确认，并通过页脚的联系链接告诉我们任何错误。"
+    "verifiedNote": "资料与修订建议由 Visit Harju 的 Liis Kurm（Harju Ettevõtlus- ja Arenduskeskus；Harju-, Rapla-, Läänemaa DMO）于 2026-11-03 来信提供。编辑资料核对日期：2026-11-09；并非现场勘察日期，也不代表对全站内容的认可。具体路线、设施可用性及交通仍需按出行日期确认。"
   },
   "facilities": {
     "title": "Jägala 瀑布的厕所与设施",
-    "intro": "**Jägala 瀑布的设施很简陋。** Visit Harju 列有景点处一间简易旱厕与免费停车场。这里没有咖啡馆、小卖部、商店或游客中心——请自备所需并妥善规划。",
+    "intro": "Visit Harju 的景点页面列有**旱厕、免费停车和信息牌**。这些是公开目录信息，不是到访当天设施可用性的保证；请按自身需要向 Jõelähtme 乡政府核实。",
     "sections": [
       {
         "heading": "厕所",
-        "content": "据 Visit Harju，景点处有一间简易**旱厕**。它很基础，冬季可能上锁或不可用；不要依赖它接待大团队，到达时请确认。瀑布处没有冲水厕所或婴儿护理设施。"
+        "content": "Visit Harju 的公开景点目录列有**旱厕**，未说明其当前开放、冬季运行或无障碍条件。若厕所、婴儿护理或团体使用对行程关键，请提前向 Jõelähtme 乡政府确认。"
       },
       {
         "heading": "停车",
-        "content": "景点处设有免费停车场，位于 Kubja tee 旁。确切走法与步行请见\"停车\"指南。停车场用于日间游览。"
+        "content": "Visit Harju 列有免费停车。具体入口、容量及临时调整请核对现场标识或咨询 Jõelähtme 乡政府；不要据此推断允许过夜。"
       },
       {
         "heading": "餐饮与补给",
-        "content": "瀑布**没有任何可购买的东西**——没有咖啡馆、小卖部或补水点。自备饮水与零食。最近的商店、咖啡馆与服务在 Jägala-Joa 村及 E20 走廊；塔林驾车约 30 分钟。"
+        "content": "Jõelähtme 乡政府 2026 年 11 月 4 日的信息提及南岸咖啡自动售货机继续设置，但这不是咖啡馆或餐厅的营业证明。设备能否使用以现场为准，自备饮水与食物更稳妥。"
       },
       {
         "heading": "设施可达性",
-        "content": "景点是自然地貌：地面不平、有坡度和台阶。厕所是简易单元，并非无障碍卫生间。若需特定设施，出行前请联系 Jõelähtme 乡政府。"
+        "content": "本次未取得具体无障碍路线或卫生间条件的现场核查结果。请向 Jõelähtme 乡政府问清坡度、台阶、路面与厕所条件；EPIKoda 可提供一般无障碍咨询。"
       },
       {
         "heading": "垃圾与手机信号",
@@ -1020,7 +1148,7 @@
       },
       {
         "heading": "野餐区",
-        "content": "林边有一片开阔草地，游客用于野餐。请保持洁净，遵守受保护区用火规定（此处一般不允许），并爱护自然景观。"
+        "content": "若计划野餐，请选择允许停留且远离崖缘与水边的位置，带走垃圾。露营、生火和保护限制向 Keskkonnaamet 核实，不将本指南的安全建议当成法定许可。"
       }
     ],
     "faq": {
@@ -1028,19 +1156,19 @@
       "items": [
         {
           "question": "瀑布有厕所吗？",
-          "answer": "据 Visit Harju 有一间简易旱厕；冬季可能上锁。现场没有冲水厕所或婴儿护理处。"
+          "answer": "Visit Harju 的景点目录列有旱厕；当前开放与无障碍条件需要向 Jõelähtme 乡政府确认。"
         },
         {
           "question": "有咖啡馆或商店吗？",
-          "answer": "没有。自备饮食；最近的服务在村里与 E20 沿线。"
+          "answer": "乡政府信息提及南岸咖啡自动售货机，未据此确认咖啡馆、商店或正餐服务。建议自备补给，营业和设备情况另行确认。"
         },
         {
           "question": "停车免费吗？设施有哪些？",
-          "answer": "景点停车场免费；除厕所外，停车场本身是最主要的固定设施。"
+          "answer": "Visit Harju 列有免费停车、旱厕与信息牌；具体可用情况和临时调整请联系 Jõelähtme 乡政府。"
         },
         {
           "question": "可以在那里野餐吗？",
-          "answer": "可以，在开阔草地上，但请带走所有垃圾并遵守保护区规定。"
+          "answer": "请按现场标识选择允许停留的干燥位置，远离崖缘和水边，并带走垃圾；生火与露营另行核实。"
         }
       ]
     },
@@ -1055,13 +1183,37 @@
       {
         "name": "Visit Harju — Jägala-Joa",
         "url": "https://visitharju.ee"
+      },
+      {
+        "name": "Visit Harju — Jägala Waterfall（停车、旱厕、信息牌目录）",
+        "url": "https://visitharju.ee/en/jagala-waterfall/"
+      },
+      {
+        "name": "Jõelähtme 乡政府 — 现场路径与设施咨询",
+        "url": "https://www.joelahtme.ee/kontakt"
+      },
+      {
+        "name": "Keskkonnaamet — 自然保护与限制咨询",
+        "url": "https://keskkonnaamet.ee/keskkonnaamet-uudised-kontakt/uldkontaktid-meie-kontorid"
+      },
+      {
+        "name": "Peatus.ee — 按日期查询完整行程",
+        "url": "https://peatus.ee/"
+      },
+      {
+        "name": "Eesti Puuetega Inimeste Koda — 一般无障碍咨询",
+        "url": "https://epikoda.ee/"
+      },
+      {
+        "name": "Jõelähtme 乡政府 2026-11-04 信息（南岸咖啡自动售货机）",
+        "url": "https://www.joelahtme.ee/uudised/joelahtme-vallavalitsuse-infokiri-0810-03112026"
       }
     ],
-    "verifiedNote": "本页内容已于 2026 年 10 月 23 日对照上述官方旅游来源核实。当地设施、服务与交通时刻会变动——出行前请再次确认，并通过页脚的联系链接告诉我们任何错误。"
+    "verifiedNote": "资料与修订建议由 Visit Harju 的 Liis Kurm（Harju Ettevõtlus- ja Arenduskeskus；Harju-, Rapla-, Läänemaa DMO）于 2026-11-03 来信提供。编辑资料核对日期：2026-11-09；并非现场勘察日期，也不代表对全站内容的认可。具体路线、设施可用性及交通仍需按出行日期确认。"
   },
   "safety": {
     "title": "Jägala 瀑布安全指南",
-    "intro": "Jägala 瀑布是天然河谷景点，**没有救生员、天然边缘无围栏、水边也没有阻隔**。主要风险是湿滑石灰岩、冰冷湍急的水流、冬季结冰与坠冰。请留在标识步道并使用常识。",
+    "intro": "湿滑岩石、水流、落差、冬季结冰与坠冰是游览瀑布时需要防范的风险。不要假定全程设有护栏、救生服务或铺装设施；只在当天开放且适合自身能力的路线活动。",
     "sections": [
       {
         "heading": "湿滑岩石与边缘",
@@ -1069,7 +1221,7 @@
       },
       {
         "heading": "水流",
-        "content": "Jägala 是真正的河流。水潭**冰冷，基部水流湍急**。不建议游泳，且无救生员。请看管好靠近水边的儿童与宠物。"
+        "content": "**安全建议：不要在瀑布附近游泳、涉水或让儿童戏水。** 留在干燥岸上并远离水边与跌水，近距离照看儿童和宠物。这不是已核实的全面法律禁令；保护限制以 Keskkonnaamet 和现场公告为准。"
       },
       {
         "heading": "冬季结冰与坠冰",
@@ -1081,7 +1233,7 @@
       },
       {
         "heading": "紧急情况",
-        "content": "爱沙尼亚紧急号码为 **112**（电话或短信均可）。手机信号通常可用，但在峡谷中可能中断；不要依赖它。冬季或非高峰时段前往，请告知他人你的计划。"
+        "content": "紧急情况拨打爱沙尼亚统一紧急号码 **112**，说明自己的具体位置。提前保存地图并让同行者知道路线，不依赖峡谷内始终有稳定手机信号。"
       }
     ],
     "faq": {
@@ -1089,15 +1241,15 @@
       "items": [
         {
           "question": "可以在瀑布游泳吗？",
-          "answer": "不建议——水冷、基部水流急、岩石滑且无救生员。"
+          "answer": "安全上不建议在瀑布附近游泳或涉水，也不应让儿童玩浅水。此建议不等于宣布已核实的法律禁令，具体限制请查环境局及现场标识。"
         },
         {
           "question": "冬季去安全吗？",
-          "answer": "小心则安全：留在标识步道、切勿上冰、当心坠冰。白昼很短。"
+          "answer": "无法保证安全。若有结冰、坠冰、封闭或无法稳固行走的路段，请不要进入；始终远离河面冰层和冰瀑。"
         },
         {
           "question": "有栏杆或围栏吗？",
-          "answer": "部分观景点有低矮栏杆，但天然河岸边缘没有围栏。请近距离看管儿童与宠物。"
+          "answer": "本次未逐一确认栏杆、平台或木栈道的现状；请向 Jõelähtme 乡政府核实，不把某处设有栏杆理解为全线安全。"
         },
         {
           "question": "紧急号码是？",
@@ -1121,9 +1273,33 @@
       {
         "name": "爱沙尼亚救援局（112）",
         "url": "https://www.112.ee"
+      },
+      {
+        "name": "Visit Harju — Jägala Waterfall（停车、旱厕、信息牌目录）",
+        "url": "https://visitharju.ee/en/jagala-waterfall/"
+      },
+      {
+        "name": "Jõelähtme 乡政府 — 现场路径与设施咨询",
+        "url": "https://www.joelahtme.ee/kontakt"
+      },
+      {
+        "name": "Keskkonnaamet — 自然保护与限制咨询",
+        "url": "https://keskkonnaamet.ee/keskkonnaamet-uudised-kontakt/uldkontaktid-meie-kontorid"
+      },
+      {
+        "name": "Peatus.ee — 按日期查询完整行程",
+        "url": "https://peatus.ee/"
+      },
+      {
+        "name": "Eesti Puuetega Inimeste Koda — 一般无障碍咨询",
+        "url": "https://epikoda.ee/"
+      },
+      {
+        "name": "Jõelähtme 乡政府 2026-11-04 信息（南岸咖啡自动售货机）",
+        "url": "https://www.joelahtme.ee/uudised/joelahtme-vallavalitsuse-infokiri-0810-03112026"
       }
     ],
-    "verifiedNote": "本页内容已于 2026 年 10 月 23 日对照上述官方旅游来源核实。当地设施、服务与交通时刻会变动——出行前请再次确认，并通过页脚的联系链接告诉我们任何错误。"
+    "verifiedNote": "资料与修订建议由 Visit Harju 的 Liis Kurm（Harju Ettevõtlus- ja Arenduskeskus；Harju-, Rapla-, Läänemaa DMO）于 2026-11-03 来信提供。编辑资料核对日期：2026-11-09；并非现场勘察日期，也不代表对全站内容的认可。具体路线、设施可用性及交通仍需按出行日期确认。"
   },
   "bestTimeToVisit": {
     "title": "游览 Jägala 瀑布的最佳时间",
@@ -1278,7 +1454,7 @@
       },
       {
         "heading": "无人机与许可",
-        "content": "该区域为**受保护自然景观**，无人机飞行受限且禁止在人员上方飞行。不要想当然能飞——飞前请向 RMK / Jõelähtme 乡政府及国家航空主管部门核实现行规则，绝不在其他游客上方起飞。"
+        "content": "无人机飞行须核对适用空域、保护区、人员安全及运营要求；出发前向航空主管部门和 Keskkonnaamet 查询。不要把一般建议当成具体地点的飞行许可或全面禁令。"
       },
       {
         "heading": "拍摄礼仪",
@@ -1298,7 +1474,7 @@
         },
         {
           "question": "可以飞无人机吗？",
-          "answer": "受保护区内受限且禁止在人员上方；飞前请向 RMK / Jõelähtme 乡政府核实规则。"
+          "answer": "先向航空主管部门和 Keskkonnaamet 核实当前空域及保护限制，再按适用规则决定；本指南不提供飞行许可。"
         },
         {
           "question": "该带什么器材？",
@@ -1326,9 +1502,37 @@
       {
         "name": "Visit Estonia — Jägala 瀑布",
         "url": "https://visitestonia.com/zh"
+      },
+      {
+        "name": "爱沙尼亚救援局（112）",
+        "url": "https://www.112.ee"
+      },
+      {
+        "name": "Visit Harju — Jägala Waterfall（停车、旱厕、信息牌目录）",
+        "url": "https://visitharju.ee/en/jagala-waterfall/"
+      },
+      {
+        "name": "Jõelähtme 乡政府 — 现场路径与设施咨询",
+        "url": "https://www.joelahtme.ee/kontakt"
+      },
+      {
+        "name": "Keskkonnaamet — 自然保护与限制咨询",
+        "url": "https://keskkonnaamet.ee/keskkonnaamet-uudised-kontakt/uldkontaktid-meie-kontorid"
+      },
+      {
+        "name": "Peatus.ee — 按日期查询完整行程",
+        "url": "https://peatus.ee/"
+      },
+      {
+        "name": "Eesti Puuetega Inimeste Koda — 一般无障碍咨询",
+        "url": "https://epikoda.ee/"
+      },
+      {
+        "name": "Jõelähtme 乡政府 2026-11-04 信息（南岸咖啡自动售货机）",
+        "url": "https://www.joelahtme.ee/uudised/joelahtme-vallavalitsuse-infokiri-0810-03112026"
       }
     ],
-    "verifiedNote": "本页内容已于 2026 年 10 月 23 日对照上述官方旅游来源核实。当地设施、服务与交通时刻会变动——出行前请再次确认，并通过页脚的联系链接告诉我们任何错误。"
+    "verifiedNote": "资料与修订建议由 Visit Harju 的 Liis Kurm（Harju Ettevõtlus- ja Arenduskeskus；Harju-, Rapla-, Läänemaa DMO）于 2026-11-03 来信提供。编辑资料核对日期：2026-11-09；并非现场勘察日期，也不代表对全站内容的认可。具体路线、设施可用性及交通仍需按出行日期确认。"
   },
   "jagalaRiver": {
     "title": "Jägala 河",
@@ -1368,7 +1572,7 @@
         },
         {
           "question": "可以垂钓或游泳吗？",
-          "answer": "活动受规管，请核实现行规则。瀑布处不建议游泳（水冷、水流急、无救生员）。"
+          "answer": "钓鱼和其它水上活动须核对现行规则。安全上不建议在瀑布附近游泳或涉水；具体保护限制请咨询 Keskkonnaamet。"
         }
       ]
     },
@@ -1387,9 +1591,37 @@
       {
         "name": "Visit Estonia — Jägala 瀑布",
         "url": "https://visitestonia.com/zh"
+      },
+      {
+        "name": "爱沙尼亚救援局（112）",
+        "url": "https://www.112.ee"
+      },
+      {
+        "name": "Visit Harju — Jägala Waterfall（停车、旱厕、信息牌目录）",
+        "url": "https://visitharju.ee/en/jagala-waterfall/"
+      },
+      {
+        "name": "Jõelähtme 乡政府 — 现场路径与设施咨询",
+        "url": "https://www.joelahtme.ee/kontakt"
+      },
+      {
+        "name": "Keskkonnaamet — 自然保护与限制咨询",
+        "url": "https://keskkonnaamet.ee/keskkonnaamet-uudised-kontakt/uldkontaktid-meie-kontorid"
+      },
+      {
+        "name": "Peatus.ee — 按日期查询完整行程",
+        "url": "https://peatus.ee/"
+      },
+      {
+        "name": "Eesti Puuetega Inimeste Koda — 一般无障碍咨询",
+        "url": "https://epikoda.ee/"
+      },
+      {
+        "name": "Jõelähtme 乡政府 2026-11-04 信息（南岸咖啡自动售货机）",
+        "url": "https://www.joelahtme.ee/uudised/joelahtme-vallavalitsuse-infokiri-0810-03112026"
       }
     ],
-    "verifiedNote": "本页内容已于 2026 年 10 月 23 日对照上述官方旅游来源核实。当地设施、服务与交通时刻会变动——出行前请再次确认，并通过页脚的联系链接告诉我们任何错误。"
+    "verifiedNote": "资料与修订建议由 Visit Harju 的 Liis Kurm（Harju Ettevõtlus- ja Arenduskeskus；Harju-, Rapla-, Läänemaa DMO）于 2026-11-03 来信提供。编辑资料核对日期：2026-11-09；并非现场勘察日期，也不代表对全站内容的认可。具体路线、设施可用性及交通仍需按出行日期确认。"
   },
   "halfDayTrip": {
     "title": "从塔林出发的 Jägala 瀑布半日游",
@@ -1401,7 +1633,7 @@
       },
       {
         "heading": "没有车怎么办",
-        "content": "从塔林汽车站乘城际客车到 **Jägala-Joa**（见\"乘巴士\"指南），步行数分钟到瀑布，并依 peatus.ee 上的实时时刻规划返程。若客车时刻不合，出租车 / 网约车是灵活替代。"
+        "content": "在 Peatus.ee 查询具体日期的公共交通往返方案，核对上下车站、换乘与最后步行段。若班次不合适，可事先确认出租车或其它交通选择。"
       },
       {
         "heading": "带什么",
@@ -1453,9 +1685,33 @@
       {
         "name": "Visit Harju — Jägala-Joa",
         "url": "https://visitharju.ee"
+      },
+      {
+        "name": "Visit Harju — Jägala Waterfall（停车、旱厕、信息牌目录）",
+        "url": "https://visitharju.ee/en/jagala-waterfall/"
+      },
+      {
+        "name": "Jõelähtme 乡政府 — 现场路径与设施咨询",
+        "url": "https://www.joelahtme.ee/kontakt"
+      },
+      {
+        "name": "Keskkonnaamet — 自然保护与限制咨询",
+        "url": "https://keskkonnaamet.ee/keskkonnaamet-uudised-kontakt/uldkontaktid-meie-kontorid"
+      },
+      {
+        "name": "Peatus.ee — 按日期查询完整行程",
+        "url": "https://peatus.ee/"
+      },
+      {
+        "name": "Eesti Puuetega Inimeste Koda — 一般无障碍咨询",
+        "url": "https://epikoda.ee/"
+      },
+      {
+        "name": "Jõelähtme 乡政府 2026-11-04 信息（南岸咖啡自动售货机）",
+        "url": "https://www.joelahtme.ee/uudised/joelahtme-vallavalitsuse-infokiri-0810-03112026"
       }
     ],
-    "verifiedNote": "本页内容已于 2026 年 10 月 23 日对照上述官方旅游来源核实。当地设施、服务与交通时刻会变动——出行前请再次确认，并通过页脚的联系链接告诉我们任何错误。"
+    "verifiedNote": "资料与修订建议由 Visit Harju 的 Liis Kurm（Harju Ettevõtlus- ja Arenduskeskus；Harju-, Rapla-, Läänemaa DMO）于 2026-11-03 来信提供。编辑资料核对日期：2026-11-09；并非现场勘察日期，也不代表对全站内容的认可。具体路线、设施可用性及交通仍需按出行日期确认。"
   },
   "jagalaVsKeila": {
     "title": "Jägala 与 Keila 瀑布怎么选",
@@ -1471,7 +1727,7 @@
       },
       {
         "heading": "设施与环境",
-        "content": "Jägala 是更野、受保护的天然景点，免费停车与简易厕所，但无咖啡馆。Keila 位于更成熟的庄园公园环境，特色不同。请查阅各地官方旅游页确认当前设施。"
+        "content": "Visit Harju 的 Jägala 页面列有免费停车、旱厕与信息牌；实际可用性需另行确认。Keila 的设施也应查其官方资料，不把两个地点的路径或无障碍条件互相套用。"
       },
       {
         "heading": "适合谁",
@@ -1514,9 +1770,33 @@
       {
         "name": "Visit Estonia — Keila 瀑布",
         "url": "https://visitestonia.com/en/keila-waterfall"
+      },
+      {
+        "name": "Visit Harju — Jägala Waterfall（停车、旱厕、信息牌目录）",
+        "url": "https://visitharju.ee/en/jagala-waterfall/"
+      },
+      {
+        "name": "Jõelähtme 乡政府 — 现场路径与设施咨询",
+        "url": "https://www.joelahtme.ee/kontakt"
+      },
+      {
+        "name": "Keskkonnaamet — 自然保护与限制咨询",
+        "url": "https://keskkonnaamet.ee/keskkonnaamet-uudised-kontakt/uldkontaktid-meie-kontorid"
+      },
+      {
+        "name": "Peatus.ee — 按日期查询完整行程",
+        "url": "https://peatus.ee/"
+      },
+      {
+        "name": "Eesti Puuetega Inimeste Koda — 一般无障碍咨询",
+        "url": "https://epikoda.ee/"
+      },
+      {
+        "name": "Jõelähtme 乡政府 2026-11-04 信息（南岸咖啡自动售货机）",
+        "url": "https://www.joelahtme.ee/uudised/joelahtme-vallavalitsuse-infokiri-0810-03112026"
       }
     ],
-    "verifiedNote": "本页内容已于 2026 年 10 月 23 日对照上述官方旅游来源核实。当地设施、服务与交通时刻会变动——出行前请再次确认，并通过页脚的联系链接告诉我们任何错误。"
+    "verifiedNote": "资料与修订建议由 Visit Harju 的 Liis Kurm（Harju Ettevõtlus- ja Arenduskeskus；Harju-, Rapla-, Läänemaa DMO）于 2026-11-03 来信提供。编辑资料核对日期：2026-11-09；并非现场勘察日期，也不代表对全站内容的认可。具体路线、设施可用性及交通仍需按出行日期确认。"
   },
   "waterfallsNearTallinn": {
     "title": "塔林附近的瀑布",
@@ -1593,7 +1873,7 @@
       },
       {
         "heading": "机场 → 塔林 → 瀑布",
-        "content": "若偏好公共交通，先从机场乘巴士或电车到塔林市中心，再搭乘城际客车（塔林—纳尔瓦 / 约格瓦线在 Jägala-Joa 停靠）或租车继续前往。虽然多一次换乘，但比打车便宜得多。"
+        "content": "在 Peatus.ee 以机场为起点、瀑布为目的地查询具体日期，核对换乘、上下车站和最后步行段；不要预设有直达服务或某条长途线路一定停靠。"
       },
       {
         "heading": "租车",
@@ -1609,7 +1889,7 @@
         },
         {
           "question": "机场有直达巴士吗？",
-          "answer": "没有直达公共交通。要么直接打车 / 网约车，要么经塔林换乘（市区巴士或电车，再转 Jägala-Joa 的城际客车）。"
+          "answer": "请在 Peatus.ee 核对实际日期的行程，不预设有直达车；比较完整换乘与步行方案后，也可考虑预先确认的出租车。"
         },
         {
           "question": "从机场打车多少钱？",
@@ -1641,9 +1921,33 @@
       {
         "name": "Peatus — 爱沙尼亚出行规划器",
         "url": "https://peatus.ee/?locale=zh"
+      },
+      {
+        "name": "Visit Harju — Jägala Waterfall（停车、旱厕、信息牌目录）",
+        "url": "https://visitharju.ee/en/jagala-waterfall/"
+      },
+      {
+        "name": "Jõelähtme 乡政府 — 现场路径与设施咨询",
+        "url": "https://www.joelahtme.ee/kontakt"
+      },
+      {
+        "name": "Keskkonnaamet — 自然保护与限制咨询",
+        "url": "https://keskkonnaamet.ee/keskkonnaamet-uudised-kontakt/uldkontaktid-meie-kontorid"
+      },
+      {
+        "name": "Peatus.ee — 按日期查询完整行程",
+        "url": "https://peatus.ee/"
+      },
+      {
+        "name": "Eesti Puuetega Inimeste Koda — 一般无障碍咨询",
+        "url": "https://epikoda.ee/"
+      },
+      {
+        "name": "Jõelähtme 乡政府 2026-11-04 信息（南岸咖啡自动售货机）",
+        "url": "https://www.joelahtme.ee/uudised/joelahtme-vallavalitsuse-infokiri-0810-03112026"
       }
     ],
-    "verifiedNote": "本页内容已于 2026 年 10 月 23 日对照上述官方旅游来源核实。当地设施、服务与交通时刻会变动——出行前请再次确认，并通过页脚的联系链接告诉我们任何错误。"
+    "verifiedNote": "资料与修订建议由 Visit Harju 的 Liis Kurm（Harju Ettevõtlus- ja Arenduskeskus；Harju-, Rapla-, Läänemaa DMO）于 2026-11-03 来信提供。编辑资料核对日期：2026-11-09；并非现场勘察日期，也不代表对全站内容的认可。具体路线、设施可用性及交通仍需按出行日期确认。"
   },
   "spring": {
     "title": "春季游览贾加拉瀑布",
@@ -1659,7 +1963,7 @@
       },
       {
         "heading": "人流与光线",
-        "content": "春季比夏季安静得多，观景台常常只有你一人。白昼随季节变长，清晨与傍晚光线柔和宜人。"
+        "content": "春季白昼逐渐变长，清晨和傍晚可考虑岸上摄影；水量上涨时应远离湿滑边缘，不为清静或构图进入危险位置。"
       }
     ],
     "faq": {
@@ -1675,7 +1979,7 @@
         },
         {
           "question": "春季设施开放吗？",
-          "answer": "景区全年开放进入。现场咖啡馆与季节性服务随天气转暖开放——前往前请在当地确认。"
+          "answer": "官方旅游目录列为全年开放，但天气与临时限制仍可能影响进入。餐饮和设施运行请单独确认，不假定春季自动恢复服务。"
         },
         {
           "question": "春季能带狗吗？",
@@ -1703,9 +2007,37 @@
       {
         "name": "Peatus — 爱沙尼亚出行规划器",
         "url": "https://peatus.ee/?locale=zh"
+      },
+      {
+        "name": "Visit Harju — Jägala Waterfall（停车、旱厕、信息牌目录）",
+        "url": "https://visitharju.ee/en/jagala-waterfall/"
+      },
+      {
+        "name": "Jõelähtme 乡政府 — 现场路径与设施咨询",
+        "url": "https://www.joelahtme.ee/kontakt"
+      },
+      {
+        "name": "Keskkonnaamet — 自然保护与限制咨询",
+        "url": "https://keskkonnaamet.ee/keskkonnaamet-uudised-kontakt/uldkontaktid-meie-kontorid"
+      },
+      {
+        "name": "Peatus.ee — 按日期查询完整行程",
+        "url": "https://peatus.ee/"
+      },
+      {
+        "name": "Eesti Puuetega Inimeste Koda — 一般无障碍咨询",
+        "url": "https://epikoda.ee/"
+      },
+      {
+        "name": "Jõelähtme 乡政府 2026-11-04 信息（南岸咖啡自动售货机）",
+        "url": "https://www.joelahtme.ee/uudised/joelahtme-vallavalitsuse-infokiri-0810-03112026"
+      },
+      {
+        "name": "爱沙尼亚救援局（112）",
+        "url": "https://www.112.ee"
       }
     ],
-    "verifiedNote": "本页内容已于 2026 年 10 月 23 日对照上述官方旅游来源核实。当地设施、服务与交通时刻会变动——出行前请再次确认，并通过页脚的联系链接告诉我们任何错误。"
+    "verifiedNote": "资料与修订建议由 Visit Harju 的 Liis Kurm（Harju Ettevõtlus- ja Arenduskeskus；Harju-, Rapla-, Läänemaa DMO）于 2026-11-03 来信提供。编辑资料核对日期：2026-11-09；并非现场勘察日期，也不代表对全站内容的认可。具体路线、设施可用性及交通仍需按出行日期确认。"
   },
   "summer": {
     "title": "夏季游览贾加拉瀑布",
@@ -1713,7 +2045,7 @@
     "sections": [
       {
         "heading": "能看到什么",
-        "content": "林冠茂密，河水清澈，观景台与栈道最为舒适。这是亲子、野餐与轻松摄影最便利的时段。"
+        "content": "夏季可从干燥岸上欣赏森林与瀑布。观景路线是否可用取决于天气和现场条件，不假定一定设有舒适的平台或木栈道。"
       },
       {
         "heading": "避开人潮",
@@ -1765,9 +2097,33 @@
       {
         "name": "Peatus — 爱沙尼亚出行规划器",
         "url": "https://peatus.ee/?locale=zh"
+      },
+      {
+        "name": "Visit Harju — Jägala Waterfall（停车、旱厕、信息牌目录）",
+        "url": "https://visitharju.ee/en/jagala-waterfall/"
+      },
+      {
+        "name": "Jõelähtme 乡政府 — 现场路径与设施咨询",
+        "url": "https://www.joelahtme.ee/kontakt"
+      },
+      {
+        "name": "Keskkonnaamet — 自然保护与限制咨询",
+        "url": "https://keskkonnaamet.ee/keskkonnaamet-uudised-kontakt/uldkontaktid-meie-kontorid"
+      },
+      {
+        "name": "Peatus.ee — 按日期查询完整行程",
+        "url": "https://peatus.ee/"
+      },
+      {
+        "name": "Eesti Puuetega Inimeste Koda — 一般无障碍咨询",
+        "url": "https://epikoda.ee/"
+      },
+      {
+        "name": "Jõelähtme 乡政府 2026-11-04 信息（南岸咖啡自动售货机）",
+        "url": "https://www.joelahtme.ee/uudised/joelahtme-vallavalitsuse-infokiri-0810-03112026"
       }
     ],
-    "verifiedNote": "本页内容已于 2026 年 10 月 23 日对照上述官方旅游来源核实。当地设施、服务与交通时刻会变动——出行前请再次确认，并通过页脚的联系链接告诉我们任何错误。"
+    "verifiedNote": "资料与修订建议由 Visit Harju 的 Liis Kurm（Harju Ettevõtlus- ja Arenduskeskus；Harju-, Rapla-, Läänemaa DMO）于 2026-11-03 来信提供。编辑资料核对日期：2026-11-09；并非现场勘察日期，也不代表对全站内容的认可。具体路线、设施可用性及交通仍需按出行日期确认。"
   },
   "autumn": {
     "title": "秋季游览贾加拉瀑布",
@@ -1919,7 +2275,7 @@
         },
         {
           "question": "从老城能乘公共交通到吗？",
-          "answer": "可以：先到塔林客运站，再乘塔林—纳尔瓦 / 约格瓦方向的城际客车到 Jägala-Joa，然后步行进入。时刻见 peatus.ee。"
+          "answer": "先用 Peatus.ee 查询当天从实际出发点到瀑布的往返方案，核对上下车站、换乘及步行段，再判断是否适合行程。"
         },
         {
           "question": "只有一天也值得去吗？",
@@ -1951,9 +2307,37 @@
       {
         "name": "Peatus — 爱沙尼亚出行规划器",
         "url": "https://peatus.ee/?locale=zh"
+      },
+      {
+        "name": "爱沙尼亚救援局（112）",
+        "url": "https://www.112.ee"
+      },
+      {
+        "name": "Visit Harju — Jägala Waterfall（停车、旱厕、信息牌目录）",
+        "url": "https://visitharju.ee/en/jagala-waterfall/"
+      },
+      {
+        "name": "Jõelähtme 乡政府 — 现场路径与设施咨询",
+        "url": "https://www.joelahtme.ee/kontakt"
+      },
+      {
+        "name": "Keskkonnaamet — 自然保护与限制咨询",
+        "url": "https://keskkonnaamet.ee/keskkonnaamet-uudised-kontakt/uldkontaktid-meie-kontorid"
+      },
+      {
+        "name": "Peatus.ee — 按日期查询完整行程",
+        "url": "https://peatus.ee/"
+      },
+      {
+        "name": "Eesti Puuetega Inimeste Koda — 一般无障碍咨询",
+        "url": "https://epikoda.ee/"
+      },
+      {
+        "name": "Jõelähtme 乡政府 2026-11-04 信息（南岸咖啡自动售货机）",
+        "url": "https://www.joelahtme.ee/uudised/joelahtme-vallavalitsuse-infokiri-0810-03112026"
       }
     ],
-    "verifiedNote": "本页内容已于 2026 年 10 月 23 日对照上述官方旅游来源核实。当地设施、服务与交通时刻会变动——出行前请再次确认，并通过页脚的联系链接告诉我们任何错误。"
+    "verifiedNote": "资料与修订建议由 Visit Harju 的 Liis Kurm（Harju Ettevõtlus- ja Arenduskeskus；Harju-, Rapla-, Läänemaa DMO）于 2026-11-03 来信提供。编辑资料核对日期：2026-11-09；并非现场勘察日期，也不代表对全站内容的认可。具体路线、设施可用性及交通仍需按出行日期确认。"
   },
   "waterfallRoute": {
     "title": "北爱沙尼亚瀑布自驾路线",
@@ -2023,7 +2407,7 @@
     "sections": [
       {
         "heading": "为何联游",
-        "content": "两者都是铺设平台与栈道、轻松好走的步道，适合同一段悠闲的一天。贾加拉给你瀑布；维鲁沼泽给你带观景塔的原始湿地。"
+        "content": "两地可组成自然景观主题行程，但不可把维鲁沼泽的木栈道条件套用于 Jägala。瀑布的路径和无障碍条件需单独确认；沼泽路线也应查最新开放信息。"
       },
       {
         "heading": "建议走法",
@@ -2075,17 +2459,41 @@
       {
         "name": "Peatus — 爱沙尼亚出行规划器",
         "url": "https://peatus.ee/?locale=zh"
+      },
+      {
+        "name": "Visit Harju — Jägala Waterfall（停车、旱厕、信息牌目录）",
+        "url": "https://visitharju.ee/en/jagala-waterfall/"
+      },
+      {
+        "name": "Jõelähtme 乡政府 — 现场路径与设施咨询",
+        "url": "https://www.joelahtme.ee/kontakt"
+      },
+      {
+        "name": "Keskkonnaamet — 自然保护与限制咨询",
+        "url": "https://keskkonnaamet.ee/keskkonnaamet-uudised-kontakt/uldkontaktid-meie-kontorid"
+      },
+      {
+        "name": "Peatus.ee — 按日期查询完整行程",
+        "url": "https://peatus.ee/"
+      },
+      {
+        "name": "Eesti Puuetega Inimeste Koda — 一般无障碍咨询",
+        "url": "https://epikoda.ee/"
+      },
+      {
+        "name": "Jõelähtme 乡政府 2026-11-04 信息（南岸咖啡自动售货机）",
+        "url": "https://www.joelahtme.ee/uudised/joelahtme-vallavalitsuse-infokiri-0810-03112026"
       }
     ],
-    "verifiedNote": "本页内容已于 2026 年 10 月 23 日对照上述官方旅游来源核实。当地设施、服务与交通时刻会变动——出行前请再次确认，并通过页脚的联系链接告诉我们任何错误。"
+    "verifiedNote": "资料与修订建议由 Visit Harju 的 Liis Kurm（Harju Ettevõtlus- ja Arenduskeskus；Harju-, Rapla-, Läänemaa DMO）于 2026-11-03 来信提供。编辑资料核对日期：2026-11-09；并非现场勘察日期，也不代表对全站内容的认可。具体路线、设施可用性及交通仍需按出行日期确认。"
   },
   "withKids": {
     "title": "带儿童游览贾加拉瀑布",
-    "intro": "贾加拉瀑布是适合家庭的出游地：路径短而平缓，有观景台，也有充足空间让孩子们跑动。稍作规划，就能让各年龄段都安全尽兴。",
+    "intro": "带儿童游览应以岸上观景为主，按年龄、行动能力和当天路况决定是否前往。不要让儿童在瀑布附近戏水或独自靠近崖缘，也不假定步道平坦或全程有护栏。",
     "sections": [
       {
         "heading": "为何适合家庭",
-        "content": "主要观景点距停车场步行短且轻松，空旷的区域让孩子们无需长途跋涉就能看到瀑布。景区开放进入且免费。"
+        "content": "选择儿童能够在成人近距离照看下完成的岸上路线。行前向 Jõelähtme 乡政府问清路径、厕所和临时变化；遇危险路况及时缩短行程。"
       },
       {
         "heading": "带娃安全",
@@ -2093,7 +2501,7 @@
       },
       {
         "heading": "如何玩成一整天",
-        "content": "带上野餐、饮水与备用衣物。可将游览与一段短途森林步道结合，夏季还能享受漫长白昼。旺季现场有厕所与咖啡馆。"
+        "content": "自备饮水、食物与保暖衣物。Visit Harju 列有旱厕，但当日开放需确认；不要把季节性咖啡馆当作既定补给点。"
       }
     ],
     "faq": {
@@ -2101,15 +2509,15 @@
       "items": [
         {
           "question": "适合学步儿童吗？",
-          "answer": "适合——从停车场步行短而平缓，不过自然地面可能不平；推车可走主路，较崎岖的小径不行。"
+          "answer": "需根据儿童能力和现场路况判断，不能保证适合所有学步儿童或推车。先核实路线坡度、台阶与路面，成人全程近距离照看。"
         },
         {
           "question": "瀑布处有护栏吗？",
-          "answer": "观景台安全，但部分河岸边缘是敞开的——请在水边密切看管儿童。"
+          "answer": "护栏和平台的具体位置及状况须向乡政府核实；无论是否有护栏，都不要让儿童靠近崖缘或水边。"
         },
         {
           "question": "有厕所和食物吗？",
-          "answer": "现场有厕所与季节性咖啡馆；为稳妥请自备饮水与零食。"
+          "answer": "官方目录列有旱厕，但可用性需确认；自备饮水与食物，餐饮服务另行核对。"
         },
         {
           "question": "该预留多久？",
@@ -2137,9 +2545,33 @@
       {
         "name": "Peatus — 爱沙尼亚出行规划器",
         "url": "https://peatus.ee/?locale=zh"
+      },
+      {
+        "name": "Visit Harju — Jägala Waterfall（停车、旱厕、信息牌目录）",
+        "url": "https://visitharju.ee/en/jagala-waterfall/"
+      },
+      {
+        "name": "Jõelähtme 乡政府 — 现场路径与设施咨询",
+        "url": "https://www.joelahtme.ee/kontakt"
+      },
+      {
+        "name": "Keskkonnaamet — 自然保护与限制咨询",
+        "url": "https://keskkonnaamet.ee/keskkonnaamet-uudised-kontakt/uldkontaktid-meie-kontorid"
+      },
+      {
+        "name": "Peatus.ee — 按日期查询完整行程",
+        "url": "https://peatus.ee/"
+      },
+      {
+        "name": "Eesti Puuetega Inimeste Koda — 一般无障碍咨询",
+        "url": "https://epikoda.ee/"
+      },
+      {
+        "name": "Jõelähtme 乡政府 2026-11-04 信息（南岸咖啡自动售货机）",
+        "url": "https://www.joelahtme.ee/uudised/joelahtme-vallavalitsuse-infokiri-0810-03112026"
       }
     ],
-    "verifiedNote": "本页内容已于 2026 年 10 月 23 日对照上述官方旅游来源核实。当地设施、服务与交通时刻会变动——出行前请再次确认，并通过页脚的联系链接告诉我们任何错误。"
+    "verifiedNote": "资料与修订建议由 Visit Harju 的 Liis Kurm（Harju Ettevõtlus- ja Arenduskeskus；Harju-, Rapla-, Läänemaa DMO）于 2026-11-03 来信提供。编辑资料核对日期：2026-11-09；并非现场勘察日期，也不代表对全站内容的认可。具体路线、设施可用性及交通仍需按出行日期确认。"
   },
   "withDogs": {
     "title": "带狗游览贾加拉瀑布",
@@ -2151,7 +2583,7 @@
       },
       {
         "heading": "路线与地形",
-        "content": "从停车场到观景台步行短而平缓；更长的林间小径适合好好遛一圈。雨后或雪后地面可能泥泞，记得 afterwards 擦干爪子。"
+        "content": "按天气和现场开放情况选择岸上步行范围，不预设平缓步道或平台。牵好狗绳，远离崖缘、水边和结冰处，遇不安全路况折返。"
       },
       {
         "heading": "水与野生动物",
@@ -2171,7 +2603,7 @@
         },
         {
           "question": "我的狗能游泳吗？",
-          "answer": "不建议在瀑布处游泳，因为水势强且水温低；若狗一定要下水，请选远离跌水的平缓处。"
+          "answer": "不要让狗在瀑布附近下水，也不把看似平缓的河段当作安全泳区；牵好狗绳并远离跌水和岸边。"
         },
         {
           "question": "有垃圾箱吗？",
@@ -2199,25 +2631,53 @@
       {
         "name": "Peatus — 爱沙尼亚出行规划器",
         "url": "https://peatus.ee/?locale=zh"
+      },
+      {
+        "name": "Visit Harju — Jägala Waterfall（停车、旱厕、信息牌目录）",
+        "url": "https://visitharju.ee/en/jagala-waterfall/"
+      },
+      {
+        "name": "Jõelähtme 乡政府 — 现场路径与设施咨询",
+        "url": "https://www.joelahtme.ee/kontakt"
+      },
+      {
+        "name": "Keskkonnaamet — 自然保护与限制咨询",
+        "url": "https://keskkonnaamet.ee/keskkonnaamet-uudised-kontakt/uldkontaktid-meie-kontorid"
+      },
+      {
+        "name": "Peatus.ee — 按日期查询完整行程",
+        "url": "https://peatus.ee/"
+      },
+      {
+        "name": "Eesti Puuetega Inimeste Koda — 一般无障碍咨询",
+        "url": "https://epikoda.ee/"
+      },
+      {
+        "name": "Jõelähtme 乡政府 2026-11-04 信息（南岸咖啡自动售货机）",
+        "url": "https://www.joelahtme.ee/uudised/joelahtme-vallavalitsuse-infokiri-0810-03112026"
+      },
+      {
+        "name": "爱沙尼亚救援局（112）",
+        "url": "https://www.112.ee"
       }
     ],
-    "verifiedNote": "本页内容已于 2026 年 10 月 23 日对照上述官方旅游来源核实。当地设施、服务与交通时刻会变动——出行前请再次确认，并通过页脚的联系链接告诉我们任何错误。"
+    "verifiedNote": "资料与修订建议由 Visit Harju 的 Liis Kurm（Harju Ettevõtlus- ja Arenduskeskus；Harju-, Rapla-, Läänemaa DMO）于 2026-11-03 来信提供。编辑资料核对日期：2026-11-09；并非现场勘察日期，也不代表对全站内容的认可。具体路线、设施可用性及交通仍需按出行日期确认。"
   },
   "accessibility": {
     "title": "贾加拉瀑布的无障碍设施",
-    "intro": "贾加拉瀑布为开放进入，并针对行动不便的游客做了部分改造，但自然地形意味着某些区域比其它更易通行。以下为帮助你规划的如实概述。",
+    "intro": "目前不能据现有资料确认哪一段瀑布路线适合轮椅或婴儿车。请在出发前逐项核对路面、坡度、台阶、停车和厕所，而不是仅凭“靠近停车场”判断可达。",
     "sections": [
       {
         "heading": "步道与观景点",
-        "content": "从停车场到主要观景区的路线是最易通行的一段——相对短且坡度平缓，但这是未铺装的自然地面，雨后可能不平或泥泞。"
+        "content": "向 Jõelähtme 乡政府询问拟用入口至具体观景位置的路面、净宽、坡度、台阶和临时障碍；必要时请对方提供近期实景信息。"
       },
       {
-        "heading": "未改造的部分",
-        "content": "河岸边缘、峡谷下坡与更长的林间小径不适合轮椅，且可能打滑。并无直达水边的无障碍（无台阶）路线。"
+        "heading": "按个人与设备需求确认",
+        "content": "轮椅、助行器和婴儿车的要求不同。是否有无台阶路线、能否回转、是否需要协助，应针对具体路线核实，不能作笼统保证。"
       },
       {
         "heading": "设施",
-        "content": "现场有厕所与季节性咖啡馆。如需具体的当前无障碍信息（含台阶、坡度与协助），出行前请联系区域旅游办公室。"
+        "content": "Visit Harju 列有旱厕，但未提供无障碍卫生间或车位的具体认证。向 Jõelähtme 乡政府确认现场设施；Eesti Puuetega Inimeste Koda（EPIKoda）可提供一般咨询，不代表已检查该路线。"
       }
     ],
     "faq": {
@@ -2225,19 +2685,19 @@
       "items": [
         {
           "question": "瀑布对轮椅可达吗？",
-          "answer": "部分可达。停车场至观景点的路径最易通行，但是未铺装的自然地面；河岸本身并非无台阶。"
+          "answer": "现有资料不足以保证。请向 Jõelähtme 乡政府核实你打算使用的具体路线、设备要求和当天条件。"
         },
         {
           "question": "有残疾人车位吗？",
-          "answer": "景区停车场是最靠近的选择；车位有限，请早到。如需确切的无障碍车位，请向市镇确认。"
+          "answer": "本次未确认无障碍车位的数量、尺寸或位置，请向乡政府核实。"
         },
         {
           "question": "有台阶吗？",
-          "answer": "主要观景点避开大段台阶，但支线小径与峡谷涉及自然坡度与粗糙地面。"
+          "answer": "请按实际入口与观景路线核实台阶、坡度和路面，不能据现有资料保证无台阶。"
         },
         {
           "question": "当前信息该问谁？",
-          "answer": "出行前请联系 Visit Harju / Jõelähtme 市镇获取最新无障碍信息。"
+          "answer": "现场路线和设施联系 Jõelähtme 乡政府；一般无障碍信息与咨询可联系 Eesti Puuetega Inimeste Koda（EPIKoda）。"
         }
       ]
     },
@@ -2261,13 +2721,37 @@
       {
         "name": "Peatus — 爱沙尼亚出行规划器",
         "url": "https://peatus.ee/?locale=zh"
+      },
+      {
+        "name": "Visit Harju — Jägala Waterfall（停车、旱厕、信息牌目录）",
+        "url": "https://visitharju.ee/en/jagala-waterfall/"
+      },
+      {
+        "name": "Jõelähtme 乡政府 — 现场路径与设施咨询",
+        "url": "https://www.joelahtme.ee/kontakt"
+      },
+      {
+        "name": "Keskkonnaamet — 自然保护与限制咨询",
+        "url": "https://keskkonnaamet.ee/keskkonnaamet-uudised-kontakt/uldkontaktid-meie-kontorid"
+      },
+      {
+        "name": "Peatus.ee — 按日期查询完整行程",
+        "url": "https://peatus.ee/"
+      },
+      {
+        "name": "Eesti Puuetega Inimeste Koda — 一般无障碍咨询",
+        "url": "https://epikoda.ee/"
+      },
+      {
+        "name": "Jõelähtme 乡政府 2026-11-04 信息（南岸咖啡自动售货机）",
+        "url": "https://www.joelahtme.ee/uudised/joelahtme-vallavalitsuse-infokiri-0810-03112026"
       }
     ],
-    "verifiedNote": "本页内容已于 2026 年 10 月 23 日对照上述官方旅游来源核实。当地设施、服务与交通时刻会变动——出行前请再次确认，并通过页脚的联系链接告诉我们任何错误。"
+    "verifiedNote": "资料与修订建议由 Visit Harju 的 Liis Kurm（Harju Ettevõtlus- ja Arenduskeskus；Harju-, Rapla-, Läänemaa DMO）于 2026-11-03 来信提供。编辑资料核对日期：2026-11-09；并非现场勘察日期，也不代表对全站内容的认可。具体路线、设施可用性及交通仍需按出行日期确认。"
   },
   "schoolTrip": {
     "title": "贾加拉瀑布：学校与研学出游",
-    "intro": "贾加拉瀑布是一座现成的户外课堂：地质、水文、生态与地方历史集中于一处易达的地点。稍作准备，便十分适合学生团体。",
+    "intro": "瀑布适合讨论地质、水文与自然环境。学校团体出行前须按实际路线规划安全、无障碍需求、厕所与成人照看安排。",
     "sections": [
       {
         "heading": "学生能学到什么",
@@ -2295,11 +2779,11 @@
         },
         {
           "question": "客车停在哪里？",
-          "content": "使用景区停车场，并与市镇协调大型团体；请避开高峰以免拥堵。"
+          "answer": "使用景区停车场，并与市镇协调大型团体；请避开高峰以免拥堵。"
         },
         {
           "question": "适合各年龄段吗？",
-          "answer": "主要观景点的步行适合大多数年龄；内容深度可按团体调整。"
+          "answer": "是否适合取决于团体需求和当天路径情况。提前核对路面与坡度，让活动保持在远离水边的稳固岸上。"
         }
       ]
     },
@@ -2323,13 +2807,37 @@
       {
         "name": "Peatus — 爱沙尼亚出行规划器",
         "url": "https://peatus.ee/?locale=zh"
+      },
+      {
+        "name": "Visit Harju — Jägala Waterfall（停车、旱厕、信息牌目录）",
+        "url": "https://visitharju.ee/en/jagala-waterfall/"
+      },
+      {
+        "name": "Jõelähtme 乡政府 — 现场路径与设施咨询",
+        "url": "https://www.joelahtme.ee/kontakt"
+      },
+      {
+        "name": "Keskkonnaamet — 自然保护与限制咨询",
+        "url": "https://keskkonnaamet.ee/keskkonnaamet-uudised-kontakt/uldkontaktid-meie-kontorid"
+      },
+      {
+        "name": "Peatus.ee — 按日期查询完整行程",
+        "url": "https://peatus.ee/"
+      },
+      {
+        "name": "Eesti Puuetega Inimeste Koda — 一般无障碍咨询",
+        "url": "https://epikoda.ee/"
+      },
+      {
+        "name": "Jõelähtme 乡政府 2026-11-04 信息（南岸咖啡自动售货机）",
+        "url": "https://www.joelahtme.ee/uudised/joelahtme-vallavalitsuse-infokiri-0810-03112026"
       }
     ],
-    "verifiedNote": "本页内容已于 2026 年 10 月 23 日对照上述官方旅游来源核实。当地设施、服务与交通时刻会变动——出行前请再次确认，并通过页脚的联系链接告诉我们任何错误。"
+    "verifiedNote": "资料与修订建议由 Visit Harju 的 Liis Kurm（Harju Ettevõtlus- ja Arenduskeskus；Harju-, Rapla-, Läänemaa DMO）于 2026-11-03 来信提供。编辑资料核对日期：2026-11-09；并非现场勘察日期，也不代表对全站内容的认可。具体路线、设施可用性及交通仍需按出行日期确认。"
   },
   "swimming": {
     "title": "在贾加拉瀑布游泳：须知",
-    "intro": "不建议在贾加拉瀑布处直接游泳。跌水上方河水流速快且终年冰冷，岩石湿滑，瀑布本身并没有安全的水域。",
+    "intro": "本指南的安全建议是：**不要在瀑布及附近水潭游泳、涉水或让儿童戏水。** 看似浅或平缓的水面不等于安全；这不是对全面法律禁令的认定。",
     "sections": [
       {
         "heading": "为何此处有风险",
@@ -2337,11 +2845,11 @@
       },
       {
         "heading": "更安全的替代",
-        "content": "若想下水，请选远离瀑布的贾加拉河平缓河段，或使用哈留县其它指定的游泳区与湖泊。切勿独自游泳，并始终看管儿童。"
+        "content": "如计划游泳，请另选已确认开放、适合游泳的管理水域，并核对当前水质和安全提示。不要仅因远离瀑布或水面平缓，就自行认定某段河流安全。"
       },
       {
         "heading": "若靠近水边",
-        "content": "请待在标识好的河岸与平台上，与边缘保持安全距离，并穿防滑鞋。情况随季节与水位变化——见我们的水位指南。"
+        "content": "停留在远离水边与崖缘的稳固干燥岸上，穿防滑鞋并照看儿童。具体通行与保护限制请查看现场标识或咨询 Keskkonnaamet。"
       }
     ],
     "faq": {
@@ -2357,7 +2865,7 @@
         },
         {
           "question": "附近哪里能游泳？",
-          "answer": "选远离瀑布的平缓河段，或本区管理的游泳区与湖泊；出发前先了解进入方式。"
+          "answer": "请查询当地主管机关公布的指定游泳地点及当前开放和水质信息；本指南不推荐未经核实的河段。"
         },
         {
           "question": "夏季更安全吗？",
@@ -2385,17 +2893,41 @@
       {
         "name": "Peatus — 爱沙尼亚出行规划器",
         "url": "https://peatus.ee/?locale=zh"
+      },
+      {
+        "name": "Visit Harju — Jägala Waterfall（停车、旱厕、信息牌目录）",
+        "url": "https://visitharju.ee/en/jagala-waterfall/"
+      },
+      {
+        "name": "Jõelähtme 乡政府 — 现场路径与设施咨询",
+        "url": "https://www.joelahtme.ee/kontakt"
+      },
+      {
+        "name": "Keskkonnaamet — 自然保护与限制咨询",
+        "url": "https://keskkonnaamet.ee/keskkonnaamet-uudised-kontakt/uldkontaktid-meie-kontorid"
+      },
+      {
+        "name": "Peatus.ee — 按日期查询完整行程",
+        "url": "https://peatus.ee/"
+      },
+      {
+        "name": "Eesti Puuetega Inimeste Koda — 一般无障碍咨询",
+        "url": "https://epikoda.ee/"
+      },
+      {
+        "name": "Jõelähtme 乡政府 2026-11-04 信息（南岸咖啡自动售货机）",
+        "url": "https://www.joelahtme.ee/uudised/joelahtme-vallavalitsuse-infokiri-0810-03112026"
       }
     ],
-    "verifiedNote": "本页内容已于 2026 年 10 月 23 日对照上述官方旅游来源核实。当地设施、服务与交通时刻会变动——出行前请再次确认，并通过页脚的联系链接告诉我们任何错误。"
+    "verifiedNote": "资料与修订建议由 Visit Harju 的 Liis Kurm（Harju Ettevõtlus- ja Arenduskeskus；Harju-, Rapla-, Läänemaa DMO）于 2026-11-03 来信提供。编辑资料核对日期：2026-11-09；并非现场勘察日期，也不代表对全站内容的认可。具体路线、设施可用性及交通仍需按出行日期确认。"
   },
   "kayaking": {
     "title": "贾加拉河皮划艇与独木舟",
-    "intro": "当地人在远离瀑布的平缓河段划行贾加拉河。瀑布本身是不可逾越的屏障，因此划行指的是崖壁上方或下方很远的河段——切勿从瀑布上穿过。",
+    "intro": "在 Jägala 河安排皮划艇前，请向合格当地运营方核实具体水段、当前水位、上下水点和保护限制。不要在瀑布附近下水或尝试越过跌水。",
     "sections": [
       {
         "heading": "合适的划行地",
-        "content": "远离跌水的贾加拉河平缓河段用于休闲皮划艇与独木舟。请在瀑布处搬抬船只绕过——切勿尝试从崖壁上方或旁边划过。"
+        "content": "不要仅凭河面平缓就认定水段适合划行，也不要自行在瀑布附近寻找搬船路线。请由熟悉当地条件的运营方确认安全水段和合法进出点。"
       },
       {
         "heading": "条件与安全",
@@ -2415,7 +2947,7 @@
         },
         {
           "question": "河流适合初学者吗？",
-          "answer": "平缓河段在向导带领下可适合谨慎的初学者；瀑布附近的水流不适合新手。"
+          "answer": "是否适合初学者应由熟悉当前水位和路线的合格运营方评估；不推荐未经核实的河段，瀑布附近不适合自行尝试。"
         },
         {
           "question": "需要穿救生衣吗？",
@@ -2447,9 +2979,37 @@
       {
         "name": "Peatus — 爱沙尼亚出行规划器",
         "url": "https://peatus.ee/?locale=zh"
+      },
+      {
+        "name": "爱沙尼亚救援局（112）",
+        "url": "https://www.112.ee"
+      },
+      {
+        "name": "Visit Harju — Jägala Waterfall（停车、旱厕、信息牌目录）",
+        "url": "https://visitharju.ee/en/jagala-waterfall/"
+      },
+      {
+        "name": "Jõelähtme 乡政府 — 现场路径与设施咨询",
+        "url": "https://www.joelahtme.ee/kontakt"
+      },
+      {
+        "name": "Keskkonnaamet — 自然保护与限制咨询",
+        "url": "https://keskkonnaamet.ee/keskkonnaamet-uudised-kontakt/uldkontaktid-meie-kontorid"
+      },
+      {
+        "name": "Peatus.ee — 按日期查询完整行程",
+        "url": "https://peatus.ee/"
+      },
+      {
+        "name": "Eesti Puuetega Inimeste Koda — 一般无障碍咨询",
+        "url": "https://epikoda.ee/"
+      },
+      {
+        "name": "Jõelähtme 乡政府 2026-11-04 信息（南岸咖啡自动售货机）",
+        "url": "https://www.joelahtme.ee/uudised/joelahtme-vallavalitsuse-infokiri-0810-03112026"
       }
     ],
-    "verifiedNote": "本页内容已于 2026 年 10 月 23 日对照上述官方旅游来源核实。当地设施、服务与交通时刻会变动——出行前请再次确认，并通过页脚的联系链接告诉我们任何错误。"
+    "verifiedNote": "资料与修订建议由 Visit Harju 的 Liis Kurm（Harju Ettevõtlus- ja Arenduskeskus；Harju-, Rapla-, Läänemaa DMO）于 2026-11-03 来信提供。编辑资料核对日期：2026-11-09；并非现场勘察日期，也不代表对全站内容的认可。具体路线、设施可用性及交通仍需按出行日期确认。"
   },
   "picnicking": {
     "title": "在贾加拉瀑布野餐",
@@ -2461,7 +3021,7 @@
       },
       {
         "heading": "该带什么",
-        "content": "备好食物、饮水、地垫与垃圾袋。现场有季节性咖啡馆与厕所，但自给自足最稳妥——尤其非高峰季节。"
+        "content": "备好食物、饮水、地垫与垃圾袋。官方目录列有旱厕，但其当日开放要确认；不依赖未经核实的餐饮服务。"
       },
       {
         "heading": "无痕离开",
@@ -2509,17 +3069,41 @@
       {
         "name": "Peatus — 爱沙尼亚出行规划器",
         "url": "https://peatus.ee/?locale=zh"
+      },
+      {
+        "name": "Visit Harju — Jägala Waterfall（停车、旱厕、信息牌目录）",
+        "url": "https://visitharju.ee/en/jagala-waterfall/"
+      },
+      {
+        "name": "Jõelähtme 乡政府 — 现场路径与设施咨询",
+        "url": "https://www.joelahtme.ee/kontakt"
+      },
+      {
+        "name": "Keskkonnaamet — 自然保护与限制咨询",
+        "url": "https://keskkonnaamet.ee/keskkonnaamet-uudised-kontakt/uldkontaktid-meie-kontorid"
+      },
+      {
+        "name": "Peatus.ee — 按日期查询完整行程",
+        "url": "https://peatus.ee/"
+      },
+      {
+        "name": "Eesti Puuetega Inimeste Koda — 一般无障碍咨询",
+        "url": "https://epikoda.ee/"
+      },
+      {
+        "name": "Jõelähtme 乡政府 2026-11-04 信息（南岸咖啡自动售货机）",
+        "url": "https://www.joelahtme.ee/uudised/joelahtme-vallavalitsuse-infokiri-0810-03112026"
       }
     ],
-    "verifiedNote": "本页内容已于 2026 年 10 月 23 日对照上述官方旅游来源核实。当地设施、服务与交通时刻会变动——出行前请再次确认，并通过页脚的联系链接告诉我们任何错误。"
+    "verifiedNote": "资料与修订建议由 Visit Harju 的 Liis Kurm（Harju Ettevõtlus- ja Arenduskeskus；Harju-, Rapla-, Läänemaa DMO）于 2026-11-03 来信提供。编辑资料核对日期：2026-11-09；并非现场勘察日期，也不代表对全站内容的认可。具体路线、设施可用性及交通仍需按出行日期确认。"
   },
   "hikingTrails": {
     "title": "贾加拉瀑布的徒步与步道",
-    "intro": "从停车场走一段简短、有标识的路即可到达贾加拉瀑布，并可衔接沿贾加拉河延伸的更长林间小径。以下为不同长度的步行规划。",
+    "intro": "游览前先核实具体入口和当天可通行路线。自然河岸的路况随天气变化，不把到瀑布的路径默认视为平坦、有铺装或适合所有游客。",
     "sections": [
       {
         "heading": "基础观景步行",
-        "content": "从停车场出发，一条有标识的平缓小径通向瀑布上方的主观景台——平坦，适合多数游客。单程只需几分钟。"
+        "content": "向 Jõelähtme 乡政府确认入口至观景位置的现状，包括平台、台阶、路面和封闭情况。选择自己能够稳固行走的干燥路线，远离崖缘与水边。"
       },
       {
         "heading": "更长的林间小径",
@@ -2535,15 +3119,15 @@
       "items": [
         {
           "question": "从停车场步行多远？",
-          "answer": "沿平缓、有标识的小径到主观景台只需几分钟。"
+          "answer": "距离和耗时取决于实际停车入口及可通行路线，请行前核实，而非依赖固定的几分钟描述。"
         },
         {
           "question": "步道有标识吗？",
-          "answer": "观景步道有标识；更长的林间小径较原始、标记较少——请带地图。"
+          "answer": "具体标识与路线开放情况请向乡政府确认；不要进入封闭或无法辨识的支路。"
         },
         {
           "question": "难度如何？",
-          "answer": "观景步行轻松；延伸小径为中等难度，可能泥泞或打滑。"
+          "answer": "取决于路线、天气和个人能力。湿滑、冰雪、坡度或台阶都可能增加难度，应先核实后决定。"
         },
         {
           "question": "能走到其它景点吗？",
@@ -2571,9 +3155,33 @@
       {
         "name": "Peatus — 爱沙尼亚出行规划器",
         "url": "https://peatus.ee/?locale=zh"
+      },
+      {
+        "name": "Visit Harju — Jägala Waterfall（停车、旱厕、信息牌目录）",
+        "url": "https://visitharju.ee/en/jagala-waterfall/"
+      },
+      {
+        "name": "Jõelähtme 乡政府 — 现场路径与设施咨询",
+        "url": "https://www.joelahtme.ee/kontakt"
+      },
+      {
+        "name": "Keskkonnaamet — 自然保护与限制咨询",
+        "url": "https://keskkonnaamet.ee/keskkonnaamet-uudised-kontakt/uldkontaktid-meie-kontorid"
+      },
+      {
+        "name": "Peatus.ee — 按日期查询完整行程",
+        "url": "https://peatus.ee/"
+      },
+      {
+        "name": "Eesti Puuetega Inimeste Koda — 一般无障碍咨询",
+        "url": "https://epikoda.ee/"
+      },
+      {
+        "name": "Jõelähtme 乡政府 2026-11-04 信息（南岸咖啡自动售货机）",
+        "url": "https://www.joelahtme.ee/uudised/joelahtme-vallavalitsuse-infokiri-0810-03112026"
       }
     ],
-    "verifiedNote": "本页内容已于 2026 年 10 月 23 日对照上述官方旅游来源核实。当地设施、服务与交通时刻会变动——出行前请再次确认，并通过页脚的联系链接告诉我们任何错误。"
+    "verifiedNote": "资料与修订建议由 Visit Harju 的 Liis Kurm（Harju Ettevõtlus- ja Arenduskeskus；Harju-, Rapla-, Läänemaa DMO）于 2026-11-03 来信提供。编辑资料核对日期：2026-11-09；并非现场勘察日期，也不代表对全站内容的认可。具体路线、设施可用性及交通仍需按出行日期确认。"
   },
   "cycling": {
     "title": "骑行前往贾加拉瀑布",
@@ -2903,11 +3511,11 @@
     "sections": [
       {
         "heading": "无需门票，无需预订",
-        "content": "你可以全年任何一天、随时步入，无需购买任何东西或预约时段。只有导览徒步及现场任何商业服务（咖啡馆等）可能收费。"
+        "content": "Visit Harju 的目录列为免费、全天开放，但仍需遵守临时关闭和现场限制。可选交通或导览服务不包含在免费观景内。"
       },
       {
         "heading": "可能收费的部分",
-        "content": "停车通常免费，但少数由村镇管理的车位可能收取小额费用。季节性咖啡馆及任何租赁或导览收费。请以现场为准。"
+        "content": "Visit Harju 的景点页面列有免费停车。其它交通、导览和餐饮如有提供，由服务方另行收费；不要据此推断现场必有咖啡馆或租赁点。"
       },
       {
         "heading": "为何保持免费",
@@ -2931,7 +3539,7 @@
         },
         {
           "question": "什么值得花钱？",
-          "answer": "导览徒步、咖啡馆或附近游览——瀑布本身观赏是免费的。"
+          "answer": "交通、导览和实际购买的餐饮等服务可能收费；景点目录列观景免费。"
         }
       ]
     },
@@ -2955,17 +3563,45 @@
       {
         "name": "Peatus — 爱沙尼亚出行规划器",
         "url": "https://peatus.ee/?locale=zh"
+      },
+      {
+        "name": "爱沙尼亚救援局（112）",
+        "url": "https://www.112.ee"
+      },
+      {
+        "name": "Visit Harju — Jägala Waterfall（停车、旱厕、信息牌目录）",
+        "url": "https://visitharju.ee/en/jagala-waterfall/"
+      },
+      {
+        "name": "Jõelähtme 乡政府 — 现场路径与设施咨询",
+        "url": "https://www.joelahtme.ee/kontakt"
+      },
+      {
+        "name": "Keskkonnaamet — 自然保护与限制咨询",
+        "url": "https://keskkonnaamet.ee/keskkonnaamet-uudised-kontakt/uldkontaktid-meie-kontorid"
+      },
+      {
+        "name": "Peatus.ee — 按日期查询完整行程",
+        "url": "https://peatus.ee/"
+      },
+      {
+        "name": "Eesti Puuetega Inimeste Koda — 一般无障碍咨询",
+        "url": "https://epikoda.ee/"
+      },
+      {
+        "name": "Jõelähtme 乡政府 2026-11-04 信息（南岸咖啡自动售货机）",
+        "url": "https://www.joelahtme.ee/uudised/joelahtme-vallavalitsuse-infokiri-0810-03112026"
       }
     ],
-    "verifiedNote": "本页内容已于 2026 年 10 月 23 日对照上述官方旅游来源核实。当地设施、服务与交通时刻会变动——出行前请再次确认，并通过页脚的联系链接告诉我们任何错误。"
+    "verifiedNote": "资料与修订建议由 Visit Harju 的 Liis Kurm（Harju Ettevõtlus- ja Arenduskeskus；Harju-, Rapla-, Läänemaa DMO）于 2026-11-03 来信提供。编辑资料核对日期：2026-11-09；并非现场勘察日期，也不代表对全站内容的认可。具体路线、设施可用性及交通仍需按出行日期确认。"
   },
   "restaurantsNearby": {
     "title": "贾加拉瀑布附近的餐厅与咖啡馆",
-    "intro": "瀑布处的餐饮仅限于季节性的现场咖啡馆，但短驱范围内有几家咖啡馆与餐厅——规划半日游时很实用。",
+    "intro": "不要把瀑布附近一定有咖啡馆或正餐服务作为行程前提。乡政府信息提及南岸咖啡自动售货机，餐厅选择和营业时间仍应单独确认。",
     "sections": [
       {
         "heading": "现场",
-        "content": "温暖的月份里瀑布处有一家咖啡馆，提供轻食与饮品。它仅在季节营业，高峰时可能拥挤，因此非季节时请勿依赖它。"
+        "content": "Jõelähtme 乡政府 2026 年 11 月 4 日的信息提及南岸咖啡自动售货机继续设置。这不证明设有咖啡馆、餐厅或售货机全天运行；请自备基本补给。"
       },
       {
         "heading": "短驱范围内",
@@ -2981,7 +3617,7 @@
       "items": [
         {
           "question": "瀑布处有吃的吗？",
-          "answer": "现场有一家季节性咖啡馆；它并非全年开放，请据此安排。"
+          "answer": "本次未确认现场咖啡馆。乡政府提及南岸咖啡自动售货机，但运行情况需现场确认。"
         },
         {
           "question": "最近的餐厅在哪？",
@@ -3017,9 +3653,33 @@
       {
         "name": "Peatus — 爱沙尼亚出行规划器",
         "url": "https://peatus.ee/?locale=zh"
+      },
+      {
+        "name": "Visit Harju — Jägala Waterfall（停车、旱厕、信息牌目录）",
+        "url": "https://visitharju.ee/en/jagala-waterfall/"
+      },
+      {
+        "name": "Jõelähtme 乡政府 — 现场路径与设施咨询",
+        "url": "https://www.joelahtme.ee/kontakt"
+      },
+      {
+        "name": "Keskkonnaamet — 自然保护与限制咨询",
+        "url": "https://keskkonnaamet.ee/keskkonnaamet-uudised-kontakt/uldkontaktid-meie-kontorid"
+      },
+      {
+        "name": "Peatus.ee — 按日期查询完整行程",
+        "url": "https://peatus.ee/"
+      },
+      {
+        "name": "Eesti Puuetega Inimeste Koda — 一般无障碍咨询",
+        "url": "https://epikoda.ee/"
+      },
+      {
+        "name": "Jõelähtme 乡政府 2026-11-04 信息（南岸咖啡自动售货机）",
+        "url": "https://www.joelahtme.ee/uudised/joelahtme-vallavalitsuse-infokiri-0810-03112026"
       }
     ],
-    "verifiedNote": "本页内容已于 2026 年 10 月 23 日对照上述官方旅游来源核实。当地设施、服务与交通时刻会变动——出行前请再次确认，并通过页脚的联系链接告诉我们任何错误。"
+    "verifiedNote": "资料与修订建议由 Visit Harju 的 Liis Kurm（Harju Ettevõtlus- ja Arenduskeskus；Harju-, Rapla-, Läänemaa DMO）于 2026-11-03 来信提供。编辑资料核对日期：2026-11-09；并非现场勘察日期，也不代表对全站内容的认可。具体路线、设施可用性及交通仍需按出行日期确认。"
   },
   "whereToStay": {
     "title": "贾加拉瀑布附近住哪里",
@@ -3085,19 +3745,19 @@
   },
   "bestViewpoints": {
     "title": "贾加拉瀑布最佳观景位",
-    "intro": "贾加拉瀑布在瀑顶上方设有主观景台，沿河还有几处自然观测点。知道站在哪里，能让任何季节的游览都物尽其用。",
+    "intro": "按当天开放路线，在远离崖缘与水边的稳固干燥岸上选择角度。平台、木栈道及护栏的具体位置和现状应向 Jõelähtme 乡政府确认，不把这些设施作为既定条件。",
     "sections": [
       {
-        "heading": "主观景台",
-        "content": "瀑布上方有标识的观景台是经典、最安全的视角——从停车场步行短而平缓。它将瀑顶全宽与下方水潭尽收框中。"
+        "heading": "安全的岸上观景位置",
+        "content": "先看现场标识和路况，在远离落差与湿滑边缘的位置停留。不要为拍全瀑布而向水中、崖缘或封闭路段移动。"
       },
       {
         "heading": "河岸角度",
-        "content": "从河岸可找到仰视跌水、横看峡谷的低角度。这些是非官方、无护栏的地点——请与边缘保持安全距离并注意脚下。"
+        "content": "从安全干燥的岸上改变镜头焦距和构图，不下到浅滩或水潭寻找低角度。若无法安全接近，宁可放弃该机位。"
       },
       {
         "heading": "按季选择",
-        "content": "冬季冰景从观景台与上河岸最佳；春季高水期，较低河岸能拍到壮观的水雾。见我们的摄影与季节指南。"
+        "content": "冬季远离冰面和坠冰范围；春季高水期远离涨水及水雾打湿的岸边。拍照应服从安全和现场通行条件。"
       }
     ],
     "faq": {
@@ -3105,19 +3765,19 @@
       "items": [
         {
           "question": "最佳观景点是哪个？",
-          "answer": "瀑布上方有标识的主平台——安全、轻松，并框住整个瀑顶。"
+          "answer": "以当天开放、站立稳固且远离水边和崖缘的位置为先；本指南不保证某个固定平台存在或适用。"
         },
         {
           "question": "能下到瀑布脚下吗？",
-          "answer": "没有安全、维护好的路线通到瀑布脚下；请留在标识路径与平台上。"
+          "answer": "不建议为观景或拍照下到瀑布脚下、水潭或浅滩；沿已确认开放的岸上路线游览。"
         },
         {
           "question": "在哪里拍照？",
-          "answer": "平台拍宽景；上河岸拍冬季冰景；较低河岸（谨慎）拍高水期水雾。"
+          "answer": "在干燥稳固的安全岸上用焦距调整构图，避免靠近跌水、冰瀑及湿滑岩石。"
         },
         {
           "question": "探索安全吗？",
-          "answer": "在路径上大多安全；无护栏的边缘是隐患——请看管儿童并远离跌水。"
+          "answer": "不存在对天然河岸的全面安全保证。核对路况、照看儿童，遇封闭、冰雪或不稳固路面及时返回。"
         }
       ]
     },
@@ -3141,9 +3801,33 @@
       {
         "name": "Peatus — 爱沙尼亚出行规划器",
         "url": "https://peatus.ee/?locale=zh"
+      },
+      {
+        "name": "Visit Harju — Jägala Waterfall（停车、旱厕、信息牌目录）",
+        "url": "https://visitharju.ee/en/jagala-waterfall/"
+      },
+      {
+        "name": "Jõelähtme 乡政府 — 现场路径与设施咨询",
+        "url": "https://www.joelahtme.ee/kontakt"
+      },
+      {
+        "name": "Keskkonnaamet — 自然保护与限制咨询",
+        "url": "https://keskkonnaamet.ee/keskkonnaamet-uudised-kontakt/uldkontaktid-meie-kontorid"
+      },
+      {
+        "name": "Peatus.ee — 按日期查询完整行程",
+        "url": "https://peatus.ee/"
+      },
+      {
+        "name": "Eesti Puuetega Inimeste Koda — 一般无障碍咨询",
+        "url": "https://epikoda.ee/"
+      },
+      {
+        "name": "Jõelähtme 乡政府 2026-11-04 信息（南岸咖啡自动售货机）",
+        "url": "https://www.joelahtme.ee/uudised/joelahtme-vallavalitsuse-infokiri-0810-03112026"
       }
     ],
-    "verifiedNote": "本页内容已于 2026 年 10 月 23 日对照上述官方旅游来源核实。当地设施、服务与交通时刻会变动——出行前请再次确认，并通过页脚的联系链接告诉我们任何错误。"
+    "verifiedNote": "资料与修订建议由 Visit Harju 的 Liis Kurm（Harju Ettevõtlus- ja Arenduskeskus；Harju-, Rapla-, Läänemaa DMO）于 2026-11-03 来信提供。编辑资料核对日期：2026-11-09；并非现场勘察日期，也不代表对全站内容的认可。具体路线、设施可用性及交通仍需按出行日期确认。"
   },
   "topicLinks": {
     "title": "规划你的行程",
@@ -3261,7 +3945,7 @@
       },
       {
         "title": "亲子同游",
-        "desc": "轻松步道、观景台与野餐。",
+        "desc": "岸上路线、观景与休息安排。",
         "href": "/with-kids"
       },
       {
@@ -3276,7 +3960,7 @@
       },
       {
         "title": "最佳观景",
-        "desc": "瀑布的平台与角度。",
+        "desc": "岸上观景角度与安全距离。",
         "href": "/best-viewpoints"
       }
     ]

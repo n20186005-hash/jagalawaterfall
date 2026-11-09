@@ -4,7 +4,7 @@ import { ReactNode } from 'react';
 import { useTranslations, useMessages } from 'next-intl';
 import RichInline from './RichInline';
 
-type AmenityItem = { id: string; title: string; level: string; desc: string };
+type AmenityItem = { id: string; title: string; level: string; desc?: string; text?: string };
 
 const IconMap: Record<AmenityItem['id'], ReactNode> = {
   wc: (
@@ -80,7 +80,7 @@ export default function AmenitiesSection() {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-5">
           {items.map((item) => (
             <div
-              key={item.id}
+              key={item.id || item.title}
               className="rounded-xl p-6 flex gap-4 transition-shadow hover:shadow-md"
               style={{ background: 'var(--bg-tertiary)', border: '1px solid var(--border-color)' }}
             >
@@ -113,7 +113,7 @@ export default function AmenitiesSection() {
                   className="text-sm leading-relaxed"
                   style={{ color: 'var(--text-secondary)' }}
                 >
-                  <RichInline text={item.desc} />
+                  <RichInline text={item.text || item.desc || ''} />
                 </p>
               </div>
             </div>

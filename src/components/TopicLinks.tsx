@@ -1,5 +1,6 @@
 import { useMessages } from 'next-intl';
 import { Link } from '@/i18n/navigation';
+import { routing, type Pathname } from '@/i18n/routing';
 import RichInline from './RichInline';
 
 export default function TopicLinks() {
@@ -28,7 +29,7 @@ export default function TopicLinks() {
           {ns.items.map((item: { title: string; desc: string; href: string }, i: number) => (
             <Link
               key={i}
-              href={item.href}
+              href={item.href in routing.pathnames ? item.href as Pathname : '/'}
               className="block rounded-xl p-5 transition-transform hover:-translate-y-0.5"
               style={{
                 background: 'var(--bg-base)',

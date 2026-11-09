@@ -19,6 +19,7 @@ import FAQSection from '@/components/FAQSection';
 import Recommendations from '@/components/Recommendations';
 import MapEmbed from '@/components/MapEmbed';
 import Footer from '@/components/Footer';
+import SourceReview from '@/components/SourceReview';
 
 export default async function HomePage({
   params,
@@ -44,6 +45,7 @@ export default async function HomePage({
         <div id="photos"><PhotoSpotsSection /></div>
         <TopicLinks />
         <AmenitiesSection />
+        <SourceReview />
         <HotelsSection />
         <Gallery />
         <Reviews />

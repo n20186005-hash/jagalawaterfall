@@ -1,5 +1,6 @@
 import { useLocale, useMessages } from 'next-intl';
 import { Link } from '@/i18n/navigation';
+import type { Pathname } from '@/i18n/routing';
 import TopicFaq from './TopicFaq';
 import RichInline from './RichInline';
 import {
@@ -51,7 +52,7 @@ export type TopicKey =
   | 'whereToStay'
   | 'bestViewpoints';
 
-const TOPIC_MAP: { slug: string; ns: TopicKey }[] = [
+const TOPIC_MAP: { slug: Pathname; ns: TopicKey }[] = [
   { slug: '/from-tallinn', ns: 'fromTallinn' },
   { slug: '/by-bus', ns: 'byBus' },
   { slug: '/parking', ns: 'parking' },

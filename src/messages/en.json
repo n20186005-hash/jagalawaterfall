@@ -57,7 +57,7 @@
         },
         {
           "icon": "🚌",
-          "text": "**By bus:** intercity coaches on the Tallinn–Narva / Tallinn–Jõgeva lines stop at Jägala-Joa; check live times on peatus.ee before you set out."
+          "text": "Use Peatus.ee for your travel date and both directions. Check the exact boarding stop, destination stop, transfers and final walking route to Jägala Waterfall; a stop name alone does not establish a short or accessible walk. Route 159 appears at the Jägala-Joa stops, but not every departure runs to Tallinn."
         },
         {
           "icon": "🆓",
@@ -171,12 +171,12 @@
       {
         "icon": "🚻",
         "title": "Toilets",
-        "text": "A basic dry (pit) toilet is listed at the site by Visit Harju. Facilities are simple and seasonal units may be locked in winter — confirm on arrival and do not rely on them for large groups."
+        "text": "Visit Harju lists a dry toilet, information boards and free parking. This listing does not establish current opening, maintenance, baby-changing or accessible toilet provision; confirm specific needs with Jõelähtme Parish."
       },
       {
         "icon": "🍽️",
         "title": "Food & drink",
-        "text": "There is **no café, kiosk or restaurant at the falls**. Bring your own water and snacks; the nearest shops and services are in Jägala-Joa village and along the E20 corridor."
+        "text": "A Jõelähtme Parish newsletter dated 4 November 2026 reports continuation of a coffee vending machine on the south bank. This is not confirmation of a staffed café, meals or drinking-water refills. Bring water and snacks and check availability locally."
       },
       {
         "icon": "♻️",
@@ -223,54 +223,54 @@
   "transport": {
     "title": "How to Get Here",
     "fromTallinn": "From Tallinn City Centre",
-    "fromTallinnDesc": "Jägala Waterfall is about 25–30 km east of central Tallinn. By car, follow the E20 (Tallinn–Narva) and turn off at the signs for Jägala-Joa; the free car park is a short distance from the falls. By public transport, intercity coaches on the Tallinn–Narva and Tallinn–Jõgeva lines stop at **Jägala-Joa**; from the stop, follow the road towards the river and the signed walking route to the viewpoint. Always check the live timetable at peatus.ee before you rely on a bus.",
+    "fromTallinnDesc": "From Tallinn, plan the drive using current navigation and follow local signs for Jägala Waterfall. Visit Harju lists free parking. Use Peatus.ee for your travel date and both directions. Check the exact boarding stop, destination stop, transfers and final walking route to Jägala Waterfall; a stop name alone does not establish a short or accessible walk. Route 159 appears at the Jägala-Joa stops, but not every departure runs to Tallinn.",
     "fromAirport": "From Tallinn Airport (TLL)",
-    "fromAirportDesc": "Rent a car or take a taxi from Tallinn Airport; continue east on E20 for roughly 20 km (≈ 25 minutes). Direct public transport to the airport requires an interchange at Ülemiste or the central bus station.",
+    "fromAirportDesc": "For travel from Tallinn Airport, compare current driving directions with a date-specific journey search on Peatus.ee, including transfers and the final walk. Confirm taxi availability and price before travelling.",
     "publicTransport": "Public Transport (Bus)",
-    "publicTransportDesc": "Intercity coaches stop at Jägala-Joa on the Tallinn–Narva / Tallinn–Jõgeva corridors. Services are **more frequent on weekdays** and lighter at weekends and holidays — exact times change, so look them up on peatus.ee for your actual travel date. From the stop it is a walk of several minutes to the falls along the signed route; allow extra time if you are travelling with children, luggage or limited mobility.",
+    "publicTransportDesc": "Use Peatus.ee for your travel date and both directions. Check the exact boarding stop, destination stop, transfers and final walking route to Jägala Waterfall; a stop name alone does not establish a short or accessible walk. Route 159 appears at the Jägala-Joa stops, but not every departure runs to Tallinn.",
     "cycling": "By Bicycle",
     "cyclingDesc": "≈ 25 km from Tallinn along waymarked rural cycling routes; suitable for endurance cyclists. Carry water, spare inner tube and high-visibility vest.",
     "driving": "By Private Motor Vehicle",
-    "drivingDesc": "East on E20 from Tallinn, exit at Jägala and follow brown road signs. Site-adjacent car parks are free. Overnight camping or sleeping in vehicles inside the protected landscape area is NOT permitted."
+    "drivingDesc": "Use current navigation for Jägala Waterfall and follow local signs. Visit Harju lists free parking; check overnight and camping conditions rather than assuming permission."
   },
   "route": {
     "title": "Suggested Itinerary (2–3 Hours on Site)",
-    "overview": "Recommended as a half-day trip from Tallinn: drive or take an intercity bus to Jägala Waterfall. Walk from the car park to the main viewing platform, descend the left-bank trail for close-range erosion landforms, reconnoitre the right-bank elevated viewpoint, rest at the designated picnic lawn, locate the best photo stops, photograph the waterfall panorama, and return along the access trail.",
+    "overview": "Plan an out-and-back visit using the paths open on the day. View the waterfall from dry ground, keep back from edges, take a break away from the water and return with enough time for your onward journey. Confirm facilities and route suitability before leaving.",
     "steps": [
-      "Depart Tallinn by private car or pre-booked intercity bus (Tallinn → Narva / Jõgeva line)",
-      "Park in the site-adjacent car park; on foot exit the car park heading west towards the river",
-      "Ascend to the main wooden viewing platform and observe the full waterfall panorama against the limestone scarp",
-      "Descend along the left riverside trail (gentle gradient) to inspect potholes, erosion terraces and solution grooves",
-      "Pause at the riverside shallow zone to observe the geological architecture and — if fortunate — kingfisher / dipper activity",
-      "Climb to the right high-ground viewpoint to take in the full overhead panorama of the waterfall, gorge and upstream river reach",
-      "Rest on the designated picnic lawn (NO open fires / NO disposable BBQs)",
-      "Walk back through the forest trail corridor, noting the phenology of the canopy through the four seasons",
-      "Frame up your final photographs from the compositionally best vantage points",
-      "Re-enter the access trail and return to the car park / bus stop to conclude the visit"
+      "Check the weather, daylight, local access notices and your return journey.",
+      "Travel by car or use a date-specific journey from Peatus.ee.",
+      "Read the local information boards and follow signs and any closures.",
+      "Choose an open approach suitable for everyone in your group; turn back if footing is poor.",
+      "Observe the geology from dry ground well away from the edge.",
+      "Keep children close and do not enter the river.",
+      "Photograph the waterfall from a stable position without crossing barriers.",
+      "Take a break in a permitted place and carry all rubbish out.",
+      "Return by the safe, open approach before daylight fades.",
+      "Allow enough time to reach your car or the exact stop shown in your return itinerary."
     ]
   },
   "photoSpots": {
     "title": "Photography Vantage Points",
     "spots": [
       {
-        "name": "Main Wooden Viewing Platform",
-        "desc": "Default frontal panorama position; captures the full curtain plunging onto the plunge pool — ideal for wide-angle and long-exposure silky-water renderings."
+        "name": "Dry-land overview",
+        "desc": "Use a wide lens from stable, dry ground well back from the drop. Confirm current viewing access locally rather than assuming a wooden platform."
       },
       {
-        "name": "Left-bank Shallow Reach",
-        "desc": "Close-range waterfall background with foreground boulders and spray; polarising filter recommended to control surface glare."
+        "name": "Rock textures from dry ground",
+        "desc": "Use a longer lens for rock and water textures without approaching wet rocks or stepping into the river."
       },
       {
-        "name": "Right High-ground Viewpoint",
-        "desc": "Overhead 3/4 vista of waterfall, gorge and river corridor; excellent for golden-hour side-light and layered-autumn compositions."
+        "name": "Distant river-and-gorge view",
+        "desc": "Frame the river and surrounding trees from an open approach; do not climb towards an unverified viewpoint or unstable bank."
       },
       {
-        "name": "Below the Cascade (from distance)",
-        "desc": "Low-angle compositional choice to emphasise the 8-metre drop; avoid trespassing beyond marked railings — strong re-circulation currents underwater."
+        "name": "Waterfall detail with a longer lens",
+        "desc": "Isolate the falling water from a safe distance with a longer lens. Do not descend to the pool or cross barriers."
       },
       {
-        "name": "Forest Access Trail (river-facing side)",
-        "desc": "Birch / pine frames in the foreground, waterfall in the background; ideal for layered environmental portraiture and intimate landscapes."
+        "name": "Forest-framed view",
+        "desc": "Use trees as a foreground only from an open, stable path. Keep back from river edges and do not damage vegetation."
       }
     ]
   },
@@ -375,11 +375,11 @@
       },
       {
         "question": "Is the site accessible with a wheelchair or stroller?",
-        "answer": "The waterfall is a **natural riverside landscape** with uneven ground, slopes, steps and surfaces that become slippery when wet or icy. We cannot guarantee step-free or wheelchair access, and conditions change with the weather. If accessibility is essential, contact Jõelähtme Parish or check recent visitor reports before you travel."
+        "answer": "A step-free route suitable for a wheelchair or stroller has not been confirmed. Ask Jõelähtme Parish about the exact approach, surface, slopes, steps and current closures before travelling. EPIKoda provides general accessibility advice, not certification of this route."
       },
       {
         "question": "Can you swim at the waterfall?",
-        "answer": "Swimming is not advised. The plunge pool is cold, the currents near the base are strong, and the rocks are slippery. There is no lifeguard on site."
+        "answer": "For safety, do not swim, wade or let children play in the water at the waterfall. Stay on dry, stable ground away from the drop and river edge, supervise children closely and avoid river ice. This is safety advice, not a claim that an official blanket swimming ban has been verified; follow signs and consult Keskkonnaamet for current restrictions."
       },
       {
         "question": "Are dogs allowed?",
@@ -546,7 +546,7 @@
       },
       {
         "heading": "By public transport",
-        "content": "Intercity coaches on the Tallinn–Narva and Tallinn–Jõgeva lines stop at **Jägala-Joa**. From there it is a walk of a few minutes to the falls along the signed route. Services are more frequent on weekdays; at weekends and holidays they thin out, so check peatus.ee for your actual date and plan your return before you leave."
+        "content": "Use Peatus.ee for your travel date and both directions. Check the exact boarding stop, destination stop, transfers and final walking route to Jägala Waterfall; a stop name alone does not establish a short or accessible walk. Route 159 appears at the Jägala-Joa stops, but not every departure runs to Tallinn."
       },
       {
         "heading": "By taxi or ride-hailing",
@@ -562,11 +562,11 @@
       "items": [
         {
           "question": "How far is Jägala Waterfall from Tallinn?",
-          "answer": "About **25 km** east of central Tallinn — a **30-minute** drive on the E20 highway, or a 15–20 minute walk after the Jägala-Joa bus stop."
+          "answer": "Jägala Waterfall lies east of Tallinn. Driving and walking times depend on your starting point and chosen approach; compare current navigation with the live Peatus.ee journey planner."
         },
         {
           "question": "Is there a direct bus from Tallinn?",
-          "answer": "Yes. Tallinn → Narva / Jõgeva intercity coaches stop at **Jägala-Joa**; from there it is a 15–20 minute walk to the viewing platform. Weekend services are limited (3–5 return trips/day), so verify the timetable on TLT.ee or Elron."
+          "answer": "Use Peatus.ee for your travel date and both directions. Check the exact boarding stop, destination stop, transfers and final walking route to Jägala Waterfall; a stop name alone does not establish a short or accessible walk. Route 159 appears at the Jägala-Joa stops, but not every departure runs to Tallinn."
         },
         {
           "question": "How much does a taxi from Tallinn cost?",
@@ -574,7 +574,7 @@
         },
         {
           "question": "Can I visit without a car?",
-          "answer": "Absolutely — by intercity bus plus a short walk, by taxi / ride-hailing, or as part of an organised regional tour. The site itself requires no booking."
+          "answer": "Check a complete public-transport journey on Peatus.ee, including the return and final walk. Taxi availability and any organised tour should be confirmed with the provider."
         },
         {
           "question": "Do I need to book anything in advance?",
@@ -592,27 +592,35 @@
     "sourcesTitle": "Sources & verification",
     "sources": [
       {
-        "name": "Peatus — Estonian journey planner",
-        "url": "https://peatus.ee/?locale=en"
+        "name": "Visit Harju — Jägala Waterfall",
+        "url": "https://visitharju.ee/en/jagala-waterfall/"
       },
       {
-        "name": "Visit Estonia",
-        "url": "https://visitestonia.com/en/jagala-waterfall"
+        "name": "Jõelähtme Parish — access and facilities",
+        "url": "https://www.joelahtme.ee/kontakt"
       },
       {
-        "name": "Visit Harju",
-        "url": "https://visitharju.ee"
+        "name": "Peatus — live journey planner",
+        "url": "https://peatus.ee/"
+      },
+      {
+        "name": "Peatus — Jägala-Joa 27003-1",
+        "url": "https://web.peatus.ee/pysakit/estonia%3A134024"
+      },
+      {
+        "name": "Peatus — Jägala-Joa 27002-1",
+        "url": "https://web.peatus.ee/pysakit/estonia%3A5483"
       }
     ],
-    "verifiedNote": "Content last verified against the official tourism sources above on 23 October 2026. Local facilities, services and transport timetables change — please confirm before travel and report any error through the contact link in the footer."
+    "verifiedNote": "Safety, facilities, accessibility and transport wording reviewed on 9 November 2026 using the linked sources and the 3 November 2026 email from Liis Kurm, Visit Harju / Harju Ettevõtlus- ja Arenduskeskus (Harju-, Rapla-, Läänemaa DMO). This is a document review, not an on-site inspection or endorsement. Confirm current local conditions before travel."
   },
   "parking": {
     "title": "Parking at Jägala Waterfall — Free Car Park & Tips",
-    "intro": "Parking at Jägala Waterfall is generally free and convenient. The principal site-adjacent surface car park sits a short walk from the main viewing platform, with a few regulated village bays nearby. Here is what to expect and how to avoid a fine.",
+    "intro": "Visit Harju lists free parking at Jägala Waterfall. Check the current approach, signs and walking route before travelling; do not assume a level route or a fixed number of spaces.",
     "sections": [
       {
         "heading": "Where to park",
-        "content": "Visit Harju lists a **free car park** at Jägala-Joa, reached by turning off the E20 (Tallinn–Narva road) and following the signs for the waterfall. From the car park it is a short walk to the viewing area along the signed path. We do not quote an exact number of bays because it changes with seasonal layout; arrive earlier on summer weekends when the site is busiest."
+        "content": "Use the current map and local signs to reach the waterfall parking. Visit Harju lists free parking; ask Jõelähtme Parish about access, vehicle restrictions and any temporary changes."
       },
       {
         "heading": "Finding the entrance on foot",
@@ -624,7 +632,7 @@
       },
       {
         "heading": "Overnight & campers",
-        "content": "The car park is intended for daytime visiting. Overnight stays, camping and campfires are restricted in the protected surroundings — follow posted signage and Estonian everyman’s-right rules, and ask Jõelähtme Parish if you are unsure."
+        "content": "Do not assume overnight parking or camping is allowed. Check posted rules, landowner conditions and any nature-protection restrictions with Jõelähtme Parish or Keskkonnaamet."
       }
     ],
     "faq": {
@@ -632,23 +640,23 @@
       "items": [
         {
           "question": "Is parking free at Jägala Waterfall?",
-          "answer": "The main site-adjacent car park is **generally free**. A minority of village-managed roadside bays may charge a small fee — check the signage on arrival."
+          "answer": "Visit Harju lists free parking. Follow current signs and check local conditions on arrival."
         },
         {
           "question": "How big is the car park?",
-          "answer": "It offers **several dozen bays** for light vehicles and can fill up on peak spring and summer weekends; arriving before 10:00 local time is recommended."
+          "answer": "A current capacity has not been confirmed. Groups and large vehicles should ask Jõelähtme Parish about arrangements in advance."
         },
         {
           "question": "Can I park overnight?",
-          "answer": "**No.** Overnight stays, roof-top tents, camper-vans and sleeping in vehicles are prohibited inside the protected landscape."
+          "answer": "Check current landowner and nature-protection rules before planning an overnight stay; this guide does not establish permission or a blanket legal ban."
         },
         {
           "question": "Is there EV charging nearby?",
-          "answer": "Yes — DC fast-chargers (CCS / CHAdeMO) are typically within **8–15 km**, at suburban hypermarkets and larger highway service stations."
+          "answer": "Check a live charging map for compatible chargers and operating status before travelling; on-site charging has not been confirmed."
         },
         {
           "question": "Is the car park accessible for strollers or wheelchairs?",
-          "answer": "The main car park connects to the platform via a gently graded access path, broadly reachable with standard strollers or basic manual wheelchairs. Lower riverside trails are not recommended for mobility devices."
+          "answer": "A step-free route suitable for a wheelchair or stroller has not been confirmed. Ask Jõelähtme Parish about the exact approach, surface, slopes, steps and current closures before travelling. EPIKoda provides general accessibility advice, not certification of this route."
         }
       ]
     },
@@ -662,11 +670,27 @@
     "sourcesTitle": "Sources & verification",
     "sources": [
       {
-        "name": "Visit Harju",
-        "url": "https://visitharju.ee"
+        "name": "Visit Harju — Jägala Waterfall",
+        "url": "https://visitharju.ee/en/jagala-waterfall/"
+      },
+      {
+        "name": "Jõelähtme Parish — access and facilities",
+        "url": "https://www.joelahtme.ee/kontakt"
+      },
+      {
+        "name": "EPIKoda — general accessibility advice",
+        "url": "https://epikoda.ee/"
+      },
+      {
+        "name": "Keskkonnaamet — restrictions and nature protection",
+        "url": "https://keskkonnaamet.ee/keskkonnaamet-uudised-kontakt/uldkontaktid-meie-kontorid"
+      },
+      {
+        "name": "Responsible visits to nature",
+        "url": "https://www.loodusturism.com/juhisedlooduses"
       }
     ],
-    "verifiedNote": "Content last verified against the official tourism sources above on 23 October 2026. Local facilities, services and transport timetables change — please confirm before travel and report any error through the contact link in the footer."
+    "verifiedNote": "Safety, facilities, accessibility and transport wording reviewed on 9 November 2026 using the linked sources and the 3 November 2026 email from Liis Kurm, Visit Harju / Harju Ettevõtlus- ja Arenduskeskus (Harju-, Rapla-, Läänemaa DMO). This is a document review, not an on-site inspection or endorsement. Confirm current local conditions before travel."
   },
   "winter": {
     "title": "Jägala Waterfall in Winter — The Ice Curtain Guide",
@@ -698,7 +722,7 @@
         },
         {
           "question": "Is the ice curtain safe to approach?",
-          "answer": "Only from the **boardwalks and platforms**. Never step onto the frozen river surface — ice thickness over the plunge pool is irregular and currents remain active underneath."
+          "answer": "View ice formations from safe, dry ground well back from the edge. Never step onto river ice or stand under hanging ice. Platforms and boardwalk availability must be checked locally."
         },
         {
           "question": "What is the best time of day to photograph it?",
@@ -724,11 +748,23 @@
     "sourcesTitle": "Sources & verification",
     "sources": [
       {
-        "name": "Visit Estonia",
-        "url": "https://visitestonia.com/en/jagala-waterfall"
+        "name": "Visit Harju — Jägala Waterfall",
+        "url": "https://visitharju.ee/en/jagala-waterfall/"
+      },
+      {
+        "name": "Jõelähtme Parish — access and facilities",
+        "url": "https://www.joelahtme.ee/kontakt"
+      },
+      {
+        "name": "Keskkonnaamet — restrictions and nature protection",
+        "url": "https://keskkonnaamet.ee/keskkonnaamet-uudised-kontakt/uldkontaktid-meie-kontorid"
+      },
+      {
+        "name": "Responsible visits to nature",
+        "url": "https://www.loodusturism.com/juhisedlooduses"
       }
     ],
-    "verifiedNote": "Content last verified against the official tourism sources above on 23 October 2026. Local facilities, services and transport timetables change — please confirm before travel and report any error through the contact link in the footer."
+    "verifiedNote": "Safety, facilities, accessibility and transport wording reviewed on 9 November 2026 using the linked sources and the 3 November 2026 email from Liis Kurm, Visit Harju / Harju Ettevõtlus- ja Arenduskeskus (Harju-, Rapla-, Läänemaa DMO). This is a document review, not an on-site inspection or endorsement. Confirm current local conditions before travel."
   },
   "photos": {
     "title": "Jägala Waterfall Photos — Four Seasons at the Falls",
@@ -864,19 +900,19 @@
   },
   "byBus": {
     "title": "Getting to Jägala Waterfall by Bus",
-    "intro": "**Yes — you can reach Jägala Waterfall by bus.** Intercity coaches on the Tallinn–Narva and Tallinn–Jõgeva lines stop at **Jägala-Joa**, a short walk from the falls. Timings change by season and day, so the one tool you need is the live Estonian journey planner, peatus.ee.",
+    "intro": "Use Peatus.ee for your travel date and both directions. Check the exact boarding stop, destination stop, transfers and final walking route to Jägala Waterfall; a stop name alone does not establish a short or accessible walk. Route 159 appears at the Jägala-Joa stops, but not every departure runs to Tallinn.",
     "sections": [
       {
         "heading": "Which bus to take",
-        "content": "From **Tallinn Bus Station (Tallinna bussijaam)**, look for coaches heading towards **Narva** or **Jõgeva** — both corridors pass the Jägala-Joa stop. These are regional/long-distance coaches, not city buses, and they run several times a day on weekdays. Always confirm the stop name and time on peatus.ee for your travel date."
+        "content": "Use Peatus.ee for your travel date and both directions. Check the exact boarding stop, destination stop, transfers and final walking route to Jägala Waterfall; a stop name alone does not establish a short or accessible walk. Route 159 appears at the Jägala-Joa stops, but not every departure runs to Tallinn."
       },
       {
         "heading": "Getting off and walking in",
-        "content": "Alight at **Jägala-Joa**. From the road, follow the signed route towards the river; the walking path to the viewing area is a few minutes on natural ground. In winter the path can be snowy or icy, so allow extra time and wear grippy shoes. There is no separate shuttle, so the walk is part of the trip."
+        "content": "Use the walking leg in the live journey planner and check road crossings, surfaces and current access. Do not assume that every Jägala-Joa stop is a few minutes from a viewpoint. Allow extra time for weather and mobility needs."
       },
       {
         "heading": "Planning the return",
-        "content": "Services are **lighter at weekends and holidays**, and the last buses back to Tallinn leave earlier than midday departures. Check the return time on peatus.ee before you set out, and have a backup (taxi/rideshare) in mind in case you miss the last coach. Build the round trip around the timetable rather than hoping for a bus."
+        "content": "Check the actual outbound and return departures for your date on Peatus.ee, including weekends and holidays. Confirm a backup journey rather than relying on a fixed frequency or an assumed last bus."
       },
       {
         "heading": "Combining bus + taxi",
@@ -884,7 +920,7 @@
       },
       {
         "heading": "Why we do not publish a fixed timetable",
-        "content": "Coach schedules on this corridor shift with the season, holidays and operator changes. Publishing a fixed “3–5 buses a day” figure would go stale and mislead travellers. The live planner at peatus.ee is the authoritative source for your exact date."
+        "content": "Timetables, operators and routes can change. Peatus.ee is the source for your exact travel date; check the full journey in both directions before leaving."
       }
     ],
     "faq": {
@@ -892,19 +928,19 @@
       "items": [
         {
           "question": "Can I get to Jägala Waterfall by public transport?",
-          "answer": "Yes — intercity coaches stop at Jägala-Joa, a short walk from the falls. Check live times on peatus.ee."
+          "answer": "Use Peatus.ee for your travel date and both directions. Check the exact boarding stop, destination stop, transfers and final walking route to Jägala Waterfall; a stop name alone does not establish a short or accessible walk. Route 159 appears at the Jägala-Joa stops, but not every departure runs to Tallinn."
         },
         {
           "question": "How long is the walk from the bus stop?",
-          "answer": "A few minutes along the signed path to the river; allow more in snow or ice. The walk is on natural ground, not a paved plaza."
+          "answer": "Use the walking leg in the live journey planner and check road crossings, surfaces and current access. Do not assume that every Jägala-Joa stop is a few minutes from a viewpoint. Allow extra time for weather and mobility needs."
         },
         {
           "question": "Is the bus reliable at weekends?",
-          "answer": "Services are more frequent on weekdays and lighter at weekends and holidays. Always check peatus.ee and plan your return before leaving Tallinn."
+          "answer": "Check the actual outbound and return departures for your date on Peatus.ee, including weekends and holidays. Confirm a backup journey rather than relying on a fixed frequency or an assumed last bus."
         },
         {
           "question": "Where do I catch the bus in Tallinn?",
-          "answer": "From Tallinn Bus Station, on coaches towards Narva or Jõgeva. Confirm the stop and time on the live planner."
+          "answer": "Use Peatus.ee for your travel date and both directions. Check the exact boarding stop, destination stop, transfers and final walking route to Jägala Waterfall; a stop name alone does not establish a short or accessible walk. Route 159 appears at the Jägala-Joa stops, but not every departure runs to Tallinn."
         }
       ]
     },
@@ -918,19 +954,27 @@
     "sourcesTitle": "Sources & verification",
     "sources": [
       {
-        "name": "Peatus — Estonian journey planner",
-        "url": "https://peatus.ee/?locale=en"
+        "name": "Visit Harju — Jägala Waterfall",
+        "url": "https://visitharju.ee/en/jagala-waterfall/"
       },
       {
-        "name": "Visit Estonia — Jägala Waterfall",
-        "url": "https://visitestonia.com/en/jagala-waterfall"
+        "name": "Jõelähtme Parish — access and facilities",
+        "url": "https://www.joelahtme.ee/kontakt"
       },
       {
-        "name": "Visit Harju — Jägala-Joa",
-        "url": "https://visitharju.ee"
+        "name": "Peatus — live journey planner",
+        "url": "https://peatus.ee/"
+      },
+      {
+        "name": "Peatus — Jägala-Joa 27003-1",
+        "url": "https://web.peatus.ee/pysakit/estonia%3A134024"
+      },
+      {
+        "name": "Peatus — Jägala-Joa 27002-1",
+        "url": "https://web.peatus.ee/pysakit/estonia%3A5483"
       }
     ],
-    "verifiedNote": "Content last verified against the official tourism sources above on 23 October 2026. Local facilities, services and transport timetables change — please confirm before travel and report any error through the contact link in the footer."
+    "verifiedNote": "Safety, facilities, accessibility and transport wording reviewed on 9 November 2026 using the linked sources and the 3 November 2026 email from Liis Kurm, Visit Harju / Harju Ettevõtlus- ja Arenduskeskus (Harju-, Rapla-, Läänemaa DMO). This is a document review, not an on-site inspection or endorsement. Confirm current local conditions before travel."
   },
   "ticketsOpeningHours": {
     "title": "Jägala Waterfall: Entrance Fee & Opening Hours",
@@ -1000,23 +1044,23 @@
   },
   "facilities": {
     "title": "Toilets & Facilities at Jägala Waterfall",
-    "intro": "**Facilities at Jägala Waterfall are minimal.** Visit Harju lists a basic dry (pit) toilet and free parking at the site. There is no café, kiosk, shop or visitor centre — bring what you need and plan accordingly.",
+    "intro": "Visit Harju lists a dry toilet, information boards and free parking. This listing does not establish current opening, maintenance, baby-changing or accessible toilet provision; confirm specific needs with Jõelähtme Parish. Bring your own water and essential supplies.",
     "sections": [
       {
         "heading": "Toilets",
-        "content": "A basic **dry (pit) toilet** is listed at the site by Visit Harju. It is simple and may be locked or unavailable in winter; do not rely on it for a large group, and confirm on arrival. There are no flush toilets or baby-changing facilities at the falls."
+        "content": "Visit Harju lists a dry toilet, information boards and free parking. This listing does not establish current opening, maintenance, baby-changing or accessible toilet provision; confirm specific needs with Jõelähtme Parish."
       },
       {
         "heading": "Parking",
-        "content": "Free parking is listed at the site, off Kubja tee. See the Parking guide for the exact approach and the short walk-in. The car park is for daytime visiting."
+        "content": "Visit Harju lists free parking. Confirm the current approach, any restrictions and space for larger vehicles with Jõelähtme Parish; follow signs on arrival."
       },
       {
         "heading": "Food, drink & supplies",
-        "content": "There is **nothing to buy at the falls** — no café, kiosk or water refill. Bring your own water and snacks. The nearest shops, cafés and services are in Jägala-Joa village and along the E20 corridor; Tallinn is about 30 minutes away by car."
+        "content": "A Jõelähtme Parish newsletter dated 4 November 2026 reports continuation of a coffee vending machine on the south bank. This is not confirmation of a staffed café, meals or drinking-water refills. Bring water and snacks and check availability locally."
       },
       {
         "heading": "Accessibility of facilities",
-        "content": "The site is a natural landscape: uneven ground, slopes and steps. The toilet is a basic unit, not an accessible restroom. If you need specific facilities, contact Jõelähtme Parish before travelling."
+        "content": "A step-free route suitable for a wheelchair or stroller has not been confirmed. Ask Jõelähtme Parish about the exact approach, surface, slopes, steps and current closures before travelling. EPIKoda provides general accessibility advice, not certification of this route."
       },
       {
         "heading": "Waste & mobile coverage",
@@ -1024,7 +1068,7 @@
       },
       {
         "heading": "Picnic areas",
-        "content": "There is an open, grassy area near the forest that visitors use for picnics. Leave it clean, keep fires to designated rules (generally none here), and respect the protected landscape."
+        "content": "Choose a permitted place on dry land away from the edge for a break. Take your litter home. Check current access, camping and fire restrictions with Keskkonnaamet; do not assume an equipped picnic area is available."
       }
     ],
     "faq": {
@@ -1032,19 +1076,19 @@
       "items": [
         {
           "question": "Are there toilets at Jägala Waterfall?",
-          "answer": "A basic dry toilet is listed by Visit Harju; it may be locked in winter. No flush toilets or baby-changing on site."
+          "answer": "Visit Harju lists a dry toilet, information boards and free parking. This listing does not establish current opening, maintenance, baby-changing or accessible toilet provision; confirm specific needs with Jõelähtme Parish."
         },
         {
           "question": "Is there a café or shop?",
-          "answer": "No. Bring your own food and water; the nearest services are in the village and along the E20."
+          "answer": "A Jõelähtme Parish newsletter dated 4 November 2026 reports continuation of a coffee vending machine on the south bank. This is not confirmation of a staffed café, meals or drinking-water refills. Bring water and snacks and check availability locally."
         },
         {
           "question": "Is parking free and is it the facility?",
-          "answer": "Free parking is listed at the site; the car park itself is the main developed facility besides the toilet."
+          "answer": "Visit Harju lists free parking, a dry toilet and information boards. Confirm current conditions and any restrictions locally."
         },
         {
           "question": "Can I picnic there?",
-          "answer": "Yes, on the open grassy area, but pack out all waste and follow the protected-area rules."
+          "answer": "Take breaks only where access is permitted, away from the edge, and leave no litter. Check current fire and camping rules with Keskkonnaamet."
         }
       ]
     },
@@ -1057,15 +1101,23 @@
     "sourcesTitle": "Sources & verification",
     "sources": [
       {
-        "name": "Visit Harju — Jägala-Joa",
-        "url": "https://visitharju.ee"
+        "name": "Visit Harju — Jägala Waterfall",
+        "url": "https://visitharju.ee/en/jagala-waterfall/"
+      },
+      {
+        "name": "Jõelähtme Parish — access and facilities",
+        "url": "https://www.joelahtme.ee/kontakt"
+      },
+      {
+        "name": "Jõelähtme Parish — 4 November 2026 newsletter",
+        "url": "https://www.joelahtme.ee/uudised/joelahtme-vallavalitsuse-infokiri-0810-03112026"
       }
     ],
-    "verifiedNote": "Content last verified against the official tourism sources above on 23 October 2026. Local facilities, services and transport timetables change — please confirm before travel and report any error through the contact link in the footer."
+    "verifiedNote": "Safety, facilities, accessibility and transport wording reviewed on 9 November 2026 using the linked sources and the 3 November 2026 email from Liis Kurm, Visit Harju / Harju Ettevõtlus- ja Arenduskeskus (Harju-, Rapla-, Läänemaa DMO). This is a document review, not an on-site inspection or endorsement. Confirm current local conditions before travel."
   },
   "safety": {
     "title": "Jägala Waterfall Safety Guide",
-    "intro": "Jägala Waterfall is a natural riverside site with **no lifeguards, fences along the natural edge, or barriers at the water**. The main risks are slippery limestone, cold fast water, winter ice and falling ice. Stay on marked paths and use common sense.",
+    "intro": "Wet rock, the waterfall edge, flowing water and winter ice make this a site requiring care. Do not assume railings or rescue supervision. For safety, do not swim, wade or let children play in the water at the waterfall. Stay on dry, stable ground away from the drop and river edge, supervise children closely and avoid river ice. This is safety advice, not a claim that an official blanket swimming ban has been verified; follow signs and consult Keskkonnaamet for current restrictions.",
     "sections": [
       {
         "heading": "Slippery rocks & edges",
@@ -1073,7 +1125,7 @@
       },
       {
         "heading": "Water & currents",
-        "content": "The Jägala is a real river. The plunge pool is **cold and the currents near the base are strong**. Swimming is not advised and there is no lifeguard. Keep children and pets under close control near the water."
+        "content": "For safety, do not swim, wade or let children play in the water at the waterfall. Stay on dry, stable ground away from the drop and river edge, supervise children closely and avoid river ice. This is safety advice, not a claim that an official blanket swimming ban has been verified; follow signs and consult Keskkonnaamet for current restrictions."
       },
       {
         "heading": "Winter ice & falling ice",
@@ -1085,7 +1137,7 @@
       },
       {
         "heading": "Emergency",
-        "content": "The Estonian emergency number is **112** (call or text). Mobile coverage is usually available but can drop in the gorge; do not rely on it. Tell someone your plan if you visit in winter or off-peak."
+        "content": "Call **112** for an emergency in Estonia. Save the location before travelling and tell someone your plan; do not rely on continuous mobile coverage."
       }
     ],
     "faq": {
@@ -1093,7 +1145,7 @@
       "items": [
         {
           "question": "Can you swim at the waterfall?",
-          "answer": "Not advised — cold water, strong currents near the base, slippery rocks and no lifeguard."
+          "answer": "For safety, do not swim, wade or let children play in the water at the waterfall. Stay on dry, stable ground away from the drop and river edge, supervise children closely and avoid river ice. This is safety advice, not a claim that an official blanket swimming ban has been verified; follow signs and consult Keskkonnaamet for current restrictions."
         },
         {
           "question": "Is it safe to visit in winter?",
@@ -1101,7 +1153,7 @@
         },
         {
           "question": "Are there railings or fences?",
-          "answer": "Some viewing spots have low rails, but the natural river edge is not fenced. Supervise children and pets closely."
+          "answer": "Continuous barriers and the current condition of viewing facilities have not been confirmed. Keep well back from the drop and supervise children even where a railing is present."
         },
         {
           "question": "What is the emergency number?",
@@ -1119,15 +1171,23 @@
     "sourcesTitle": "Sources & verification",
     "sources": [
       {
-        "name": "Visit Estonia — Jägala Waterfall",
-        "url": "https://visitestonia.com/en/jagala-waterfall"
+        "name": "Visit Harju — Jägala Waterfall",
+        "url": "https://visitharju.ee/en/jagala-waterfall/"
       },
       {
-        "name": "Estonian Rescue Board (112)",
-        "url": "https://www.112.ee"
+        "name": "Jõelähtme Parish — access and facilities",
+        "url": "https://www.joelahtme.ee/kontakt"
+      },
+      {
+        "name": "Keskkonnaamet — restrictions and nature protection",
+        "url": "https://keskkonnaamet.ee/keskkonnaamet-uudised-kontakt/uldkontaktid-meie-kontorid"
+      },
+      {
+        "name": "Responsible visits to nature",
+        "url": "https://www.loodusturism.com/juhisedlooduses"
       }
     ],
-    "verifiedNote": "Content last verified against the official tourism sources above on 23 October 2026. Local facilities, services and transport timetables change — please confirm before travel and report any error through the contact link in the footer."
+    "verifiedNote": "Safety, facilities, accessibility and transport wording reviewed on 9 November 2026 using the linked sources and the 3 November 2026 email from Liis Kurm, Visit Harju / Harju Ettevõtlus- ja Arenduskeskus (Harju-, Rapla-, Läänemaa DMO). This is a document review, not an on-site inspection or endorsement. Confirm current local conditions before travel."
   },
   "bestTimeToVisit": {
     "title": "Best Time to Visit Jägala Waterfall",
@@ -1266,7 +1326,7 @@
     "sections": [
       {
         "heading": "Vantage points",
-        "content": "The **main viewing area** above the falls gives the classic wide, frontal panorama. From the **rocky shore in front** (reachable via the path and steps) you get a lower, more immersive angle — take care, the rocks are slippery. The **right-bank path and steps** frame the falls through trees and give a ¾ view. Higher ground on the approach offers an overview of the gorge."
+        "content": "Choose dry, stable, open ground well back from the water and drop. Do not assume a maintained platform, boardwalk, railing or step-free approach is available; ask Jõelähtme Parish about current paths and viewing facilities. Never enter the water or approach the edge for a photograph."
       },
       {
         "heading": "Light & timing",
@@ -1294,7 +1354,7 @@
       "items": [
         {
           "question": "Where is the best photo spot?",
-          "answer": "The main viewing area for the wide frontal shot; the front shore and right-bank steps for lower and framed angles. All are on marked paths."
+          "answer": "Choose dry, stable, open ground well back from the water and drop. Do not assume a maintained platform, boardwalk, railing or step-free approach is available; ask Jõelähtme Parish about current paths and viewing facilities. Never enter the water or approach the edge for a photograph."
         },
         {
           "question": "What time is best for light?",
@@ -1320,19 +1380,23 @@
     "sourcesTitle": "Sources & verification",
     "sources": [
       {
-        "name": "RMK (Estonian State Forest)",
-        "url": "https://www.rmk.ee"
+        "name": "Visit Harju — Jägala Waterfall",
+        "url": "https://visitharju.ee/en/jagala-waterfall/"
       },
       {
-        "name": "Jõelähtme Parish",
-        "url": "https://joelahtme.ee"
+        "name": "Jõelähtme Parish — access and facilities",
+        "url": "https://www.joelahtme.ee/kontakt"
       },
       {
-        "name": "Visit Estonia — Jägala Waterfall",
-        "url": "https://visitestonia.com/en/jagala-waterfall"
+        "name": "Keskkonnaamet — restrictions and nature protection",
+        "url": "https://keskkonnaamet.ee/keskkonnaamet-uudised-kontakt/uldkontaktid-meie-kontorid"
+      },
+      {
+        "name": "Responsible visits to nature",
+        "url": "https://www.loodusturism.com/juhisedlooduses"
       }
     ],
-    "verifiedNote": "Content last verified against the official tourism sources above on 23 October 2026. Local facilities, services and transport timetables change — please confirm before travel and report any error through the contact link in the footer."
+    "verifiedNote": "Safety, facilities, accessibility and transport wording reviewed on 9 November 2026 using the linked sources and the 3 November 2026 email from Liis Kurm, Visit Harju / Harju Ettevõtlus- ja Arenduskeskus (Harju-, Rapla-, Läänemaa DMO). This is a document review, not an on-site inspection or endorsement. Confirm current local conditions before travel."
   },
   "jagalaRiver": {
     "title": "The Jägala River",
@@ -1372,7 +1436,7 @@
         },
         {
           "question": "Can you fish or swim?",
-          "answer": "Uses are regulated; check current rules. Swimming at the falls is not advised (cold, strong currents, no lifeguard)."
+          "answer": "Check fishing and access rules with the competent authorities. For safety, do not swim, wade or let children play in the water at the waterfall. Stay on dry, stable ground away from the drop and river edge, supervise children closely and avoid river ice. This is safety advice, not a claim that an official blanket swimming ban has been verified; follow signs and consult Keskkonnaamet for current restrictions."
         }
       ]
     },
@@ -1385,15 +1449,23 @@
     "sourcesTitle": "Sources & verification",
     "sources": [
       {
-        "name": "Visit Estonia — River Jägala & suspension bridge",
-        "url": "https://visitestonia.com/en/river-jagala-and-suspension-bridge"
+        "name": "Visit Harju — Jägala Waterfall",
+        "url": "https://visitharju.ee/en/jagala-waterfall/"
       },
       {
-        "name": "Visit Estonia — Jägala Waterfall",
-        "url": "https://visitestonia.com/en/jagala-waterfall"
+        "name": "Jõelähtme Parish — access and facilities",
+        "url": "https://www.joelahtme.ee/kontakt"
+      },
+      {
+        "name": "Keskkonnaamet — restrictions and nature protection",
+        "url": "https://keskkonnaamet.ee/keskkonnaamet-uudised-kontakt/uldkontaktid-meie-kontorid"
+      },
+      {
+        "name": "Responsible visits to nature",
+        "url": "https://www.loodusturism.com/juhisedlooduses"
       }
     ],
-    "verifiedNote": "Content last verified against the official tourism sources above on 23 October 2026. Local facilities, services and transport timetables change — please confirm before travel and report any error through the contact link in the footer."
+    "verifiedNote": "Safety, facilities, accessibility and transport wording reviewed on 9 November 2026 using the linked sources and the 3 November 2026 email from Liis Kurm, Visit Harju / Harju Ettevõtlus- ja Arenduskeskus (Harju-, Rapla-, Läänemaa DMO). This is a document review, not an on-site inspection or endorsement. Confirm current local conditions before travel."
   },
   "halfDayTrip": {
     "title": "Jägala Waterfall Half-Day Trip from Tallinn",
@@ -1405,7 +1477,7 @@
       },
       {
         "heading": "Without a car",
-        "content": "Take an intercity coach from Tallinn Bus Station to **Jägala-Joa** (see our By bus guide), walk a few minutes to the falls, and plan the return around the live timetable on peatus.ee. A taxi or rideshare is the flexible alternative if the coach times do not fit."
+        "content": "Use Peatus.ee for your travel date and both directions. Check the exact boarding stop, destination stop, transfers and final walking route to Jägala Waterfall; a stop name alone does not establish a short or accessible walk. Route 159 appears at the Jägala-Joa stops, but not every departure runs to Tallinn."
       },
       {
         "heading": "What to bring",
@@ -1451,15 +1523,27 @@
     "sourcesTitle": "Sources & verification",
     "sources": [
       {
-        "name": "Peatus — Estonian journey planner",
-        "url": "https://peatus.ee/?locale=en"
+        "name": "Visit Harju — Jägala Waterfall",
+        "url": "https://visitharju.ee/en/jagala-waterfall/"
       },
       {
-        "name": "Visit Harju — Jägala-Joa",
-        "url": "https://visitharju.ee"
+        "name": "Jõelähtme Parish — access and facilities",
+        "url": "https://www.joelahtme.ee/kontakt"
+      },
+      {
+        "name": "Peatus — live journey planner",
+        "url": "https://peatus.ee/"
+      },
+      {
+        "name": "Peatus — Jägala-Joa 27003-1",
+        "url": "https://web.peatus.ee/pysakit/estonia%3A134024"
+      },
+      {
+        "name": "Peatus — Jägala-Joa 27002-1",
+        "url": "https://web.peatus.ee/pysakit/estonia%3A5483"
       }
     ],
-    "verifiedNote": "Content last verified against the official tourism sources above on 23 October 2026. Local facilities, services and transport timetables change — please confirm before travel and report any error through the contact link in the footer."
+    "verifiedNote": "Safety, facilities, accessibility and transport wording reviewed on 9 November 2026 using the linked sources and the 3 November 2026 email from Liis Kurm, Visit Harju / Harju Ettevõtlus- ja Arenduskeskus (Harju-, Rapla-, Läänemaa DMO). This is a document review, not an on-site inspection or endorsement. Confirm current local conditions before travel."
   },
   "jagalaVsKeila": {
     "title": "Jägala vs Keila Waterfall",
@@ -1475,7 +1559,7 @@
       },
       {
         "heading": "Facilities & setting",
-        "content": "Jägala is a wilder, protected natural site with free parking and a basic toilet, but no café. Keila sits in a more developed manor-park setting with walking paths and a different character. Check current facilities on the official tourism pages for each."
+        "content": "Visit Harju lists free parking, information boards and a dry toilet at Jägala. Check current services and accessibility separately for each waterfall; the facilities at one do not establish those at the other."
       },
       {
         "heading": "Best for",
@@ -1512,15 +1596,15 @@
     "sourcesTitle": "Sources & verification",
     "sources": [
       {
-        "name": "Visit Estonia — Jägala Waterfall",
-        "url": "https://visitestonia.com/en/jagala-waterfall"
+        "name": "Visit Harju — Jägala Waterfall",
+        "url": "https://visitharju.ee/en/jagala-waterfall/"
       },
       {
-        "name": "Visit Estonia — Keila Waterfall",
-        "url": "https://visitestonia.com/en/keila-waterfall"
+        "name": "Jõelähtme Parish — access and facilities",
+        "url": "https://www.joelahtme.ee/kontakt"
       }
     ],
-    "verifiedNote": "Content last verified against the official tourism sources above on 23 October 2026. Local facilities, services and transport timetables change — please confirm before travel and report any error through the contact link in the footer."
+    "verifiedNote": "Safety, facilities, accessibility and transport wording reviewed on 9 November 2026 using the linked sources and the 3 November 2026 email from Liis Kurm, Visit Harju / Harju Ettevõtlus- ja Arenduskeskus (Harju-, Rapla-, Läänemaa DMO). This is a document review, not an on-site inspection or endorsement. Confirm current local conditions before travel."
   },
   "waterfallsNearTallinn": {
     "title": "Waterfalls Near Tallinn",
@@ -1589,7 +1673,7 @@
   },
   "fromAirport": {
     "title": "From Tallinn Airport to Jägala Waterfall",
-    "intro": "Lennart Meri Tallinn Airport (TLL) sits about 25 km west of Jägala Waterfall. There is no direct public bus to the falls, so most visitors take a taxi or ride-hailing car straight from the terminal, or travel into Tallinn first and continue by car, coach or tour.",
+    "intro": "Plan your journey from Tallinn Airport using current driving directions or Peatus.ee. Check the complete route, transfers and final walk rather than assuming a direct service to the waterfall.",
     "sections": [
       {
         "heading": "Taxi or ride-hailing (simplest)",
@@ -1597,7 +1681,7 @@
       },
       {
         "heading": "Airport → Tallinn → falls",
-        "content": "If you prefer public transport, take a bus or tram from the airport into central Tallinn, then continue to Jägala by intercity coach (the Tallinn–Narva and Tallinn–Jõgeva lines stop at Jägala-Joa) or by hired car. This adds a transfer but costs far less than a taxi."
+        "content": "Use Peatus.ee for your travel date and both directions. Check the exact boarding stop, destination stop, transfers and final walking route to Jägala Waterfall; a stop name alone does not establish a short or accessible walk. Route 159 appears at the Jägala-Joa stops, but not every departure runs to Tallinn."
       },
       {
         "heading": "Car hire",
@@ -1609,7 +1693,7 @@
       "items": [
         {
           "question": "How far is the airport from Jägala Waterfall?",
-          "answer": "About **25 km** west — a **25–35 minute** drive in normal traffic."
+          "answer": "Check your exact airport departure and return in Peatus.ee. Do not assume a direct service; inspect any transfers and the final walking route."
         },
         {
           "question": "Is there a direct bus from the airport?",
@@ -1635,19 +1719,27 @@
     "sourcesTitle": "Sources & verification",
     "sources": [
       {
-        "name": "Visit Estonia",
-        "url": "https://visitestonia.com/en/jagala-waterfall"
+        "name": "Visit Harju — Jägala Waterfall",
+        "url": "https://visitharju.ee/en/jagala-waterfall/"
       },
       {
-        "name": "Visit Harju",
-        "url": "https://visitharju.ee"
+        "name": "Jõelähtme Parish — access and facilities",
+        "url": "https://www.joelahtme.ee/kontakt"
       },
       {
-        "name": "Peatus — Estonian journey planner",
-        "url": "https://peatus.ee/?locale=en"
+        "name": "Peatus — live journey planner",
+        "url": "https://peatus.ee/"
+      },
+      {
+        "name": "Peatus — Jägala-Joa 27003-1",
+        "url": "https://web.peatus.ee/pysakit/estonia%3A134024"
+      },
+      {
+        "name": "Peatus — Jägala-Joa 27002-1",
+        "url": "https://web.peatus.ee/pysakit/estonia%3A5483"
       }
     ],
-    "verifiedNote": "Content last verified against the official tourism sources above on 23 October 2026. Local facilities, services and transport timetables change — please confirm before travel and report any error through the contact link in the footer."
+    "verifiedNote": "Safety, facilities, accessibility and transport wording reviewed on 9 November 2026 using the linked sources and the 3 November 2026 email from Liis Kurm, Visit Harju / Harju Ettevõtlus- ja Arenduskeskus (Harju-, Rapla-, Läänemaa DMO). This is a document review, not an on-site inspection or endorsement. Confirm current local conditions before travel."
   },
   "spring": {
     "title": "Visiting Jägala Waterfall in Spring",
@@ -1663,7 +1755,7 @@
       },
       {
         "heading": "Crowds and light",
-        "content": "Spring is quieter than summer, so you will often have the viewing platform to yourself. Daylight lengthens through the season, giving pleasant soft light in the mornings and evenings."
+        "content": "Daylight lengthens in spring, but meltwater and wet ground require care. Choose a safe, open viewing position away from the edge rather than seeking a closer angle."
       }
     ],
     "faq": {
@@ -1679,7 +1771,7 @@
         },
         {
           "question": "Are facilities open in spring?",
-          "answer": "The site is open access year-round. The on-site café and any seasonal services open as the weather improves — confirm locally before you count on them."
+          "answer": "Visit Harju lists year-round access. Weather and temporary local restrictions may affect a visit; check current conditions and do not assume seasonal services are open."
         },
         {
           "question": "Can I bring a dog in spring?",
@@ -1697,19 +1789,15 @@
     "sourcesTitle": "Sources & verification",
     "sources": [
       {
-        "name": "Visit Estonia",
-        "url": "https://visitestonia.com/en/jagala-waterfall"
+        "name": "Visit Harju — Jägala Waterfall",
+        "url": "https://visitharju.ee/en/jagala-waterfall/"
       },
       {
-        "name": "Visit Harju",
-        "url": "https://visitharju.ee"
-      },
-      {
-        "name": "Peatus — Estonian journey planner",
-        "url": "https://peatus.ee/?locale=en"
+        "name": "Jõelähtme Parish — access and facilities",
+        "url": "https://www.joelahtme.ee/kontakt"
       }
     ],
-    "verifiedNote": "Content last verified against the official tourism sources above on 23 October 2026. Local facilities, services and transport timetables change — please confirm before travel and report any error through the contact link in the footer."
+    "verifiedNote": "Safety, facilities, accessibility and transport wording reviewed on 9 November 2026 using the linked sources and the 3 November 2026 email from Liis Kurm, Visit Harju / Harju Ettevõtlus- ja Arenduskeskus (Harju-, Rapla-, Läänemaa DMO). This is a document review, not an on-site inspection or endorsement. Confirm current local conditions before travel."
   },
   "summer": {
     "title": "Visiting Jägala Waterfall in Summer",
@@ -1717,7 +1805,7 @@
     "sections": [
       {
         "heading": "What to expect",
-        "content": "The forest canopy is full, the river runs clear and the viewing platforms and boardwalks are at their most comfortable. This is the easiest time for families, picnics and relaxed photography."
+        "content": "Summer brings green foliage and long daylight for photography. Plan around the actual ground conditions and keep children away from the water; summer does not make the falls safe for paddling."
       },
       {
         "heading": "Beating the crowds",
@@ -1725,7 +1813,7 @@
       },
       {
         "heading": "Staying safe",
-        "content": "Even in summer the water is cold and the current strong — swimming at the falls is not advised. Keep children and dogs away from the unfenced edges near the drop."
+        "content": "For safety, do not swim, wade or let children play in the water at the waterfall. Stay on dry, stable ground away from the drop and river edge, supervise children closely and avoid river ice. This is safety advice, not a claim that an official blanket swimming ban has been verified; follow signs and consult Keskkonnaamet for current restrictions."
       }
     ],
     "faq": {
@@ -1741,7 +1829,7 @@
         },
         {
           "question": "Can we swim in summer?",
-          "answer": "Swimming right at the waterfall is not recommended because of the strong current and cold water; see our swimming guide for safer alternatives nearby."
+          "answer": "For safety, do not swim, wade or let children play in the water at the waterfall. Stay on dry, stable ground away from the drop and river edge, supervise children closely and avoid river ice. This is safety advice, not a claim that an official blanket swimming ban has been verified; follow signs and consult Keskkonnaamet for current restrictions."
         },
         {
           "question": "Are there bugs or mosquitoes?",
@@ -1759,19 +1847,23 @@
     "sourcesTitle": "Sources & verification",
     "sources": [
       {
-        "name": "Visit Estonia",
-        "url": "https://visitestonia.com/en/jagala-waterfall"
+        "name": "Visit Harju — Jägala Waterfall",
+        "url": "https://visitharju.ee/en/jagala-waterfall/"
       },
       {
-        "name": "Visit Harju",
-        "url": "https://visitharju.ee"
+        "name": "Jõelähtme Parish — access and facilities",
+        "url": "https://www.joelahtme.ee/kontakt"
       },
       {
-        "name": "Peatus — Estonian journey planner",
-        "url": "https://peatus.ee/?locale=en"
+        "name": "Keskkonnaamet — restrictions and nature protection",
+        "url": "https://keskkonnaamet.ee/keskkonnaamet-uudised-kontakt/uldkontaktid-meie-kontorid"
+      },
+      {
+        "name": "Responsible visits to nature",
+        "url": "https://www.loodusturism.com/juhisedlooduses"
       }
     ],
-    "verifiedNote": "Content last verified against the official tourism sources above on 23 October 2026. Local facilities, services and transport timetables change — please confirm before travel and report any error through the contact link in the footer."
+    "verifiedNote": "Safety, facilities, accessibility and transport wording reviewed on 9 November 2026 using the linked sources and the 3 November 2026 email from Liis Kurm, Visit Harju / Harju Ettevõtlus- ja Arenduskeskus (Harju-, Rapla-, Läänemaa DMO). This is a document review, not an on-site inspection or endorsement. Confirm current local conditions before travel."
   },
   "autumn": {
     "title": "Visiting Jägala Waterfall in Autumn",
@@ -1923,7 +2015,7 @@
         },
         {
           "question": "Can I get there by public transport from the Old Town?",
-          "answer": "Yes: reach a Tallinn coach terminal and take a Tallinn–Narva / Jõgeva coach to Jägala-Joa, then walk in. Check peatus.ee for times."
+          "answer": "Use Peatus.ee for your travel date and both directions. Check the exact boarding stop, destination stop, transfers and final walking route to Jägala Waterfall; a stop name alone does not establish a short or accessible walk. Route 159 appears at the Jägala-Joa stops, but not every departure runs to Tallinn."
         },
         {
           "question": "Is it worth it if I only have one day?",
@@ -1945,19 +2037,27 @@
     "sourcesTitle": "Sources & verification",
     "sources": [
       {
-        "name": "Visit Estonia",
-        "url": "https://visitestonia.com/en/jagala-waterfall"
+        "name": "Visit Harju — Jägala Waterfall",
+        "url": "https://visitharju.ee/en/jagala-waterfall/"
       },
       {
-        "name": "Visit Harju",
-        "url": "https://visitharju.ee"
+        "name": "Jõelähtme Parish — access and facilities",
+        "url": "https://www.joelahtme.ee/kontakt"
       },
       {
-        "name": "Peatus — Estonian journey planner",
-        "url": "https://peatus.ee/?locale=en"
+        "name": "Peatus — live journey planner",
+        "url": "https://peatus.ee/"
+      },
+      {
+        "name": "Peatus — Jägala-Joa 27003-1",
+        "url": "https://web.peatus.ee/pysakit/estonia%3A134024"
+      },
+      {
+        "name": "Peatus — Jägala-Joa 27002-1",
+        "url": "https://web.peatus.ee/pysakit/estonia%3A5483"
       }
     ],
-    "verifiedNote": "Content last verified against the official tourism sources above on 23 October 2026. Local facilities, services and transport timetables change — please confirm before travel and report any error through the contact link in the footer."
+    "verifiedNote": "Safety, facilities, accessibility and transport wording reviewed on 9 November 2026 using the linked sources and the 3 November 2026 email from Liis Kurm, Visit Harju / Harju Ettevõtlus- ja Arenduskeskus (Harju-, Rapla-, Läänemaa DMO). This is a document review, not an on-site inspection or endorsement. Confirm current local conditions before travel."
   },
   "waterfallRoute": {
     "title": "A North Estonia Waterfall Driving Route",
@@ -2027,7 +2127,7 @@
     "sections": [
       {
         "heading": "Why combine them",
-        "content": "Both are easy, well-built walks with platforms and boardwalks, so they suit the same relaxed day. Jägala gives you a waterfall; Viru Bog gives you a primeval wetland with a viewing tower."
+        "content": "These are different natural sites, each requiring its own access check. Do not assume the boardwalk arrangements at Viru Bog also exist at Jägala. Confirm route suitability for every member of your group."
       },
       {
         "heading": "Suggested routing",
@@ -2069,27 +2169,23 @@
     "sourcesTitle": "Sources & verification",
     "sources": [
       {
-        "name": "Visit Estonia",
-        "url": "https://visitestonia.com/en/jagala-waterfall"
+        "name": "Visit Harju — Jägala Waterfall",
+        "url": "https://visitharju.ee/en/jagala-waterfall/"
       },
       {
-        "name": "Visit Harju",
-        "url": "https://visitharju.ee"
-      },
-      {
-        "name": "Peatus — Estonian journey planner",
-        "url": "https://peatus.ee/?locale=en"
+        "name": "Jõelähtme Parish — access and facilities",
+        "url": "https://www.joelahtme.ee/kontakt"
       }
     ],
-    "verifiedNote": "Content last verified against the official tourism sources above on 23 October 2026. Local facilities, services and transport timetables change — please confirm before travel and report any error through the contact link in the footer."
+    "verifiedNote": "Safety, facilities, accessibility and transport wording reviewed on 9 November 2026 using the linked sources and the 3 November 2026 email from Liis Kurm, Visit Harju / Harju Ettevõtlus- ja Arenduskeskus (Harju-, Rapla-, Läänemaa DMO). This is a document review, not an on-site inspection or endorsement. Confirm current local conditions before travel."
   },
   "withKids": {
     "title": "Visiting Jägala Waterfall with Children",
-    "intro": "Jägala Waterfall is a family-friendly outing: short, flat paths, a viewing platform and plenty of space to roam. A little planning keeps it safe and fun for all ages.",
+    "intro": "A visit with children should centre on viewing the waterfall from dry land, not water play. Plan around their mobility and the current paths; keep children within close supervision and well away from the river and drop.",
     "sections": [
       {
         "heading": "Why it works for families",
-        "content": "The main viewpoint is a short, manageable walk from the car park, and the open area lets children see the falls without a long hike. The site is open access and free."
+        "content": "Shorten the visit to suit your group. Check the approach and facilities with Jõelähtme Parish before travelling; a short distance is not a guarantee of an easy or step-free route."
       },
       {
         "heading": "Safety with kids",
@@ -2097,7 +2193,7 @@
       },
       {
         "heading": "Making a day of it",
-        "content": "Pack a picnic, water and a change of clothes. Combine the visit with a short forest walk, and in summer enjoy the long daylight. Toilets and a café are listed on site in season."
+        "content": "Bring water, snacks and suitable footwear. Visit Harju lists a dry toilet, information boards and free parking. This listing does not establish current opening, maintenance, baby-changing or accessible toilet provision; confirm specific needs with Jõelähtme Parish."
       }
     ],
     "faq": {
@@ -2105,15 +2201,15 @@
       "items": [
         {
           "question": "Is it suitable for toddlers?",
-          "answer": "Yes — the walk from the car park is short and flat, though natural ground can be uneven; a buggy handles the main path but not the rougher tracks."
+          "answer": "A step-free route suitable for a wheelchair or stroller has not been confirmed. Ask Jõelähtme Parish about the exact approach, surface, slopes, steps and current closures before travelling. EPIKoda provides general accessibility advice, not certification of this route."
         },
         {
           "question": "Is there a fence at the waterfall?",
-          "answer": "The viewing platform is safe, but some riverside edges are open — supervise children closely near the water."
+          "answer": "Do not assume the whole edge is fenced or a platform is risk-free. Keep children close and well back from the river and drop."
         },
         {
           "question": "Are there toilets and food?",
-          "answer": "A toilet and a seasonal café are listed at the site; bring your own water and snacks to be safe."
+          "answer": "Visit Harju lists a dry toilet, information boards and free parking. This listing does not establish current opening, maintenance, baby-changing or accessible toilet provision; confirm specific needs with Jõelähtme Parish. Bring your own water and food."
         },
         {
           "question": "How long should we plan?",
@@ -2131,19 +2227,19 @@
     "sourcesTitle": "Sources & verification",
     "sources": [
       {
-        "name": "Visit Estonia",
-        "url": "https://visitestonia.com/en/jagala-waterfall"
+        "name": "Visit Harju — Jägala Waterfall",
+        "url": "https://visitharju.ee/en/jagala-waterfall/"
       },
       {
-        "name": "Visit Harju",
-        "url": "https://visitharju.ee"
+        "name": "Jõelähtme Parish — access and facilities",
+        "url": "https://www.joelahtme.ee/kontakt"
       },
       {
-        "name": "Peatus — Estonian journey planner",
-        "url": "https://peatus.ee/?locale=en"
+        "name": "EPIKoda — general accessibility advice",
+        "url": "https://epikoda.ee/"
       }
     ],
-    "verifiedNote": "Content last verified against the official tourism sources above on 23 October 2026. Local facilities, services and transport timetables change — please confirm before travel and report any error through the contact link in the footer."
+    "verifiedNote": "Safety, facilities, accessibility and transport wording reviewed on 9 November 2026 using the linked sources and the 3 November 2026 email from Liis Kurm, Visit Harju / Harju Ettevõtlus- ja Arenduskeskus (Harju-, Rapla-, Läänemaa DMO). This is a document review, not an on-site inspection or endorsement. Confirm current local conditions before travel."
   },
   "withDogs": {
     "title": "Visiting Jägala Waterfall with a Dog",
@@ -2155,7 +2251,7 @@
       },
       {
         "heading": "Routes and terrain",
-        "content": "The walk from the car park to the viewing platform is short and flat; longer forest tracks suit a proper walk. After rain or snow the ground can be muddy, so towel off paws afterwards."
+        "content": "Choose only open paths suitable for you and your dog. Ground may be uneven or slippery; keep your dog controlled and away from the river and edges."
       },
       {
         "heading": "Water and wildlife",
@@ -2175,7 +2271,7 @@
         },
         {
           "question": "Can my dog swim?",
-          "answer": "Swimming at the falls is not advised because of the strong current and cold water; choose calmer spots away from the drop if your dog must enter."
+          "answer": "For safety, do not swim, wade or let children play in the water at the waterfall. Stay on dry, stable ground away from the drop and river edge, supervise children closely and avoid river ice. This is safety advice, not a claim that an official blanket swimming ban has been verified; follow signs and consult Keskkonnaamet for current restrictions."
         },
         {
           "question": "Are there bins for waste?",
@@ -2193,35 +2289,39 @@
     "sourcesTitle": "Sources & verification",
     "sources": [
       {
-        "name": "Visit Estonia",
-        "url": "https://visitestonia.com/en/jagala-waterfall"
+        "name": "Visit Harju — Jägala Waterfall",
+        "url": "https://visitharju.ee/en/jagala-waterfall/"
       },
       {
-        "name": "Visit Harju",
-        "url": "https://visitharju.ee"
+        "name": "Jõelähtme Parish — access and facilities",
+        "url": "https://www.joelahtme.ee/kontakt"
       },
       {
-        "name": "Peatus — Estonian journey planner",
-        "url": "https://peatus.ee/?locale=en"
+        "name": "Keskkonnaamet — restrictions and nature protection",
+        "url": "https://keskkonnaamet.ee/keskkonnaamet-uudised-kontakt/uldkontaktid-meie-kontorid"
+      },
+      {
+        "name": "Responsible visits to nature",
+        "url": "https://www.loodusturism.com/juhisedlooduses"
       }
     ],
-    "verifiedNote": "Content last verified against the official tourism sources above on 23 October 2026. Local facilities, services and transport timetables change — please confirm before travel and report any error through the contact link in the footer."
+    "verifiedNote": "Safety, facilities, accessibility and transport wording reviewed on 9 November 2026 using the linked sources and the 3 November 2026 email from Liis Kurm, Visit Harju / Harju Ettevõtlus- ja Arenduskeskus (Harju-, Rapla-, Läänemaa DMO). This is a document review, not an on-site inspection or endorsement. Confirm current local conditions before travel."
   },
   "accessibility": {
     "title": "Accessibility at Jägala Waterfall",
-    "intro": "Jägala Waterfall is open-access and partially adapted for visitors with reduced mobility, but the natural terrain means some areas are easier than others. Here is an honest overview to help you plan.",
+    "intro": "Plan accessibility around the exact route, not the distance from parking. A wheelchair- or stroller-suitable approach has not been confirmed by this review.",
     "sections": [
       {
         "heading": "Paths and the viewpoint",
-        "content": "The route from the car park to the main viewing area is the most accessible section — relatively short and gently graded, though it is natural, unpaved ground that can be uneven or muddy after weather."
+        "content": "Ask Jõelähtme Parish about surfaces, width, gradients, steps and temporary closures on the approach you intend to use. Request current photographs or measurements if these are essential to your visit."
       },
       {
         "heading": "What is not adapted",
-        "content": "The riverside edges, the gorge descents and the longer forest tracks are not wheelchair-friendly and can be slippery. There are no step-free routes right down to the water’s edge."
+        "content": "Do not assume the riverbank, lower approaches or viewing facilities are step-free. Rain, mud, snow and ice can change the practical suitability of a route."
       },
       {
         "heading": "Facilities",
-        "content": "A toilet and a seasonal café are listed at the site. For specific current accessibility details — including any steps, gradients and assistance — contact the regional tourism office before you travel."
+        "content": "Visit Harju lists a dry toilet, information boards and free parking. This listing does not establish current opening, maintenance, baby-changing or accessible toilet provision; confirm specific needs with Jõelähtme Parish."
       }
     ],
     "faq": {
@@ -2229,19 +2329,19 @@
       "items": [
         {
           "question": "Is the waterfall wheelchair accessible?",
-          "answer": "Partly. The car-park-to-viewpoint path is the most usable, but it is unpaved natural ground; the riverside itself is not step-free."
+          "answer": "We cannot confirm a wheelchair-suitable route. Check the exact approach with Jõelähtme Parish before travelling."
         },
         {
           "question": "Is there disabled parking?",
-          "answer": "The site-listed car park is the closest option; arrive early as bays are limited. Confirm exact accessible bays with the parish if needed."
+          "answer": "Designated accessible bays and the route from parking have not been confirmed. Ask Jõelähtme Parish for current details before travelling."
         },
         {
           "question": "Are there steps?",
-          "answer": "The main viewpoint avoids major steps, but side paths and the gorge involve natural gradients and rough ground."
+          "answer": "The number and location of steps have not been verified. Ask about the full route, including parking, viewing areas and toilets."
         },
         {
           "question": "Who can I ask for current details?",
-          "answer": "Contact Visit Harju / Jõelähtme Parish for up-to-date accessibility information before you set out."
+          "answer": "Jõelähtme Parish can advise on local facilities and routes. EPIKoda can offer general accessibility guidance; the exact path still needs a site-specific check."
         }
       ]
     },
@@ -2255,23 +2355,23 @@
     "sourcesTitle": "Sources & verification",
     "sources": [
       {
-        "name": "Visit Estonia",
-        "url": "https://visitestonia.com/en/jagala-waterfall"
+        "name": "Visit Harju — Jägala Waterfall",
+        "url": "https://visitharju.ee/en/jagala-waterfall/"
       },
       {
-        "name": "Visit Harju",
-        "url": "https://visitharju.ee"
+        "name": "Jõelähtme Parish — access and facilities",
+        "url": "https://www.joelahtme.ee/kontakt"
       },
       {
-        "name": "Peatus — Estonian journey planner",
-        "url": "https://peatus.ee/?locale=en"
+        "name": "EPIKoda — general accessibility advice",
+        "url": "https://epikoda.ee/"
       }
     ],
-    "verifiedNote": "Content last verified against the official tourism sources above on 23 October 2026. Local facilities, services and transport timetables change — please confirm before travel and report any error through the contact link in the footer."
+    "verifiedNote": "Safety, facilities, accessibility and transport wording reviewed on 9 November 2026 using the linked sources and the 3 November 2026 email from Liis Kurm, Visit Harju / Harju Ettevõtlus- ja Arenduskeskus (Harju-, Rapla-, Läänemaa DMO). This is a document review, not an on-site inspection or endorsement. Confirm current local conditions before travel."
   },
   "schoolTrip": {
     "title": "Jägala Waterfall for School & Educational Trips",
-    "intro": "Jägala Waterfall is a ready-made outdoor classroom: geology, hydrology, ecology and local history in one accessible site. It works well for school groups with a little preparation.",
+    "intro": "The waterfall offers opportunities to discuss geology, water and the landscape. School groups need a site-specific safety and access plan, including supervision and toilets, before travelling.",
     "sections": [
       {
         "heading": "What students can learn",
@@ -2303,7 +2403,7 @@
         },
         {
           "question": "Is it suitable for all ages?",
-          "answer": "The main viewpoint walk is suitable for most ages; tailor the depth of content to the group."
+          "answer": "Suitability depends on the group and current route. Confirm terrain and accessibility, plan close supervision, and keep all activities on dry land away from edges."
         }
       ]
     },
@@ -2317,35 +2417,39 @@
     "sourcesTitle": "Sources & verification",
     "sources": [
       {
-        "name": "Visit Estonia",
-        "url": "https://visitestonia.com/en/jagala-waterfall"
+        "name": "Visit Harju — Jägala Waterfall",
+        "url": "https://visitharju.ee/en/jagala-waterfall/"
       },
       {
-        "name": "Visit Harju",
-        "url": "https://visitharju.ee"
+        "name": "Jõelähtme Parish — access and facilities",
+        "url": "https://www.joelahtme.ee/kontakt"
       },
       {
-        "name": "Peatus — Estonian journey planner",
-        "url": "https://peatus.ee/?locale=en"
+        "name": "Keskkonnaamet — restrictions and nature protection",
+        "url": "https://keskkonnaamet.ee/keskkonnaamet-uudised-kontakt/uldkontaktid-meie-kontorid"
+      },
+      {
+        "name": "Responsible visits to nature",
+        "url": "https://www.loodusturism.com/juhisedlooduses"
       }
     ],
-    "verifiedNote": "Content last verified against the official tourism sources above on 23 October 2026. Local facilities, services and transport timetables change — please confirm before travel and report any error through the contact link in the footer."
+    "verifiedNote": "Safety, facilities, accessibility and transport wording reviewed on 9 November 2026 using the linked sources and the 3 November 2026 email from Liis Kurm, Visit Harju / Harju Ettevõtlus- ja Arenduskeskus (Harju-, Rapla-, Läänemaa DMO). This is a document review, not an on-site inspection or endorsement. Confirm current local conditions before travel."
   },
   "swimming": {
     "title": "Swimming at Jägala Waterfall — What to Know",
-    "intro": "Swimming right at Jägala Waterfall is not recommended. The river above the drop runs cold and fast, the rock is slippery, and there is no safe water-added area at the falls themselves.",
+    "intro": "For safety, do not swim, wade or let children play in the water at the waterfall. Stay on dry, stable ground away from the drop and river edge, supervise children closely and avoid river ice. This is safety advice, not a claim that an official blanket swimming ban has been verified; follow signs and consult Keskkonnaamet for current restrictions.",
     "sections": [
       {
         "heading": "Why it is risky here",
-        "content": "Just above the ledge the current is strong and the water is cold year-round; the limestone is slick and the drop is unguarded. These conditions make swimming at the falls dangerous rather than refreshing."
+        "content": "Wet rock, the drop and moving water pose hazards regardless of how calm part of the river looks. Keep away from the water and do not allow children to paddle."
       },
       {
         "heading": "Safer alternatives",
-        "content": "If you want to be in the water, choose a calmer stretch of the Jägala River away from the falls, or use designated swimming areas and lakes elsewhere in Harju County. Never swim alone and always supervise children."
+        "content": "For swimming, use a designated bathing location after checking its current water-quality and safety notices. A calm-looking stretch of river is not evidence that swimming is safe."
       },
       {
         "heading": "If you do go near the water",
-        "content": "Stay on the marked banks and platforms, keep a safe distance from the edge, and wear footwear with grip. Conditions change with season and water level — see our water-levels guide."
+        "content": "Choose dry, stable, open ground well back from the water and drop. Do not assume a maintained platform, boardwalk, railing or step-free approach is available; ask Jõelähtme Parish about current paths and viewing facilities. Never enter the water or approach the edge for a photograph."
       }
     ],
     "faq": {
@@ -2353,7 +2457,7 @@
       "items": [
         {
           "question": "Can you swim at the waterfall?",
-          "answer": "We do not advise it — strong current, cold water and slippery rock make it hazardous."
+          "answer": "For safety, do not swim, wade or let children play in the water at the waterfall. Stay on dry, stable ground away from the drop and river edge, supervise children closely and avoid river ice. This is safety advice, not a claim that an official blanket swimming ban has been verified; follow signs and consult Keskkonnaamet for current restrictions."
         },
         {
           "question": "Is the water clean?",
@@ -2361,7 +2465,7 @@
         },
         {
           "question": "Where can I swim nearby?",
-          "answer": "Use calmer river stretches away from the falls or managed swimming areas and lakes in the region; research access before you go."
+          "answer": "For swimming, use a designated bathing location after checking its current water-quality and safety notices. A calm-looking stretch of river is not evidence that swimming is safe."
         },
         {
           "question": "Is it safer in summer?",
@@ -2379,19 +2483,23 @@
     "sourcesTitle": "Sources & verification",
     "sources": [
       {
-        "name": "Visit Estonia",
-        "url": "https://visitestonia.com/en/jagala-waterfall"
+        "name": "Visit Harju — Jägala Waterfall",
+        "url": "https://visitharju.ee/en/jagala-waterfall/"
       },
       {
-        "name": "Visit Harju",
-        "url": "https://visitharju.ee"
+        "name": "Jõelähtme Parish — access and facilities",
+        "url": "https://www.joelahtme.ee/kontakt"
       },
       {
-        "name": "Peatus — Estonian journey planner",
-        "url": "https://peatus.ee/?locale=en"
+        "name": "Keskkonnaamet — restrictions and nature protection",
+        "url": "https://keskkonnaamet.ee/keskkonnaamet-uudised-kontakt/uldkontaktid-meie-kontorid"
+      },
+      {
+        "name": "Responsible visits to nature",
+        "url": "https://www.loodusturism.com/juhisedlooduses"
       }
     ],
-    "verifiedNote": "Content last verified against the official tourism sources above on 23 October 2026. Local facilities, services and transport timetables change — please confirm before travel and report any error through the contact link in the footer."
+    "verifiedNote": "Safety, facilities, accessibility and transport wording reviewed on 9 November 2026 using the linked sources and the 3 November 2026 email from Liis Kurm, Visit Harju / Harju Ettevõtlus- ja Arenduskeskus (Harju-, Rapla-, Läänemaa DMO). This is a document review, not an on-site inspection or endorsement. Confirm current local conditions before travel."
   },
   "kayaking": {
     "title": "Kayaking & Canoeing the Jägala River",
@@ -2465,7 +2573,7 @@
       },
       {
         "heading": "What to bring",
-        "content": "Pack food, water, a blanket and a bag for rubbish. The site lists a seasonal café and toilet, but self-sufficiency is best — especially outside peak season."
+        "content": "Pack food, water and a bag for rubbish. Visit Harju lists a dry toilet, information boards and free parking. This listing does not establish current opening, maintenance, baby-changing or accessible toilet provision; confirm specific needs with Jõelähtme Parish."
       },
       {
         "heading": "Leave no trace",
@@ -2503,27 +2611,31 @@
     "sourcesTitle": "Sources & verification",
     "sources": [
       {
-        "name": "Visit Estonia",
-        "url": "https://visitestonia.com/en/jagala-waterfall"
+        "name": "Visit Harju — Jägala Waterfall",
+        "url": "https://visitharju.ee/en/jagala-waterfall/"
       },
       {
-        "name": "Visit Harju",
-        "url": "https://visitharju.ee"
+        "name": "Jõelähtme Parish — access and facilities",
+        "url": "https://www.joelahtme.ee/kontakt"
       },
       {
-        "name": "Peatus — Estonian journey planner",
-        "url": "https://peatus.ee/?locale=en"
+        "name": "Keskkonnaamet — restrictions and nature protection",
+        "url": "https://keskkonnaamet.ee/keskkonnaamet-uudised-kontakt/uldkontaktid-meie-kontorid"
+      },
+      {
+        "name": "Responsible visits to nature",
+        "url": "https://www.loodusturism.com/juhisedlooduses"
       }
     ],
-    "verifiedNote": "Content last verified against the official tourism sources above on 23 October 2026. Local facilities, services and transport timetables change — please confirm before travel and report any error through the contact link in the footer."
+    "verifiedNote": "Safety, facilities, accessibility and transport wording reviewed on 9 November 2026 using the linked sources and the 3 November 2026 email from Liis Kurm, Visit Harju / Harju Ettevõtlus- ja Arenduskeskus (Harju-, Rapla-, Läänemaa DMO). This is a document review, not an on-site inspection or endorsement. Confirm current local conditions before travel."
   },
   "hikingTrails": {
     "title": "Hiking & Walking Trails at Jägala Waterfall",
-    "intro": "Jägala Waterfall is reached by a short, signed walk from the car park, and it connects to longer forest tracks along the Jägala River. Here is how to plan walks of different lengths.",
+    "intro": "Plan your walk around the paths currently open at Jägala Waterfall. Confirm surfaces, slopes and any temporary restrictions before visiting, especially for children or visitors with mobility needs.",
     "sections": [
       {
         "heading": "The basic viewpoint walk",
-        "content": "From the car park, a short signed path leads to the main viewing platform above the falls — flat and suitable for most visitors. Allow a few minutes each way."
+        "content": "Check the current approach with Jõelähtme Parish and follow local signs. Plan a turnaround point for your group rather than assuming a flat route to a maintained platform."
       },
       {
         "heading": "Longer forest tracks",
@@ -2539,15 +2651,15 @@
       "items": [
         {
           "question": "How long is the walk from parking?",
-          "answer": "A few minutes on a flat, signed path to the main viewpoint."
+          "answer": "Walking time depends on the chosen approach and conditions. Check the route before travelling; no fixed walk time is verified here."
         },
         {
           "question": "Are the trails marked?",
-          "answer": "The viewpoint path is signed; the longer forest tracks are rougher and less formally marked — carry a map."
+          "answer": "Follow the signs present on the day. Current waymarking and maintenance across the wider tracks have not been verified."
         },
         {
           "question": "How hard are they?",
-          "answer": "The viewpoint walk is easy; the extended tracks are moderate and can be muddy or slippery."
+          "answer": "Check surfaces, steps and gradients for the particular route. Wet or icy ground may make even a short approach unsuitable."
         },
         {
           "question": "Can I walk to other sights?",
@@ -2565,19 +2677,15 @@
     "sourcesTitle": "Sources & verification",
     "sources": [
       {
-        "name": "Visit Estonia",
-        "url": "https://visitestonia.com/en/jagala-waterfall"
+        "name": "Visit Harju — Jägala Waterfall",
+        "url": "https://visitharju.ee/en/jagala-waterfall/"
       },
       {
-        "name": "Visit Harju",
-        "url": "https://visitharju.ee"
-      },
-      {
-        "name": "Peatus — Estonian journey planner",
-        "url": "https://peatus.ee/?locale=en"
+        "name": "Jõelähtme Parish — access and facilities",
+        "url": "https://www.joelahtme.ee/kontakt"
       }
     ],
-    "verifiedNote": "Content last verified against the official tourism sources above on 23 October 2026. Local facilities, services and transport timetables change — please confirm before travel and report any error through the contact link in the footer."
+    "verifiedNote": "Safety, facilities, accessibility and transport wording reviewed on 9 November 2026 using the linked sources and the 3 November 2026 email from Liis Kurm, Visit Harju / Harju Ettevõtlus- ja Arenduskeskus (Harju-, Rapla-, Läänemaa DMO). This is a document review, not an on-site inspection or endorsement. Confirm current local conditions before travel."
   },
   "cycling": {
     "title": "Cycling to Jägala Waterfall",
@@ -2643,7 +2751,7 @@
   },
   "campingNearby": {
     "title": "Camping & Overnight Stays Near Jägala Waterfall",
-    "intro": "Overnight camping is not permitted within the protected Jägala landscape itself, but several campsites and cabins lie a short drive away. Here is how to plan an overnight trip around the falls.",
+    "intro": "For an overnight trip, use a campsite whose access and facilities you have confirmed. Do not assume that camping or sleeping in a vehicle at the waterfall is permitted; check landowner and nature-protection conditions.",
     "sections": [
       {
         "heading": "At the falls",
@@ -2907,11 +3015,11 @@
     "sections": [
       {
         "heading": "No ticket, no booking",
-        "content": "You can walk in any day, around the clock, without buying anything or reserving a slot. Only guided walks and any commercial on-site services (café, etc.) may cost money."
+        "content": "Visit Harju lists free, around-the-clock access. Follow any temporary restrictions on site; separately booked transport, guiding or refreshments may cost money."
       },
       {
         "heading": "What might cost",
-        "content": "Parking is generally free, though a minority of village-managed bays could charge a small fee. The seasonal café and any rentals or guided tours are paid. Confirm on site."
+        "content": "Visit Harju lists free parking. Commercial services are separate from viewing the falls; check any prices and availability with the provider."
       },
       {
         "heading": "Why it stays free",
@@ -2935,7 +3043,7 @@
         },
         {
           "question": "What is worth paying for?",
-          "answer": "A guided walk, the café, or nearby tours — the falls themselves are free to view."
+          "answer": "Any separately purchased transport, guiding or refreshments may cost money; check the provider’s current terms."
         }
       ]
     },
@@ -2949,27 +3057,23 @@
     "sourcesTitle": "Sources & verification",
     "sources": [
       {
-        "name": "Visit Estonia",
-        "url": "https://visitestonia.com/en/jagala-waterfall"
+        "name": "Visit Harju — Jägala Waterfall",
+        "url": "https://visitharju.ee/en/jagala-waterfall/"
       },
       {
-        "name": "Visit Harju",
-        "url": "https://visitharju.ee"
-      },
-      {
-        "name": "Peatus — Estonian journey planner",
-        "url": "https://peatus.ee/?locale=en"
+        "name": "Jõelähtme Parish — access and facilities",
+        "url": "https://www.joelahtme.ee/kontakt"
       }
     ],
-    "verifiedNote": "Content last verified against the official tourism sources above on 23 October 2026. Local facilities, services and transport timetables change — please confirm before travel and report any error through the contact link in the footer."
+    "verifiedNote": "Safety, facilities, accessibility and transport wording reviewed on 9 November 2026 using the linked sources and the 3 November 2026 email from Liis Kurm, Visit Harju / Harju Ettevõtlus- ja Arenduskeskus (Harju-, Rapla-, Läänemaa DMO). This is a document review, not an on-site inspection or endorsement. Confirm current local conditions before travel."
   },
   "restaurantsNearby": {
     "title": "Restaurants & Cafés Near Jägala Waterfall",
-    "intro": "Dining right at Jägala is limited to a seasonal on-site café, but several cafés and restaurants sit within a short drive — useful to know when planning a half-day trip.",
+    "intro": "A Jõelähtme Parish newsletter dated 4 November 2026 reports continuation of a coffee vending machine on the south bank. This is not confirmation of a staffed café, meals or drinking-water refills. Bring water and snacks and check availability locally.",
     "sections": [
       {
-        "heading": "On site",
-        "content": "A café is listed at the waterfall in the warmer months, offering light food and drinks. It is seasonal and can be busy at peak times, so do not rely on it out of season."
+        "heading": "Refreshments at the waterfall",
+        "content": "A Jõelähtme Parish newsletter dated 4 November 2026 reports continuation of a coffee vending machine on the south bank. This is not confirmation of a staffed café, meals or drinking-water refills. Bring water and snacks and check availability locally."
       },
       {
         "heading": "Within a short drive",
@@ -2985,7 +3089,7 @@
       "items": [
         {
           "question": "Is there food at the waterfall?",
-          "answer": "A seasonal on-site café is listed; it is not open all year, so plan around it."
+          "answer": "A Jõelähtme Parish newsletter dated 4 November 2026 reports continuation of a coffee vending machine on the south bank. This is not confirmation of a staffed café, meals or drinking-water refills. Bring water and snacks and check availability locally."
         },
         {
           "question": "Where is the nearest restaurant?",
@@ -3011,19 +3115,19 @@
     "sourcesTitle": "Sources & verification",
     "sources": [
       {
-        "name": "Visit Estonia",
-        "url": "https://visitestonia.com/en/jagala-waterfall"
+        "name": "Visit Harju — Jägala Waterfall",
+        "url": "https://visitharju.ee/en/jagala-waterfall/"
       },
       {
-        "name": "Visit Harju",
-        "url": "https://visitharju.ee"
+        "name": "Jõelähtme Parish — access and facilities",
+        "url": "https://www.joelahtme.ee/kontakt"
       },
       {
-        "name": "Peatus — Estonian journey planner",
-        "url": "https://peatus.ee/?locale=en"
+        "name": "Jõelähtme Parish — 4 November 2026 newsletter",
+        "url": "https://www.joelahtme.ee/uudised/joelahtme-vallavalitsuse-infokiri-0810-03112026"
       }
     ],
-    "verifiedNote": "Content last verified against the official tourism sources above on 23 October 2026. Local facilities, services and transport timetables change — please confirm before travel and report any error through the contact link in the footer."
+    "verifiedNote": "Safety, facilities, accessibility and transport wording reviewed on 9 November 2026 using the linked sources and the 3 November 2026 email from Liis Kurm, Visit Harju / Harju Ettevõtlus- ja Arenduskeskus (Harju-, Rapla-, Läänemaa DMO). This is a document review, not an on-site inspection or endorsement. Confirm current local conditions before travel."
   },
   "whereToStay": {
     "title": "Where to Stay Near Jägala Waterfall",
@@ -3039,7 +3143,7 @@
       },
       {
         "heading": "Campsites",
-        "content": "Designated campsites lie a short drive away for tents and camper-vans; book ahead in summer. Overnight stays are not permitted within the protected falls area itself."
+        "content": "For tents and camper-vans, choose a designated campsite and confirm its current facilities. Check landowner and nature-protection rules before considering an overnight stay near the falls."
       }
     ],
     "faq": {
@@ -3089,11 +3193,11 @@
   },
   "bestViewpoints": {
     "title": "Best Viewpoints at Jägala Waterfall",
-    "intro": "Jägala Waterfall has a main viewing platform above the crest and several natural vantage points along the river. Knowing where to stand makes the most of a visit in any season.",
+    "intro": "Choose a viewpoint by safe access and stable footing, not only by the angle of the photograph. Current platforms, boardwalks and railings need local confirmation.",
     "sections": [
       {
-        "heading": "The main platform",
-        "content": "The signed viewing platform above the falls is the classic, safest viewpoint — a short, flat walk from the car park. It frames the full width of the crest and the pool below."
+        "heading": "Choosing a viewpoint",
+        "content": "From an open, dry approach, look for a stable position set well back from the drop. Do not assume a purpose-built platform or an easy, level route is available."
       },
       {
         "heading": "Riverside angles",
@@ -3101,7 +3205,7 @@
       },
       {
         "heading": "Seasonal picks",
-        "content": "In winter the ice formations are best seen from the platform and the upper bank; in high spring flow, the lower riverside gives dramatic spray shots. See our photography and seasonal guides."
+        "content": "Use a longer lens to photograph winter ice or high spring flow from a distance. Do not descend towards spray, step onto river ice or stand beneath hanging ice."
       }
     ],
     "faq": {
@@ -3109,19 +3213,19 @@
       "items": [
         {
           "question": "What is the best viewpoint?",
-          "answer": "The main signed platform above the falls — safe, easy and frames the whole crest."
+          "answer": "Choose an open position with stable, dry footing well away from the edge; ask Jõelähtme Parish which approaches are currently usable."
         },
         {
           "question": "Can I get down to the base?",
-          "answer": "There is no safe, maintained route to the foot of the falls; stay on the marked paths and platform."
+          "answer": "Do not descend towards the water for a closer view. Check local access signs and remain on a safe, open approach away from the drop."
         },
         {
           "question": "Where to photograph?",
-          "answer": "The platform for the wide view; the upper bank for ice in winter; lower riverside (carefully) for spray in high water."
+          "answer": "Use a wide lens for the landscape and a longer lens for waterfall details from dry ground. Never enter the river for a composition."
         },
         {
           "question": "Is it safe to explore?",
-          "answer": "Mostly yes on the paths; the unfenced edges are the hazard — supervise children and keep back from the drop."
+          "answer": "Assess the conditions on arrival and turn back where footing or access is unsafe. Keep children close; do not treat any natural viewpoint as risk-free."
         }
       ]
     },
@@ -3135,19 +3239,15 @@
     "sourcesTitle": "Sources & verification",
     "sources": [
       {
-        "name": "Visit Estonia",
-        "url": "https://visitestonia.com/en/jagala-waterfall"
+        "name": "Visit Harju — Jägala Waterfall",
+        "url": "https://visitharju.ee/en/jagala-waterfall/"
       },
       {
-        "name": "Visit Harju",
-        "url": "https://visitharju.ee"
-      },
-      {
-        "name": "Peatus — Estonian journey planner",
-        "url": "https://peatus.ee/?locale=en"
+        "name": "Jõelähtme Parish — access and facilities",
+        "url": "https://www.joelahtme.ee/kontakt"
       }
     ],
-    "verifiedNote": "Content last verified against the official tourism sources above on 23 October 2026. Local facilities, services and transport timetables change — please confirm before travel and report any error through the contact link in the footer."
+    "verifiedNote": "Safety, facilities, accessibility and transport wording reviewed on 9 November 2026 using the linked sources and the 3 November 2026 email from Liis Kurm, Visit Harju / Harju Ettevõtlus- ja Arenduskeskus (Harju-, Rapla-, Läänemaa DMO). This is a document review, not an on-site inspection or endorsement. Confirm current local conditions before travel."
   },
   "topicLinks": {
     "title": "Plan your visit",
@@ -3265,7 +3365,7 @@
       },
       {
         "title": "With children",
-        "desc": "Easy paths, platforms and picnics.",
+        "desc": "Planning a dry-land visit with children.",
         "href": "/with-kids"
       },
       {
@@ -3280,7 +3380,7 @@
       },
       {
         "title": "Best viewpoints",
-        "desc": "Platforms and angles for the falls.",
+        "desc": "Choosing safe positions and checking access.",
         "href": "/best-viewpoints"
       }
     ]

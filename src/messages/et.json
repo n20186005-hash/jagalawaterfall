@@ -57,7 +57,7 @@
         },
         {
           "icon": "🚌",
-          "text": "**Bussiga:** Tallinna–Narva / Tallinna–Jõgeva liinide kaugliinibussid peatuvad Jägala-Joas; kontrolli ajakava peatus.ee lehel enne väljasõitu."
+          "text": "**Bussiga:** Planeeri reis Peatus.ee lehel oma tegeliku kuupäeva ja lähtekoha järgi. Kontrolli väljumis- ja saabumispeatust, ümberistumisi, viimast jalgsilõiku ning tagasisõitu; kindlat bussiliini, otseühendust ega jalutuskäigu pikkust ei saa siin kinnitada."
         },
         {
           "icon": "🆓",
@@ -138,7 +138,7 @@
           "id": "bridal-wish",
           "title": "Mõrsjapoiste soov veekattes",
           "source": "Allikas: ERMS Eesti Rahvaluuleandmebaasi sissekanne 42318, vana teabekogujate intervjuu, Jõelähtme vald, 1961.",
-          "text": "See motiiv on registreeritud võrdlemisi hilja (1961). Teabekoguja andis üle seda, mida ta oli ema vanemalt korduvalt kuulnud: kui peavad kaasaegsed abielupaar seismas silmadega peamisel vaateplatvormil ja ütlevad ühtlasi vaikides täpselt sama soovi just selle hetkel, kui päike läbib udu ja tekitab vikerkaare, siis – nii ütleb pärandus – «see soov kuulub jõe mälupile kolme aasta jooksul kaela». Rahvasteadlased hindavad seda tavaliselt kui hiliskeskajat rahvuslikku leiutist: «maastiku lävi + juhuslik haruldane sündmus = soovide tegemise aken», mitte keskaegse traditsiooni järgijat."
+          "text": "See motiiv on registreeritud võrdlemisi hilja (1961). Teabekoguja andis üle seda, mida ta oli ema vanemalt korduvalt kuulnud: kui peavad kaasaegsed abielupaar seismas silmadega joa lähedal ja ütlevad ühtlasi vaikides täpselt sama soovi just selle hetkel, kui päike läbib udu ja tekitab vikerkaare, siis – nii ütleb pärandus – «see soov kuulub jõe mälupile kolme aasta jooksul kaela». Rahvasteadlased hindavad seda tavaliselt kui hiliskeskajat rahvuslikku leiutist: «maastiku lävi + juhuslik haruldane sündmus = soovide tegemise aken», mitte keskaegse traditsiooni järgijat."
         },
         {
           "id": "millers-gold",
@@ -166,17 +166,17 @@
       {
         "icon": "🅿️",
         "title": "Tasuta parkla",
-        "text": "Visit Harju nimekirjades on objekti juures tasuta parkla, Kubja tee ääres. Vaata asukoha ja jalutuskäigu suuna jaot sis Parkimine."
+        "text": "Visit Harju ametlik leht loetleb tasuta parkimise (allika ülevaatus 09.11.2026). Täpne korraldus, vabad kohad ja ajutised muudatused kontrolli Jõelähtme Vallavalitsuselt ning kohapealsetelt märkidelt. Ära pargi juurdepääsu ega päästeteed kinni."
       },
       {
         "icon": "🚻",
         "title": "Tualetid",
-        "text": "Visit Harju nimekirjades on objekti juures lihtne kuivtualett. Teenuseid on lihtsad ja hooajalised üksused võivad talvel suletud olla — kinnita saabumisel ja ära loota nendele suure grupi puhul."
+        "text": "Visit Harju ametlik vaatamisväärsuse leht loetleb kuivtualeti (allika ülevaatus 09.11.2026). See ei kinnita tualeti praegust avatust, talvist kasutatavust ega ligipääsetavust; vajaduse korral küsi need üksikasjad enne reisi Jõelähtme Vallavalitsuselt."
       },
       {
         "icon": "🍽️",
         "title": "Toit ja jook",
-        "text": "Juggas **kohvikut, kioski ega restorani ei ole**. Too enda vesi ja snäkid; lähimad poed ja teenused on Jägala-Joa külas ja E20 koridoris."
+        "text": "Võta joogivesi ja toit kaasa. Jõelähtme Vallavalitsuse 04.11.2026 infokiri käsitleb lõunakalda kohviautomaadi jätkamist kolmeks aastaks; see ei kinnita automaadi igapäevast töökorras olekut ega kohviku olemasolu. Söögikohtade lahtiolekut kontrolli otse teenusepakkujalt."
       },
       {
         "icon": "♻️",
@@ -223,50 +223,50 @@
   "transport": {
     "title": "Kuidas siia jõuda",
     "fromTallinn": "Tallinnast kesklinnast",
-    "fromTallinnDesc": "Jägala juga on u 25–30 km Tallinnast idas. Autoga sõida E20 (Tallinna–Narva) mööda ja keera Jägala-Joa märkide juures; tasuta parkla on juggast lühikese vahemaa kaugusel. Ühistranspordiga peatuvad Tallinna–Narva ja Tallinna–Jõgeva liinide kaugliinibussid **Jägala-Joas**; peatuste juurest jätka jõe suunas märgitud rada mööda vaatekohale. Kontrolli alati ajakava peatus.ee lehel enne bussi kasutamist.",
+    "fromTallinnDesc": "Autoga planeeri tee Tallinnast Jägala joani kaardil ning järgi kohalikke liiklusmärke. Planeeri reis Peatus.ee lehel oma tegeliku kuupäeva ja lähtekoha järgi. Kontrolli väljumis- ja saabumispeatust, ümberistumisi, viimast jalgsilõiku ning tagasisõitu; kindlat bussiliini, otseühendust ega jalutuskäigu pikkust ei saa siin kinnitada.",
     "fromAirport": "Tallinna lennujaamast (TLL)",
-    "fromAirportDesc": "Renta auto või võta takso Tallinna lennujaamast; jätka ida üle E20 maantee umbes 20 km (≈ 25 minutit). Otseühistransport lennujaamani nõuab ümberistumist Ülemiste või keskbussijaamas.",
+    "fromAirportDesc": "Lennujaamast saab kavandada autosõidu või tellida takso. Ühistranspordi puhul sisesta Peatus.ee planeerijasse lähtekohaks lennujaam ja sihtkohaks Jägala juga; kontrolli kogu teekonda ning ümberistumisi.",
     "publicTransport": "Ühistransport (buss)",
-    "publicTransportDesc": "Kaugliinibussid peatuvad Jägala-Joas Tallinna–Narva / Tallinna–Jõgeva koridoridel. Teenused on **tööpäeviti sagedasemad** ja nädalavahetustel ning pühadel hõredamad — täpsed ajad muutuvad, seega vaata need peatus.ee lehel oma tegeliku reisikuupäeva jaoks. Peatusest on juggasse mõne minuti jalutuskäik märgitud rada mööda; arvesta lisaega, kui reisid laste, pagasi või liikumispuudega.",
+    "publicTransportDesc": "Planeeri reis Peatus.ee lehel oma tegeliku kuupäeva ja lähtekoha järgi. Kontrolli väljumis- ja saabumispeatust, ümberistumisi, viimast jalgsilõiku ning tagasisõitu; kindlat bussiliini, otseühendust ega jalutuskäigu pikkust ei saa siin kinnitada.",
     "cycling": "Jalgrattasõit",
     "cyclingDesc": "≈ 25 km Tallinnast märgitud maanteeläbilöögijal jalgrattatee; sobib vastupidavusjooksjatele. Võta endaga piisavalt vett, vararik ja kõrge nähtavusega vest.",
     "driving": "Eraõiglasega mootorsõidukiga",
-    "drivingDesc": "Tallinnast ida üle E20, välju Jägala ja järgi pruune teemärki. Peamine parkla on tasuta. Kaitstud maastikus pole lubatud ööpäevane telkimine ega magamine sõidukis."
+    "drivingDesc": "Planeeri autosõit kaardil ja järgi kohalikke liiklusmärke. Visit Harju ametlik leht loetleb tasuta parkimise (allika ülevaatus 09.11.2026). Täpne korraldus, vabad kohad ja ajutised muudatused kontrolli Jõelähtme Vallavalitsuselt ning kohapealsetelt märkidelt. Ära pargi juurdepääsu ega päästeteed kinni. Telkimise, ööbimise ja lõkke tegemise tingimused kontrolli Keskkonnaametist ning maaomanikult; järgi kohapealseid märke. Siin ei kinnitata üldist keeldu ega anta luba nende tegevuste jaoks."
   },
   "route": {
     "title": "Soovitatud teejuht (2–3 tundi kohapeal)",
-    "overview": "Soovitatav poolepäevane siit Tallinnast: sõida või pikkbussiga Jägala juga kohale. Kõndige parklast peamise vaateplatvormini, kõndige mööda vasakpools jõekäiku erosioonilõiget allapoole, uurige parempoolset kõrget vaatepunkti, puhkake määratud piknikuala, leidke parimad fotopunktid, pildistage panoraam ja naas mööda algset teed tagasi.",
+    "overview": "Planeeri rahulik vaatlusretk, mille pikkus sõltub ilmast ja avatud radadest. Vali avatud, kindla ja kuiva pinnasega vaatamiskoht kaldal ning hoia veest ja astangu servast eemale. Vaateplatvormide, laudteede ja radade praegust seisukorda küsi Jõelähtme Vallavalitsuselt; nende olemasolu või ohutust ei saa selle kirja põhjal kinnitada.",
     "steps": [
-      "Soitu Tallinnast erakorda või eelnevalt tellitud pikkbussiga (Tallinn → Narva / Jõgeva liin)",
-      "Parkige siseralustatud parklas; jalgsi lahkude parklast loodetakse jõe suunas",
-      "Ronige puidust peamise vaateplatvormini ja vaadake kaasaegset juga panoraami lubjakivi künnise vastu",
-      "Kõndige mööda vasakpools jõekäiku teed (mõõdukas kalde) allapoole, et uurida kraatreid, erosiooniterrasse ja karstisulge",
-      "Peaduma jõe madala piirkonna juures, et vaadata geoloogilist ehitist ja õnne juhul jala / jõegi aktiivsust",
-      "Ronige parempoolsemale kõrgele maale, et hõivata ümmargune ülevaade juga, orust ja jõe ülemjõestikust",
-      "Puhkake määratud piknikulaul (AVATUD TULD JA ÜHEKÄRKSED GRÜLLID KEELATUD)",
-      "Naaske mööda matkatee koridori läbi metsa, täheldades kroonifuünoloogilisi nähtusi aastaaegade kaupa",
-      "Koostage lõplikud fotod kompositsiooniliselt parimatelt vaatepunktidelt",
-      "Sisenemine juurdepäästee sisse ja naasmine parklasse / bussipeatusse – külastuse lõpetamine."
+      "Planeeri kohale- ja tagasisõit; ühistranspordiga kontrolli Peatus.ee ajakava.",
+      "Kontrolli parkimise ja juurdepääsu korraldust kohapealsetelt märkidelt.",
+      "Vali avatud ja kuiva pinnasega vaatamiskoht kaldal.",
+      "Vaatle kivimikihte eemalt, laskumata libedale nõlvale.",
+      "Vaatle vett ja linde kaldalt; ära mine madalasse vette.",
+      "Vali järgmine vaatenurk ainult siis, kui tee on avatud ja turvaline.",
+      "Puhka veest ja astangu servast eemal; vii prügi kaasa.",
+      "Jälgi metsas aastaaegade muutusi, kahjustamata taimestikku.",
+      "Pildista kindlalt pinnaselt, tõkkeid ületamata.",
+      "Naase sama turvalist teed pidi ja varu aega tagasisõiduks."
     ]
   },
   "photoSpots": {
     "title": "Fotopunktid",
     "spots": [
       {
-        "name": "Peamine puidust vaateplatvorm",
-        "desc": "Vaikimisi esivaate panoraam; tabab terve veekatte paisuveekausi langetamise – ideaalne nurgakaamerale ja pika eksposuuriga «siidivee» meetodile."
+        "name": "Panoraam kaldalt",
+        "desc": "Vali avatud, kindla ja kuiva pinnasega vaatamiskoht kaldal ning hoia veest ja astangu servast eemale. Vaateplatvormide, laudteede ja radade praegust seisukorda küsi Jõelähtme Vallavalitsuselt; nende olemasolu või ohutust ei saa selle kirja põhjal kinnitada."
       },
       {
-        "name": "Vasakpools jõekäik madala joenišš",
-        "desc": "Lähedal kaugusel juga taustal esiplaanil kivid ja prügi; soovitatav polariseeriv filter pinnagläkimise kontrollimiseks."
+        "name": "Kivimikihtide detailid eemalt",
+        "desc": "Kasuta pikemat objektiivi, et jäädvustada kivimikihte kindlalt kaldalt; ära lasku libedale nõlvale ega veepiirile."
       },
       {
-        "name": "Paremal kõrge maastikuvaatepunkt",
-        "desc": "Ülevalt 3/4 pilt juga, orust ja jõekorrist; suurepärane kuldse tunniku külgvalguse ja sügise sügise lehestiku kompositsiooniks."
+        "name": "Laiem maastikuvaade",
+        "desc": "Otsi avatud rajal kindlat vaatamiskohta; ära eelda, et teisel kaldal on hooldatud vaateplatvorm või ligipääsetav tee."
       },
       {
-        "name": "Kaitsemehe alt (kauguselt)",
-        "desc": "Madalnurkne kompositsioon, et rõhutada 8-meetrilist langust; ärge ületage märgistatud raudseina piire – all on tugevad pöörunud voolud."
+        "name": "Joa detailid turvaliselt kauguselt",
+        "desc": "Kasuta suumi, mitte ära lähene astangu servale või joa alusele. Jää kuivale ja kindlale pinnasele."
       },
       {
         "name": "Metsa juurdepäästee (jõesäärmine külg)",
@@ -375,11 +375,11 @@
       },
       {
         "question": "Kas objekt on ligipääsetav ratastooli või lastevankriga?",
-        "answer": "Juga on **looduslik jõekalda maastik** ebaühtlase pinnase, nõlvade, treppide ja libisevate pindadega. Me ei saa garanteerida takistusteta ligipääsu ja tingimused muutuvad ilmaga. Kui ligipääsetavus on oluline, võta enne reisi ühendust Jõelähtme vallaga."
+        "answer": "Ratastooli või lapsevankri jaoks sobiva tee olemasolu tuleb eraldi kohapeal kontrollida. Küsi Jõelähtme Vallavalitsuselt tee katte, kallete, astmete, laiuse ja praeguse seisukorra kohta. Eesti Puuetega Inimeste Koda pakub üldist nõu, mitte selle marsruudi ligipääsetavuse kinnitust."
       },
       {
         "question": "Kas juggas saab ujuda?",
-        "answer": "Ujumist ei soovitata. Bassein on külm, voolud juggast allavoolu on tugevad ja kivid libised. Päästjat kohapeal ei ole."
+        "answer": "Ohutussoovitus: ära uju ega kahla joa juures, hoia lapsed ja lemmikloomad veest ning astangu servast eemal. Märjad kivid, vool ja jää võivad olla ohtlikud. See ei ole väide ametliku ujumiskeelu kohta; kehtivad piirangud kontrolli Keskkonnaametist ja järgi kohapealseid märke."
       },
       {
         "question": "Kas koeri on lubatud?",
@@ -546,7 +546,7 @@
       },
       {
         "heading": "Ühistranspordiga",
-        "content": "Tallinna–Narva ja Tallinna–Jõgeva liinide kaugliinibussid peatuvad **Jägala-Joas**. Sealt on juggasse mõne minuti jalutuskäik märgitud rada mööda. Teenused on tööpäeviti sagedasemad; nädalavahetustel ja pühadel hõredamad, seega kontrolli peatus.ee lehel oma tegelikku kuupäeva ja planeeri tagasitee enne lahkumist."
+        "content": "Planeeri reis Peatus.ee lehel oma tegeliku kuupäeva ja lähtekoha järgi. Kontrolli väljumis- ja saabumispeatust, ümberistumisi, viimast jalgsilõiku ning tagasisõitu; kindlat bussiliini, otseühendust ega jalutuskäigu pikkust ei saa siin kinnitada."
       },
       {
         "heading": "Taksoga või rakendusega",
@@ -562,11 +562,11 @@
       "items": [
         {
           "question": "Kui kaugel asub Jägala juga Tallinnast?",
-          "answer": "Umbes **25 km** ida poolt Tallinna kesklinnast – **30 minuti** autosõit E20 maanteel või 15–20 minuti jalgsi pärast Jägala-Joa bussipeatust."
+          "answer": "Jägala juga asub Tallinnast ida pool. Täpne sõiduteekond ja viimase jalgsilõigu pikkus sõltuvad sinu lähtekohast ning valitud ühendusest; kontrolli kaarti ja Peatus.ee planeerijat."
         },
         {
           "question": "Kas Tallinnast on otsene buss?",
-          "answer": "Jah. Tallinna → Narva / Jõgeva pikkbussid peatuvad **Jägala-Joa** peatuses; sealt on 15–20 minuti jalgsi vaateplatvormini. Nädalavahetustel on sõiteid piiratud (3–5 tagasiteed/päev), seega kontrolli graafikut TLT.ee või Elron kaudu."
+          "answer": "Planeeri reis Peatus.ee lehel oma tegeliku kuupäeva ja lähtekoha järgi. Kontrolli väljumis- ja saabumispeatust, ümberistumisi, viimast jalgsilõiku ning tagasisõitu; kindlat bussiliini, otseühendust ega jalutuskäigu pikkust ei saa siin kinnitada."
         },
         {
           "question": "Kui palju maksab takso Tallinnast?",
@@ -574,7 +574,7 @@
         },
         {
           "question": "Kas saan külastada ilma autota?",
-          "answer": "Absoluutselt – pikkbussi ja lühikese jalgsiga, taksoga / ühissõiduga või korraldatud piirkondliku tuuri raames. Sisenemine kaitstud maastikule ei vaja broneeringut."
+          "answer": "Ilma autota reisi kavandamisel kontrolli esmalt sobivaid ühendusi. Planeeri reis Peatus.ee lehel oma tegeliku kuupäeva ja lähtekoha järgi. Kontrolli väljumis- ja saabumispeatust, ümberistumisi, viimast jalgsilõiku ning tagasisõitu; kindlat bussiliini, otseühendust ega jalutuskäigu pikkust ei saa siin kinnitada."
         },
         {
           "question": "Kas ma pean midagi eelnevalt broneerima?",
@@ -602,21 +602,37 @@
       {
         "name": "Visit Harju",
         "url": "https://visitharju.ee"
+      },
+      {
+        "name": "Jõelähtme Vallavalitsus – kohalik juurdepääs ja taristu",
+        "url": "https://www.joelahtme.ee/kontakt"
+      },
+      {
+        "name": "Keskkonnaamet – looduskaitse ja piirangud",
+        "url": "https://keskkonnaamet.ee/keskkonnaamet-uudised-kontakt/uldkontaktid-meie-kontorid"
+      },
+      {
+        "name": "Peatus.ee – kuupäevapõhine ühistranspordi planeerija",
+        "url": "https://peatus.ee/"
+      },
+      {
+        "name": "Eesti Puuetega Inimeste Koda – üldine ligipääsetavusnõu",
+        "url": "https://epikoda.ee/"
       }
     ],
-    "verifiedNote": "Sisu viimati kontrollitud ülaltoodud ametlike turismiallikate põhjal 23. oktoobril 2026. Kohapealsed teenused ja sõidugraafikud muutuvad — palun kinnita enne reisi ja teavita vigadest jaluse kontaktilinkide kaudu."
+    "verifiedNote": "Ohutuse ja praktilise külastusinfo toimetuslik ülevaatus: 09.11.2026. Täpsustussoovitused ja allikaviited esitas Liis Kurm (Visit Harju / Harju Ettevõtlus- ja Arenduskeskus, Harju-, Rapla-, Läänemaa DMO) 03.11.2026 e-kirjas. See on kirjalike materjalide ülevaatus, mitte kohapealne kontroll ega kogu juhendi heakskiit. Radade, teenuste ja ühenduste hetkeseis tuleb eraldi kinnitada."
   },
   "parking": {
     "title": "Parkimine Jägala joal – tasuta parkla ja nõuanded",
-    "intro": "Parkimine Jägala joal on üldiselt tasuta ja mugav. Peamine parkla asub lühikese jalgsi kaugusel peamisest vaateplatvormist, lähedal on mõni reguleeritud külaväljak. Siin on kirjeldatud, mida oodata ja kuidas trahvi vältida.",
+    "intro": "Visit Harju ametlik leht loetleb tasuta parkimise (allika ülevaatus 09.11.2026). Täpne korraldus, vabad kohad ja ajutised muudatused kontrolli Jõelähtme Vallavalitsuselt ning kohapealsetelt märkidelt. Ära pargi juurdepääsu ega päästeteed kinni.",
     "sections": [
       {
         "heading": "Kuhu parkida",
-        "content": "Visit Harju nimekirjades on Jägala-Joa juures **tasuta parkla**, kuhu pääseb E20 (Tallinna–Narva maantee) äärest Jägala-Joa märkide järgi keerates. Parklast on juggasse lühike jalutuskäik märgitud rada mööda. Täpset kohtade arvu me ei sea, sest see muutub hooajaliselt; suve nädalavahetustel, kui objekt on kõige rahvarikkam, saabu varakult."
+        "content": "Visit Harju ametlik leht loetleb tasuta parkimise (allika ülevaatus 09.11.2026). Täpne korraldus, vabad kohad ja ajutised muudatused kontrolli Jõelähtme Vallavalitsuselt ning kohapealsetelt märkidelt. Ära pargi juurdepääsu ega päästeteed kinni."
       },
       {
         "heading": "Sissepääsu leidmine jala",
-        "content": "Jätka parklast märgitud rada mööda jõe suunas. Tee on looduslik pinnas ja võib pärast vihma või lund olla mudane; talvel võib see olla jäine. Arvesta mõne minuti jalutuskäiguga, mitte ei oota jugga otse autost näha."
+        "content": "Kontrolli avatud juurdepääsuteed ja selle seisukorda enne jalutuskäiku. Märg või jäine pinnas võib olla libe; ära eelda kindlat kõnniaega või astmeteta rada."
       },
       {
         "heading": "Elektriauto laadimine",
@@ -624,7 +640,7 @@
       },
       {
         "heading": "Öine ja kemping",
-        "content": "Parkla on mõeldud päevaseks külastuseks. Öine viibimine, kemping ja lõkkepõletamine on kaitsealal piiratud — jälgi kohapealseid märke ja Eesti igaüheõiguse reegleid ning küsi Jõelähtme vallalt, kui oled ebakindel."
+        "content": "Telkimise, ööbimise ja lõkke tegemise tingimused kontrolli Keskkonnaametist ning maaomanikult; järgi kohapealseid märke. Siin ei kinnitata üldist keeldu ega anta luba nende tegevuste jaoks."
       }
     ],
     "faq": {
@@ -632,15 +648,15 @@
       "items": [
         {
           "question": "Kas parkimine Jägala joal on tasuta?",
-          "answer": "Peamine parkla on **üldiselt tasuta**. Vähemus külaväljade korrastatud tänavakohti võib olla väikese tasuga – kontrolli sildimärki saabumisel."
+          "answer": "Visit Harju ametlik leht loetleb tasuta parkimise (allika ülevaatus 09.11.2026). Täpne korraldus, vabad kohad ja ajutised muudatused kontrolli Jõelähtme Vallavalitsuselt ning kohapealsetelt märkidelt. Ära pargi juurdepääsu ega päästeteed kinni."
         },
         {
           "question": "Kui suur on parkla?",
-          "answer": "See pakub **mitmesada kohta** kergeautodele ja võib täituda kõrge hooaja kevad- ja suve nädalavahetustel; soovitatav on saabuda enne kella 10:00."
+          "answer": "Kohtade arvu ega vaba koha olemasolu ei ole kinnitatud. Küsi praegust korraldust Jõelähtme Vallavalitsuselt, eriti suurema sõiduki või rühmaga tulles."
         },
         {
           "question": "Kas ma saan parkida ööpäevaks?",
-          "answer": "**Ei.** Ööpäevased peatused, katuse all olevad telgid, camperid ja magamine sõidukis on kaitstud maastikus keelatud."
+          "answer": "Telkimise, ööbimise ja lõkke tegemise tingimused kontrolli Keskkonnaametist ning maaomanikult; järgi kohapealseid märke. Siin ei kinnitata üldist keeldu ega anta luba nende tegevuste jaoks."
         },
         {
           "question": "Kas lähedal on EV laadimist?",
@@ -648,7 +664,7 @@
         },
         {
           "question": "Kas parkla on kättesaadav lastetõstjatele või ratastoolidele?",
-          "answer": "Peamine parkla ühendub platvormiga kõigutamatult kaldu teega, üldiselt kättesaadav standardsetel lastetõstjatel või lihtsatel käsitsi ratastoolidel. Alumised jõeäärsed rajad ei ole liikumisabivahenditele soovitatavad."
+          "answer": "Ratastooli või lapsevankri jaoks sobiva tee olemasolu tuleb eraldi kohapeal kontrollida. Küsi Jõelähtme Vallavalitsuselt tee katte, kallete, astmete, laiuse ja praeguse seisukorra kohta. Eesti Puuetega Inimeste Koda pakub üldist nõu, mitte selle marsruudi ligipääsetavuse kinnitust."
         }
       ]
     },
@@ -664,9 +680,33 @@
       {
         "name": "Visit Harju",
         "url": "https://visitharju.ee"
+      },
+      {
+        "name": "Jõelähtme Vallavalitsus – kohalik juurdepääs ja taristu",
+        "url": "https://www.joelahtme.ee/kontakt"
+      },
+      {
+        "name": "Keskkonnaamet – looduskaitse ja piirangud",
+        "url": "https://keskkonnaamet.ee/keskkonnaamet-uudised-kontakt/uldkontaktid-meie-kontorid"
+      },
+      {
+        "name": "Peatus.ee – kuupäevapõhine ühistranspordi planeerija",
+        "url": "https://peatus.ee/"
+      },
+      {
+        "name": "Eesti Puuetega Inimeste Koda – üldine ligipääsetavusnõu",
+        "url": "https://epikoda.ee/"
+      },
+      {
+        "name": "Visit Harju – Jägala Waterfall: kuivtualett, tasuta parkimine ja infotahvlid",
+        "url": "https://visitharju.ee/en/jagala-waterfall/"
+      },
+      {
+        "name": "Jõelähtme Vallavalitsuse infokiri, 04.11.2026 – lõunakalda kohviautomaat",
+        "url": "https://www.joelahtme.ee/uudised/joelahtme-vallavalitsuse-infokiri-0810-03112026"
       }
     ],
-    "verifiedNote": "Sisu viimati kontrollitud ülaltoodud ametlike turismiallikate põhjal 23. oktoobril 2026. Kohapealsed teenused ja sõidugraafikud muutuvad — palun kinnita enne reisi ja teavita vigadest jaluse kontaktilinkide kaudu."
+    "verifiedNote": "Ohutuse ja praktilise külastusinfo toimetuslik ülevaatus: 09.11.2026. Täpsustussoovitused ja allikaviited esitas Liis Kurm (Visit Harju / Harju Ettevõtlus- ja Arenduskeskus, Harju-, Rapla-, Läänemaa DMO) 03.11.2026 e-kirjas. See on kirjalike materjalide ülevaatus, mitte kohapealne kontroll ega kogu juhendi heakskiit. Radade, teenuste ja ühenduste hetkeseis tuleb eraldi kinnitada."
   },
   "winter": {
     "title": "Jägala juga talvel – jääkate juhend",
@@ -698,7 +738,7 @@
         },
         {
           "question": "Kas jääkate on ohutu lähenemiseks?",
-          "answer": "Ainult **puidust teede ja platvormide** alt. Ärge astuge kunagi külmutatud jõe pinnale – jää paksus paisuveekausi kohal on ebaühtlane ja veed all on aktiivsed."
+          "answer": "Jää kuivale ja kindlale kaldale ning hoia jääkardinast eemale. Ära astu jäätunud jõele; jää paksus ja vee liikumine võivad olla ettearvamatud. Vaatekohtade seisukord kontrolli enne külastust."
         },
         {
           "question": "Mis on parim aeg päevast selle pildistamiseks?",
@@ -726,9 +766,25 @@
       {
         "name": "Visit Estonia",
         "url": "https://visitestonia.com/et/jagala-joa"
+      },
+      {
+        "name": "Jõelähtme Vallavalitsus – kohalik juurdepääs ja taristu",
+        "url": "https://www.joelahtme.ee/kontakt"
+      },
+      {
+        "name": "Keskkonnaamet – looduskaitse ja piirangud",
+        "url": "https://keskkonnaamet.ee/keskkonnaamet-uudised-kontakt/uldkontaktid-meie-kontorid"
+      },
+      {
+        "name": "Peatus.ee – kuupäevapõhine ühistranspordi planeerija",
+        "url": "https://peatus.ee/"
+      },
+      {
+        "name": "Eesti Puuetega Inimeste Koda – üldine ligipääsetavusnõu",
+        "url": "https://epikoda.ee/"
       }
     ],
-    "verifiedNote": "Sisu viimati kontrollitud ülaltoodud ametlike turismiallikate põhjal 23. oktoobril 2026. Kohapealsed teenused ja sõidugraafikud muutuvad — palun kinnita enne reisi ja teavita vigadest jaluse kontaktilinkide kaudu."
+    "verifiedNote": "Ohutuse ja praktilise külastusinfo toimetuslik ülevaatus: 09.11.2026. Täpsustussoovitused ja allikaviited esitas Liis Kurm (Visit Harju / Harju Ettevõtlus- ja Arenduskeskus, Harju-, Rapla-, Läänemaa DMO) 03.11.2026 e-kirjas. See on kirjalike materjalide ülevaatus, mitte kohapealne kontroll ega kogu juhendi heakskiit. Radade, teenuste ja ühenduste hetkeseis tuleb eraldi kinnitada."
   },
   "photos": {
     "title": "Jägala juga fotod — neli aastaaega",
@@ -864,19 +920,19 @@
   },
   "byBus": {
     "title": "Jägala juga bussiga",
-    "intro": "**Jah — Jägala jugale saab bussiga.** Tallinna–Narva ja Tallinna–Jõgeva liinide kaugliinibussid peatuvad **Jägala-Joas**, mis on juggast lühike jalutuskäik. Ajad muutuvad hooaja ja päeva järgi, seega ainus vahend, mida vajad, on elav Eesti marsruutide planeerija peatus.ee.",
+    "intro": "Planeeri reis Peatus.ee lehel oma tegeliku kuupäeva ja lähtekoha järgi. Kontrolli väljumis- ja saabumispeatust, ümberistumisi, viimast jalgsilõiku ning tagasisõitu; kindlat bussiliini, otseühendust ega jalutuskäigu pikkust ei saa siin kinnitada.",
     "sections": [
       {
         "heading": "Milline buss valida",
-        "content": "**Tallinna bussijaamast** otsi Narva või Jõgeva suunduvaid busse — mõlemad koridorid läbivad Jägala-Joa peatuse. Need on piirkondlikud/pikamaa bussid, mitte linnabussid, ja käivad tööpäeviti mitu korda päevas. Kinnita peatuse nimi ja aeg peatus.ee lehel oma reisikuupäeva jaoks alati."
+        "content": "Planeeri reis Peatus.ee lehel oma tegeliku kuupäeva ja lähtekoha järgi. Kontrolli väljumis- ja saabumispeatust, ümberistumisi, viimast jalgsilõiku ning tagasisõitu; kindlat bussiliini, otseühendust ega jalutuskäigu pikkust ei saa siin kinnitada."
       },
       {
         "heading": "Väljumine ja jalutamine sisse",
-        "content": "Astu välja **Jägala-Joas**. Maanteelt jätka märgitud rada mööda jõe suunas; vaatealale on jalutuskäik mõne minuti loodusliku pinnasega. Talvel võib rada olla lume või jääga, seega arvesta lisaega ja kanna haarduvaid saapaid."
+        "content": "Kontrolli planeerija kaardil saabumispeatuse täpset asukohta ja sealt joani viivat jalgsilõiku. Hinda tee pikkust, ülekäike, pinnast ning valgust; ära eelda, et peatus asub mõne minuti kaugusel."
       },
       {
         "heading": "Tagasitee planeerimine",
-        "content": "Teenused on **nädalavahetustel ja pühadel hõredamad** ning viimased bussid Tallinna tagasi lähevad varem kui keskpäeva väljumised. Kontrolli tagasitee ajakava peatus.ee lehel enne väljasõitu ja mõtle varuteele (takso/rakendus), kui jätad viimase bussi vahele."
+        "content": "Otsi tagasisõit eraldi oma reisikuupäeva jaoks. Jäta jalgsilõiguks ja ootamiseks varuaega ning kontrolli viimast sobivat väljumist enne teele asumist."
       },
       {
         "heading": "Buss + takso kombinatsioon",
@@ -892,19 +948,19 @@
       "items": [
         {
           "question": "Kas Jägala jugale saab ühistranspordiga?",
-          "answer": "Jah — kaugliinibussid peatuvad Jägala-Joas, juggast lühike jalutuskäik. Kontrolli aegu peatus.ee."
+          "answer": "Planeeri reis Peatus.ee lehel oma tegeliku kuupäeva ja lähtekoha järgi. Kontrolli väljumis- ja saabumispeatust, ümberistumisi, viimast jalgsilõiku ning tagasisõitu; kindlat bussiliini, otseühendust ega jalutuskäigu pikkust ei saa siin kinnitada."
         },
         {
           "question": "Kui pikk on jalutuskäik bussipeatusest?",
-          "answer": "Mõni minut märgitud rada mööda; arvesta lund või jääd talvel. Tee on looduslik pinnas, mitte asfalt."
+          "answer": "See sõltub valitud saabumispeatusest ja kasutatavast rajast. Kontrolli täpset jalgsilõiku kaardil ning arvesta ilma ja liikumisvajadustega."
         },
         {
           "question": "Kas buss on usaldusväärne nädalavahetusel?",
-          "answer": "Tööpäeviti sagedam, nädalavahetusel ja pühadel hõredam. Kontrolli peatus.ee ja planeeri tagasitee enne Tallinnast lahkumist."
+          "answer": "Nädalavahetuse ja pühade ühendused kontrolli Peatus.ee lehel just oma kuupäeva jaoks; ära tugine tööpäeva graafikule."
         },
         {
           "question": "Kust Tallinnas bussi saan?",
-          "answer": "Tallinna bussijaamast, Narva või Jõgeva suunduvate bussidega. Kinnita peatus ja aeg elava planeerija abil."
+          "answer": "Väljumispeatus sõltub planeerija leitud ühendusest. Kontrolli selle nime, asukohta ja võimalikku ümberistumist Peatus.ee lehel."
         }
       ]
     },
@@ -928,9 +984,25 @@
       {
         "name": "Visit Harju — Jägala-Joa",
         "url": "https://visitharju.ee"
+      },
+      {
+        "name": "Jõelähtme Vallavalitsus – kohalik juurdepääs ja taristu",
+        "url": "https://www.joelahtme.ee/kontakt"
+      },
+      {
+        "name": "Keskkonnaamet – looduskaitse ja piirangud",
+        "url": "https://keskkonnaamet.ee/keskkonnaamet-uudised-kontakt/uldkontaktid-meie-kontorid"
+      },
+      {
+        "name": "Peatus.ee – kuupäevapõhine ühistranspordi planeerija",
+        "url": "https://peatus.ee/"
+      },
+      {
+        "name": "Eesti Puuetega Inimeste Koda – üldine ligipääsetavusnõu",
+        "url": "https://epikoda.ee/"
       }
     ],
-    "verifiedNote": "Sisu viimati kontrollitud ülaltoodud ametlike turismiallikate põhjal 23. oktoobril 2026. Kohapealsed teenused ja sõidugraafikud muutuvad — palun kinnita enne reisi ja teavita vigadest jaluse kontaktilinkide kaudu."
+    "verifiedNote": "Ohutuse ja praktilise külastusinfo toimetuslik ülevaatus: 09.11.2026. Täpsustussoovitused ja allikaviited esitas Liis Kurm (Visit Harju / Harju Ettevõtlus- ja Arenduskeskus, Harju-, Rapla-, Läänemaa DMO) 03.11.2026 e-kirjas. See on kirjalike materjalide ülevaatus, mitte kohapealne kontroll ega kogu juhendi heakskiit. Radade, teenuste ja ühenduste hetkeseis tuleb eraldi kinnitada."
   },
   "ticketsOpeningHours": {
     "title": "Jägala juga: sissepääsutasu ja lahtiolekuaeg",
@@ -1000,23 +1072,23 @@
   },
   "facilities": {
     "title": "Jägala juga tualetid ja teenused",
-    "intro": "**Jägala juga teenused on minimaalsed.** Visit Harju nimekirjades on objekti juures lihtne kuivtualett ja tasuta parkla. Kohapeal ei ole kohvikut, kioski, poodi ega külastuskeskust — too kaasa, mida vajad, ja planeeri vastavalt.",
+    "intro": "Visit Harju ametlik leht loetleb infotahvlid, kuivtualeti ja tasuta parkimise (allika ülevaatus 09.11.2026). Teenuste hetkeseisu ja ligipääsetavust tuleb enne reisi eraldi kontrollida.",
     "sections": [
       {
         "heading": "Tualetid",
-        "content": "Lihtne **kuivtualett** on objekti juures Visit Harju andmetel. See on elementaarne ja võib talvel suletud olla; ära loota sellele suure grupi puhul ja kinnita saabumisel. Juggas ei ole tavalisi tualette ega imikute riietusruumi."
+        "content": "Visit Harju ametlik vaatamisväärsuse leht loetleb kuivtualeti (allika ülevaatus 09.11.2026). See ei kinnita tualeti praegust avatust, talvist kasutatavust ega ligipääsetavust; vajaduse korral küsi need üksikasjad enne reisi Jõelähtme Vallavalitsuselt."
       },
       {
         "heading": "Parkimine",
-        "content": "Tasuta parkla on objekti juures, Kubja tee ääres. Vaata Parkimine teejuhist täpset lähenemist ja lühikest jalutuskäiku. Parkla on päevaseks külastuseks."
+        "content": "Visit Harju ametlik leht loetleb tasuta parkimise (allika ülevaatus 09.11.2026). Täpne korraldus, vabad kohad ja ajutised muudatused kontrolli Jõelähtme Vallavalitsuselt ning kohapealsetelt märkidelt. Ära pargi juurdepääsu ega päästeteed kinni."
       },
       {
         "heading": "Toit, jook ja tarbed",
-        "content": "Juggas **ei saa midagi osta** — ei kohvikut, kioski ega vett täiendada. Too kaasa oma vesi ja snäkid. Lähimad poed, kohvikud ja teenused on Jägala-Joa külas ja E20 koridoris; Tallinn on autoga u 30 min kaugusel."
+        "content": "Võta joogivesi ja toit kaasa. Jõelähtme Vallavalitsuse 04.11.2026 infokiri käsitleb lõunakalda kohviautomaadi jätkamist kolmeks aastaks; see ei kinnita automaadi igapäevast töökorras olekut ega kohviku olemasolu. Söögikohtade lahtiolekut kontrolli otse teenusepakkujalt."
       },
       {
         "heading": "Teenuste ligipääsetavus",
-        "content": "Objekt on looduslik maastik: ebaühtlane pinnas, nõlvad ja trepid. Tualett on lihtne plokk, mitte ligipääsetav tualett. Kui vajad spetsiifilisi teenuseid, võta enne reisi ühendust Jõelähtme vallaga."
+        "content": "Ratastooli või lapsevankri jaoks sobiva tee olemasolu tuleb eraldi kohapeal kontrollida. Küsi Jõelähtme Vallavalitsuselt tee katte, kallete, astmete, laiuse ja praeguse seisukorra kohta. Eesti Puuetega Inimeste Koda pakub üldist nõu, mitte selle marsruudi ligipääsetavuse kinnitust."
       },
       {
         "heading": "Prügi ja mobiilikate",
@@ -1024,7 +1096,7 @@
       },
       {
         "heading": "Piknikualad",
-        "content": "Metsa lähedal on avatud muruala, mida külastajad kasutavad piknikuks. Jäta see puhtaks, hoia tuli määruste järgi (üldiselt siin ei ole) ja austa kaitseala."
+        "content": "Puhka avatud kohas veest ja astangu servast eemal, kahjustamata taimestikku. Vii prügi kaasa. Telkimise, ööbimise ja lõkke tegemise tingimused kontrolli Keskkonnaametist ning maaomanikult; järgi kohapealseid märke. Siin ei kinnitata üldist keeldu ega anta luba nende tegevuste jaoks."
       }
     ],
     "faq": {
@@ -1032,19 +1104,19 @@
       "items": [
         {
           "question": "Kas juggas on tualetid?",
-          "answer": "Lihtne kuivtualett on Visit Harju andmetel; võib talvel suletud olla. Kohapeal ei ole tavalisi tualette ega imikute riietusruumi."
+          "answer": "Visit Harju ametlik vaatamisväärsuse leht loetleb kuivtualeti (allika ülevaatus 09.11.2026). See ei kinnita tualeti praegust avatust, talvist kasutatavust ega ligipääsetavust; vajaduse korral küsi need üksikasjad enne reisi Jõelähtme Vallavalitsuselt."
         },
         {
           "question": "Kas on kohvik või pood?",
-          "answer": "Ei. Too kaasa oma toit ja vesi; lähimad teenused on külas ja E20 ääres."
+          "answer": "Võta joogivesi ja toit kaasa. Jõelähtme Vallavalitsuse 04.11.2026 infokiri käsitleb lõunakalda kohviautomaadi jätkamist kolmeks aastaks; see ei kinnita automaadi igapäevast töökorras olekut ega kohviku olemasolu. Söögikohtade lahtiolekut kontrolli otse teenusepakkujalt."
         },
         {
           "question": "Kas parkimine on tasuta ja kas see on teenus?",
-          "answer": "Tasuta parkla on objekti juures; parkla ise on peamine arendatud teenus tualeti kõrval."
+          "answer": "Visit Harju ametlik leht loetleb tasuta parkimise (allika ülevaatus 09.11.2026). Täpne korraldus, vabad kohad ja ajutised muudatused kontrolli Jõelähtme Vallavalitsuselt ning kohapealsetelt märkidelt. Ära pargi juurdepääsu ega päästeteed kinni."
         },
         {
           "question": "Kas saan seal piknikku pidada?",
-          "answer": "Jah, avatud murualal, kuid vii prügi ära ja järgi kaitsealareegleid."
+          "answer": "Vali selleks sobiv avatud koht, järgi kohapealseid märke ja vii prügi kaasa. Telkimise, ööbimise ja lõkke tegemise tingimused kontrolli Keskkonnaametist ning maaomanikult; järgi kohapealseid märke. Siin ei kinnitata üldist keeldu ega anta luba nende tegevuste jaoks."
         }
       ]
     },
@@ -1059,13 +1131,37 @@
       {
         "name": "Visit Harju — Jägala-Joa",
         "url": "https://visitharju.ee"
+      },
+      {
+        "name": "Jõelähtme Vallavalitsus – kohalik juurdepääs ja taristu",
+        "url": "https://www.joelahtme.ee/kontakt"
+      },
+      {
+        "name": "Keskkonnaamet – looduskaitse ja piirangud",
+        "url": "https://keskkonnaamet.ee/keskkonnaamet-uudised-kontakt/uldkontaktid-meie-kontorid"
+      },
+      {
+        "name": "Peatus.ee – kuupäevapõhine ühistranspordi planeerija",
+        "url": "https://peatus.ee/"
+      },
+      {
+        "name": "Eesti Puuetega Inimeste Koda – üldine ligipääsetavusnõu",
+        "url": "https://epikoda.ee/"
+      },
+      {
+        "name": "Visit Harju – Jägala Waterfall: kuivtualett, tasuta parkimine ja infotahvlid",
+        "url": "https://visitharju.ee/en/jagala-waterfall/"
+      },
+      {
+        "name": "Jõelähtme Vallavalitsuse infokiri, 04.11.2026 – lõunakalda kohviautomaat",
+        "url": "https://www.joelahtme.ee/uudised/joelahtme-vallavalitsuse-infokiri-0810-03112026"
       }
     ],
-    "verifiedNote": "Sisu viimati kontrollitud ülaltoodud ametlike turismiallikate põhjal 23. oktoobril 2026. Kohapealsed teenused ja sõidugraafikud muutuvad — palun kinnita enne reisi ja teavita vigadest jaluse kontaktilinkide kaudu."
+    "verifiedNote": "Ohutuse ja praktilise külastusinfo toimetuslik ülevaatus: 09.11.2026. Täpsustussoovitused ja allikaviited esitas Liis Kurm (Visit Harju / Harju Ettevõtlus- ja Arenduskeskus, Harju-, Rapla-, Läänemaa DMO) 03.11.2026 e-kirjas. See on kirjalike materjalide ülevaatus, mitte kohapealne kontroll ega kogu juhendi heakskiit. Radade, teenuste ja ühenduste hetkeseis tuleb eraldi kinnitada."
   },
   "safety": {
     "title": "Jägala juga ohutusjuhend",
-    "intro": "Jägala juga on looduslik jõekalda objekt, kus **päästjaid, loodusliku serva ääres piire ega takistusi vee juures ei ole**. Peamised riskid on libisev lubjakivi, külm kiire vesi, talvine jää ja kukkuv jää. Püsi märgitud radadel ja kasuta tervet mõistust.",
+    "intro": "Jägala juga on looduslik jõemaastik. Märg kivi, vool, järsk serv ning talvine jää nõuavad ettevaatust; ära eelda, et piirded või päästeteenus tagavad ohutuse. Ohutussoovitus: ära uju ega kahla joa juures, hoia lapsed ja lemmikloomad veest ning astangu servast eemal. Märjad kivid, vool ja jää võivad olla ohtlikud. See ei ole väide ametliku ujumiskeelu kohta; kehtivad piirangud kontrolli Keskkonnaametist ja järgi kohapealseid märke.",
     "sections": [
       {
         "heading": "Libisevad kivid ja servad",
@@ -1073,7 +1169,7 @@
       },
       {
         "heading": "Vesi ja voolud",
-        "content": "Jägala on tõeline jõgi. Basssein on **külm ja voolud juggast allavoolu on tugevad**. Ujumist ei soovitata ja päästjat ei ole. Hoia lapsed ja lemmikloomad lähedal vee lähedal."
+        "content": "Ohutussoovitus: ära uju ega kahla joa juures, hoia lapsed ja lemmikloomad veest ning astangu servast eemal. Märjad kivid, vool ja jää võivad olla ohtlikud. See ei ole väide ametliku ujumiskeelu kohta; kehtivad piirangud kontrolli Keskkonnaametist ja järgi kohapealseid märke."
       },
       {
         "heading": "Talvine jää ja kukkuv jää",
@@ -1085,7 +1181,7 @@
       },
       {
         "heading": "Hädaolukord",
-        "content": "Eesti häda number on **112** (helista või saada SMS). Mobiilikate on tavaliselt olemas, kuid võib kuristikus katkeda; ära loota sellele. Ütle kellegile oma plaanist, kui külastad talvel või tipptunni välisel ajal."
+        "content": "Hädaolukorras helista **112** ja kirjelda oma täpset asukohta. Salvesta teekond ning anna kaaslasele oma plaan teada; ära eelda, et telefon või side toimib igas olukorras."
       }
     ],
     "faq": {
@@ -1093,7 +1189,7 @@
       "items": [
         {
           "question": "Kas juggas saab ujuda?",
-          "answer": "Ei soovitata — külm vesi, tugevad voolud allavoolu, libised kivid ja päästja puudumine."
+          "answer": "Ohutussoovitus: ära uju ega kahla joa juures, hoia lapsed ja lemmikloomad veest ning astangu servast eemal. Märjad kivid, vool ja jää võivad olla ohtlikud. See ei ole väide ametliku ujumiskeelu kohta; kehtivad piirangud kontrolli Keskkonnaametist ja järgi kohapealseid märke."
         },
         {
           "question": "Kas talvel on ohutu külastada?",
@@ -1101,7 +1197,7 @@
         },
         {
           "question": "Kas on piire või väravaid?",
-          "answer": "Mõnel vaatekohal on madalad rinnatised, kuid looduslik jõeserv ei ole piiratud. Jälgi lapsi ja lemmikloomi lähedalt."
+          "answer": "Piirete olemasolu ja seisukord eri kohtades ei ole kinnitatud. Hoia ise veest ning servast eemale ja jälgi lapsi ning lemmikloomi pidevalt."
         },
         {
           "question": "Mis on häda number?",
@@ -1125,9 +1221,25 @@
       {
         "name": "Eesti Päästeamet (112)",
         "url": "https://www.112.ee"
+      },
+      {
+        "name": "Jõelähtme Vallavalitsus – kohalik juurdepääs ja taristu",
+        "url": "https://www.joelahtme.ee/kontakt"
+      },
+      {
+        "name": "Keskkonnaamet – looduskaitse ja piirangud",
+        "url": "https://keskkonnaamet.ee/keskkonnaamet-uudised-kontakt/uldkontaktid-meie-kontorid"
+      },
+      {
+        "name": "Peatus.ee – kuupäevapõhine ühistranspordi planeerija",
+        "url": "https://peatus.ee/"
+      },
+      {
+        "name": "Eesti Puuetega Inimeste Koda – üldine ligipääsetavusnõu",
+        "url": "https://epikoda.ee/"
       }
     ],
-    "verifiedNote": "Sisu viimati kontrollitud ülaltoodud ametlike turismiallikate põhjal 23. oktoobril 2026. Kohapealsed teenused ja sõidugraafikud muutuvad — palun kinnita enne reisi ja teavita vigadest jaluse kontaktilinkide kaudu."
+    "verifiedNote": "Ohutuse ja praktilise külastusinfo toimetuslik ülevaatus: 09.11.2026. Täpsustussoovitused ja allikaviited esitas Liis Kurm (Visit Harju / Harju Ettevõtlus- ja Arenduskeskus, Harju-, Rapla-, Läänemaa DMO) 03.11.2026 e-kirjas. See on kirjalike materjalide ülevaatus, mitte kohapealne kontroll ega kogu juhendi heakskiit. Radade, teenuste ja ühenduste hetkeseis tuleb eraldi kinnitada."
   },
   "bestTimeToVisit": {
     "title": "Parim aeg Jägala juga külastamiseks",
@@ -1266,7 +1378,7 @@
     "sections": [
       {
         "heading": "Vaatekohad",
-        "content": "**Peamine vaateala** juga kohal annab klassikalise laia, frontaalse panoraami. **Kiviselt rannalt ees** (jõudsa rada ja treppide kaudu) saad madalama, immersiivsema nurga — ole ettevaatlik, kivid on libedad. **Paremkalda rada ja trepp** raamivad juga puude vahelt ja annavad ¾ vaate. Kõrgem pinnas lähenemisel pakub ülevaate orust."
+        "content": "Vali avatud, kindla ja kuiva pinnasega vaatamiskoht kaldal ning hoia veest ja astangu servast eemale. Vaateplatvormide, laudteede ja radade praegust seisukorda küsi Jõelähtme Vallavalitsuselt; nende olemasolu või ohutust ei saa selle kirja põhjal kinnitada."
       },
       {
         "heading": "Valgus ja ajastus",
@@ -1282,7 +1394,7 @@
       },
       {
         "heading": "Droonid ja load",
-        "content": "Ala on **kaitsealune maastik** ja droonilennud on seal piiratud ning keelatud inimeste kohal. Ära eelda, et võid lennata — kontrolli praeguseid reegleid RMK / Jõelähtme vallalt ja riiklikult lennuametilt enne drooni toomist ning ära käivita kunagi teiste külastajate kohal."
+        "content": "Enne drooni kasutamist kontrolli kehtivaid lennureegleid ja geograafilisi alasid Transpordiametist ning looduskaitselisi tingimusi Keskkonnaametist. Ära eelda, et üldine külastusõigus annab lennuloa."
       },
       {
         "heading": "Eetika",
@@ -1294,7 +1406,7 @@
       "items": [
         {
           "question": "Kus on parim fotokoht?",
-          "answer": "Peamine vaateala laia frontaalse pildi jaoks; eesmine rand ja paremkalda trepp madalamate ja raamitud nurkade jaoks. Kõik on märgitud radadel."
+          "answer": "Vali avatud, kindla ja kuiva pinnasega vaatamiskoht kaldal ning hoia veest ja astangu servast eemale. Vaateplatvormide, laudteede ja radade praegust seisukorda küsi Jõelähtme Vallavalitsuselt; nende olemasolu või ohutust ei saa selle kirja põhjal kinnitada."
         },
         {
           "question": "Mis aeg on parim valguseks?",
@@ -1302,7 +1414,7 @@
         },
         {
           "question": "Kas saan drooni lennata?",
-          "answer": "Piiratud kaitsealal ja inimeste kohal; kontrolli praeguseid reegleid RMK / Jõelähtme vallalt enne lendamist."
+          "answer": "Kontrolli enne lendu Transpordiameti nõudeid ja Keskkonnaameti looduskaitselisi tingimusi; see juhend ei kinnita konkreetse lennu lubatavust."
         },
         {
           "question": "Mis varustust tuua?",
@@ -1330,9 +1442,25 @@
       {
         "name": "Visit Estonia — Jägala juga",
         "url": "https://visitestonia.com/et/jagala-joa"
+      },
+      {
+        "name": "Jõelähtme Vallavalitsus – kohalik juurdepääs ja taristu",
+        "url": "https://www.joelahtme.ee/kontakt"
+      },
+      {
+        "name": "Keskkonnaamet – looduskaitse ja piirangud",
+        "url": "https://keskkonnaamet.ee/keskkonnaamet-uudised-kontakt/uldkontaktid-meie-kontorid"
+      },
+      {
+        "name": "Peatus.ee – kuupäevapõhine ühistranspordi planeerija",
+        "url": "https://peatus.ee/"
+      },
+      {
+        "name": "Eesti Puuetega Inimeste Koda – üldine ligipääsetavusnõu",
+        "url": "https://epikoda.ee/"
       }
     ],
-    "verifiedNote": "Sisu viimati kontrollitud ülaltoodud ametlike turismiallikate põhjal 23. oktoobril 2026. Kohapealsed teenused ja sõidugraafikud muutuvad — palun kinnita enne reisi ja teavita vigadest jaluse kontaktilinkide kaudu."
+    "verifiedNote": "Ohutuse ja praktilise külastusinfo toimetuslik ülevaatus: 09.11.2026. Täpsustussoovitused ja allikaviited esitas Liis Kurm (Visit Harju / Harju Ettevõtlus- ja Arenduskeskus, Harju-, Rapla-, Läänemaa DMO) 03.11.2026 e-kirjas. See on kirjalike materjalide ülevaatus, mitte kohapealne kontroll ega kogu juhendi heakskiit. Radade, teenuste ja ühenduste hetkeseis tuleb eraldi kinnitada."
   },
   "jagalaRiver": {
     "title": "Jägala jõgi",
@@ -1372,7 +1500,7 @@
         },
         {
           "question": "Kas saab kalastada või ujuda?",
-          "answer": "Kasutus on reguleeritud; kontrolli praeguseid reegleid. Ujumine juggas ei ole soovitatav (külm, tugev vool, päästja puudumine)."
+          "answer": "Tegevuste piirangud kontrolli Keskkonnaametist. Ohutussoovitus: ära uju ega kahla joa juures, hoia lapsed ja lemmikloomad veest ning astangu servast eemal. Märjad kivid, vool ja jää võivad olla ohtlikud. See ei ole väide ametliku ujumiskeelu kohta; kehtivad piirangud kontrolli Keskkonnaametist ja järgi kohapealseid märke."
         }
       ]
     },
@@ -1391,9 +1519,25 @@
       {
         "name": "Visit Estonia — Jägala juga",
         "url": "https://visitestonia.com/et/jagala-joa"
+      },
+      {
+        "name": "Jõelähtme Vallavalitsus – kohalik juurdepääs ja taristu",
+        "url": "https://www.joelahtme.ee/kontakt"
+      },
+      {
+        "name": "Keskkonnaamet – looduskaitse ja piirangud",
+        "url": "https://keskkonnaamet.ee/keskkonnaamet-uudised-kontakt/uldkontaktid-meie-kontorid"
+      },
+      {
+        "name": "Peatus.ee – kuupäevapõhine ühistranspordi planeerija",
+        "url": "https://peatus.ee/"
+      },
+      {
+        "name": "Eesti Puuetega Inimeste Koda – üldine ligipääsetavusnõu",
+        "url": "https://epikoda.ee/"
       }
     ],
-    "verifiedNote": "Sisu viimati kontrollitud ülaltoodud ametlike turismiallikate põhjal 23. oktoobril 2026. Kohapealsed teenused ja sõidugraafikud muutuvad — palun kinnita enne reisi ja teavita vigadest jaluse kontaktilinkide kaudu."
+    "verifiedNote": "Ohutuse ja praktilise külastusinfo toimetuslik ülevaatus: 09.11.2026. Täpsustussoovitused ja allikaviited esitas Liis Kurm (Visit Harju / Harju Ettevõtlus- ja Arenduskeskus, Harju-, Rapla-, Läänemaa DMO) 03.11.2026 e-kirjas. See on kirjalike materjalide ülevaatus, mitte kohapealne kontroll ega kogu juhendi heakskiit. Radade, teenuste ja ühenduste hetkeseis tuleb eraldi kinnitada."
   },
   "halfDayTrip": {
     "title": "Jägala juga poolpäevane reis Tallinnast",
@@ -1405,7 +1549,7 @@
       },
       {
         "heading": "Ilma autota",
-        "content": "Sõida kaugliinibussiga Tallinna bussijaamast **Jägala-Joasse** (vaata meie Bussiga teejuhist), jaluta mõni minut juggasse ja planeeri tagasitee elava ajakava järgi peatus.ee lehel. Takso või rakendus on paindlik alternatiiv, kui bussi ajad ei sobi."
+        "content": "Planeeri reis Peatus.ee lehel oma tegeliku kuupäeva ja lähtekoha järgi. Kontrolli väljumis- ja saabumispeatust, ümberistumisi, viimast jalgsilõiku ning tagasisõitu; kindlat bussiliini, otseühendust ega jalutuskäigu pikkust ei saa siin kinnitada."
       },
       {
         "heading": "Mida kaasa võtta",
@@ -1429,7 +1573,7 @@
         },
         {
           "question": "Kas saan ilma autota?",
-          "answer": "Jah — buss Tallinna bussijaamast Jägala-Joasse pluss lühike jalutuskäik või takso/rakendus. Kontrolli aegu peatus.ee."
+          "answer": "Planeeri reis Peatus.ee lehel oma tegeliku kuupäeva ja lähtekoha järgi. Kontrolli väljumis- ja saabumispeatust, ümberistumisi, viimast jalgsilõiku ning tagasisõitu; kindlat bussiliini, otseühendust ega jalutuskäigu pikkust ei saa siin kinnitada."
         },
         {
           "question": "Mida kaasa võtta?",
@@ -1457,9 +1601,25 @@
       {
         "name": "Visit Harju — Jägala-Joa",
         "url": "https://visitharju.ee"
+      },
+      {
+        "name": "Jõelähtme Vallavalitsus – kohalik juurdepääs ja taristu",
+        "url": "https://www.joelahtme.ee/kontakt"
+      },
+      {
+        "name": "Keskkonnaamet – looduskaitse ja piirangud",
+        "url": "https://keskkonnaamet.ee/keskkonnaamet-uudised-kontakt/uldkontaktid-meie-kontorid"
+      },
+      {
+        "name": "Peatus.ee – kuupäevapõhine ühistranspordi planeerija",
+        "url": "https://peatus.ee/"
+      },
+      {
+        "name": "Eesti Puuetega Inimeste Koda – üldine ligipääsetavusnõu",
+        "url": "https://epikoda.ee/"
       }
     ],
-    "verifiedNote": "Sisu viimati kontrollitud ülaltoodud ametlike turismiallikate põhjal 23. oktoobril 2026. Kohapealsed teenused ja sõidugraafikud muutuvad — palun kinnita enne reisi ja teavita vigadest jaluse kontaktilinkide kaudu."
+    "verifiedNote": "Ohutuse ja praktilise külastusinfo toimetuslik ülevaatus: 09.11.2026. Täpsustussoovitused ja allikaviited esitas Liis Kurm (Visit Harju / Harju Ettevõtlus- ja Arenduskeskus, Harju-, Rapla-, Läänemaa DMO) 03.11.2026 e-kirjas. See on kirjalike materjalide ülevaatus, mitte kohapealne kontroll ega kogu juhendi heakskiit. Radade, teenuste ja ühenduste hetkeseis tuleb eraldi kinnitada."
   },
   "jagalaVsKeila": {
     "title": "Jägala vs Keila juga",
@@ -1475,7 +1635,7 @@
       },
       {
         "heading": "Teenused ja keskkond",
-        "content": "Jägala on metsik, kaitsealune loodusobjekt tasuta parklaga ja lihtsa tualetiga, kuid ilma kohvikuta. Keila asub arendatud mõisapargi keskkonnas teistsuguse iseloomuga. Kontrolli praeguseid teenuseid ametlikelt turismilehtedelt."
+        "content": "Jägala ja Keila on erinevad loodus- ja kultuurmaastikud. Visit Harju loetleb Jägala juures kuivtualeti ja tasuta parkimise; nende praegune kasutatavus ei ole sellega tagatud. Kontrolli kohalikke tingimusi enne reisi."
       },
       {
         "heading": "Parim kellele",
@@ -1518,9 +1678,33 @@
       {
         "name": "Visit Estonia — Keila juga",
         "url": "https://visitestonia.com/et/keila-joa"
+      },
+      {
+        "name": "Jõelähtme Vallavalitsus – kohalik juurdepääs ja taristu",
+        "url": "https://www.joelahtme.ee/kontakt"
+      },
+      {
+        "name": "Keskkonnaamet – looduskaitse ja piirangud",
+        "url": "https://keskkonnaamet.ee/keskkonnaamet-uudised-kontakt/uldkontaktid-meie-kontorid"
+      },
+      {
+        "name": "Peatus.ee – kuupäevapõhine ühistranspordi planeerija",
+        "url": "https://peatus.ee/"
+      },
+      {
+        "name": "Eesti Puuetega Inimeste Koda – üldine ligipääsetavusnõu",
+        "url": "https://epikoda.ee/"
+      },
+      {
+        "name": "Visit Harju – Jägala Waterfall: kuivtualett, tasuta parkimine ja infotahvlid",
+        "url": "https://visitharju.ee/en/jagala-waterfall/"
+      },
+      {
+        "name": "Jõelähtme Vallavalitsuse infokiri, 04.11.2026 – lõunakalda kohviautomaat",
+        "url": "https://www.joelahtme.ee/uudised/joelahtme-vallavalitsuse-infokiri-0810-03112026"
       }
     ],
-    "verifiedNote": "Sisu viimati kontrollitud ülaltoodud ametlike turismiallikate põhjal 23. oktoobril 2026. Kohapealsed teenused ja sõidugraafikud muutuvad — palun kinnita enne reisi ja teavita vigadest jaluse kontaktilinkide kaudu."
+    "verifiedNote": "Ohutuse ja praktilise külastusinfo toimetuslik ülevaatus: 09.11.2026. Täpsustussoovitused ja allikaviited esitas Liis Kurm (Visit Harju / Harju Ettevõtlus- ja Arenduskeskus, Harju-, Rapla-, Läänemaa DMO) 03.11.2026 e-kirjas. See on kirjalike materjalide ülevaatus, mitte kohapealne kontroll ega kogu juhendi heakskiit. Radade, teenuste ja ühenduste hetkeseis tuleb eraldi kinnitada."
   },
   "waterfallsNearTallinn": {
     "title": "Joad Tallinna lähedal",
@@ -1589,7 +1773,7 @@
   },
   "fromAirport": {
     "title": "Tallinna lennujaamast Jägala joale",
-    "intro": "Lennart Meri Tallinna lennujaam (TLL) asub umbes 25 km lääne poolt Jägala joast. Joale ei lähe otsene ühissõiduk, seega sõidavad enamik külastajaid otse terminalist taksoga või rakendusega, või esmalt Tallinna ja jätkavad autos, bussiga või tuuriga.",
+    "intro": "Tallinna lennujaamast Jägala joani saab planeerida autosõidu või tellida takso. Ühistranspordiühendus sõltub kuupäevast, väljumisajast ning vajalikest ümberistumistest.",
     "sections": [
       {
         "heading": "Takso või rakendus (lihtsaim)",
@@ -1597,7 +1781,7 @@
       },
       {
         "heading": "Lennujaam → Tallinn → juga",
-        "content": "Kui eelistad ühistransporti, sõid Tallinna kesklinna bussi või trammiga, seejärel jätka Jägalale pikkbussiga (Tallinna–Narva ja Tallinna–Jõgeva liinid peatuvad Jägala-Joas) või rendiautoga. See lisab ühe ümberistumise, kuid on tunduvalt odavam kui takso."
+        "content": "Sisesta Peatus.ee planeerijasse lähtekohaks Tallinna lennujaam ja sihtkohaks Jägala juga. Kontrolli kogu teekonda, ümberistumisi, saabumispeatust ning viimast jalgsilõiku."
       },
       {
         "heading": "Autorent",
@@ -1613,7 +1797,7 @@
         },
         {
           "question": "Kas lennujaamast läheb otsene buss?",
-          "answer": "Ei ole otsest ühisteenust. Kasuta kas otsetakso / ühissõitu või ümberistumist Tallinna kaudu (buss või tramm linnas, seejärel pikkbuss Jägala-Joasse)."
+          "answer": "Otseühendust ei ole siin kinnitatud. Kontrolli Peatus.ee lehel oma kuupäeva ja kellaaja ühendusi koos võimalike ümberistumistega."
         },
         {
           "question": "Kui palju maksab takso lennujaamast?",
@@ -1645,9 +1829,25 @@
       {
         "name": "Peatus — Eesti marsruutide planeerija",
         "url": "https://peatus.ee/?locale=et"
+      },
+      {
+        "name": "Jõelähtme Vallavalitsus – kohalik juurdepääs ja taristu",
+        "url": "https://www.joelahtme.ee/kontakt"
+      },
+      {
+        "name": "Keskkonnaamet – looduskaitse ja piirangud",
+        "url": "https://keskkonnaamet.ee/keskkonnaamet-uudised-kontakt/uldkontaktid-meie-kontorid"
+      },
+      {
+        "name": "Peatus.ee – kuupäevapõhine ühistranspordi planeerija",
+        "url": "https://peatus.ee/"
+      },
+      {
+        "name": "Eesti Puuetega Inimeste Koda – üldine ligipääsetavusnõu",
+        "url": "https://epikoda.ee/"
       }
     ],
-    "verifiedNote": "Sisu viimati kontrollitud ülaltoodud ametlike turismiallikate põhjal 23. oktoobril 2026. Kohapealsed teenused ja sõidugraafikud muutuvad — palun kinnita enne reisi ja teavita vigadest jaluse kontaktilinkide kaudu."
+    "verifiedNote": "Ohutuse ja praktilise külastusinfo toimetuslik ülevaatus: 09.11.2026. Täpsustussoovitused ja allikaviited esitas Liis Kurm (Visit Harju / Harju Ettevõtlus- ja Arenduskeskus, Harju-, Rapla-, Läänemaa DMO) 03.11.2026 e-kirjas. See on kirjalike materjalide ülevaatus, mitte kohapealne kontroll ega kogu juhendi heakskiit. Radade, teenuste ja ühenduste hetkeseis tuleb eraldi kinnitada."
   },
   "spring": {
     "title": "Jägala joa külastamine kevadel",
@@ -1663,7 +1863,7 @@
       },
       {
         "heading": "Rahvas ja valgus",
-        "content": "Kevad on suvele vaiksem, seega on vaateplatvorm sageli üksi. Päevavalgus pikeneb hooaja jooksul, pakkudes meeldivat pehmet valgust hommikuti ja õhtuti."
+        "content": "Kevadel pikeneb päevavalgus ning hommiku- ja õhtuvalgus sobib pildistamiseks. Vali avatud, kindla pinnasega koht kaldal; suure veega hoia kaldaservast veelgi kaugemale."
       }
     ],
     "faq": {
@@ -1679,7 +1879,7 @@
         },
         {
           "question": "Kas teenused on kevadel avatud?",
-          "answer": "Koht on avatud ligipääs aastaringselt. Kohapealne kohvik ja hooajalised teenused avanevad ilma parandades – kinnita kohapeal enne nendele lootmist."
+          "answer": "Juurdepääsu ja ajutisi muudatusi kontrolli Jõelähtme Vallavalitsuselt. Võta joogivesi ja toit kaasa. Jõelähtme Vallavalitsuse 04.11.2026 infokiri käsitleb lõunakalda kohviautomaadi jätkamist kolmeks aastaks; see ei kinnita automaadi igapäevast töökorras olekut ega kohviku olemasolu. Söögikohtade lahtiolekut kontrolli otse teenusepakkujalt."
         },
         {
           "question": "Kas koeraga kevadel võib tulla?",
@@ -1707,9 +1907,33 @@
       {
         "name": "Peatus — Eesti marsruutide planeerija",
         "url": "https://peatus.ee/?locale=et"
+      },
+      {
+        "name": "Jõelähtme Vallavalitsus – kohalik juurdepääs ja taristu",
+        "url": "https://www.joelahtme.ee/kontakt"
+      },
+      {
+        "name": "Keskkonnaamet – looduskaitse ja piirangud",
+        "url": "https://keskkonnaamet.ee/keskkonnaamet-uudised-kontakt/uldkontaktid-meie-kontorid"
+      },
+      {
+        "name": "Peatus.ee – kuupäevapõhine ühistranspordi planeerija",
+        "url": "https://peatus.ee/"
+      },
+      {
+        "name": "Eesti Puuetega Inimeste Koda – üldine ligipääsetavusnõu",
+        "url": "https://epikoda.ee/"
+      },
+      {
+        "name": "Visit Harju – Jägala Waterfall: kuivtualett, tasuta parkimine ja infotahvlid",
+        "url": "https://visitharju.ee/en/jagala-waterfall/"
+      },
+      {
+        "name": "Jõelähtme Vallavalitsuse infokiri, 04.11.2026 – lõunakalda kohviautomaat",
+        "url": "https://www.joelahtme.ee/uudised/joelahtme-vallavalitsuse-infokiri-0810-03112026"
       }
     ],
-    "verifiedNote": "Sisu viimati kontrollitud ülaltoodud ametlike turismiallikate põhjal 23. oktoobril 2026. Kohapealsed teenused ja sõidugraafikud muutuvad — palun kinnita enne reisi ja teavita vigadest jaluse kontaktilinkide kaudu."
+    "verifiedNote": "Ohutuse ja praktilise külastusinfo toimetuslik ülevaatus: 09.11.2026. Täpsustussoovitused ja allikaviited esitas Liis Kurm (Visit Harju / Harju Ettevõtlus- ja Arenduskeskus, Harju-, Rapla-, Läänemaa DMO) 03.11.2026 e-kirjas. See on kirjalike materjalide ülevaatus, mitte kohapealne kontroll ega kogu juhendi heakskiit. Radade, teenuste ja ühenduste hetkeseis tuleb eraldi kinnitada."
   },
   "summer": {
     "title": "Jägala joa külastamine suvel",
@@ -1717,7 +1941,7 @@
     "sections": [
       {
         "heading": "Mida oodata",
-        "content": "Metsapüü on täis, jõgi jookseb selge ja vaateplatvormid ning lauad on kõige mugavamad. See on kõige lihtsam aeg peredele, piknikele ja rahulikuks fotograafiaks."
+        "content": "Suvel raamib juga roheline taimestik ja päevad on pikad. Vali puhkamiseks avatud kuiv koht; radade ja vaatekohtade seisukord sõltub ilmast ning vajab kohapeal hindamist."
       },
       {
         "heading": "Rahva vältimine",
@@ -1769,9 +1993,25 @@
       {
         "name": "Peatus — Eesti marsruutide planeerija",
         "url": "https://peatus.ee/?locale=et"
+      },
+      {
+        "name": "Jõelähtme Vallavalitsus – kohalik juurdepääs ja taristu",
+        "url": "https://www.joelahtme.ee/kontakt"
+      },
+      {
+        "name": "Keskkonnaamet – looduskaitse ja piirangud",
+        "url": "https://keskkonnaamet.ee/keskkonnaamet-uudised-kontakt/uldkontaktid-meie-kontorid"
+      },
+      {
+        "name": "Peatus.ee – kuupäevapõhine ühistranspordi planeerija",
+        "url": "https://peatus.ee/"
+      },
+      {
+        "name": "Eesti Puuetega Inimeste Koda – üldine ligipääsetavusnõu",
+        "url": "https://epikoda.ee/"
       }
     ],
-    "verifiedNote": "Sisu viimati kontrollitud ülaltoodud ametlike turismiallikate põhjal 23. oktoobril 2026. Kohapealsed teenused ja sõidugraafikud muutuvad — palun kinnita enne reisi ja teavita vigadest jaluse kontaktilinkide kaudu."
+    "verifiedNote": "Ohutuse ja praktilise külastusinfo toimetuslik ülevaatus: 09.11.2026. Täpsustussoovitused ja allikaviited esitas Liis Kurm (Visit Harju / Harju Ettevõtlus- ja Arenduskeskus, Harju-, Rapla-, Läänemaa DMO) 03.11.2026 e-kirjas. See on kirjalike materjalide ülevaatus, mitte kohapealne kontroll ega kogu juhendi heakskiit. Radade, teenuste ja ühenduste hetkeseis tuleb eraldi kinnitada."
   },
   "autumn": {
     "title": "Jägala joa külastamine sügisel",
@@ -1911,7 +2151,7 @@
       },
       {
         "heading": "Logistika",
-        "content": "Sõida autoga, võta pikkbuss või liitu tuuriga. Kui oled linnas ilma autota, on buss ja lühike jalgsi kõige lihtsam odav variant; üksikasjad leiad meie transpordijuhenditest."
+        "content": "Vali auto, takso või kontrollitud ühistranspordiühendus. Planeeri reis Peatus.ee lehel oma tegeliku kuupäeva ja lähtekoha järgi. Kontrolli väljumis- ja saabumispeatust, ümberistumisi, viimast jalgsilõiku ning tagasisõitu; kindlat bussiliini, otseühendust ega jalutuskäigu pikkust ei saa siin kinnitada."
       }
     ],
     "faq": {
@@ -1923,7 +2163,7 @@
         },
         {
           "question": "Kas vanalinnast saab ühissõidukiga kohale?",
-          "answer": "Jah: jõua Tallinna bussiterminali ja võta Tallinna–Narva / Jõgeva pikkbuss Jägala-Joasse, seejärel jaluta sisse. Kontrolli aegu peatus.ee-st."
+          "answer": "Planeeri reis Peatus.ee lehel oma tegeliku kuupäeva ja lähtekoha järgi. Kontrolli väljumis- ja saabumispeatust, ümberistumisi, viimast jalgsilõiku ning tagasisõitu; kindlat bussiliini, otseühendust ega jalutuskäigu pikkust ei saa siin kinnitada."
         },
         {
           "question": "Kas see on väärt, kui aega on üks päev?",
@@ -1955,9 +2195,25 @@
       {
         "name": "Peatus — Eesti marsruutide planeerija",
         "url": "https://peatus.ee/?locale=et"
+      },
+      {
+        "name": "Jõelähtme Vallavalitsus – kohalik juurdepääs ja taristu",
+        "url": "https://www.joelahtme.ee/kontakt"
+      },
+      {
+        "name": "Keskkonnaamet – looduskaitse ja piirangud",
+        "url": "https://keskkonnaamet.ee/keskkonnaamet-uudised-kontakt/uldkontaktid-meie-kontorid"
+      },
+      {
+        "name": "Peatus.ee – kuupäevapõhine ühistranspordi planeerija",
+        "url": "https://peatus.ee/"
+      },
+      {
+        "name": "Eesti Puuetega Inimeste Koda – üldine ligipääsetavusnõu",
+        "url": "https://epikoda.ee/"
       }
     ],
-    "verifiedNote": "Sisu viimati kontrollitud ülaltoodud ametlike turismiallikate põhjal 23. oktoobril 2026. Kohapealsed teenused ja sõidugraafikud muutuvad — palun kinnita enne reisi ja teavita vigadest jaluse kontaktilinkide kaudu."
+    "verifiedNote": "Ohutuse ja praktilise külastusinfo toimetuslik ülevaatus: 09.11.2026. Täpsustussoovitused ja allikaviited esitas Liis Kurm (Visit Harju / Harju Ettevõtlus- ja Arenduskeskus, Harju-, Rapla-, Läänemaa DMO) 03.11.2026 e-kirjas. See on kirjalike materjalide ülevaatus, mitte kohapealne kontroll ega kogu juhendi heakskiit. Radade, teenuste ja ühenduste hetkeseis tuleb eraldi kinnitada."
   },
   "waterfallRoute": {
     "title": "Põhja-Eesti jugaautotee",
@@ -2027,7 +2283,7 @@
     "sections": [
       {
         "heading": "Miks need ühendada",
-        "content": "Mõlemad on lihtsad, hästi ehitatud matkad platvormide ja laudteedega, seega sobivad samasse rahulikku päeva. Jägala annab joa; Viru raba annab algupärase soo vaatetorniga."
+        "content": "Jägala joa ja Viru raba külastus tutvustavad erinevaid loodusmaastikke. Ära eelda, et nende rajad on võrdselt lihtsad või ligipääsetavad: kontrolli kummagi koha rajaseisundit eraldi."
       },
       {
         "heading": "Soovituslik marsruut",
@@ -2079,25 +2335,41 @@
       {
         "name": "Peatus — Eesti marsruutide planeerija",
         "url": "https://peatus.ee/?locale=et"
+      },
+      {
+        "name": "Jõelähtme Vallavalitsus – kohalik juurdepääs ja taristu",
+        "url": "https://www.joelahtme.ee/kontakt"
+      },
+      {
+        "name": "Keskkonnaamet – looduskaitse ja piirangud",
+        "url": "https://keskkonnaamet.ee/keskkonnaamet-uudised-kontakt/uldkontaktid-meie-kontorid"
+      },
+      {
+        "name": "Peatus.ee – kuupäevapõhine ühistranspordi planeerija",
+        "url": "https://peatus.ee/"
+      },
+      {
+        "name": "Eesti Puuetega Inimeste Koda – üldine ligipääsetavusnõu",
+        "url": "https://epikoda.ee/"
       }
     ],
-    "verifiedNote": "Sisu viimati kontrollitud ülaltoodud ametlike turismiallikate põhjal 23. oktoobril 2026. Kohapealsed teenused ja sõidugraafikud muutuvad — palun kinnita enne reisi ja teavita vigadest jaluse kontaktilinkide kaudu."
+    "verifiedNote": "Ohutuse ja praktilise külastusinfo toimetuslik ülevaatus: 09.11.2026. Täpsustussoovitused ja allikaviited esitas Liis Kurm (Visit Harju / Harju Ettevõtlus- ja Arenduskeskus, Harju-, Rapla-, Läänemaa DMO) 03.11.2026 e-kirjas. See on kirjalike materjalide ülevaatus, mitte kohapealne kontroll ega kogu juhendi heakskiit. Radade, teenuste ja ühenduste hetkeseis tuleb eraldi kinnitada."
   },
   "withKids": {
     "title": "Jägala joa külastamine lastega",
-    "intro": "Jägala juga on perele sobiv väljasõit: lühikesed, lamad rajad, vaateplatvorm ja palju ruumi ringi liikuda. Veidi planeerimist hoiab selle ohutu ja lõbusena kõigile vanusele.",
+    "intro": "Lastega külastades sea esikohale kuiv ja turvaline vaatlus kaldalt, mitte vees mängimine. Hoia lapsed pideva järelevalve all ning kohanda retk nende võimete ja tegelike rajaoludega.",
     "sections": [
       {
         "heading": "Miks see peredele sobib",
-        "content": "Peamine vaatepunkt on lühike, tehtav jalutuskäik parklast ja avatud ala laseb lastel juga näha ilma pika matkata. Koht on avatud ligipääs ja tasuta."
+        "content": "Lastega saab loodust vaadelda kindlalt kaldalt. Kontrolli enne tulekut, milline avatud rada ja vaatamiskoht sobib teie perele; ära eelda tasast ega astmeteta juurdepääsu."
       },
       {
         "heading": "Ohutus lastega",
-        "content": "Langemi lähedased servad ei ole igal pool piiratud. Hoia väikseid lapsi lähedal, hoia käest vee lähedal ja selgita neile märgistatud radadel püsimisest. Üksikasjad leiad meie ohutusjuhendist."
+        "content": "Ohutussoovitus: ära uju ega kahla joa juures, hoia lapsed ja lemmikloomad veest ning astangu servast eemal. Märjad kivid, vool ja jää võivad olla ohtlikud. See ei ole väide ametliku ujumiskeelu kohta; kehtivad piirangud kontrolli Keskkonnaametist ja järgi kohapealseid märke."
       },
       {
         "heading": "Päeva veetmine",
-        "content": "Paki piknik, vesi ja vahetusriided. Ühenda külastus lühikese metsamatkaga ja nauti suvel pikka päevavalgust. Hooajaliselt on kohapeal tualett ja kohvik."
+        "content": "Võta kaasa joogivesi, toit ja ilmastikule sobivad riided. Visit Harju ametlik vaatamisväärsuse leht loetleb kuivtualeti (allika ülevaatus 09.11.2026). See ei kinnita tualeti praegust avatust, talvist kasutatavust ega ligipääsetavust; vajaduse korral küsi need üksikasjad enne reisi Jõelähtme Vallavalitsuselt."
       }
     ],
     "faq": {
@@ -2105,15 +2377,15 @@
       "items": [
         {
           "question": "Kas see sobib väikeseimatele?",
-          "answer": "Jah – jalutuskäik parklast on lühike ja lame, kuigi looduslik maapind võib olla ebatasane; ratastooliga käimine läheb peateel, mitte raskematel radadel."
+          "answer": "Ratastooli või lapsevankri jaoks sobiva tee olemasolu tuleb eraldi kohapeal kontrollida. Küsi Jõelähtme Vallavalitsuselt tee katte, kallete, astmete, laiuse ja praeguse seisukorra kohta. Eesti Puuetega Inimeste Koda pakub üldist nõu, mitte selle marsruudi ligipääsetavuse kinnitust."
         },
         {
           "question": "Kas joal on aed?",
-          "answer": "Vaateplatvorm on ohutu, kuid mõni jõekaldne serv on avatud – jälgige lapsi vee lähedal hoolsalt."
+          "answer": "Ära looda piiretele ega eelda, et vaatekoht on automaatselt ohutu. Hoia lapsel käest ning püsi veest ja astangu servast eemal."
         },
         {
           "question": "Kas on tualett ja toit?",
-          "answer": "Kohapeal on tualett ja hooajaline kohvik; oma vee ja snäkkidega ole kindel."
+          "answer": "Visit Harju ametlik vaatamisväärsuse leht loetleb kuivtualeti (allika ülevaatus 09.11.2026). See ei kinnita tualeti praegust avatust, talvist kasutatavust ega ligipääsetavust; vajaduse korral küsi need üksikasjad enne reisi Jõelähtme Vallavalitsuselt. Võta joogivesi ja toit kaasa. Jõelähtme Vallavalitsuse 04.11.2026 infokiri käsitleb lõunakalda kohviautomaadi jätkamist kolmeks aastaks; see ei kinnita automaadi igapäevast töökorras olekut ega kohviku olemasolu. Söögikohtade lahtiolekut kontrolli otse teenusepakkujalt."
         },
         {
           "question": "Kui kaua planeerida?",
@@ -2141,9 +2413,33 @@
       {
         "name": "Peatus — Eesti marsruutide planeerija",
         "url": "https://peatus.ee/?locale=et"
+      },
+      {
+        "name": "Jõelähtme Vallavalitsus – kohalik juurdepääs ja taristu",
+        "url": "https://www.joelahtme.ee/kontakt"
+      },
+      {
+        "name": "Keskkonnaamet – looduskaitse ja piirangud",
+        "url": "https://keskkonnaamet.ee/keskkonnaamet-uudised-kontakt/uldkontaktid-meie-kontorid"
+      },
+      {
+        "name": "Peatus.ee – kuupäevapõhine ühistranspordi planeerija",
+        "url": "https://peatus.ee/"
+      },
+      {
+        "name": "Eesti Puuetega Inimeste Koda – üldine ligipääsetavusnõu",
+        "url": "https://epikoda.ee/"
+      },
+      {
+        "name": "Visit Harju – Jägala Waterfall: kuivtualett, tasuta parkimine ja infotahvlid",
+        "url": "https://visitharju.ee/en/jagala-waterfall/"
+      },
+      {
+        "name": "Jõelähtme Vallavalitsuse infokiri, 04.11.2026 – lõunakalda kohviautomaat",
+        "url": "https://www.joelahtme.ee/uudised/joelahtme-vallavalitsuse-infokiri-0810-03112026"
       }
     ],
-    "verifiedNote": "Sisu viimati kontrollitud ülaltoodud ametlike turismiallikate põhjal 23. oktoobril 2026. Kohapealsed teenused ja sõidugraafikud muutuvad — palun kinnita enne reisi ja teavita vigadest jaluse kontaktilinkide kaudu."
+    "verifiedNote": "Ohutuse ja praktilise külastusinfo toimetuslik ülevaatus: 09.11.2026. Täpsustussoovitused ja allikaviited esitas Liis Kurm (Visit Harju / Harju Ettevõtlus- ja Arenduskeskus, Harju-, Rapla-, Läänemaa DMO) 03.11.2026 e-kirjas. See on kirjalike materjalide ülevaatus, mitte kohapealne kontroll ega kogu juhendi heakskiit. Radade, teenuste ja ühenduste hetkeseis tuleb eraldi kinnitada."
   },
   "withDogs": {
     "title": "Jägala joa külastamine koeraga",
@@ -2155,7 +2451,7 @@
       },
       {
         "heading": "Rajad ja maastik",
-        "content": "Jalutuskäik parklast vaateplatvormini on lühike ja lame; pikemad metsateed sobivad korralikuks jalutuseks. Pärast vihma või lund võib maapind olla porine, seega pühi käpad pärast."
+        "content": "Vali koeraga avatud kuiv rada ja hoia loom kontrolli all, veest ning astangu servast eemal. Tee seisukord võib vihma ja jääga muutuda; ära eelda tasast juurdepääsu."
       },
       {
         "heading": "Vesi ja loodus",
@@ -2175,7 +2471,7 @@
         },
         {
           "question": "Kas mu koer võib ujuda?",
-          "answer": "Joal ujumist ei soovitata tugeva voolu ja külma vee tõttu; vali rahulikumad kohad langemi eemal, kui koer peab vette minema."
+          "answer": "Ära lase koera joa juures vette. Rahulikuna näiv vesi ei tõenda ohutust; hoia koer kaldal enda kontrolli all."
         },
         {
           "question": "Kas prügikonteinereid on?",
@@ -2203,25 +2499,41 @@
       {
         "name": "Peatus — Eesti marsruutide planeerija",
         "url": "https://peatus.ee/?locale=et"
+      },
+      {
+        "name": "Jõelähtme Vallavalitsus – kohalik juurdepääs ja taristu",
+        "url": "https://www.joelahtme.ee/kontakt"
+      },
+      {
+        "name": "Keskkonnaamet – looduskaitse ja piirangud",
+        "url": "https://keskkonnaamet.ee/keskkonnaamet-uudised-kontakt/uldkontaktid-meie-kontorid"
+      },
+      {
+        "name": "Peatus.ee – kuupäevapõhine ühistranspordi planeerija",
+        "url": "https://peatus.ee/"
+      },
+      {
+        "name": "Eesti Puuetega Inimeste Koda – üldine ligipääsetavusnõu",
+        "url": "https://epikoda.ee/"
       }
     ],
-    "verifiedNote": "Sisu viimati kontrollitud ülaltoodud ametlike turismiallikate põhjal 23. oktoobril 2026. Kohapealsed teenused ja sõidugraafikud muutuvad — palun kinnita enne reisi ja teavita vigadest jaluse kontaktilinkide kaudu."
+    "verifiedNote": "Ohutuse ja praktilise külastusinfo toimetuslik ülevaatus: 09.11.2026. Täpsustussoovitused ja allikaviited esitas Liis Kurm (Visit Harju / Harju Ettevõtlus- ja Arenduskeskus, Harju-, Rapla-, Läänemaa DMO) 03.11.2026 e-kirjas. See on kirjalike materjalide ülevaatus, mitte kohapealne kontroll ega kogu juhendi heakskiit. Radade, teenuste ja ühenduste hetkeseis tuleb eraldi kinnitada."
   },
   "accessibility": {
     "title": "Jägala joa ligipääsetavus",
-    "intro": "Jägala juga on avatud ligipääsuga ja osaliselt kohandatud liikumispuudega külastajatele, kuid looduslik maastik tähendab, et mõned alad on teistest lihtsamad. Siin on aus ülevaade plaanimiseks.",
+    "intro": "Ratastooli või lapsevankri jaoks sobiva tee olemasolu tuleb eraldi kohapeal kontrollida. Küsi Jõelähtme Vallavalitsuselt tee katte, kallete, astmete, laiuse ja praeguse seisukorra kohta. Eesti Puuetega Inimeste Koda pakub üldist nõu, mitte selle marsruudi ligipääsetavuse kinnitust.",
     "sections": [
       {
         "heading": "Rajad ja vaatepunkt",
-        "content": "Rada parklast peamise vaateala juurde on kõige ligipääsetavama osa – suhteliselt lühike ja õrna kaldega, kuigi see on looduslik, katmata maapind, mis võib ilma järel olla ebaühtlane või porine."
+        "content": "Ratastooli või lapsevankri jaoks sobiva tee olemasolu tuleb eraldi kohapeal kontrollida. Küsi Jõelähtme Vallavalitsuselt tee katte, kallete, astmete, laiuse ja praeguse seisukorra kohta. Eesti Puuetega Inimeste Koda pakub üldist nõu, mitte selle marsruudi ligipääsetavuse kinnitust."
       },
       {
         "heading": "Mis ei ole kohandatud",
-        "content": "Jõekaldne servad, kuristiku langemine ja pikemad metsarajad ei sobi ratastooliga ja võivad olla libedad. Vee äärde pole treppideta teid."
+        "content": "Üksikute radade astmete, kallete ja pinnase kohta vajame kohalikku kinnitust. Ära planeeri veepiirini liikumist eeldusel, et sinna viib astmeteta tee."
       },
       {
         "heading": "Teenused",
-        "content": "Kohapeal on tualett ja hooajaline kohvik. Konkreetseks praeguseks ligipääsetavusinfo — sealhulgas treppide, kallakute ja abi kohta — võta enne reisi ühendust piirkonna turismibürooga."
+        "content": "Visit Harju ametlik vaatamisväärsuse leht loetleb kuivtualeti (allika ülevaatus 09.11.2026). See ei kinnita tualeti praegust avatust, talvist kasutatavust ega ligipääsetavust; vajaduse korral küsi need üksikasjad enne reisi Jõelähtme Vallavalitsuselt."
       }
     ],
     "faq": {
@@ -2229,19 +2541,19 @@
       "items": [
         {
           "question": "Kas juga on ratastooliga ligipääsetav?",
-          "answer": "Osaliselt. Parkla–vaatepunkt rada on kõige kasutatavam, kuid see on katmata looduslik maapind; jõekallas ise ei ole treppideta."
+          "answer": "Ratastooli või lapsevankri jaoks sobiva tee olemasolu tuleb eraldi kohapeal kontrollida. Küsi Jõelähtme Vallavalitsuselt tee katte, kallete, astmete, laiuse ja praeguse seisukorra kohta. Eesti Puuetega Inimeste Koda pakub üldist nõu, mitte selle marsruudi ligipääsetavuse kinnitust."
         },
         {
           "question": "Kas on puudega parkimist?",
-          "answer": "Kohapealne parkla on lähim variant; saabu varakult, kuna kohad on piiratud. Täpseid ligipääsetavaid kohti küsi vajadusel vallalt."
+          "answer": "Ligipääsetavate parkimiskohtade asukoht ja saadavus küsi Jõelähtme Vallavalitsuselt enne reisi."
         },
         {
           "question": "Kas on treppe?",
-          "answer": "Peamine vaatepunkt väldib suuri treppe, kuid kõrvalrajad ja kuristik hõlmavad looduslikke kallakuid ja ebataset maastikku."
+          "answer": "Astmete ja kallete täpne paiknemine tuleb kontrollida valitud marsruudi kohta. Jõelähtme Vallavalitsus saab aidata kohalike tingimuste täpsustamisel."
         },
         {
           "question": "Kellelt praegust infot küsida?",
-          "answer": "Võta enne teele asumist ühendust Visit Harju / Jõelähtme vallaga ajakohase ligipääsetavusinfo saamiseks."
+          "answer": "Kohalike radade ja teenuste kohta küsi Jõelähtme Vallavalitsuselt. Eesti Puuetega Inimeste Koda pakub üldist ligipääsetavusnõu; see ei asenda konkreetse tee kohapealset kontrolli."
         }
       ]
     },
@@ -2265,13 +2577,37 @@
       {
         "name": "Peatus — Eesti marsruutide planeerija",
         "url": "https://peatus.ee/?locale=et"
+      },
+      {
+        "name": "Jõelähtme Vallavalitsus – kohalik juurdepääs ja taristu",
+        "url": "https://www.joelahtme.ee/kontakt"
+      },
+      {
+        "name": "Keskkonnaamet – looduskaitse ja piirangud",
+        "url": "https://keskkonnaamet.ee/keskkonnaamet-uudised-kontakt/uldkontaktid-meie-kontorid"
+      },
+      {
+        "name": "Peatus.ee – kuupäevapõhine ühistranspordi planeerija",
+        "url": "https://peatus.ee/"
+      },
+      {
+        "name": "Eesti Puuetega Inimeste Koda – üldine ligipääsetavusnõu",
+        "url": "https://epikoda.ee/"
+      },
+      {
+        "name": "Visit Harju – Jägala Waterfall: kuivtualett, tasuta parkimine ja infotahvlid",
+        "url": "https://visitharju.ee/en/jagala-waterfall/"
+      },
+      {
+        "name": "Jõelähtme Vallavalitsuse infokiri, 04.11.2026 – lõunakalda kohviautomaat",
+        "url": "https://www.joelahtme.ee/uudised/joelahtme-vallavalitsuse-infokiri-0810-03112026"
       }
     ],
-    "verifiedNote": "Sisu viimati kontrollitud ülaltoodud ametlike turismiallikate põhjal 23. oktoobril 2026. Kohapealsed teenused ja sõidugraafikud muutuvad — palun kinnita enne reisi ja teavita vigadest jaluse kontaktilinkide kaudu."
+    "verifiedNote": "Ohutuse ja praktilise külastusinfo toimetuslik ülevaatus: 09.11.2026. Täpsustussoovitused ja allikaviited esitas Liis Kurm (Visit Harju / Harju Ettevõtlus- ja Arenduskeskus, Harju-, Rapla-, Läänemaa DMO) 03.11.2026 e-kirjas. See on kirjalike materjalide ülevaatus, mitte kohapealne kontroll ega kogu juhendi heakskiit. Radade, teenuste ja ühenduste hetkeseis tuleb eraldi kinnitada."
   },
   "schoolTrip": {
     "title": "Jägala juga kooli- ja õppereisideks",
-    "intro": "Jägala juga on valmis õuetundide klass: geoloogia, hüdroloogia, ökoloogia ja kohalugu ühes ligipääsetavas kohas. See sobib hästi koolirühmadele väikese ettevalmistusega.",
+    "intro": "Juga võimaldab käsitleda geoloogiat, vett ja looduskeskkonda. Koolirühm peab enne külastust kavandama konkreetse teekonna, ohutuse, järelevalve ja tualetivajadused.",
     "sections": [
       {
         "heading": "Mida õpilased saavad õppida",
@@ -2303,7 +2639,7 @@
         },
         {
           "question": "Kas see sobib kõigile vanusele?",
-          "answer": "Peamise vaatepunkti jalutuskäik sobib enamikule vanusele; kohanda sisu sügavust rühmale."
+          "answer": "Sobivus sõltub rühmast ja teekonna hetkeoludest. Kontrollige pinnast ja kaldeid ning hoidke tegevused kuival, kindlal pinnal veest eemal."
         }
       ]
     },
@@ -2327,13 +2663,37 @@
       {
         "name": "Peatus — Eesti marsruutide planeerija",
         "url": "https://peatus.ee/?locale=et"
+      },
+      {
+        "name": "Jõelähtme Vallavalitsus – kohalik juurdepääs ja taristu",
+        "url": "https://www.joelahtme.ee/kontakt"
+      },
+      {
+        "name": "Keskkonnaamet – looduskaitse ja piirangud",
+        "url": "https://keskkonnaamet.ee/keskkonnaamet-uudised-kontakt/uldkontaktid-meie-kontorid"
+      },
+      {
+        "name": "Peatus.ee – kuupäevapõhine ühistranspordi planeerija",
+        "url": "https://peatus.ee/"
+      },
+      {
+        "name": "Eesti Puuetega Inimeste Koda – üldine ligipääsetavusnõu",
+        "url": "https://epikoda.ee/"
+      },
+      {
+        "name": "Visit Harju – Jägala Waterfall: kuivtualett, tasuta parkimine ja infotahvlid",
+        "url": "https://visitharju.ee/en/jagala-waterfall/"
+      },
+      {
+        "name": "Jõelähtme Vallavalitsuse infokiri, 04.11.2026 – lõunakalda kohviautomaat",
+        "url": "https://www.joelahtme.ee/uudised/joelahtme-vallavalitsuse-infokiri-0810-03112026"
       }
     ],
-    "verifiedNote": "Sisu viimati kontrollitud ülaltoodud ametlike turismiallikate põhjal 23. oktoobril 2026. Kohapealsed teenused ja sõidugraafikud muutuvad — palun kinnita enne reisi ja teavita vigadest jaluse kontaktilinkide kaudu."
+    "verifiedNote": "Ohutuse ja praktilise külastusinfo toimetuslik ülevaatus: 09.11.2026. Täpsustussoovitused ja allikaviited esitas Liis Kurm (Visit Harju / Harju Ettevõtlus- ja Arenduskeskus, Harju-, Rapla-, Läänemaa DMO) 03.11.2026 e-kirjas. See on kirjalike materjalide ülevaatus, mitte kohapealne kontroll ega kogu juhendi heakskiit. Radade, teenuste ja ühenduste hetkeseis tuleb eraldi kinnitada."
   },
   "swimming": {
     "title": "Ujumine Jägala joal – mis teada",
-    "intro": "Jägala joal otse ujumist ei soovitata. Langemise ees olev jõgi on külm ja kiire, kivi libane ning joa juures pole turvalist veepiirkonda.",
+    "intro": "Ohutussoovitus: ära uju ega kahla joa juures, hoia lapsed ja lemmikloomad veest ning astangu servast eemal. Märjad kivid, vool ja jää võivad olla ohtlikud. See ei ole väide ametliku ujumiskeelu kohta; kehtivad piirangud kontrolli Keskkonnaametist ja järgi kohapealseid märke.",
     "sections": [
       {
         "heading": "Miks see siin ohtlik on",
@@ -2341,11 +2701,11 @@
       },
       {
         "heading": "Turvalisemad alternatiivid",
-        "content": "Kui tahad vees olla, vali Jägala jõe rahulikum lõik joast eemal või kasuta piirkonnas muid määratud ujumisalasid ja järvi. Ära uju kunagi üksi ja jälgi alati lapsi."
+        "content": "Ujumiseks eelista ametlikku supluskohta ja kontrolli selle praegusi tingimusi ning veeohutuse infot. Ära käsitle rahulikumat jõelõiku automaatselt ohutu alternatiivina."
       },
       {
         "heading": "Kui lähed vee lähedale",
-        "content": "Hoia märgistatud kallastel ja platvormidel, hoia turvalist vahemaad servast ja kanna haarduvat jalatsit. Tingimused muutuvad hooaja ja veetasemega – vaata meie veetaseme juhendit."
+        "content": "Vali avatud, kindla ja kuiva pinnasega vaatamiskoht kaldal ning hoia veest ja astangu servast eemale. Vaateplatvormide, laudteede ja radade praegust seisukorda küsi Jõelähtme Vallavalitsuselt; nende olemasolu või ohutust ei saa selle kirja põhjal kinnitada."
       }
     ],
     "faq": {
@@ -2361,7 +2721,7 @@
         },
         {
           "question": "Kus lähedal võin ujuda?",
-          "answer": "Kasuta joast eemal rahulikumaid jõelõike või piirkonna korraldatud ujumisalasid ja järvi; uuri ligipääsu enne teele asumist."
+          "answer": "Otsi ametlik supluskoht ning kontrolli selle ohutusteateid ja tingimusi. See juhend ei soovita kontrollimata jõelõike ujumiseks."
         },
         {
           "question": "Kas suvel on turvalisem?",
@@ -2389,9 +2749,25 @@
       {
         "name": "Peatus — Eesti marsruutide planeerija",
         "url": "https://peatus.ee/?locale=et"
+      },
+      {
+        "name": "Jõelähtme Vallavalitsus – kohalik juurdepääs ja taristu",
+        "url": "https://www.joelahtme.ee/kontakt"
+      },
+      {
+        "name": "Keskkonnaamet – looduskaitse ja piirangud",
+        "url": "https://keskkonnaamet.ee/keskkonnaamet-uudised-kontakt/uldkontaktid-meie-kontorid"
+      },
+      {
+        "name": "Peatus.ee – kuupäevapõhine ühistranspordi planeerija",
+        "url": "https://peatus.ee/"
+      },
+      {
+        "name": "Eesti Puuetega Inimeste Koda – üldine ligipääsetavusnõu",
+        "url": "https://epikoda.ee/"
       }
     ],
-    "verifiedNote": "Sisu viimati kontrollitud ülaltoodud ametlike turismiallikate põhjal 23. oktoobril 2026. Kohapealsed teenused ja sõidugraafikud muutuvad — palun kinnita enne reisi ja teavita vigadest jaluse kontaktilinkide kaudu."
+    "verifiedNote": "Ohutuse ja praktilise külastusinfo toimetuslik ülevaatus: 09.11.2026. Täpsustussoovitused ja allikaviited esitas Liis Kurm (Visit Harju / Harju Ettevõtlus- ja Arenduskeskus, Harju-, Rapla-, Läänemaa DMO) 03.11.2026 e-kirjas. See on kirjalike materjalide ülevaatus, mitte kohapealne kontroll ega kogu juhendi heakskiit. Radade, teenuste ja ühenduste hetkeseis tuleb eraldi kinnitada."
   },
   "kayaking": {
     "title": "Jägala jõel kayakiga ja kanuuga",
@@ -2465,7 +2841,7 @@
       },
       {
         "heading": "Mida kaasa võtta",
-        "content": "Paki toit, vesi, vaip ja prügikott. Kohapeal on hooajaline kohvik ja tualett, kuid iseseisvus on parim – eriti väljaspool tipptippi."
+        "content": "Võta kaasa toit, joogivesi, istumisalus ja prügikott. Võta joogivesi ja toit kaasa. Jõelähtme Vallavalitsuse 04.11.2026 infokiri käsitleb lõunakalda kohviautomaadi jätkamist kolmeks aastaks; see ei kinnita automaadi igapäevast töökorras olekut ega kohviku olemasolu. Söögikohtade lahtiolekut kontrolli otse teenusepakkujalt. Visit Harju ametlik vaatamisväärsuse leht loetleb kuivtualeti (allika ülevaatus 09.11.2026). See ei kinnita tualeti praegust avatust, talvist kasutatavust ega ligipääsetavust; vajaduse korral küsi need üksikasjad enne reisi Jõelähtme Vallavalitsuselt."
       },
       {
         "heading": "Jälgi jätma",
@@ -2513,17 +2889,41 @@
       {
         "name": "Peatus — Eesti marsruutide planeerija",
         "url": "https://peatus.ee/?locale=et"
+      },
+      {
+        "name": "Jõelähtme Vallavalitsus – kohalik juurdepääs ja taristu",
+        "url": "https://www.joelahtme.ee/kontakt"
+      },
+      {
+        "name": "Keskkonnaamet – looduskaitse ja piirangud",
+        "url": "https://keskkonnaamet.ee/keskkonnaamet-uudised-kontakt/uldkontaktid-meie-kontorid"
+      },
+      {
+        "name": "Peatus.ee – kuupäevapõhine ühistranspordi planeerija",
+        "url": "https://peatus.ee/"
+      },
+      {
+        "name": "Eesti Puuetega Inimeste Koda – üldine ligipääsetavusnõu",
+        "url": "https://epikoda.ee/"
+      },
+      {
+        "name": "Visit Harju – Jägala Waterfall: kuivtualett, tasuta parkimine ja infotahvlid",
+        "url": "https://visitharju.ee/en/jagala-waterfall/"
+      },
+      {
+        "name": "Jõelähtme Vallavalitsuse infokiri, 04.11.2026 – lõunakalda kohviautomaat",
+        "url": "https://www.joelahtme.ee/uudised/joelahtme-vallavalitsuse-infokiri-0810-03112026"
       }
     ],
-    "verifiedNote": "Sisu viimati kontrollitud ülaltoodud ametlike turismiallikate põhjal 23. oktoobril 2026. Kohapealsed teenused ja sõidugraafikud muutuvad — palun kinnita enne reisi ja teavita vigadest jaluse kontaktilinkide kaudu."
+    "verifiedNote": "Ohutuse ja praktilise külastusinfo toimetuslik ülevaatus: 09.11.2026. Täpsustussoovitused ja allikaviited esitas Liis Kurm (Visit Harju / Harju Ettevõtlus- ja Arenduskeskus, Harju-, Rapla-, Läänemaa DMO) 03.11.2026 e-kirjas. See on kirjalike materjalide ülevaatus, mitte kohapealne kontroll ega kogu juhendi heakskiit. Radade, teenuste ja ühenduste hetkeseis tuleb eraldi kinnitada."
   },
   "hikingTrails": {
     "title": "Matkarajad Jägala joal",
-    "intro": "Jägala joale jõuab lühikese, märgistatud jalutuskäiguga parklast ja see ühendub pikemate metsaradadega piki Jägala jõge. Siin on, kuidas planeerida eri pikkusega matku.",
+    "intro": "Planeeri jalutuskäik vastavalt avatud radadele ja ilmastikule. Jõelähtme Vallavalitsuselt saab küsida juurdepääsu ning radade praeguse seisukorra kohta.",
     "sections": [
       {
         "heading": "Põhiline vaatepunkt matk",
-        "content": "Parklast viib lühike märgistatud rada peamise vaateplatvormini joa kohal – lame ja sobib enamikule külastajatele. Arvesta mõni minut kumbagi poole."
+        "content": "Vali avatud, kindla ja kuiva pinnasega vaatamiskoht kaldal ning hoia veest ja astangu servast eemale. Vaateplatvormide, laudteede ja radade praegust seisukorda küsi Jõelähtme Vallavalitsuselt; nende olemasolu või ohutust ei saa selle kirja põhjal kinnitada."
       },
       {
         "heading": "Pikemad metsarajad",
@@ -2539,15 +2939,15 @@
       "items": [
         {
           "question": "Kui pikk on jalutuskäik parklast?",
-          "answer": "Mõni minut lame matk märgistatud teel peamise vaatepunktini."
+          "answer": "Pikkus sõltub parkimiskohast ning avatud marsruudist. Kontrolli teekonda ja pinnase seisukorda, eriti kui liigud lapsevankri või abivahendiga."
         },
         {
           "question": "Kas rajad on märgistatud?",
-          "answer": "Vaatepunkti rada on märgistatud; pikemad metsarajad on karmimad ja vähem formaalselt märgistatud – võta kaart kaasa."
+          "answer": "Rajamärgistuse ja ajutiste sulgemiste praegune seis ei ole siin kinnitatud. Kontrolli kohalikku infot ning järgi kohapealseid märke."
         },
         {
           "question": "Kui rasked need on?",
-          "answer": "Vaatepunkti matk on kerge; pikendatud rajad on mõõdukad ja võivad olla porised või libedad."
+          "answer": "Raskus sõltub valitud rajast, pinnasest ja ilmast. Ära eelda tasast või astmeteta teed; märg ja jäine pinnas võib olla libe."
         },
         {
           "question": "Kas saan teistele vaatamisväärsustele jalutada?",
@@ -2575,9 +2975,25 @@
       {
         "name": "Peatus — Eesti marsruutide planeerija",
         "url": "https://peatus.ee/?locale=et"
+      },
+      {
+        "name": "Jõelähtme Vallavalitsus – kohalik juurdepääs ja taristu",
+        "url": "https://www.joelahtme.ee/kontakt"
+      },
+      {
+        "name": "Keskkonnaamet – looduskaitse ja piirangud",
+        "url": "https://keskkonnaamet.ee/keskkonnaamet-uudised-kontakt/uldkontaktid-meie-kontorid"
+      },
+      {
+        "name": "Peatus.ee – kuupäevapõhine ühistranspordi planeerija",
+        "url": "https://peatus.ee/"
+      },
+      {
+        "name": "Eesti Puuetega Inimeste Koda – üldine ligipääsetavusnõu",
+        "url": "https://epikoda.ee/"
       }
     ],
-    "verifiedNote": "Sisu viimati kontrollitud ülaltoodud ametlike turismiallikate põhjal 23. oktoobril 2026. Kohapealsed teenused ja sõidugraafikud muutuvad — palun kinnita enne reisi ja teavita vigadest jaluse kontaktilinkide kaudu."
+    "verifiedNote": "Ohutuse ja praktilise külastusinfo toimetuslik ülevaatus: 09.11.2026. Täpsustussoovitused ja allikaviited esitas Liis Kurm (Visit Harju / Harju Ettevõtlus- ja Arenduskeskus, Harju-, Rapla-, Läänemaa DMO) 03.11.2026 e-kirjas. See on kirjalike materjalide ülevaatus, mitte kohapealne kontroll ega kogu juhendi heakskiit. Radade, teenuste ja ühenduste hetkeseis tuleb eraldi kinnitada."
   },
   "cycling": {
     "title": "Jalgrattaga Jägala joale",
@@ -2647,7 +3063,7 @@
     "sections": [
       {
         "heading": "Joal",
-        "content": "Parkla ja kaitseala on päevaseks külastuseks. Ööbimine, kamperite ja lõkke piiramine on kaitsealal keelatud – järgi märgistusi ja Eesti igaüheõiguse reegleid."
+        "content": "Telkimise, ööbimise ja lõkke tegemise tingimused kontrolli Keskkonnaametist ning maaomanikult; järgi kohapealseid märke. Siin ei kinnitata üldist keeldu ega anta luba nende tegevuste jaoks."
       },
       {
         "heading": "Lähedal olevad telkimiskohad",
@@ -2699,9 +3115,25 @@
       {
         "name": "Peatus — Eesti marsruutide planeerija",
         "url": "https://peatus.ee/?locale=et"
+      },
+      {
+        "name": "Jõelähtme Vallavalitsus – kohalik juurdepääs ja taristu",
+        "url": "https://www.joelahtme.ee/kontakt"
+      },
+      {
+        "name": "Keskkonnaamet – looduskaitse ja piirangud",
+        "url": "https://keskkonnaamet.ee/keskkonnaamet-uudised-kontakt/uldkontaktid-meie-kontorid"
+      },
+      {
+        "name": "Peatus.ee – kuupäevapõhine ühistranspordi planeerija",
+        "url": "https://peatus.ee/"
+      },
+      {
+        "name": "Eesti Puuetega Inimeste Koda – üldine ligipääsetavusnõu",
+        "url": "https://epikoda.ee/"
       }
     ],
-    "verifiedNote": "Sisu viimati kontrollitud ülaltoodud ametlike turismiallikate põhjal 23. oktoobril 2026. Kohapealsed teenused ja sõidugraafikud muutuvad — palun kinnita enne reisi ja teavita vigadest jaluse kontaktilinkide kaudu."
+    "verifiedNote": "Ohutuse ja praktilise külastusinfo toimetuslik ülevaatus: 09.11.2026. Täpsustussoovitused ja allikaviited esitas Liis Kurm (Visit Harju / Harju Ettevõtlus- ja Arenduskeskus, Harju-, Rapla-, Läänemaa DMO) 03.11.2026 e-kirjas. See on kirjalike materjalide ülevaatus, mitte kohapealne kontroll ega kogu juhendi heakskiit. Radade, teenuste ja ühenduste hetkeseis tuleb eraldi kinnitada."
   },
   "heightFacts": {
     "title": "Jägala juga – faktid ja arvud",
@@ -2911,7 +3343,7 @@
       },
       {
         "heading": "Mis võib maksta",
-        "content": "Parkimine on üldiselt tasuta, kuigi vähemus külavaldade bokse võib võtta väikese tasu. Hooajaline kohvik ja igasugune rent või giidituurid on tasulised. Kinnita kohapeal."
+        "content": "Parkimise praegused tingimused kontrolli kohapeal. Giidituurid ja muud tellitavad teenused võivad olla tasulised; kohapealse kohviku olemasolu ei ole kinnitatud."
       },
       {
         "heading": "Miks see tasuta jääb",
@@ -2959,17 +3391,41 @@
       {
         "name": "Peatus — Eesti marsruutide planeerija",
         "url": "https://peatus.ee/?locale=et"
+      },
+      {
+        "name": "Jõelähtme Vallavalitsus – kohalik juurdepääs ja taristu",
+        "url": "https://www.joelahtme.ee/kontakt"
+      },
+      {
+        "name": "Keskkonnaamet – looduskaitse ja piirangud",
+        "url": "https://keskkonnaamet.ee/keskkonnaamet-uudised-kontakt/uldkontaktid-meie-kontorid"
+      },
+      {
+        "name": "Peatus.ee – kuupäevapõhine ühistranspordi planeerija",
+        "url": "https://peatus.ee/"
+      },
+      {
+        "name": "Eesti Puuetega Inimeste Koda – üldine ligipääsetavusnõu",
+        "url": "https://epikoda.ee/"
+      },
+      {
+        "name": "Visit Harju – Jägala Waterfall: kuivtualett, tasuta parkimine ja infotahvlid",
+        "url": "https://visitharju.ee/en/jagala-waterfall/"
+      },
+      {
+        "name": "Jõelähtme Vallavalitsuse infokiri, 04.11.2026 – lõunakalda kohviautomaat",
+        "url": "https://www.joelahtme.ee/uudised/joelahtme-vallavalitsuse-infokiri-0810-03112026"
       }
     ],
-    "verifiedNote": "Sisu viimati kontrollitud ülaltoodud ametlike turismiallikate põhjal 23. oktoobril 2026. Kohapealsed teenused ja sõidugraafikud muutuvad — palun kinnita enne reisi ja teavita vigadest jaluse kontaktilinkide kaudu."
+    "verifiedNote": "Ohutuse ja praktilise külastusinfo toimetuslik ülevaatus: 09.11.2026. Täpsustussoovitused ja allikaviited esitas Liis Kurm (Visit Harju / Harju Ettevõtlus- ja Arenduskeskus, Harju-, Rapla-, Läänemaa DMO) 03.11.2026 e-kirjas. See on kirjalike materjalide ülevaatus, mitte kohapealne kontroll ega kogu juhendi heakskiit. Radade, teenuste ja ühenduste hetkeseis tuleb eraldi kinnitada."
   },
   "restaurantsNearby": {
     "title": "Restoranid ja kohvikud Jägala joa lähedal",
-    "intro": "Söömine otse Jägalal on piiratud hooajalise kohapealse kohvikuga, kuid mitu kohvikut ja restorani asub lühikese sõidu kaugusel – kasulik teada poolpäevase reisi planeerimisel.",
+    "intro": "Planeeri söögipeatus ette ning võta joa külastuseks toit ja joogivesi kaasa. Kohapealse toitlustuse olemasolu ega lahtiolekut ei ole kinnitatud.",
     "sections": [
       {
         "heading": "Kohapeal",
-        "content": "Soojemal hooajal on joal nimekiri kohvik, pakkudes kergeid toite ja jooke. See on hooajaline ja võib tipptipphooajal olla rahvarohke, seega ära loe selle peale väljaspool hooaega."
+        "content": "Võta joogivesi ja toit kaasa. Jõelähtme Vallavalitsuse 04.11.2026 infokiri käsitleb lõunakalda kohviautomaadi jätkamist kolmeks aastaks; see ei kinnita automaadi igapäevast töökorras olekut ega kohviku olemasolu. Söögikohtade lahtiolekut kontrolli otse teenusepakkujalt."
       },
       {
         "heading": "Lühikese sõidu kaugusel",
@@ -2985,7 +3441,7 @@
       "items": [
         {
           "question": "Kas joal on toitu?",
-          "answer": "Hooajaline kohapealne kohvik on nimekirjas; see ei ole avatud aastaringselt, seega planeeri selle ümber."
+          "answer": "Võta joogivesi ja toit kaasa. Jõelähtme Vallavalitsuse 04.11.2026 infokiri käsitleb lõunakalda kohviautomaadi jätkamist kolmeks aastaks; see ei kinnita automaadi igapäevast töökorras olekut ega kohviku olemasolu. Söögikohtade lahtiolekut kontrolli otse teenusepakkujalt."
         },
         {
           "question": "Kus on lähim restoran?",
@@ -3021,9 +3477,33 @@
       {
         "name": "Peatus — Eesti marsruutide planeerija",
         "url": "https://peatus.ee/?locale=et"
+      },
+      {
+        "name": "Jõelähtme Vallavalitsus – kohalik juurdepääs ja taristu",
+        "url": "https://www.joelahtme.ee/kontakt"
+      },
+      {
+        "name": "Keskkonnaamet – looduskaitse ja piirangud",
+        "url": "https://keskkonnaamet.ee/keskkonnaamet-uudised-kontakt/uldkontaktid-meie-kontorid"
+      },
+      {
+        "name": "Peatus.ee – kuupäevapõhine ühistranspordi planeerija",
+        "url": "https://peatus.ee/"
+      },
+      {
+        "name": "Eesti Puuetega Inimeste Koda – üldine ligipääsetavusnõu",
+        "url": "https://epikoda.ee/"
+      },
+      {
+        "name": "Visit Harju – Jägala Waterfall: kuivtualett, tasuta parkimine ja infotahvlid",
+        "url": "https://visitharju.ee/en/jagala-waterfall/"
+      },
+      {
+        "name": "Jõelähtme Vallavalitsuse infokiri, 04.11.2026 – lõunakalda kohviautomaat",
+        "url": "https://www.joelahtme.ee/uudised/joelahtme-vallavalitsuse-infokiri-0810-03112026"
       }
     ],
-    "verifiedNote": "Sisu viimati kontrollitud ülaltoodud ametlike turismiallikate põhjal 23. oktoobril 2026. Kohapealsed teenused ja sõidugraafikud muutuvad — palun kinnita enne reisi ja teavita vigadest jaluse kontaktilinkide kaudu."
+    "verifiedNote": "Ohutuse ja praktilise külastusinfo toimetuslik ülevaatus: 09.11.2026. Täpsustussoovitused ja allikaviited esitas Liis Kurm (Visit Harju / Harju Ettevõtlus- ja Arenduskeskus, Harju-, Rapla-, Läänemaa DMO) 03.11.2026 e-kirjas. See on kirjalike materjalide ülevaatus, mitte kohapealne kontroll ega kogu juhendi heakskiit. Radade, teenuste ja ühenduste hetkeseis tuleb eraldi kinnitada."
   },
   "whereToStay": {
     "title": "Kus Jägala joa lähedal ööbida",
@@ -3089,11 +3569,11 @@
   },
   "bestViewpoints": {
     "title": "Parimad vaatepunktid Jägala joal",
-    "intro": "Jägala joal on peamine vaateplatvorm astangu kohal ja mitu looduslikku vaatamisnurka jõe ääres. Teades, kus seisda, saab külastusest parima iga hooajal.",
+    "intro": "Vali avatud, kindla ja kuiva pinnasega vaatamiskoht kaldal ning hoia veest ja astangu servast eemale. Vaateplatvormide, laudteede ja radade praegust seisukorda küsi Jõelähtme Vallavalitsuselt; nende olemasolu või ohutust ei saa selle kirja põhjal kinnitada.",
     "sections": [
       {
-        "heading": "Peamine platvorm",
-        "content": "Märgistatud vaateplatvorm joa kohal on klassikaline, kõige ohutum vaatepunkt – lühike, lame jalutuskäik parklast. See raamib astangu täislaiuse ja alloleva tiigi."
+        "heading": "Vaatamiskoha valimine",
+        "content": "Vali avatud, kindla ja kuiva pinnasega vaatamiskoht kaldal ning hoia veest ja astangu servast eemale. Vaateplatvormide, laudteede ja radade praegust seisukorda küsi Jõelähtme Vallavalitsuselt; nende olemasolu või ohutust ei saa selle kirja põhjal kinnitada."
       },
       {
         "heading": "Jõekaldse nurga alt",
@@ -3101,7 +3581,7 @@
       },
       {
         "heading": "Hooajalised valikud",
-        "content": "Talvel on jäämoodustused parimad platvormilt ja ülemisest kaldast; kevadel kõrge vooluga annab alumine jõekallas dramaatilised pritsmepildid. Vaata meie fotograafia ja hooajalisi juhendeid."
+        "content": "Talvel pildista jäämoodustisi eemalt kuivalt kaldalt; suurvee ajal ära lasku veepiirile pritsmete pildistamiseks. Kasuta suumi ja järgi sulgemismärke."
       }
     ],
     "faq": {
@@ -3109,15 +3589,15 @@
       "items": [
         {
           "question": "Mis on parim vaatepunkt?",
-          "answer": "Peamine märgistatud platvorm joa kohal – ohutu, lihtne ja raamib terve astangu."
+          "answer": "Vali avatud, kindla ja kuiva pinnasega vaatamiskoht kaldal ning hoia veest ja astangu servast eemale. Vaateplatvormide, laudteede ja radade praegust seisukorda küsi Jõelähtme Vallavalitsuselt; nende olemasolu või ohutust ei saa selle kirja põhjal kinnitada."
         },
         {
           "question": "Kas saan alla joa jalge juurde?",
-          "answer": "Joa jalge ei ole turvalist, hooldatud teed; jää märgistatud radadele ja platvormile."
+          "answer": "Ära lasku joa alusele ega lähene libedale veepiirile. Vaata juga avatud ja kindla pinnasega kaldakohast ning järgi kohalikke piiranguid."
         },
         {
           "question": "Kust fotografeerida?",
-          "answer": "Platvormilt laia vaate jaoks; ülemisest kaldast talvise jää jaoks; alumisest jõekaldast (ettevaatlikult) pritsmete jaoks kõrgel veel."
+          "answer": "Vali kuiv ja kindel avatud vaatamiskoht kaldal; kasuta detailide jaoks suumi. Ära mine vette, jääle või astangu servale parema pildi saamiseks."
         },
         {
           "question": "Kas uurimine on ohutu?",
@@ -3145,9 +3625,25 @@
       {
         "name": "Peatus — Eesti marsruutide planeerija",
         "url": "https://peatus.ee/?locale=et"
+      },
+      {
+        "name": "Jõelähtme Vallavalitsus – kohalik juurdepääs ja taristu",
+        "url": "https://www.joelahtme.ee/kontakt"
+      },
+      {
+        "name": "Keskkonnaamet – looduskaitse ja piirangud",
+        "url": "https://keskkonnaamet.ee/keskkonnaamet-uudised-kontakt/uldkontaktid-meie-kontorid"
+      },
+      {
+        "name": "Peatus.ee – kuupäevapõhine ühistranspordi planeerija",
+        "url": "https://peatus.ee/"
+      },
+      {
+        "name": "Eesti Puuetega Inimeste Koda – üldine ligipääsetavusnõu",
+        "url": "https://epikoda.ee/"
       }
     ],
-    "verifiedNote": "Sisu viimati kontrollitud ülaltoodud ametlike turismiallikate põhjal 23. oktoobril 2026. Kohapealsed teenused ja sõidugraafikud muutuvad — palun kinnita enne reisi ja teavita vigadest jaluse kontaktilinkide kaudu."
+    "verifiedNote": "Ohutuse ja praktilise külastusinfo toimetuslik ülevaatus: 09.11.2026. Täpsustussoovitused ja allikaviited esitas Liis Kurm (Visit Harju / Harju Ettevõtlus- ja Arenduskeskus, Harju-, Rapla-, Läänemaa DMO) 03.11.2026 e-kirjas. See on kirjalike materjalide ülevaatus, mitte kohapealne kontroll ega kogu juhendi heakskiit. Radade, teenuste ja ühenduste hetkeseis tuleb eraldi kinnitada."
   },
   "topicLinks": {
     "title": "Planeeri oma külastus",
@@ -3265,7 +3761,7 @@
       },
       {
         "title": "Lastega",
-        "desc": "Lihtsad rajad, platvormid ja piknikud.",
+        "desc": "Lastega vaatlemine, ohutus ja retke planeerimine.",
         "href": "/with-kids"
       },
       {
@@ -3280,7 +3776,7 @@
       },
       {
         "title": "Parimad vaated",
-        "desc": "Platvormid ja nurga joa jaoks.",
+        "desc": "Vaatekoha valimine ning ohutu pildistamine kaldalt.",
         "href": "/best-viewpoints"
       }
     ]

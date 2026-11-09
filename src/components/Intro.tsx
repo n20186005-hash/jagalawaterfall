@@ -5,7 +5,7 @@ export default function Intro() {
   const t = useTranslations('intro');
   const tOff = useTranslations('officialManagement');
   const messages = useMessages() as any;
-  const items: string[] = messages?.intro?.visitGuide?.items || [];
+  const items: (string | { icon: string; text: string })[] = messages?.intro?.visitGuide?.items || [];
   const alsoKnownAsItems: string[] = messages?.intro?.alsoKnownAs?.items || [];
 
   return (
@@ -49,7 +49,7 @@ export default function Intro() {
                 <li key={i} className="flex items-start gap-3">
                   <span className="mt-1.5 flex-shrink-0 w-1.5 h-1.5 rounded-full" style={{ background: 'var(--accent)' }} />
                   <span style={{ color: 'var(--text-secondary)' }}>
-                    <RichInline text={item} />
+                    <RichInline text={typeof item === 'string' ? item : item.text} />
                   </span>
                 </li>
               ))}

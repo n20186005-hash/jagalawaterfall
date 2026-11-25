@@ -176,7 +176,7 @@
       {
         "icon": "🍽️",
         "title": "Food & drink",
-        "text": "A Jõelähtme Parish newsletter dated 4 November 2026 reports continuation of a coffee vending machine on the south bank. This is not confirmation of a staffed café, meals or drinking-water refills. Bring water and snacks and check availability locally."
+        "text": "Visit Harju lists a visitor information café on the north bank at Põhjakalda tee 7, Jägala-Joa. Check the café’s current hours and service before travelling. A 4 November 2026 Jõelähtme Parish newsletter lists a separate south-bank coffee vending machine; check whether it is operating on site. Bring drinking water and snacks."
       },
       {
         "icon": "♻️",
@@ -1056,7 +1056,7 @@
       },
       {
         "heading": "Food, drink & supplies",
-        "content": "A Jõelähtme Parish newsletter dated 4 November 2026 reports continuation of a coffee vending machine on the south bank. This is not confirmation of a staffed café, meals or drinking-water refills. Bring water and snacks and check availability locally."
+        "content": "Visit Harju lists a visitor information café on the north bank at Põhjakalda tee 7, Jägala-Joa. Check the café’s current hours and service before travelling. A 4 November 2026 Jõelähtme Parish newsletter lists a separate south-bank coffee vending machine; check whether it is operating on site. Bring drinking water and snacks."
       },
       {
         "heading": "Accessibility of facilities",
@@ -1080,7 +1080,7 @@
         },
         {
           "question": "Is there a café or shop?",
-          "answer": "A Jõelähtme Parish newsletter dated 4 November 2026 reports continuation of a coffee vending machine on the south bank. This is not confirmation of a staffed café, meals or drinking-water refills. Bring water and snacks and check availability locally."
+          "answer": "Visit Harju lists the north-bank information café at Põhjakalda tee 7, Jägala-Joa. Check current hours and service before visiting. The south-bank coffee vending machine is separate; its operation is not guaranteed."
         },
         {
           "question": "Is parking free and is it the facility?",
@@ -1111,6 +1111,10 @@
       {
         "name": "Jõelähtme Parish — 4 November 2026 newsletter",
         "url": "https://www.joelahtme.ee/uudised/joelahtme-vallavalitsuse-infokiri-0810-03112026"
+      },
+      {
+        "name": "Visit Harju — Jägala Waterfall information café (north bank)",
+        "url": "https://visitharju.ee/jagala-joa-infokohvik/"
       }
     ],
     "verifiedNote": "Safety, facilities, accessibility and transport wording reviewed on 9 November 2026 using the linked sources and the 3 November 2026 email from Liis Kurm, Visit Harju / Harju Ettevõtlus- ja Arenduskeskus (Harju-, Rapla-, Läänemaa DMO). This is a document review, not an on-site inspection or endorsement. Confirm current local conditions before travel."
@@ -3069,11 +3073,11 @@
   },
   "restaurantsNearby": {
     "title": "Restaurants & Cafés Near Jägala Waterfall",
-    "intro": "A Jõelähtme Parish newsletter dated 4 November 2026 reports continuation of a coffee vending machine on the south bank. This is not confirmation of a staffed café, meals or drinking-water refills. Bring water and snacks and check availability locally.",
+    "intro": "Visit Harju lists a visitor information café on the north bank. Check current service before planning a refreshment stop, and bring water and snacks.",
     "sections": [
       {
         "heading": "Refreshments at the waterfall",
-        "content": "A Jõelähtme Parish newsletter dated 4 November 2026 reports continuation of a coffee vending machine on the south bank. This is not confirmation of a staffed café, meals or drinking-water refills. Bring water and snacks and check availability locally."
+        "content": "Visit Harju lists a visitor information café on the north bank at Põhjakalda tee 7, Jägala-Joa. Check the café’s current hours and service before travelling. A 4 November 2026 Jõelähtme Parish newsletter lists a separate south-bank coffee vending machine; check whether it is operating on site. Bring drinking water and snacks."
       },
       {
         "heading": "Within a short drive",
@@ -3089,7 +3093,7 @@
       "items": [
         {
           "question": "Is there food at the waterfall?",
-          "answer": "A Jõelähtme Parish newsletter dated 4 November 2026 reports continuation of a coffee vending machine on the south bank. This is not confirmation of a staffed café, meals or drinking-water refills. Bring water and snacks and check availability locally."
+          "answer": "Visit Harju lists the north-bank information café at Põhjakalda tee 7, Jägala-Joa. Check current hours and service before visiting. The south-bank coffee vending machine is separate; its operation is not guaranteed."
         },
         {
           "question": "Where is the nearest restaurant?",
@@ -3125,6 +3129,10 @@
       {
         "name": "Jõelähtme Parish — 4 November 2026 newsletter",
         "url": "https://www.joelahtme.ee/uudised/joelahtme-vallavalitsuse-infokiri-0810-03112026"
+      },
+      {
+        "name": "Visit Harju — Jägala Waterfall information café (north bank)",
+        "url": "https://visitharju.ee/jagala-joa-infokohvik/"
       }
     ],
     "verifiedNote": "Safety, facilities, accessibility and transport wording reviewed on 9 November 2026 using the linked sources and the 3 November 2026 email from Liis Kurm, Visit Harju / Harju Ettevõtlus- ja Arenduskeskus (Harju-, Rapla-, Läänemaa DMO). This is a document review, not an on-site inspection or endorsement. Confirm current local conditions before travel."

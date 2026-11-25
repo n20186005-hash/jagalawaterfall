@@ -176,7 +176,7 @@
       {
         "icon": "🍽️",
         "title": "餐饮",
-        "text": "Jõelähtme 乡政府 2026 年 11 月 4 日的信息提及南岸咖啡自动售货机继续设置。实际运行请现场确认，不应据此推断设有咖啡馆或正餐服务；自备饮水与零食。"
+        "text": "Visit Harju 列明，瀑布北岸的游客咨询咖啡馆位于 Jägala-Joa 村 Põhjakalda tee 7。出发前请查看最新营业时间及服务。Jõelähtme 乡政府 2026 年 11 月 4 日的简讯另提到南岸咖啡自动售货机，设备是否运行请以现场为准。建议自备饮水和零食。"
       },
       {
         "icon": "♻️",
@@ -1136,7 +1136,7 @@
       },
       {
         "heading": "餐饮与补给",
-        "content": "Jõelähtme 乡政府 2026 年 11 月 4 日的信息提及南岸咖啡自动售货机继续设置，但这不是咖啡馆或餐厅的营业证明。设备能否使用以现场为准，自备饮水与食物更稳妥。"
+        "content": "Visit Harju 列明，瀑布北岸的游客咨询咖啡馆位于 Jägala-Joa 村 Põhjakalda tee 7。出发前请查看最新营业时间及服务。Jõelähtme 乡政府 2026 年 11 月 4 日的简讯另提到南岸咖啡自动售货机，设备是否运行请以现场为准。建议自备饮水和零食。"
       },
       {
         "heading": "设施可达性",
@@ -1160,7 +1160,7 @@
         },
         {
           "question": "有咖啡馆或商店吗？",
-          "answer": "乡政府信息提及南岸咖啡自动售货机，未据此确认咖啡馆、商店或正餐服务。建议自备补给，营业和设备情况另行确认。"
+          "answer": "Visit Harju 列明北岸游客咨询咖啡馆位于 Jägala-Joa 村 Põhjakalda tee 7。到访前请核实最新营业时间与服务。南岸咖啡自动售货机是另一设施，不保证运行。"
         },
         {
           "question": "停车免费吗？设施有哪些？",
@@ -1207,6 +1207,10 @@
       {
         "name": "Jõelähtme 乡政府 2026-11-04 信息（南岸咖啡自动售货机）",
         "url": "https://www.joelahtme.ee/uudised/joelahtme-vallavalitsuse-infokiri-0810-03112026"
+      },
+      {
+        "name": "Visit Harju — Jägala 瀑布北岸游客咨询咖啡馆",
+        "url": "https://visitharju.ee/jagala-joa-infokohvik/"
       }
     ],
     "verifiedNote": "资料与修订建议由 Visit Harju 的 Liis Kurm（Harju Ettevõtlus- ja Arenduskeskus；Harju-, Rapla-, Läänemaa DMO）于 2026-11-03 来信提供。编辑资料核对日期：2026-11-09；并非现场勘察日期，也不代表对全站内容的认可。具体路线、设施可用性及交通仍需按出行日期确认。"
@@ -3597,11 +3601,11 @@
   },
   "restaurantsNearby": {
     "title": "贾加拉瀑布附近的餐厅与咖啡馆",
-    "intro": "不要把瀑布附近一定有咖啡馆或正餐服务作为行程前提。乡政府信息提及南岸咖啡自动售货机，餐厅选择和营业时间仍应单独确认。",
+    "intro": "Visit Harju 列明瀑布北岸设有游客咨询咖啡馆。计划在此补给前请核实最新服务，建议自备饮水和零食。",
     "sections": [
       {
         "heading": "现场",
-        "content": "Jõelähtme 乡政府 2026 年 11 月 4 日的信息提及南岸咖啡自动售货机继续设置。这不证明设有咖啡馆、餐厅或售货机全天运行；请自备基本补给。"
+        "content": "Visit Harju 列明，瀑布北岸的游客咨询咖啡馆位于 Jägala-Joa 村 Põhjakalda tee 7。出发前请查看最新营业时间及服务。Jõelähtme 乡政府 2026 年 11 月 4 日的简讯另提到南岸咖啡自动售货机，设备是否运行请以现场为准。建议自备饮水和零食。"
       },
       {
         "heading": "短驱范围内",
@@ -3617,7 +3621,7 @@
       "items": [
         {
           "question": "瀑布处有吃的吗？",
-          "answer": "本次未确认现场咖啡馆。乡政府提及南岸咖啡自动售货机，但运行情况需现场确认。"
+          "answer": "Visit Harju 列明北岸游客咨询咖啡馆位于 Jägala-Joa 村 Põhjakalda tee 7。到访前请核实最新营业时间与服务。南岸咖啡自动售货机是另一设施，不保证运行。"
         },
         {
           "question": "最近的餐厅在哪？",
@@ -3677,6 +3681,10 @@
       {
         "name": "Jõelähtme 乡政府 2026-11-04 信息（南岸咖啡自动售货机）",
         "url": "https://www.joelahtme.ee/uudised/joelahtme-vallavalitsuse-infokiri-0810-03112026"
+      },
+      {
+        "name": "Visit Harju — Jägala 瀑布北岸游客咨询咖啡馆",
+        "url": "https://visitharju.ee/jagala-joa-infokohvik/"
       }
     ],
     "verifiedNote": "资料与修订建议由 Visit Harju 的 Liis Kurm（Harju Ettevõtlus- ja Arenduskeskus；Harju-, Rapla-, Läänemaa DMO）于 2026-11-03 来信提供。编辑资料核对日期：2026-11-09；并非现场勘察日期，也不代表对全站内容的认可。具体路线、设施可用性及交通仍需按出行日期确认。"

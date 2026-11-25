@@ -176,7 +176,7 @@
       {
         "icon": "🍽️",
         "title": "Toit ja jook",
-        "text": "Võta joogivesi ja toit kaasa. Jõelähtme Vallavalitsuse 04.11.2026 infokiri käsitleb lõunakalda kohviautomaadi jätkamist kolmeks aastaks; see ei kinnita automaadi igapäevast töökorras olekut ega kohviku olemasolu. Söögikohtade lahtiolekut kontrolli otse teenusepakkujalt."
+        "text": "Visit Harju andmetel asub põhjakaldal aadressil Põhjakalda tee 7, Jägala-Joa, Jägala joa infokohvik. Enne sõitu kontrolli kohviku lahtiolekuaegu ja teenuste kättesaadavust. Jõelähtme Vallavalitsuse 4. novembri 2026. aasta infokiri mainib eraldi lõunakalda kohviautomaati; selle töötamist kontrolli kohapeal. Võta joogivesi ja suupisted kaasa."
       },
       {
         "icon": "♻️",
@@ -1084,7 +1084,7 @@
       },
       {
         "heading": "Toit, jook ja tarbed",
-        "content": "Võta joogivesi ja toit kaasa. Jõelähtme Vallavalitsuse 04.11.2026 infokiri käsitleb lõunakalda kohviautomaadi jätkamist kolmeks aastaks; see ei kinnita automaadi igapäevast töökorras olekut ega kohviku olemasolu. Söögikohtade lahtiolekut kontrolli otse teenusepakkujalt."
+        "content": "Visit Harju andmetel asub põhjakaldal aadressil Põhjakalda tee 7, Jägala-Joa, Jägala joa infokohvik. Enne sõitu kontrolli kohviku lahtiolekuaegu ja teenuste kättesaadavust. Jõelähtme Vallavalitsuse 4. novembri 2026. aasta infokiri mainib eraldi lõunakalda kohviautomaati; selle töötamist kontrolli kohapeal. Võta joogivesi ja suupisted kaasa."
       },
       {
         "heading": "Teenuste ligipääsetavus",
@@ -1108,7 +1108,7 @@
         },
         {
           "question": "Kas on kohvik või pood?",
-          "answer": "Võta joogivesi ja toit kaasa. Jõelähtme Vallavalitsuse 04.11.2026 infokiri käsitleb lõunakalda kohviautomaadi jätkamist kolmeks aastaks; see ei kinnita automaadi igapäevast töökorras olekut ega kohviku olemasolu. Söögikohtade lahtiolekut kontrolli otse teenusepakkujalt."
+          "answer": "Visit Harju andmetel asub põhjakalda infokohvik aadressil Põhjakalda tee 7, Jägala-Joa. Kontrolli enne külastust lahtiolekuaegu ja teenuste kättesaadavust. Lõunakalda kohviautomaat on eraldi ja selle töötamine pole tagatud."
         },
         {
           "question": "Kas parkimine on tasuta ja kas see on teenus?",
@@ -1155,6 +1155,10 @@
       {
         "name": "Jõelähtme Vallavalitsuse infokiri, 04.11.2026 – lõunakalda kohviautomaat",
         "url": "https://www.joelahtme.ee/uudised/joelahtme-vallavalitsuse-infokiri-0810-03112026"
+      },
+      {
+        "name": "Visit Harju – Jägala joa infokohvik (põhjakallas)",
+        "url": "https://visitharju.ee/jagala-joa-infokohvik/"
       }
     ],
     "verifiedNote": "Ohutuse ja praktilise külastusinfo toimetuslik ülevaatus: 09.11.2026. Täpsustussoovitused ja allikaviited esitas Liis Kurm (Visit Harju / Harju Ettevõtlus- ja Arenduskeskus, Harju-, Rapla-, Läänemaa DMO) 03.11.2026 e-kirjas. See on kirjalike materjalide ülevaatus, mitte kohapealne kontroll ega kogu juhendi heakskiit. Radade, teenuste ja ühenduste hetkeseis tuleb eraldi kinnitada."
@@ -3421,11 +3425,11 @@
   },
   "restaurantsNearby": {
     "title": "Restoranid ja kohvikud Jägala joa lähedal",
-    "intro": "Planeeri söögipeatus ette ning võta joa külastuseks toit ja joogivesi kaasa. Kohapealse toitlustuse olemasolu ega lahtiolekut ei ole kinnitatud.",
+    "intro": "Visit Harju andmetel asub põhjakaldal Jägala joa infokohvik. Enne peatuse kavandamist kontrolli, millised teenused on saadaval, ning võta joogivesi ja suupisted kaasa.",
     "sections": [
       {
         "heading": "Kohapeal",
-        "content": "Võta joogivesi ja toit kaasa. Jõelähtme Vallavalitsuse 04.11.2026 infokiri käsitleb lõunakalda kohviautomaadi jätkamist kolmeks aastaks; see ei kinnita automaadi igapäevast töökorras olekut ega kohviku olemasolu. Söögikohtade lahtiolekut kontrolli otse teenusepakkujalt."
+        "content": "Visit Harju andmetel asub põhjakaldal aadressil Põhjakalda tee 7, Jägala-Joa, Jägala joa infokohvik. Enne sõitu kontrolli kohviku lahtiolekuaegu ja teenuste kättesaadavust. Jõelähtme Vallavalitsuse 4. novembri 2026. aasta infokiri mainib eraldi lõunakalda kohviautomaati; selle töötamist kontrolli kohapeal. Võta joogivesi ja suupisted kaasa."
       },
       {
         "heading": "Lühikese sõidu kaugusel",
@@ -3441,7 +3445,7 @@
       "items": [
         {
           "question": "Kas joal on toitu?",
-          "answer": "Võta joogivesi ja toit kaasa. Jõelähtme Vallavalitsuse 04.11.2026 infokiri käsitleb lõunakalda kohviautomaadi jätkamist kolmeks aastaks; see ei kinnita automaadi igapäevast töökorras olekut ega kohviku olemasolu. Söögikohtade lahtiolekut kontrolli otse teenusepakkujalt."
+          "answer": "Visit Harju andmetel asub põhjakalda infokohvik aadressil Põhjakalda tee 7, Jägala-Joa. Kontrolli enne külastust lahtiolekuaegu ja teenuste kättesaadavust. Lõunakalda kohviautomaat on eraldi ja selle töötamine pole tagatud."
         },
         {
           "question": "Kus on lähim restoran?",
@@ -3501,6 +3505,10 @@
       {
         "name": "Jõelähtme Vallavalitsuse infokiri, 04.11.2026 – lõunakalda kohviautomaat",
         "url": "https://www.joelahtme.ee/uudised/joelahtme-vallavalitsuse-infokiri-0810-03112026"
+      },
+      {
+        "name": "Visit Harju – Jägala joa infokohvik (põhjakallas)",
+        "url": "https://visitharju.ee/jagala-joa-infokohvik/"
       }
     ],
     "verifiedNote": "Ohutuse ja praktilise külastusinfo toimetuslik ülevaatus: 09.11.2026. Täpsustussoovitused ja allikaviited esitas Liis Kurm (Visit Harju / Harju Ettevõtlus- ja Arenduskeskus, Harju-, Rapla-, Läänemaa DMO) 03.11.2026 e-kirjas. See on kirjalike materjalide ülevaatus, mitte kohapealne kontroll ega kogu juhendi heakskiit. Radade, teenuste ja ühenduste hetkeseis tuleb eraldi kinnitada."
